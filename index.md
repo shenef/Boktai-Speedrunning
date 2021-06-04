@@ -1,0 +1,2 @@
+- [Purifications](https://shenef.github.io/Boktai-Speedrunning/Purifications)
+- [Hel Phase 1](https://shenef.github.io/Boktai-Speedrunning/HelPhase1)
