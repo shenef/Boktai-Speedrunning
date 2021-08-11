@@ -69,7 +69,7 @@ local function main()
   spdY = math.abs(posY - posYprev)
   spdZ = math.abs(posZ - posZprev)
   spd3D = math.sqrt(spdX * spdX + spdY * spdY + spdZ * spdZ)
-  
+
   displayText()
 end
 
