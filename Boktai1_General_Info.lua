@@ -17,8 +17,9 @@ console.log("Default window size: 5x, you can change it by changing the \"scale\
 
 -- create function to calculate a rolling average | 1-index
 local function buffer_average(value, buffer, size)
+  if value > 255 then value = 16 end -- limit speed to 255 to prevent room transitions from skewing the average
   table.insert(buffer, 1, value) -- Insert the new value in the buffer table
-  if #buffer == size then buffer[size] = nil end -- Chop last value in buffer if buffer limit size is reached 
+  if #buffer == size then buffer[size] = nil end -- Chop last value in buffer if buffer limit size is reached
   local average = 0
   for i = 1, #buffer do  -- Calculate average
     average = average + buffer[i] / #buffer
