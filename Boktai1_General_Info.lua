@@ -15,6 +15,11 @@ local scale = 1.25 -- set UI scaling | 4x = 0.997 | 5x = 1.25 | 6x = 1.5
 local speed_buffer = {} -- prepare table for calculating the speed average
 console.log("Default window size: 5x, you can change it by changing the \"scale\" variable\n") -- warning about window scaling
 
+function round(num, numDecimalPlaces)
+  local mult = 10^(numDecimalPlaces or 0)
+  return math.floor(num * mult + 0.5) / mult
+end
+
 -- create function to calculate a rolling average | 1-index
 local function buffer_average(value, buffer, size)
   if value > 255 then value = 16 end -- limit speed to 255 to prevent room transitions from skewing the average
@@ -29,8 +34,8 @@ end
 
 -- display data on screen
 local function displayText()
-  gui.text(445 * scale, 400 * scale, "spd:" .. math.floor(spd3D * 1000) / 1000)
-  gui.text(445 * scale, 415 * scale, "avg:" .. math.floor(buffer_average(spd3D, speed_buffer, 60) * 1000) / 1000)
+  gui.text(445 * scale, 400 * scale, "spd:" .. round(spd3D, 3))
+  gui.text(445 * scale, 415 * scale, "avg:" .. round(buffer_average(spd3D, speed_buffer, 60), 3))
   gui.text(105 * scale, 42 * scale, "HP:" .. PlayerHP)
   gui.text(550 * scale, 42 * scale, "BossHP:" .. BossHP)
   gui.text(693 * scale, 618 * scale, quintBattery)
