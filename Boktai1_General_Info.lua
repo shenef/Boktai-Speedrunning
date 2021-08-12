@@ -34,23 +34,16 @@ end
 
 -- display data on screen
 local function displayText()
-  gui.text(445 * scale, 400 * scale, "spd:" .. round(spd3D, 3))
-  gui.text(445 * scale, 415 * scale, "avg:" .. round(buffer_average(spd3D, speed_buffer, 60), 3))
   gui.text(105 * scale, 42 * scale, "HP:" .. PlayerHP)
   gui.text(550 * scale, 42 * scale, "BossHP:" .. BossHP)
-  gui.text(693 * scale, 618 * scale, quintBattery)
-  gui.text(781 * scale, 618 * scale, quadBattery)
-  gui.text(846 * scale, 618 * scale, tripleBattery)
-  gui.text(888 * scale, 618 * scale, dualBattery)
-  gui.text(619 * scale, 557 * scale, singleBattery)
+  gui.text(445 * scale, 400 * scale, "spd:" .. round(spd3D, 3))
+  gui.text(445 * scale, 415 * scale, "avg:" .. round(buffer_average(spd3D, speed_buffer, 60), 3))
+  gui.text(690 * scale, 618 * scale, quintBattery)
+  gui.text(752 * scale, 618 * scale, quadBattery)
+  gui.text(818 * scale, 618 * scale, tripleBattery)
+  gui.text(882 * scale, 618 * scale, dualBattery)
+  gui.text(619 * scale, 556 * scale, singleBattery)
 end
-
--- at end of frame, set the new default coordinates to compare to
-event.onframeend(function()
-  posXprev = posX
-  posYprev = posY
-  posZprev = posZ
-end)
 
 -- main loop
 local function main()
@@ -74,10 +67,17 @@ local function main()
   spdX = math.abs(posX - posXprev)
   spdY = math.abs(posY - posYprev)
   spdZ = math.abs(posZ - posZprev)
-  spd3D = math.sqrt(spdX * spdX + spdY * spdY + spdZ * spdZ)
+  spd3D = math.sqrt(spdX^2 + spdY^2 + spdZ^2)
 
   displayText()
 end
+
+-- at end of frame, set the new default coordinates to compare to
+event.onframeend(function()
+  posXprev = posX
+  posYprev = posY
+  posZprev = posZ
+end)
 
 -- once everything is done, let the emu advance a frame
 while true do
