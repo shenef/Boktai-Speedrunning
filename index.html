@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css">
     <script src="https://kit.fontawesome.com/862c8f61fa.js" crossorigin="anonymous"></script>
   </head>
-  <body>
+  <body onload="calc_HP_refill()">
     <nav class="navbar" role="navigation" aria-label="main navigation">
       <div class="navbar-brand">
         <a class="navbar-item" href="https://github.com/shenef/Boktai-Speedrunning">
@@ -158,16 +158,67 @@
         <div class="card block">
           <header class="card-header">
             <p class="card-header-title">
-              Auto HP refill Calculator
+              Automatic HP refill Calculator
             </p>
             <button class="card-header-icon card-toggle" aria-label="more options">
               <span class="icon"><i class="fas fa-angle-down" aria-hidden="true"></i></span>
             </button>
           </header>
           <div class="card-content">
-            <div class="content">
-              Work in Progress
+
+            <div class="field is-horizontal">
+              <div class="field-label is-normal">
+                <label class="label">Starting HP</label>
+              </div>
+              <div class="field-body">
+                <div class="field">
+                  <p class="control">
+                    <input class="input" type="number" id="currentHP" value="1000" onchange="calc_HP_refill()">
+                  </p>
+                </div>
+              </div>
             </div>
+
+            <div class="field is-horizontal">
+              <div class="field-label is-normal">
+                <label class="label">Max. HP</label>
+              </div>
+              <div class="field-body">
+                <div class="field">
+                  <p class="control">
+                    <input class="input" type="number" id="maxHP" value="5000" onchange="calc_HP_refill()">
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <div class="field is-horizontal">
+              <div class="field-label is-normal">
+                <label class="label">Frames until full HP</label>
+              </div>
+              <div class="field-body">
+                <div class="field">
+                  <p class="control">
+                    <input class="input is-static" id="ftmhp">
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <p>
+              When Automatic HP refill is active the game refills 50 HP every Frame. <br>
+              You start the game with 5000 HP and Life Fruits increase your HP in 1000 HP increments up to a maximum of 9000 HP.<br>
+              Automatic HP refill usually happens after Bossfights, Purifications or Traps.
+            </p>
+
+            <script type="text/javascript">
+              function calc_HP_refill() {
+                let currentHP = document.getElementById('currentHP').value;
+                let maxHP = document.getElementById('maxHP').value;
+                let ftmhp = Math.floor((maxHP - currentHP) / 50) //ftmhp = frames till max HP
+                document.getElementById('ftmhp').value = ftmhp;
+              }
+            </script>
           </div>
         </div>
 
