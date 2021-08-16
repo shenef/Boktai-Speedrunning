@@ -11,24 +11,45 @@ local addr_posY = 0x03D8F4
 local addr_posZ = 0x03D8F2
 
 local posXprev, posYprev, posZprev = 0, 0, 0 -- set default coordinates
+local BossHPprev = 0 -- set default BossHP
 local scale = 1.25 -- set UI scaling | 4x = 0.997 | 5x = 1.25 | 6x = 1.5
-local speed_buffer = {} -- prepare table for calculating the speed average
-console.log("Default window size: 5x, you can change it by changing the \"scale\" variable\n") -- warning about window scaling
+local speed_buffer = {} -- table for calculating the speed average
+local BossHP_buffer = {} -- table for calculating the dps
+console.log("Default window size: 5x, you can change it by changing the \"scale\" variable\n")
 
 function round(num, numDecimalPlaces)
   local mult = 10^(numDecimalPlaces or 0)
   return math.floor(num * mult + 0.5) / mult
 end
 
--- create function to calculate a rolling average | 1-index
-local function buffer_average(value, buffer, size)
-  if value > 255 then value = 16 end -- limit speed to 255 to prevent room transitions from skewing the average
+-- function to calculate the average speed | 1-index
+local function calc_speed_avg(value, buffer, size)
+  if value > 255 then value = 16 end -- limit speed to prevent room transitions from skewing the average
   table.insert(buffer, 1, value) -- Insert the new value in the buffer table
-  if #buffer == size then buffer[size] = nil end -- Chop last value in buffer if buffer limit size is reached
+  if #buffer == size then buffer[size] = nil end -- If buffer limit is reached chop last value
   local average = 0
   for i = 1, #buffer do  -- Calculate average
     average = average + buffer[i] / #buffer
   end
+  return average -- Return the value to be used later as you want, such as display
+end
+
+-- function to calculate the damage per second | 1-index
+local function calc_dps(value, buffer)
+  table.insert(buffer, 1, value) -- Insert the new value in the buffer table
+  if #buffer == 60 then buffer[60] = nil end -- If buffer limit is reached remove last value
+  -- check how many non-zero damage values are in the buffer:
+  numofattacks = 0
+  for k, v in pairs(buffer) do
+    if v > 0 then
+      numofattacks = numofattacks + 1
+    end
+  end
+  local average = 0
+  for i = 1, #buffer do  -- Calculate average
+    average = average + buffer[i] / numofattacks
+  end
+  if average ~= average then average = 0 end -- if NaN then make it 0
   return average -- Return the value to be used later as you want, such as display
 end
 
@@ -37,7 +58,8 @@ local function displayText()
   gui.text(105 * scale, 42 * scale, "HP:" .. PlayerHP)
   gui.text(550 * scale, 42 * scale, "BossHP:" .. BossHP)
   gui.text(445 * scale, 400 * scale, "spd:" .. round(spd3D, 3))
-  gui.text(445 * scale, 415 * scale, "avg:" .. round(buffer_average(spd3D, speed_buffer, 60), 3))
+  gui.text(445 * scale, 415 * scale, "avg:" .. round(calc_speed_avg(spd3D, speed_buffer, 61), 3))
+  gui.text(445 * scale, 430 * scale, numofattacks .. "|" .. round(calc_dps(damage, BossHP_buffer), 3) .. " dps")
   gui.text(690 * scale, 618 * scale, quintBattery)
   gui.text(752 * scale, 618 * scale, quadBattery)
   gui.text(818 * scale, 618 * scale, tripleBattery)
@@ -50,6 +72,8 @@ local function main()
   -- read HP values from memory
   PlayerHP = memory.read_u16_le(addr_PlayerHP, "EWRAM")
   BossHP = memory.read_u16_le(addr_BossHP, "EWRAM")
+
+  damage = BossHPprev - BossHP
 
   -- read Battery values from memory
   quintBattery = memory.read_u16_le(addr_quintBattery, "EWRAM")
@@ -77,6 +101,7 @@ event.onframeend(function()
   posXprev = posX
   posYprev = posY
   posZprev = posZ
+  BossHPprev = BossHP
 end)
 
 -- once everything is done, let the emu advance a frame
