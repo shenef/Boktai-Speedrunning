@@ -6,8 +6,10 @@
     <title>Boktai Speedrunning Knowledge Database</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css">
     <script src="https://kit.fontawesome.com/862c8f61fa.js" crossorigin="anonymous"></script>
+    <script src="/Boktai-Speedrunning/DungeonRanking.js"></script>
+    <!-- <script src="DungeonRanking.js"></script> -->
   </head>
-  <body onload="calc_HP_refill()">
+  <body onload="calc_HP_refill(); calc_dungeonRank(); findDungeonBaseScore();">
     <nav class="navbar" role="navigation" aria-label="main navigation">
       <div class="navbar-brand">
         <a class="navbar-item" href="https://github.com/shenef/Boktai-Speedrunning">
@@ -151,6 +153,33 @@
           <div class="card-content">
             <div class="content">
               Work in Progress
+
+              <div class="field is-horizontal">
+                <div class="field-label is-normal">
+                  <label class="label">Dungeon Score</label>
+                </div>
+                <div class="field-body">
+                  <div class="field">
+                    <p class="control">
+                      <input class="input" type="number" id="dungeonScore" value="1000" onchange="calc_dungeonRank();">
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="field is-horizontal">
+                <div class="field-label is-normal">
+                  <label class="label">Dungeon Rank</label>
+                </div>
+                <div class="field-body">
+                  <div class="field">
+                    <p class="control">
+                      <input class="input is-static" id="dungeonRank">
+                    </p>
+                  </div>
+                </div>
+              </div>
+
             </div>
           </div>
         </div>
@@ -194,7 +223,7 @@
 
             <div class="field is-horizontal">
               <div class="field-label is-normal">
-                <label class="label">Frames until full HP</label>
+                <label class="label">Frames until max. HP</label>
               </div>
               <div class="field-body">
                 <div class="field">
@@ -220,6 +249,17 @@
               }
             </script>
           </div>
+        </div>
+
+        <h2 class="title is-2">Scripts</h2>
+
+        <div class="content">
+          <ul>
+            <li>General Info:
+              <a href="https://raw.githubusercontent.com/shenef/Boktai-Speedrunning/main/Boktai1_General_Info.lua">https://raw.githubusercontent.com/shenef/Boktai-Speedrunning/main/Boktai1_General_Info.lua</a><br>
+              Shows info on screen. Player and Boss HP, current and average speed, damage per second and energy charge per battery.
+            </li>
+          </ul>
         </div>
 
       </div>
