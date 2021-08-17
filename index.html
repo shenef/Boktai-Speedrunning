@@ -9,7 +9,7 @@
     <script src="/Boktai-Speedrunning/DungeonRanking.js"></script>
     <!-- <script src="DungeonRanking.js"></script> -->
   </head>
-  <body onload="calc_HP_refill(); get_dungeonRank(); get_dungeonBaseScore();">
+  <body onload="calc_HP_refill(); get_selectedDungeon(); get_dungeonBaseScore(); get_dungeonScore(); get_dungeonRank();">
     <nav class="navbar" role="navigation" aria-label="main navigation">
       <div class="navbar-brand">
         <a class="navbar-item" href="https://github.com/shenef/Boktai-Speedrunning">
@@ -157,12 +157,96 @@
 
               <div class="field is-horizontal">
                 <div class="field-label is-normal">
+                  <label class="label">Dungeon</label>
+                </div>
+                <div class="field-body">
+                  <div class="field is-narrow">
+                    <div class="control">
+                      <div class="select is-fullwidth">
+                        <div class="select">
+                          <select id="selected_dungeon" onchange="get_selectedDungeon(); get_dungeonBaseScore(); get_dungeonScore(); get_dungeonRank();">
+                            <option>Crumbling Mine</option>
+                            <option>Gate of the Dead</option>
+                            <option>Ruined Cemetery</option>
+                            <option>Small Cave</option>
+                            <option>Ancient Forest</option>
+                            <option>Catacomb</option>
+                            <option>Stairs of Trial</option>
+                            <option>Delusion Forest</option>
+                            <option>House of Darkness</option>
+                            <option>Permafrost</option>
+                            <option>Fog Castle</option>
+                            <option>Bloodrust Mansion</option>
+                            <option>Sol City</option>
+                            <option>Firetop Mountain</option>
+                          </select>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="field is-horizontal">
+                <div class="field-label is-normal">
+                  <label class="label">Time (seconds)</label>
+                </div>
+                <div class="field-body">
+                  <div class="field">
+                    <div class="control">
+                      <input class="input" id="dungeonTime" type="number" value="90" onchange="get_dungeonScore(); get_dungeonRank();">
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="field is-horizontal">
+                <div class="field-label is-normal">
+                  <label class="label">Found</label>
+                </div>
+                <div class="field-body">
+                  <div class="field">
+                    <div class="control">
+                      <input class="input" id="dungeonFound" type="number" value="0" onchange="get_dungeonScore(); get_dungeonRank();">
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="field is-horizontal">
+                <div class="field-label is-normal">
+                  <label class="label">Continues</label>
+                </div>
+                <div class="field-body">
+                  <div class="field">
+                    <div class="control">
+                      <input class="input" id="dungeonContinues" type="number" value="0" onchange="get_dungeonScore(); get_dungeonRank();">
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="field is-horizontal">
+                <div class="field-label is-normal">
+                  <label class="label">Charged</label>
+                </div>
+                <div class="field-body">
+                  <div class="field">
+                    <div class="control">
+                      <input class="input" id="dungeonCharged" type="number" value="0" onchange="get_dungeonScore(); get_dungeonRank();">
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="field is-horizontal">
+                <div class="field-label is-normal">
                   <label class="label">Dungeon Score</label>
                 </div>
                 <div class="field-body">
                   <div class="field">
                     <p class="control">
-                      <input class="input" type="number" id="dungeonScore" value="1000" onchange="get_dungeonRank();">
+                      <input class="input is-static" id="dungeonScore" onchange="get_dungeonRank();">
                     </p>
                   </div>
                 </div>
