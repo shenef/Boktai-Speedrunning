@@ -22,47 +22,23 @@ const dungeons = [
   ["Firetop Mountain", 1500],
 ];
 
-function findDungeonBaseScore() {
-  dungeonIndex = dungeons.map(x => x[0]).indexOf("Ruined Cemetery");
+function get_dungeonBaseScore() {
+  dungeonIndex = dungeons.findIndex(dungeon => dungeon[0] == "Ruined Cemetery")
   baseScore = dungeons[dungeonIndex][1];
   return baseScore;
 }
 
-function calc_dungeonRank(dungeonScore) {
+function get_dungeonRank(dungeonScore) {
   var dungeonScore = document.getElementById('dungeonScore').value;
-  if (dungeonScore >= 1000) {
-    rank = "S";
-  }
-  else if (dungeonScore <= 999 && dungeonScore >= 950) {
-    rank = "A+";
-  }
-  else if (dungeonScore <= 949 && dungeonScore >= 900) {
-    rank = "A";
-  }
-  else if (dungeonScore <= 899 && dungeonScore >= 800) {
-    rank = "A-";
-  }
-  else if (dungeonScore <= 799 && dungeonScore >= 700) {
-    rank = "B+";
-  }
-  else if (dungeonScore <= 699 && dungeonScore >= 600) {
-    rank = "B";
-  }
-  else if (dungeonScore <= 599 && dungeonScore >= 500) {
-    rank = "B-";
-  }
-  else if (dungeonScore <= 499 && dungeonScore >= 300) {
-    rank = "C+";
-  }
-  else if (dungeonScore <= 299 && dungeonScore >= 100) {
-    rank = "C";
-  }
-  else if (dungeonScore <= 99 && dungeonScore >= 0) {
-    rank = "C-";
-  }
-  else {
-    rank = "invalid score";
-  }
-
+  if (dungeonScore < 100) {rank = "C-"}
+  else if (dungeonScore < 300) {rank = "C"}
+  else if (dungeonScore < 500) {rank = "C+"}
+  else if (dungeonScore < 600) {rank = "B-"}
+  else if (dungeonScore < 700) {rank = "B"}
+  else if (dungeonScore < 800) {rank = "B+"}
+  else if (dungeonScore < 900) {rank = "A-"}
+  else if (dungeonScore < 950) {rank = "A"}
+  else if (dungeonScore < 1000) {rank = "A+"}
+  else {rank = "S"}
   return document.getElementById('dungeonRank').value = rank;
 }
