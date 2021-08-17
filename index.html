@@ -9,7 +9,7 @@
     <script src="/Boktai-Speedrunning/DungeonRanking.js"></script>
     <!-- <script src="DungeonRanking.js"></script> -->
   </head>
-  <body onload="calc_HP_refill(); calc_dungeonRank(); findDungeonBaseScore();">
+  <body onload="calc_HP_refill(); get_dungeonRank(); get_dungeonBaseScore();">
     <nav class="navbar" role="navigation" aria-label="main navigation">
       <div class="navbar-brand">
         <a class="navbar-item" href="https://github.com/shenef/Boktai-Speedrunning">
@@ -150,6 +150,7 @@
               <span class="icon"><i class="fas fa-angle-down" aria-hidden="true"></i></span>
             </button>
           </header>
+
           <div class="card-content">
             <div class="content">
               Work in Progress
@@ -161,7 +162,7 @@
                 <div class="field-body">
                   <div class="field">
                     <p class="control">
-                      <input class="input" type="number" id="dungeonScore" value="1000" onchange="calc_dungeonRank();">
+                      <input class="input" type="number" id="dungeonScore" value="1000" onchange="get_dungeonRank();">
                     </p>
                   </div>
                 </div>
@@ -182,6 +183,7 @@
 
             </div>
           </div>
+
         </div>
 
         <div class="card block">
