@@ -1,6 +1,6 @@
 -- memory adresses
-local addr_BossHP = 0x001B5E
-local addr_PlayerHP = 0x03D8FA
+local addr_bossHP = 0x001B5E
+local addr_playerHP = 0x03D8FA
 local addr_quintBattery = 0x03D820
 local addr_quadBattery = 0x03D81E
 local addr_tripleBattery = 0x03D81C
@@ -9,12 +9,15 @@ local addr_singleBattery = 0x03D818
 local addr_posX = 0x03D8F0
 local addr_posY = 0x03D8F4
 local addr_posZ = 0x03D8F2
+local addr_dIGT = 0x03D910
+local addr_trapHP = 0x001B6A
 
+local enemyHP = 0
 local posXprev, posYprev, posZprev = 0, 0, 0 -- set default coordinates
-local BossHPprev = 0 -- set default BossHP
+local bossHPprev = 0 -- set default BossHP
 local scale = 1.25 -- set UI scaling | 4x = 0.997 | 5x = 1.25 | 6x = 1.5
 local speed_buffer = {} -- table for calculating the speed average
-local BossHP_buffer = {} -- table for calculating the dps
+local bossHP_buffer = {} -- table for calculating the dps
 console.log("Default window size: 5x, you can change it by changing the \"scale\" variable\n")
 
 function round(num, numDecimalPlaces)
@@ -39,7 +42,7 @@ local function calc_dps(value, buffer)
   table.insert(buffer, 1, value) -- Insert the new value in the buffer table
   if #buffer == 60 then buffer[60] = nil end -- If buffer limit is reached remove last value
   -- check how many non-zero damage values are in the buffer:
-  numofattacks = 0
+  local numofattacks = 0
   for k, v in pairs(buffer) do
     if v > 0 then
       numofattacks = numofattacks + 1
@@ -55,11 +58,12 @@ end
 
 -- display data on screen
 local function displayText()
-  gui.text(105 * scale, 42 * scale, "HP:" .. PlayerHP)
-  gui.text(550 * scale, 42 * scale, "BossHP:" .. BossHP)
+  gui.text(105 * scale, 42 * scale, "HP:" .. playerHP)
+  gui.text(795 * scale, 42 * scale, enemyHP .. " HP")
   gui.text(445 * scale, 400 * scale, "spd:" .. round(spd3D, 3))
   gui.text(445 * scale, 415 * scale, "avg:" .. round(calc_speed_avg(spd3D, speed_buffer, 61), 3))
-  gui.text(445 * scale, 430 * scale, numofattacks .. "|" .. round(calc_dps(damage, BossHP_buffer), 3) .. " dps")
+  gui.text(445 * scale, 430 * scale, numofattacks .. "|" .. round(calc_dps(damage, bossHP_buffer), 3) .. " dps")
+  gui.text(5 * scale, 625 * scale, "dIGT: " .. dIGT)
   gui.text(690 * scale, 618 * scale, quintBattery)
   gui.text(752 * scale, 618 * scale, quadBattery)
   gui.text(818 * scale, 618 * scale, tripleBattery)
@@ -70,10 +74,18 @@ end
 -- main loop
 local function main()
   -- read HP values from memory
-  PlayerHP = memory.read_u16_le(addr_PlayerHP, "EWRAM")
-  BossHP = memory.read_u16_le(addr_BossHP, "EWRAM")
+  playerHP = memory.read_u16_le(addr_playerHP, "EWRAM")
+  bossHP = memory.read_u16_le(addr_bossHP, "EWRAM")
+  trapHP = memory.read_u16_le(addr_trapHP, "EWRAM")
 
-  damage = BossHPprev - BossHP
+  if trapHP > 0 then enemyHP = trapHP
+  elseif bossHP > 0 then enemyHP = bossHP
+  else enemyHP = "-"
+  end
+
+  dIGT = memory.read_u16_le(addr_dIGT, "EWRAM")
+
+  damage = bossHPprev - bossHP
 
   -- read Battery values from memory
   quintBattery = memory.read_u16_le(addr_quintBattery, "EWRAM")
@@ -101,7 +113,7 @@ event.onframeend(function()
   posXprev = posX
   posYprev = posY
   posZprev = posZ
-  BossHPprev = BossHP
+  bossHPprev = bossHP
 end)
 
 -- once everything is done, let the emu advance a frame
