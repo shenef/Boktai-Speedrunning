@@ -27,7 +27,6 @@ end
 
 -- function to calculate the average speed | 1-index
 local function calc_speed_avg(value, buffer, size)
-  if value > 255 then value = 16 end -- limit speed to prevent room transitions from skewing the average
   table.insert(buffer, 1, value) -- Insert the new value in the buffer table
   if #buffer == size then buffer[size] = nil end -- If buffer limit is reached chop last value
   local average = 0
@@ -42,7 +41,7 @@ local function calc_dps(value, buffer)
   table.insert(buffer, 1, value) -- Insert the new value in the buffer table
   if #buffer == 60 then buffer[60] = nil end -- If buffer limit is reached remove last value
   -- check how many non-zero damage values are in the buffer:
-  local numofattacks = 0
+  numofattacks = 0
   for k, v in pairs(buffer) do
     if v > 0 then
       numofattacks = numofattacks + 1
@@ -61,7 +60,7 @@ local function displayText()
   gui.text(105 * scale, 42 * scale, "HP:" .. playerHP)
   gui.text(795 * scale, 42 * scale, enemyHP .. " HP")
   gui.text(445 * scale, 400 * scale, "spd:" .. round(spd3D, 3))
-  gui.text(445 * scale, 415 * scale, "avg:" .. round(calc_speed_avg(spd3D, speed_buffer, 61), 3))
+  gui.text(445 * scale, 415 * scale, "avg:" .. round(calc_speed_avg(spd3D, speed_buffer, 60), 3))
   gui.text(445 * scale, 430 * scale, numofattacks .. "|" .. round(calc_dps(damage, bossHP_buffer), 3) .. " dps")
   gui.text(5 * scale, 625 * scale, "dIGT: " .. dIGT)
   gui.text(690 * scale, 618 * scale, quintBattery)
@@ -104,6 +103,7 @@ local function main()
   spdY = math.abs(posY - posYprev)
   spdZ = math.abs(posZ - posZprev)
   spd3D = math.sqrt(spdX^2 + spdY^2 + spdZ^2)
+  if spd3D > 255 then spd3D = 255 end -- limit speed to 255
 
   displayText()
 end
