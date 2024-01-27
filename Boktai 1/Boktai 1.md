@@ -73,7 +73,7 @@ Text speed saves about 3-4 seconds, for markers we don’t have data.
 
 ## Fog Castle
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pn0XyR89ks0?si=70-DwGZ9_IXYRRBH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pn0XyR89ks0"></iframe>
 
 TODO  
 
@@ -95,19 +95,19 @@ Expected Lens exp:
 | Expected Lens exp | Sol Lens | 106 exp |
 | Sol Lens | 106 exp |  |
 
-## Small Cave ![](https://lh7-us.googleusercontent.com/oyxLYehaWkfLz6EvLWWQ8la-LA02RKPfXKEx6OkV6zYvv-KsFVYgvDoc00tiGVsrt5dWNBcE6gy185527SnkCgkggJhUvO1OkYCoAfA4qHkUBzCzHQWi3ye4l5GWO1394KCfbShJFrtISJNdMD5Zu94)
+## Small Cave ![](/Boktai%201/Assets/8.png)
 
 TODO
 
-## Gate of the Dead ![](https://lh7-us.googleusercontent.com/_7Q_puhCcY005F0xKYGPwMdF31W8DQnWDXMALgjK8aspLUsJ5mKqxIKpvy7J0UnyQYH-6Nv1vi2bMEjPcYFYVc2ujBy0DQrm2fAdLOPWESw3wFHYRjyLcDJnDwgrMiMKuS3zFIMbWb0apOmplQxAQwk)
+## Gate of the Dead ![](/Boktai%201/Assets/8.png)
 
 TODO
 
-## Ancient Forest ![](https://lh7-us.googleusercontent.com/DdfJZmGNwbqHelcYJfQ1kgyKEBr-Yb9iudcfTNUq-ApAkaDyQS_ZxyJwFYR1vx3-hDxI5S-wxx2VTQjM5_x1-ATAylJxyB0fcoHZT0YJhk6iOgSjvTaQ_OlmrO9-E2FwpwMk5nvbdEdLDCnnjDPlEDE)
+## Ancient Forest ![](/Boktai%201/Assets/2.png)
 
 TODO
 
-## Bloodrust Mansion ![](https://lh7-us.googleusercontent.com/29hIDOK56DXYjf7zUrZ5Tqt9ZhZ3WSjrbfjQa8T28lpIb7eL7hsA5rUbpBUiqtafb-b1XyQhs9QGoMCKZKcUseYL39kGU2iVUwctCnIuQ9Mi5tk13JD15lCJKpGD9lRQklV5JNtgC6wTlEXdvEMT31I)
+## Bloodrust Mansion ![](/Boktai%201/Assets/4.png)
 
 We need S-Rank, if you get seen 2-3 times, increase light to max to compensate.
 
