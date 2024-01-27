@@ -2,7 +2,7 @@
 
 ## About this Guide
 
-This Guide is intended for the Japanese version of Boktai: The Sun is in your Hands and the Normal 2 Any% Category. It should work exactly the same for other versions but JP is significantly faster.  
+This Guide is intended for the Japanese version of Boktai: The Sun is in your Hands and the Normal 2 Any% Category. It should work exactly the same for other languages but JP is significantly faster.  
 Credits go to the entire [Taiyoh Network Community](https://discord.gg/0dUb9OmJrIrRPFGf) and many casual players that discovered strats on accident.
 
 ### Videos
@@ -21,58 +21,53 @@ A recommendation on which sun strength to use for that dungeon to prevent overhe
 
 ## Before the run
 
-Check the leaderboard rules to make sure your run will be valid!
-
-Set Date and Time on Console:
-- 2003 年 07 月 17 日
-- 午前 04時 00分
+Check the Leaderboard rules to make sure your run will be valid!
 
 If you want to play on an emulator, currently only mGBA and BizHawk are allowed.
-In the case of BizHawk, you should use at least version 2.6.3 since that adds the ability to emulate an empty cartridge battery.
+In the case of BizHawk, you should use _at least_ version 2.6.3 since that adds the ability to emulate an empty cartridge battery.
 
-### BizHawk
-
-- GBA > Settings > Sync Settings:
+- BizHawk: GBA > Settings > Sync Settings:
   - Set “Skip BIOS” to “False”
   - Set “RTC use Real Time” to “False”
   - Set “RTC” to “False”
-- Then use the in-game time option to set:
-  - 2003 年 07 月 17 日
-  - 午前 04時 00分
+- mGBA:
+  - TODO: instructions on how to set up empty battery
 
-### mGBA
+Then in-game, set the Date and Time to
 
-- TODO: instructions on how to set up mGBA
-- Then use the in-game time option to set:
-  - 2003 年 07 月 17 日
-  - 午前 04時 00分
+- 2003 年 07 月 17 日
+- 午前 04時 05分
 
 With this starting time you will
 
-- get Ghouls during Fog Castle, sunlight will kill them immediately, and they will most likely drop healing items.
-- get better enemies in Firetop Mountain.
+- get Ghouls instead of spiders outside Fog Castle,
+- get better enemies in Firetop Mountain,
+- skip the Night to Day cutscene if you are fast enough to get it between Firetop and Permafrost,
 - reach Delusion Forest during the early morning.
 
-Optional on Emulator: Increase the Light on the Start Screen (visualised by Sun animation speed)
+Optional on Emulator: Increase the Light on the Start Screen (visualized by Sun animation speed)
 
 To start a new run
 
 - Create a new save file,
 - reduce the name to one character,
 - keep the default region setting,
-- select your Difficulty (keep in mind that every Difficulty is a separate Category, this guide is made for the default setting, Normal 2),
+- select your Difficulty (every Difficulty is a separate Category, this guide is for Normal 2 which is the default),
 - start the timer when confirming on the Summary Screen.
 
 ## Intro
 
-Once you gain control, pause the game and set the text speed to “Fast”. Optionally you can also turn off markers which can reduce lag.  
+Once you gain control, pause the game and set the text speed to “Fast”.  
+Optionally you can also turn off markers which can reduce lag.  
 Inputs needed to change the text speed and disable the markers:
 
-- start, down, down, A, down, right, down, right, A, B
+- `start`, ⬇️, ⬇️, 🇦, ⬇️, ➡️, ⬇️, ➡️, 🇦, 🇧
+
 Text speed saves about 3-4 seconds, for markers we don’t have data.
 
 ## Fog Castle
 
+Example video embed:  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pn0XyR89ks0"></iframe>
 
 TODO  
