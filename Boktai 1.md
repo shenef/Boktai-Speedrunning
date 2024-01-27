@@ -21,8 +21,9 @@ A recommendation on which sun strength to use for that dungeon to prevent overhe
 
 ## Before the run
 
-Set Date and Time on Console:
+Check the leaderboard rules to make sure your run will be valid!
 
+Set Date and Time on Console:
 - 2003 年 07 月 17 日
 - 午前 04時 00分
 
@@ -62,34 +63,6 @@ To start a new run
 - select your Difficulty (keep in mind that every Difficulty is a separate Category, this guide is made for the default setting, Normal 2),
 - start the timer when confirming on the Summary Screen.
 
-## Leaderboard Rules
-
-Last updated on April 29 2023.  
-These may not be up to date! Check the leaderboard for the latest updates.
-
-Requirements
-
-- If you use Sunlight Patches, the ones that should be used are Prof9's (check resources)
-- If you are using emulator, using Bizhawk is recommended. mGBA is allowed. On mobile or Chromebook, RetroArch with the mGBA core is recommended. MyBoy is acceptable for Individual Levels. All other emulators are considered inaccurate and are banned unless proven otherwise
-- Emulator players must also do a core reset after changing the RTC setting to keep parity with console (new rule added, august 1st 2021)
-
-Clarifications
-
-- Using other patches besides Prof9's sensor patch is NOT allowed
-- Reproduction cartridges are allowed (submit as "Sunlight Patch" without the Emulator tag)
-- Everdrive GBA x5 and EZ Flash Omega flashcards are allowed
-
-Timing
-
-- Real-Time is used
-- Timer starts when confirming your settings  
-    ![](https://lh7-us.googleusercontent.com/vkD-CZz__GvYgwv343XHr8mGC0kOuO9lHCA1IqNEewNXTbKWPx1KrbGmzb7L2N-n40MmkLGo33ZJKc88XEQqL2DHh11uKFiuCE-nsLgXt5nS2dbcGtNi8UUT-cDwYQrFewSHsmXjf2LBvlv3wawJNng)
-- Timer ends after the last hit on Hel
-
-Extra info
-
-- Showing the Ranking Screen after the credits is preferred
-
 ## Intro
 
 Once you gain control, pause the game and set the text speed to “Fast”. Optionally you can also turn off markers which can reduce lag.  
@@ -100,7 +73,7 @@ Text speed saves about 3-4 seconds, for markers we don’t have data.
 
 ## Fog Castle
 
-example video [[TAS] Wii New Super Mario Bros. Wii "100%" by Soig in 2:58:33.27](https://www.youtube.com/watch?v=pn0XyR89ks0)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pn0XyR89ks0?si=70-DwGZ9_IXYRRBH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 TODO  
 
