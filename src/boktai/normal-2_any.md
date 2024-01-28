@@ -88,19 +88,19 @@ Expected Lens exp:
 | Expected Lens exp | Sol Lens | 106 exp |
 | Sol Lens | 106 exp |  |
 
-### Small Cave ![Solar Gauge charged to 8](/boktai/assets/8.png)
+### Small Cave ![Solar Gauge charged to 8](./assets/8.png)
 
 TODO
 
-### Gate of the Dead ![Solar Gauge charged to 8](/boktai/assets/8.png)
+### Gate of the Dead ![Solar Gauge charged to 8](./assets/8.png)
 
 TODO
 
-### Ancient Forest ![Solar Gauge charged to 2](/boktai/assets/2.png)
+### Ancient Forest ![Solar Gauge charged to 2](./assets/2.png)
 
 TODO
 
-### Bloodrust Mansion ![Solar Gauge charged to 4](/boktai/assets/4.png)
+### Bloodrust Mansion ![Solar Gauge charged to 4](./assets/4.png)
 
 We need S-Rank, if you get seen 2-3 times, increase light to max to compensate.
 
