@@ -14,11 +14,6 @@ The strats shown in the videos are ideal scenarios, don’t worry if a trap or b
 
 A recommendation on which sun strength to use for that dungeon to prevent overheat and ensure you reach the required dungeon rank where necessary. For purifications you can ignore that recommendation and always go for max.
 
-### Other resources
-
-- Purification mechanics: [https://beta.shenef.one/boktai1/purification.html](https://beta.shenef.one/boktai1/purification.html)
-- TODO
-
 ## Before the run
 
 Check the Leaderboard rules to make sure your run will be valid!
@@ -55,17 +50,19 @@ To start a new run
 - select your Difficulty (every Difficulty is a separate Category, this guide is for Normal 2 which is the default),
 - start the timer when confirming on the Summary Screen.
 
-## Intro
+## Route
+
+### Intro
 
 Once you gain control, pause the game and set the text speed to “Fast”.  
 Optionally you can also turn off markers which can reduce lag.  
 Inputs needed to change the text speed and disable the markers:
 
-- `start`, ⬇️, ⬇️, 🇦, ⬇️, ➡️, ⬇️, ➡️, 🇦, 🇧
+- `start`, ⬇️, ⬇️, 🅰️, ⬇️, ➡️, ⬇️, ➡️, 🅰️, 🅱️
 
 Text speed saves about 3-4 seconds, for markers we don’t have data.
 
-## Fog Castle
+### Fog Castle
 
 Example video embed:  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pn0XyR89ks0"></iframe>
@@ -84,105 +81,106 @@ Expected Lens exp:
 
 - Sol Lens: 106
 
+
 |  |  |  |
 | ---- | ---- | ---- |
 | Lens exp sources | 2x Bok <br>Purification | 2x 3 exp  <br>100 exp |
 | Expected Lens exp | Sol Lens | 106 exp |
 | Sol Lens | 106 exp |  |
 
-## Small Cave ![](/Boktai%201/Assets/8.png)
+### Small Cave ![Solar Gauge charged to 8](/boktai/assets/8.png)
 
 TODO
 
-## Gate of the Dead ![](/Boktai%201/Assets/8.png)
+### Gate of the Dead ![Solar Gauge charged to 8](/boktai/assets/8.png)
 
 TODO
 
-## Ancient Forest ![](/Boktai%201/Assets/2.png)
+### Ancient Forest ![Solar Gauge charged to 2](/boktai/assets/2.png)
 
 TODO
 
-## Bloodrust Mansion ![](/Boktai%201/Assets/4.png)
+### Bloodrust Mansion ![Solar Gauge charged to 4](/boktai/assets/4.png)
 
 We need S-Rank, if you get seen 2-3 times, increase light to max to compensate.
 
-## Solar Tree
+### Solar Tree
 
 TODO
 
-## Deserted Arsenal 1
+### Deserted Arsenal 1
 
 TODO
 
-## Deserted Arsenal 2
+### Deserted Arsenal 2
 
 TODO
 
-## Crumbling Mine
+### Crumbling Mine
 
 TODO
 
-## Firetop Mountain
+### Firetop Mountain
 
 TODO
 
-## Permafrost
+### Permafrost
 
 TODO
 
-## Remaining Tower 1
+### Remaining Tower 1
 
 TODO
 
-## Delusion Forest
+### Delusion Forest
 
 TODO
 
-## Sol City
+### Sol City
 
 TODO
 Chicken Trap 5 Speednuts, 5 Bananas
 
-## Crusader Frame
+### Crusader Frame
 
 TODO
 
-## Flame Tower
+### Flame Tower
 
 TODO
 
-## Earth Tower
+### Earth Tower
 
 TODO
 
-## Frost Tower
+### Frost Tower
 
 TODO
 
-## Cloud Tower
+### Cloud Tower
 
 TODO
 
-## Central Tower
+### Central Tower
 
 TODO
 
-## Sabata
+### Sabata
 
-### Phase 1
-
-TODO
-
-### Phase 2
+#### Phase 1
 
 TODO
 
-## Hel
-
-### Phase 1
+#### Phase 2
 
 TODO
 
-### Phase 2
+### Hel
+
+#### Phase 1
+
+TODO
+
+#### Phase 2
 
 TODO

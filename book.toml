@@ -1,0 +1,15 @@
+[book]
+authors = []
+language = "en"
+multilingual = false
+src = "src"
+title = "Boktai Speedrunning"
+
+[output.html]
+no-section-label = true
+git-repository-url = "https://github.com/shenef/Boktai-Speedrunning"
+git-repository-icon = "fa-github"
+
+[output.html.fold]
+enable = true      # enable/disable section folding
+level = 1          # when to start folding
