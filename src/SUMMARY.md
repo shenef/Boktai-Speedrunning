@@ -1,6 +1,6 @@
 # Summary
 
-[Boktai Speedrunning](./SUMMARY.md)
+[Boktai Speedrunning](./index.md)
 
 - [Boktai 1](./boktai.md)
   - [Normal 2 Any%](./boktai/normal-2_any.md)
