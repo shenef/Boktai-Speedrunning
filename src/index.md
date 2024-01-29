@@ -9,6 +9,7 @@ If you want to contribute, feel free to join our [Discord](https://discord.gg/0d
 
 - [Boktai 1](./boktai.md)
   - [Normal 2 Any%](./boktai/normal-2_any.md)
+  - [28 Dungeons](./boktai/28-dungeons.md)
   - [Resources](./boktai/resources.md)
 - [Boktai 2](./zoktai.md)
 - [Boktai 3](./shinbok.md)
