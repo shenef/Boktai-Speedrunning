@@ -3,6 +3,7 @@
 ## Map
 
 ![Map](./assets/28D_map.png)
+[Open full size <i class="fa fa-arrows-alt" aria-hidden="true"></i>](./assets/28D_map.png)
 
 ## Route
 
