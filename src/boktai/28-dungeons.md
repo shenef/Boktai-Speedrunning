@@ -7,7 +7,7 @@
 
 ## Run video
 
-<iframe width="740" height="370" src="https://www.youtube.com/embed/uHMaErqqU_E" title="Boktai 1 28 Dungeons in 2:16:15" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" style="aspect-ratio: 2/1;" src="https://www.youtube.com/embed/uHMaErqqU_E" title="Boktai 1 28 Dungeons in 2:16:15" frameborder="0" allowfullscreen></iframe>
 
 ## Route
 
