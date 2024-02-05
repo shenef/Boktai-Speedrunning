@@ -3,12 +3,12 @@
 ## About this Guide
 
 This Guide is intended for the Japanese version of Boktai: The Sun is in your Hands and the Normal 2 Any% Category. It should work exactly the same for other languages but JP is significantly faster.  
-Credits go to the entire [Taiyoh Network Community](https://discord.gg/0dUb9OmJrIrRPFGf) and many casual players that discovered strats on accident.
+Credits go to the entire [Taiyoh Network Community](https://discord.gg/0dUb9OmJrIrRPFGf) and many casual players that discovered strategies on accident.
 
 ### Videos
 
 Each section of the run has a video attached to it that shows that section being played. Watch those videos for chests, pathing and enemies that need to be killed as that will be omitted from the text description.  
-The strats shown in the videos are ideal scenarios, don’t worry if a trap or boss fight doesn’t work out exactly as shown.
+The strategies shown in the videos are ideal scenarios, don’t worry if a trap or boss fight doesn’t work out exactly as shown.
 
 ### Solar Gauge
 
@@ -58,7 +58,7 @@ Once you gain control, pause the game and set the text speed to “Fast”.
 Optionally you can also turn off markers which can reduce lag.  
 Inputs needed to change the text speed and disable the markers:
 
-- `start`, ⬇️, ⬇️, 🅰️, ⬇️, ➡️, ⬇️, ➡️, 🅰️, 🅱️
+- <kbd>start</kbd>, <kbd>↓</kbd>, <kbd>↓</kbd>, <kbd>A</kbd>, <kbd>↓</kbd>, <kbd>→</kbd>, <kbd>↓</kbd>, <kbd>→</kbd>, <kbd>A</kbd>, <kbd>B</kbd>
 
 Text speed saves about 3-4 seconds, for markers we don’t have data.
 

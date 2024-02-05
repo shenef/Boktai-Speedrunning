@@ -36,13 +36,13 @@
 
 - plant 2 Speednuts
 
-### 3x Deserted Arsenal
+### Deserted Arsenal (repeat 3x)
 
 - Gains a total of +18 Speednuts and +3 Bombs
 
 ### Stairs of Trial
 
-- No speednut after push
+- Don't use a Speednut after the puzzle
 - ![Stairs of Trial](./assets/28D_stairs-of-trial.png)
 
 ### Ruined Cemetery
@@ -79,8 +79,8 @@
 ### Scar of the Land
 
 - ![Scar of the Land](./assets/28D_scar-of-the-land.png)
-- down, down, wait, down+right, right+up, right
-- heal, add fire nut, frost lens, spear
+- <kbd>↓</kbd>, <kbd>↓</kbd>, wait, <kbd>↓ →</kbd>, <kbd>→ ↑</kbd>, <kbd>→</kbd>
+- Frost Lens, Spear Frame, Heal, use Flame Nut
 
 ### Forgotten Tomb
 
