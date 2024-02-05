@@ -36,7 +36,7 @@
 
 - plant 2 Speednuts
 
-### Deserted Arsenal (repeat 3x)
+### 3x Deserted Arsenal
 
 - Gains a total of +18 Speednuts and +3 Bombs
 
@@ -112,6 +112,7 @@
 - Carmilla: use 15+1 Grenades
 
 ---
+
 Need 3 Empty Gourd at this point. If less, do not gourd out of water demon's cage!
 
 ---
