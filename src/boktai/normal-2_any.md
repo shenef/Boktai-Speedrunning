@@ -65,9 +65,7 @@ Text speed saves about 3-4 seconds, for markers we don’t have data.
 ### Fog Castle
 
 Example video embed:  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pn0XyR89ks0"></iframe>
-
-TODO  
+<iframe width="740" height="416" src="https://www.youtube.com/embed/pn0XyR89ks0" title="Example video" frameborder="0" allowfullscreen></iframe>
 
 - Garden puzzle numbers: 3 > 9 > 8 > 6 > 5 (best to worst)
 - Time Puzzle: 7, 9, 10, 1, 3, 5, 8

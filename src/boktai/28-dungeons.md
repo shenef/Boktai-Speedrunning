@@ -5,6 +5,10 @@
 ![Map](./assets/28D_map.png)
 [Open full size <i class="fa fa-arrows-alt" aria-hidden="true"></i>](./assets/28D_map.png)
 
+## Run video
+
+<iframe width="740" height="370" src="https://www.youtube.com/embed/uHMaErqqU_E" title="Boktai 1 28 Dungeons in 2:16:15" frameborder="0" allowfullscreen></iframe>
+
 ## Route
 
 - In-game start time: 3:40 AM
