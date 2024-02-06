@@ -10,7 +10,7 @@ no-section-label = true
 git-repository-url = "https://github.com/shenef/Boktai-Speedrunning"
 git-repository-icon = "fa-github"
 
-additional-css = ["theme/pagetoc.css"]
+additional-css = ["theme/pagetoc.css", "theme/css/exp-table.css"]
 additional-js = ["theme/pagetoc.js"]
 # and theme/index.hbs by https://github.com/JorelAli/mdBook-pagetoc
 

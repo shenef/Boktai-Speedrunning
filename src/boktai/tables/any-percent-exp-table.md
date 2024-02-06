@@ -1,0 +1,349 @@
+<table style="font-size: smaller;" class="exp-table any-percent">
+   <thead>
+      <tr>
+         <th>Location</th>
+         <th colspan="2">Sol</th>
+         <th colspan="2">Frost</th>
+         <th>Notes</th>
+      </tr>
+   </thead>
+   <tbody>
+      <tr>
+         <td></td>
+         <td>Delta</td>
+         <td>Total</td>
+         <td>Delta</td>
+         <td>Total</td>
+         <td></td>
+      </tr>
+      <tr>
+         <td>Fog Castle</td>
+         <td>+3</td>
+         <td>3</td>
+         <td></td>
+         <td></td>
+         <td>1 Bok * 3 EXP</td>
+      </tr>
+      <tr>
+         <td>Fog Castle Bats</td>
+         <td></td>
+         <td>3</td>
+         <td></td>
+         <td></td>
+         <td>No exp</td>
+      </tr>
+      <tr>
+         <td>Fog Castle Exit</td>
+         <td>+3</td>
+         <td>6</td>
+         <td></td>
+         <td></td>
+         <td>1 Bok * 3 EXP</td>
+      </tr>
+      <tr>
+         <td>Fog Castle Purification</td>
+         <td>+100</td>
+         <td>106</td>
+         <td></td>
+         <td></td>
+         <td></td>
+      </tr>
+      <tr>
+         <td>Small Cave</td>
+         <td>+3</td>
+         <td>109</td>
+         <td></td>
+         <td></td>
+         <td>1 Bok * 3 EXP</td>
+      </tr>
+      <tr>
+         <td>Small Cave Trap</td>
+         <td></td>
+         <td>109</td>
+         <td></td>
+         <td></td>
+         <td>No exp</td>
+      </tr>
+      <tr>
+         <td>Gate of the Dead</td>
+         <td></td>
+         <td>109</td>
+         <td></td>
+         <td></td>
+         <td></td>
+      </tr>
+      <tr>
+         <td>Gate of the Dead Trap</td>
+         <td>+30</td>
+         <td>139</td>
+         <td></td>
+         <td></td>
+         <td>1 Sword * 10 EXP + 20</td>
+      </tr>
+      <tr>
+         <td>Ancient Forest</td>
+         <td></td>
+         <td>139</td>
+         <td></td>
+         <td></td>
+         <td></td>
+      </tr>
+      <tr>
+         <td>Ancient Forest Trap</td>
+         <td>+40</td>
+         <td>179</td>
+         <td></td>
+         <td></td>
+         <td>4 Golems * 5 EXP + 20</td>
+      </tr>
+      <tr>
+         <td>Bloodrust Mansion</td>
+         <td>+3</td>
+         <td>182</td>
+         <td></td>
+         <td></td>
+         <td>1 Bok * 3 EXP</td>
+      </tr>
+      <tr>
+         <td>Count Battle</td>
+         <td>+50</td>
+         <td>232</td>
+         <td></td>
+         <td></td>
+         <td></td>
+      </tr>
+      <tr>
+         <td>Bloodrust Mansion Exit</td>
+         <td>+3</td>
+         <td>235</td>
+         <td></td>
+         <td></td>
+         <td>1 Bok * 3 EXP</td>
+      </tr>
+      <tr>
+         <td>Count Purification</td>
+         <td>+50</td>
+         <td>285</td>
+         <td></td>
+         <td></td>
+         <td></td>
+      </tr>
+      <tr>
+         <td>Deserted Arsenal Trap</td>
+         <td>+70</td>
+         <td>355</td>
+         <td></td>
+         <td></td>
+         <td>1 Sword * 30 EXP + 40</td>
+      </tr>
+      <tr>
+         <td>Deserted Arsenal Trap</td>
+         <td>+70</td>
+         <td>425</td>
+         <td></td>
+         <td></td>
+         <td>1 Sword * 30 EXP + 40</td>
+      </tr>
+      <tr>
+         <td>Crumbling Mine Trap</td>
+         <td>+80</td>
+         <td>505</td>
+         <td></td>
+         <td></td>
+         <td>4 Mummies * 10 EXP + 40</td>
+      </tr>
+      <tr>
+         <td>Firetop Mountain</td>
+         <td></td>
+         <td>505</td>
+         <td></td>
+         <td></td>
+         <td></td>
+      </tr>
+      <tr>
+         <td colspan="6">--- Need Sol Lv2/500 EXP here ---</td>
+      </tr>
+      <tr>
+         <td>Muspell Battle</td>
+         <td>+150</td>
+         <td>655</td>
+         <td></td>
+         <td></td>
+         <td>Always gives 150 EXP</td>
+      </tr>
+      <tr>
+         <td>Muspell Purification</td>
+         <td>+150</td>
+         <td>805</td>
+         <td></td>
+         <td></td>
+         <td></td>
+      </tr>
+      <tr>
+         <td>Permafrost</td>
+         <td></td>
+         <td>805</td>
+         <td></td>
+         <td></td>
+         <td></td>
+      </tr>
+      <tr>
+         <td>Garmr Battle</td>
+         <td>+150</td>
+         <td>955</td>
+         <td></td>
+         <td></td>
+         <td>Always gives 150 EXP</td>
+      </tr>
+      <tr>
+         <td>Garmr Purification</td>
+         <td>+150</td>
+         <td>1105</td>
+         <td></td>
+         <td></td>
+         <td></td>
+      </tr>
+      <tr>
+         <td>Delusion Forest</td>
+         <td></td>
+         <td>1105</td>
+         <td>+60</td>
+         <td>60</td>
+         <td></td>
+      </tr>
+      <tr>
+         <td>Sol City Traps</td>
+         <td></td>
+         <td>1105</td>
+         <td>+87</td>
+         <td>147</td>
+         <td>3 Chickens * 29 EXP; 2nd trap gives no EXP???</td>
+      </tr>
+      <tr>
+         <td>Sol City</td>
+         <td></td>
+         <td>1105</td>
+         <td>+30</td>
+         <td>177</td>
+         <td>1 Golem * 30 EXP</td>
+      </tr>
+      <tr>
+         <td>Carmilla Battle</td>
+         <td></td>
+         <td>1105</td>
+         <td>+300</td>
+         <td>477</td>
+         <td></td>
+      </tr>
+      <tr>
+         <td>Carmilla Purification</td>
+         <td>+300</td>
+         <td>1405</td>
+         <td></td>
+         <td>477</td>
+         <td></td>
+      </tr>
+      <tr>
+         <td>Flame Tower</td>
+         <td></td>
+         <td>1405</td>
+         <td>+27</td>
+         <td>504</td>
+         <td>3 Boks * 9 EXP</td>
+      </tr>
+      <tr>
+         <td colspan="6">--- Need Frost Lv2/500 EXP here ---</td>
+      </tr>
+      <tr>
+         <td>Muspell 2</td>
+         <td>+100</td>
+         <td>1505</td>
+         <td></td>
+         <td>504</td>
+         <td>If you don’t get the Sol Lens kill, kill 4 chickens in Cloud Tower</td>
+      </tr>
+      <tr>
+         <td>Earth Tower</td>
+         <td></td>
+         <td>1505</td>
+         <td></td>
+         <td>504</td>
+         <td></td>
+      </tr>
+      <tr>
+         <td>Count 2</td>
+         <td>+100</td>
+         <td>1605</td>
+         <td></td>
+         <td>504</td>
+         <td></td>
+      </tr>
+      <tr>
+         <td>Frost Tower</td>
+         <td>+36</td>
+         <td>1641</td>
+         <td></td>
+         <td>504</td>
+         <td>4 Boks * 9 EXP (from RSG at start)</td>
+      </tr>
+      <tr>
+         <td>Garmr 2</td>
+         <td>+100</td>
+         <td>1741</td>
+         <td></td>
+         <td>504</td>
+         <td></td>
+      </tr>
+      <tr>
+         <td>Cloud Tower</td>
+         <td></td>
+         <td>1741</td>
+         <td></td>
+         <td>504</td>
+         <td></td>
+      </tr>
+      <tr>
+         <td>Carmilla 2</td>
+         <td>+100</td>
+         <td>1841</td>
+         <td></td>
+         <td>504</td>
+         <td></td>
+      </tr>
+      <tr>
+         <td>Dark Castle Trap</td>
+         <td>+150</td>
+         <td>1991</td>
+         <td></td>
+         <td>504</td>
+         <td>10 Tentacles * 15 EXP</td>
+      </tr>
+      <tr>
+         <td>Dark Castle</td>
+         <td>+9</td>
+         <td>2000</td>
+         <td></td>
+         <td>504</td>
+         <td>1 Bok * 9 EXP</td>
+      </tr>
+      <tr>
+         <td colspan="6">--- Need Sol Lv3/2000 EXP here ---</td>
+      </tr>
+      <tr>
+         <td>Sabata Phase 1</td>
+         <td>+200</td>
+         <td>2200</td>
+         <td></td>
+         <td>504</td>
+         <td></td>
+      </tr>
+      <tr>
+         <td>Sabata Phase 2</td>
+         <td>+300</td>
+         <td>2500</td>
+         <td></td>
+         <td>504</td>
+         <td></td>
+      </tr>
+   </tbody>
+</table>
