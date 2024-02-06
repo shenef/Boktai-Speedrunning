@@ -10,9 +10,10 @@ no-section-label = true
 git-repository-url = "https://github.com/shenef/Boktai-Speedrunning"
 git-repository-icon = "fa-github"
 
+# CSS and JS files are imported in the order they are listed here!
 additional-css = ["theme/pagetoc.css", "theme/css/colors.css", "theme/css/exp-table.css"]
 additional-js = ["theme/pagetoc.js"]
-# and theme/index.hbs by https://github.com/JorelAli/mdBook-pagetoc
+# pagetoc.css, pagetoc.js and theme/index.hbs by https://github.com/JorelAli/mdBook-pagetoc
 
 [output.html.fold]
 enable = true      # enable/disable section folding

@@ -1,4 +1,4 @@
-<table style="font-size: smaller;" class="exp-table any-percent">
+<table class="exp-table any-percent">
    <thead>
       <tr>
          <th>Location</th>
@@ -260,7 +260,9 @@
          <td>1505</td>
          <td></td>
          <td>504</td>
-         <td>If you don’t get the Sol Lens kill, kill 4 chickens in Cloud Tower</td>
+         <td>
+            If you don’t get the Sol Lens kill, kill 4 chickens in Cloud Tower
+         </td>
       </tr>
       <tr>
          <td>Earth Tower</td>
