@@ -1,28 +1,10 @@
-/* Elements-related colors */
-.c-sol {
-    color: #c8a800;
-}
-
-.c-luna {
-    color: #c0a8f0;
-}
-
-.c-dark {
-    color: #981010;
-}
-
-.c-fire {
-    color: #c03818;
-}
-
-.c-frost {
-    color: #6068d8;
-}
-
-.c-earth {
-    color: #58c050;
-}
-
-.c-cloud {
-    color: #c048e0;
+:root {
+  /* Element-related colors */
+  --color-sol: #c8a800;
+  --color-luna: #c0a8f0;
+  --color-dark: #981010;
+  --color-flame: #c03818;
+  --color-frost: #6068d8;
+  --color-earth: #58c050;
+  --color-cloud: #c048e0;
 }
