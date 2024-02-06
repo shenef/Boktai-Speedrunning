@@ -2,12 +2,17 @@
 
 ## Map
 
-![Map](./assets/28D_map.png)
-[Open full size <i class="fa fa-arrows-alt" aria-hidden="true"></i>](./assets/28D_map.png)
+![Map](./assets/images/28D_map.png)
+[Open full size <i class="fa fa-arrows-alt" aria-hidden="true"></i>](./assets/images/28D_map.png)
 
 ## Run video
 
-<iframe width="100%" style="aspect-ratio: 2/1;" src="https://www.youtube.com/embed/uHMaErqqU_E" title="Boktai 1 28 Dungeons in 2:16:15" frameborder="0" allowfullscreen></iframe>
+<iframe
+  style="aspect-ratio: 2/1"
+  src="https://www.youtube.com/embed/uHMaErqqU_E"
+  title="Boktai 1 28 Dungeons in 2:16:15"
+  allowfullscreen
+></iframe>
 
 ## Route
 
@@ -15,7 +20,7 @@
 
 ### Small Cave
 
-- ![Small Cave](./assets/28D_small-cave.png)
+- ![Small Cave](./assets/images/28D_small-cave.png)
 
 ### Gate of the Dead
 
@@ -25,12 +30,12 @@
 
 ### Catacomb
 
-- ![Catacomb](./assets/28D_catacomb_1.png)
-- ![Catacomb](./assets/28D_catacomb_2.png)
+- ![Catacomb](./assets/images/28D_catacomb_1.png)
+- ![Catacomb](./assets/images/28D_catacomb_2.png)
 
 ### Bloodrust Mansion
 
-- ![Bloodrust Mansion](./assets/28D_bloodrust-mansion.png)
+- ![Bloodrust Mansion](./assets/images/28D_bloodrust-mansion.png)
 
 ### Solar Tree
 
@@ -43,17 +48,17 @@
 ### Stairs of Trial
 
 - Don't use a Speednut after the puzzle
-- ![Stairs of Trial](./assets/28D_stairs-of-trial.png)
+- ![Stairs of Trial](./assets/images/28D_stairs-of-trial.png)
 
 ### Ruined Cemetery
 
 ### Firetop Mountain
 
-- ![Firetop Mountain](./assets/28D_firetop-mountain.png)
+- ![Firetop Mountain](./assets/images/28D_firetop-mountain.png)
 
 ### Noname Fortress
 
-- ![Noname Fortress](./assets/28D_noname-fortress.png)
+- ![Noname Fortress](./assets/images/28D_noname-fortress.png)
 
 ### Death Cliff
 
@@ -61,12 +66,12 @@
 
 ### Suffering House
 
-- ![Suffering House](./assets/28D_suffering-house_1.png)
-- ![Suffering House](./assets/28D_suffering-house_2.png)
+- ![Suffering House](./assets/images/28D_suffering-house_1.png)
+- ![Suffering House](./assets/images/28D_suffering-house_2.png)
 
 ### Permafrost
 
-- ![Permafrost](./assets/28D_permafrost.png)
+- ![Permafrost](./assets/images/28D_permafrost.png)
 
 ### Stench Forest
 
@@ -74,23 +79,23 @@
 
 ### Remaining Tower
 
-- ![Remaining Tower](./assets/28D_remaining-tower.png)
+- ![Remaining Tower](./assets/images/28D_remaining-tower.png)
 
 ### Scar of the Land
 
-- ![Scar of the Land](./assets/28D_scar-of-the-land.png)
+- ![Scar of the Land](./assets/images/28D_scar-of-the-land.png)
 - <kbd>↓</kbd>, <kbd>↓</kbd>, wait, <kbd>↓ →</kbd>, <kbd>→ ↑</kbd>, <kbd>→</kbd>
 - Frost Lens, Spear Frame, Heal, use Flame Nut
 
 ### Forgotten Tomb
 
-- ![Forgotten Tomb](./assets/28D_forgotten-tomb.png)
+- ![Forgotten Tomb](./assets/images/28D_forgotten-tomb.png)
 - destroy Shield, use Bombs
 
 ### Abyss
 
 - Use Banana for puzzles, 1 speednut after first puzzle
-- ![Abyss](./assets/28D_abyss.png)
+- ![Abyss](./assets/images/28D_abyss.png)
 - +1 Speednut on light bridge
 - Get Javelin
 
@@ -106,7 +111,7 @@
 
 ### Sol City
 
-- ![Sol City](./assets/28D_sol-city.png)
+- ![Sol City](./assets/images/28D_sol-city.png)
 - Don't pick up the grenades after Sabata until after Carmilla
 - two speednuts in north trap
 - Carmilla: use 15+1 Grenades
@@ -119,13 +124,13 @@ Need 3 Empty Gourd at this point. If less, do not gourd out of water demon's cag
 
 ### House of Darkness
 
-- ![House of Darkness](./assets/28D_house-of-darkness_1.png)
-- ![House of Darkness](./assets/28D_house-of-darkness_2.png)
+- ![House of Darkness](./assets/images/28D_house-of-darkness_1.png)
+- ![House of Darkness](./assets/images/28D_house-of-darkness_2.png)
 - Exit with Empty Gourd
 
 ### Fire Dragon's Grave
 
-- ![Fire Dragon's Grave](./assets/28D_fire-dragons-grave.png)
+- ![Fire Dragon's Grave](./assets/images/28D_fire-dragons-grave.png)
 - Exit with Empty Gourd
 
 ### Water Demon's Cage
@@ -135,9 +140,9 @@ Need 3 Empty Gourd at this point. If less, do not gourd out of water demon's cag
 
 ### Fallen Devil Castle
 
-- ![Fallen Devil Castle](./assets/28D_fallen-devil-castle_1.png)
+- ![Fallen Devil Castle](./assets/images/28D_fallen-devil-castle_1.png)
 - (First Floor)  
-  ![Fallen Devil Castle](./assets/28D_fallen-devil-castle_2.png)
+  ![Fallen Devil Castle](./assets/images/28D_fallen-devil-castle_2.png)
 - Exit with Empty Gourd
 
 ### Frost Tower
