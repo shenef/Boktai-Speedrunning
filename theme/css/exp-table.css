@@ -15,3 +15,13 @@
 .exp-table.any-percent td:last-of-type {
     width: 45%;
 }
+
+.exp-table.any-percent td:nth-child(2),
+.exp-table.any-percent td:nth-child(3) {
+    color: #c8a800;
+}
+
+.exp-table.any-percent td:nth-child(4),
+.exp-table.any-percent td:nth-child(5) {
+    color: #6068d8;
+}
