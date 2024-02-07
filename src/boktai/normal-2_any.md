@@ -76,19 +76,19 @@ Example video embed:
 - Garden puzzle numbers: 3 > 9 > 8 > 6 > 5 (best to worst)
 - Time Puzzle: 7, 9, 10, 1, 3, 5, 8
 
-### Small Cave ![Solar Gauge charged to 8](./assets/images/8.png)
+### Small Cave ![Solar Gauge charged to 8](./assets/images/8.webp)
 
 TODO
 
-### Gate of the Dead ![Solar Gauge charged to 8](./assets/images/8.png)
+### Gate of the Dead ![Solar Gauge charged to 8](./assets/images/8.webp)
 
 TODO
 
-### Ancient Forest ![Solar Gauge charged to 2](./assets/images/2.png)
+### Ancient Forest ![Solar Gauge charged to 2](./assets/images/2.webp)
 
 TODO
 
-### Bloodrust Mansion ![Solar Gauge charged to 4](./assets/images/4.png)
+### Bloodrust Mansion ![Solar Gauge charged to 4](./assets/images/4.webp)
 
 We need S-Rank, if you get seen 2-3 times, increase light to max to compensate.
 
