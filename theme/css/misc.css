@@ -1,0 +1,11 @@
+/**
+ * Miscellaneous CSS customizations
+ *
+ * Use only when no other CSS file applies.
+ */
+
+/* reduces the inline html needed for video embeds */
+iframe {
+  width: 100%;
+  border: none;
+}

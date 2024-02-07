@@ -1,3 +1,10 @@
+/**
+ * Global color variables
+ * 
+ * When changing these, make sure they work fine for the
+ * "Light" and "Navy" themes as those are the default color schemes.
+ */
+
 :root {
   /* Element-related colors */
   --color-sol: #c8a800;
