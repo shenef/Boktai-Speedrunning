@@ -11,10 +11,20 @@ git-repository-url = "https://github.com/shenef/Boktai-Speedrunning"
 git-repository-icon = "fa-github"
 
 # CSS and JS files are imported in the order they are listed here!
-additional-css = ["theme/css/colors.css", "theme/css/tables.css", "theme/css/pagetoc.css", "theme/css/misc.css"]
-additional-js = ["theme/pagetoc.js"]
 # pagetoc.css, pagetoc.js and index.hbs by https://github.com/JorelAli/mdBook-pagetoc
+additional-css = [
+    "theme/css/colors.css",
+    "theme/css/tables.css",
+    "theme/css/misc.css",
+    "theme/css/pagetoc.css",
+    "theme/css/mdbook-admonish.css",
+]
+additional-js = ["theme/pagetoc.js"]
 
 [output.html.fold]
-enable = true      # enable/disable section folding
-level = 1          # when to start folding
+enable = false # currently not needed
+level = 1      # when to start folding
+
+[preprocessor.admonish]
+command = "mdbook-admonish"
+assets_version = "3.0.2"    # do not edit: managed by `mdbook-admonish install`

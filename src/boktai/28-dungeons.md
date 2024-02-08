@@ -116,11 +116,10 @@
 - two speednuts in north trap
 - Carmilla: use 15+1 Grenades
 
----
-
-Need 3 Empty Gourd at this point. If less, do not gourd out of water demon's cage!
-
----
+```admonish info
+You need at least 2 Empty Gourds at this point.  
+If you have 3, you can gourd out of Water Demon's Cage.
+```
 
 ### House of Darkness
 
