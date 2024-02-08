@@ -7,11 +7,11 @@
 
 :root {
   /* Element-related colors */
-  --color-sol: #c8a800;
-  --color-luna: #c0a8f0;
-  --color-dark: #981010;
-  --color-flame: #c03818;
-  --color-frost: #6068d8;
-  --color-earth: #58c050;
-  --color-cloud: #c048e0;
+  --color-sol: #eca200;
+  --color-luna: #b093ff;
+  --color-dark: #8c0000;
+  --color-flame: #ff0000;
+  --color-frost: #1293e9;
+  --color-earth: #00a000;
+  --color-cloud: #c800ff;
 }
