@@ -7,18 +7,21 @@ Credits go to the entire [Taiyoh Network Community](https://discord.gg/0dUb9OmJr
 
 ### Videos
 
-Each section of the run has a video attached to it that shows that section being played. Watch those videos for chests, pathing and enemies that need to be killed as that will be omitted from the text description.  
-The strategies shown in the videos are ideal scenarios, don’t worry if a trap or boss fight doesn’t work out exactly as shown.
+Some sections have videos attached that show that section being played. Watch those videos for chests, pathing and enemies that need to be killed as that will be omitted from the text description. If a section has no video, there will be no chests you need and every enemy is a mandatory kill.  
+The strategies shown in the videos are ideal scenarios, don’t worry if a trap or boss fight doesn’t work out exactly as shown.  
+When there are route updates, there can be small differences like inventory item order or amount that may not be worth updating a video.  
+Generally, if you pick up the same chests and kill the same enemies, you should be fine.
 
 ### Solar Gauge
 
-A recommendation on which sun strength to use for that dungeon to prevent overheat and ensure you reach the required dungeon rank where necessary. For purifications you can ignore that recommendation and always go for max.
+A recommendation on which sun strength to use for that dungeon to prevent overheat and ensure you reach the required dungeon rank where necessary.  
+For purifications you can ignore that recommendation and always go for max.
 
 ## Before the run
 
 Check the Leaderboard rules to make sure your run will be valid!
 
-If you want to play on an emulator, currently only mGBA and BizHawk are allowed.
+If you want to play on an emulator, currently only mGBA and BizHawk are allowed.  
 In the case of BizHawk, you should use _at least_ version 2.6.3 since that adds the ability to emulate an empty cartridge battery.
 
 - BizHawk: GBA > Settings > Sync Settings:
@@ -28,6 +31,7 @@ In the case of BizHawk, you should use _at least_ version 2.6.3 since that adds 
 - mGBA:
   - TODO: instructions on how to set up empty battery
 
+<img class="right" src="./assets/images/initial_time.webp"></img>
 Then in-game, set the Date and Time to
 
 - 2003 年 07 月 17 日
@@ -35,7 +39,7 @@ Then in-game, set the Date and Time to
 
 With this starting time you will
 
-- get Ghouls instead of spiders outside Fog Castle,
+- get Ghouls instead of Spiders outside Fog Castle,
 - get better enemies in Firetop Mountain,
 - skip the Night to Day cutscene if you are fast enough to get it between Firetop and Permafrost,
 - reach Delusion Forest during the early morning.
@@ -44,10 +48,10 @@ Optional on Emulator: Increase the Light on the Start Screen (visualized by Sun 
 
 To start a new run
 
-- Create a new save file,
+- create a new save file,
 - reduce the name to one character,
 - keep the default region setting,
-- select your Difficulty (every Difficulty is a separate Category, this guide is for Normal 2 which is the default),
+- keep the default difficulty (Normal 2),
 - start the timer when confirming on the Summary Screen.
 
 ## Route
@@ -55,46 +59,40 @@ To start a new run
 ### Intro
 
 Once you gain control, pause the game and set the text speed to “Fast”.  
-Optionally you can also turn off markers which can reduce lag.  
+Optionally you can also turn off markers which can slightly reduce lag.  
 Inputs needed to change the text speed and disable the markers:
 
 - <kbd>start</kbd>, <kbd>↓</kbd>, <kbd>↓</kbd>, <kbd>A</kbd>, <kbd>↓</kbd>, <kbd>→</kbd>, <kbd>↓</kbd>, <kbd>→</kbd>, <kbd>A</kbd>, <kbd>B</kbd>
 
 Text speed saves about 3-4 seconds, for markers we don’t have data.
 
-### Fog Castle
+### Fog Castle &nbsp; ![](./assets/images/1.webp)
 
-Example video embed:
+Do not run out of Energy in the bat room or the chest will not spawn.
 
-<iframe
-  style="aspect-ratio: 16/9;"
-  src="https://www.youtube.com/embed/pn0XyR89ks0"
-  title="Example video"
-  allowfullscreen
-></iframe>
+### Small Cave &nbsp; ![](./assets/images/8.webp)
+
+Need S-Rank, you cannot be seen more than once.
+
+### Gate of the Dead &nbsp; ![](./assets/images/8.webp)
+
+TODO
+
+### Ancient Forest &nbsp; ![](./assets/images/0.webp)
+
+Trap: Do not let the Golems kill each other!
+
+### Bloodrust Mansion &nbsp; ![](./assets/images/1.webp)
+
+For the Count fight increase Sun to 8, then keep it at 8 to ensure S-Rank.
 
 - Garden puzzle numbers: 3 > 9 > 8 > 6 > 5 (best to worst)
 - Time Puzzle: 7, 9, 10, 1, 3, 5, 8
 
-### Small Cave ![Solar Gauge charged to 8](./assets/images/8.webp)
+### Solar Tree &nbsp; ![](./assets/images/0.webp)
 
-TODO
-
-### Gate of the Dead ![Solar Gauge charged to 8](./assets/images/8.webp)
-
-TODO
-
-### Ancient Forest ![Solar Gauge charged to 2](./assets/images/2.webp)
-
-TODO
-
-### Bloodrust Mansion ![Solar Gauge charged to 4](./assets/images/4.webp)
-
-We need S-Rank, if you get seen 2-3 times, increase light to max to compensate.
-
-### Solar Tree
-
-TODO
+Talk to Lita, plant a single Green Apple (A, start, A).  
+Alternative, not properly tested, strategy: Plant a Gold Apple. The idea is that if you have very good Sunlight management, you will never get the "plant is grown" message.
 
 ### Deserted Arsenal 1
 
@@ -125,9 +123,8 @@ TODO
 TODO
 
 ### Sol City
-
-TODO
-Chicken Trap 5 Speednuts, 5 Bananas
+  
+Chicken Trap has 5 Speednuts and 5 Bananas
 
 ### Crusader Frame
 

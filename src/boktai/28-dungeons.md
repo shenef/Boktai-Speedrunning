@@ -113,7 +113,7 @@
 
 - ![Sol City](./assets/images/28D_sol-city.webp)
 - Don't pick up the grenades after Sabata until after Carmilla
-- two speednuts in north trap
+- Two speednuts in north trap
 - Carmilla: use 15+1 Grenades
 
 ```admonish info
