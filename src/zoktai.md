@@ -1,3 +1,5 @@
 # Boktai 2
 
-Work in Progress
+## Guides
+
+- [(WIP) Any%](./zoktai/any.md)
