@@ -1,20 +1,46 @@
-MD003:        # heading-style
+# markdownlint configuration
+# https://github.com/DavidAnson/markdownlint
+
+# heading-style
+MD003:
   style: atx
-MD004:        # ul-style
+
+# ul-style
+MD004:
   style: dash
-MD009:        # no-trailing-spaces
+
+# no-trailing-spaces
+MD009:
   strict: true
-MD013: false  # line-length
-MD024: false  # no-duplicate-heading
-MD029:        # ol-prefix
+
+# line-length
+MD013: false
+
+# no-duplicate-heading
+MD024: false
+
+# ol-prefix
+MD029:
   style: ordered
-MD033: false  # no-inline-html
-MD035:        # hr-style
+
+# no-inline-html
+MD033: false
+
+# hr-style
+MD035:
   style: ---
-MD045: false  # no-alt-text
-MD048:        # code-fence-style
+
+# no-alt-text
+MD045: false
+
+# code-fence-style
+MD048:
   style: backtick
-MD049:        # emphasis-style
+
+# emphasis-style
+MD049:
   style: underscore
-MD050:        # strong-style
+
+# strong-style
+MD050:
   style: asterisk
