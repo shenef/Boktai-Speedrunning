@@ -219,7 +219,7 @@ When you have all 3 tablets, go to the center and talk to the statue on the left
 In the next area, open this hidden chest (Power Nut)
 
 ### Puzzle
-  
+
 (light the torches in this order)
 
 Keep going, then start with the puzzle room on the right:  
@@ -228,7 +228,7 @@ After that, push the 1st block on the other switch, then use ice element on both
 
 Proceed to the puzzle room on the left:  
 Use fire element on the block, push on in the wall’s direction, then push it towards the torch
-  
+
 Open the hidden chest for a solar leaf, put all stat points into STRG stat, then use your speednut
 
 ### Puzzle room (bottom-right)
@@ -263,7 +263,7 @@ After leaving the room, proceed in the ↗️ direction, then go around and go t
 
 Take the ↙️ exit, then the last exit at the bottom, put points into STRG.  
 After the room, take the ↗️ exit, then take the stairs again in the same direction
-  
+
 In the room with ghouls, open this hidden chest.  
 After the cutscene, go through the narrow pass to break the wooden block, and push the iron block.  
 Then go through the narrow pass again and proceed in the ↖️ direction
@@ -283,13 +283,13 @@ Once outside, take the ↖️ exit nearby, use bat magic to bypass the water, an
 Use bat magic on the elevator and go through the window, then take the first entrance to push a block
 
 After pushing the block, go back but do not take the stairs, proceed in the ↙️ direction instead
-  
+
 (there is a hidden chest on the way).  
 Use bat magic go bypass the water and switch trap, open the chest for a key.  
 Proceed in the ↘️ direction, push the block and go through the 2nd door.  
 After opening the door, use bat magic to go over the narrow paths, then go through the window.  
 Go to the left and take the last entrance for a key, there is also a hidden chest
-  
+
 Go through the window again, take the first entrance, go through the door to push another block.  
 Go back and take the elevator, exit through ↙️, then go ↘️ and ↗️ to open the door.  
 Equip the first armor, select the first option during the dialog
@@ -307,7 +307,7 @@ Go to the forging house to forge Long Sword
 Go back to the dungeon, take the magic square and unlock the door, open the hidden chest here
 
 In the room with mummies, take the stairs, then go through the ↘️ exit, open another hidden chest
-  
+
 In the next room, use bat magic to go through the window on the left, then keep using mouse, go to the right (across the wood), then use bat magic to go through the last window
 
 Do not push the block, just keep going.  
@@ -328,7 +328,7 @@ Then carry the coffin and solve the puzzles.
 After solving the puzzle with 2 wooden blocks, leave the coffin, keep going and activate the lever
 
 Possible change: On the way to the lever, get blood soaked cloak (hidden chest)
-  
+
 Use a Solar Leaf and go to the purification area, leave the area through the same exit, save and soft reset (A+B+Start+Select).  
 Set the time to 2004/08/31 22:00
 
@@ -340,16 +340,16 @@ Go to Cheyenne’s shop to get the Dash magic.
 Equip the Dash, Transform, Dark and Cloud magics, then go outside and talk to Violet to trigger Nero
 
 Go to Lita’s shop & buy 2 solar leaves (you should have 4), sell cards & , then exit and follow Nero
-  
+
 Open the hidden nest near the bank for another solar leaf.  
 Before the Aqueduct dungeon, there is an optional dungeon, go inside it
 
 ## Treasury
 
 Use cloud element to push the block, then go through the first entrance to start the puzzles:
-  
+
 Rooms 3, 4 & 5:
-  
+
 Open the 1st chest in the next room for a Zweihander, then use a solar leaf to leave
 
 ## Aqueduct
@@ -376,14 +376,14 @@ Push the iron block like this, use Earth element on the block in front of you, t
 
 Use Cloud & sword to push the block on the left once ↘️
 
-Use Cloud to push the first block in the room in these directions:  
+Use Cloud to push the first block in the room in these directions:
 
 - ↖️ (sword)
 - ↗️ (spear)
 - ↖️ (spear) 2x
 - ↗️ (spear)
 
-Now, focus on the other block:  
+Now, focus on the other block:
 
 - ↘️ (sword)
 - ↗️ (sword)
@@ -419,7 +419,7 @@ Open the door, then proceed
 Farm exp in the same room until you reach lvl 21
 
 Keep going, on the way, open these 2 hidden chests for items
-  
+
 Raise AGI to 19, put the others into STRG, equip or and 2nd armor
 
 ### Trap
@@ -479,9 +479,9 @@ Push the block and go back, then activate the lever inside to unlock Sabata
 ### Puzzle
 
 Activate the first switch when the mummy is near that spot, then activate the other switches in order
-  
+
 Open the door to keep going, take the stairs, then take the ↘️ exit to go outside.  
-Use Bat magic to avoid falling off the platform, activate the switch  
+Use Bat magic to avoid falling off the platform, activate the switch
 
 Go back and take the stairs, before using the magic circle, check the hint panel for the number and the kanji.  
 As Sabata, take the elevator to keep going.
@@ -499,19 +499,19 @@ Go back and take the stairs until you reach an elevator.
 Take that elevator, do not use sunlight because there is solar wind
 
 Open these chests for items before taking the next elevator:
-  
+
 Use Sol element to kill the ghosts, activate the lever, then kill the ghosts again
 
 Push the block and start farming exp until you reach lvl 26.  
 Put points into STRG, equip Dash, Sol, Frost & Cloud elements
 
-After that, take the stairs to go back to the room below, and do the puzzle:  
+After that, take the stairs to go back to the room below, and do the puzzle:
 
 Push the block on the left in the ↘️ direction, then push the other block (↙️ ↘️) so that they’re next to each other
 
 Take the stairs and push the grey block with Cloud & spear in the ↗️ direction
 
-Break the 2nd stone block so that you can push the 1st one to cross and reach the grey block again  
+Break the 2nd stone block so that you can push the 1st one to cross and reach the grey block again
 
 Take the stairs again, use Cloud & spear on the grey block, then use Frost element
 
@@ -534,7 +534,7 @@ Open the chest for a card
 Leave the coffin, enter the tower on the ↘️ side, then take the stairs to go down
 
 Push the grey block with Cloud element, then open the last chest for a Magic Sword
-  
+
 After this, use a Solar Leaf, go to the purification area, leave through the same exit, save and reset.  
 Change in-game time to 2004/10/29 23:58 and do the purification
 
@@ -562,7 +562,7 @@ After this, skip the puzzle by using Dynamite magic near the torch
 In the next room, knock on the wall, after the stairs, walk in the ↘️ direction to avoid being seen
 
 ### Puzzle
-  
+
 In the next room, use sunlight to enable solar panels and take the ↖️ exit.  
 In this room, hit the skeletons and dash during their animation so they don’t see you
 
@@ -588,7 +588,7 @@ Take the ↘️ exit, light all the torches to open the gate
 Avoid the cockatrices in the next rooms, then light the torches on the moving platforms.  
 Have some sunlight to enable solar panels in the next room
 
-Use Dynamite on the wall here in this room and get the Garb of Darkness armor, equip it & equip Magic Sword, raise AGI to 21, put the other points into STRG  
+Use Dynamite on the wall here in this room and get the Garb of Darkness armor, equip it & equip Magic Sword, raise AGI to 21, put the other points into STRG
 
 Break the wooden blocks and take the ↗️ exit.  
 After the rooms with skeletons, take the stairs & replenish your energy
@@ -608,7 +608,7 @@ Open both chest for a key and a card then open the door in the ↙️ direction 
 Go to ↖️ direction and activate the lever.  
 Go back and take the ↙️ exit, then ↖️ to activate another lever and spawn an ice block.  
 Go through the ↗️ ↘️ ↙️ exits.  
-Use Dynamite here, then use the first wall to slide on this spot. Look in the ↗️ direction and get hit by the dynamite  
+Use Dynamite here, then use the first wall to slide on this spot. Look in the ↗️ direction and get hit by the dynamite
 
 Slide in the down direction, then slide towards the lever and activate it
 
@@ -634,14 +634,14 @@ Replenish your energy, in the next room, take the ↘️ exit
 ### Puzzle
 
 Push the stone block & use Fire element on the grey block.  
-Push the grey block with Cloud & spear (↗️ ↘️)  
+Push the grey block with Cloud & spear (↗️ ↘️)
 
 Break the stone block & push the iron block.  
 Use Earth element on the grey block.  
 Walk on the switch
 
 Go back and go through the ↗️ ↘️ ↘️ exits
-  
+
 Equip Frost element, Dash, Transform & Sleeping magics.  
 Put stat points into STRG.  
 Do not go on the platform, instead go here and use Frost & spear to extinguish the fire

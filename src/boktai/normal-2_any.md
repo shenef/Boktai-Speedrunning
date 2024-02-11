@@ -123,7 +123,7 @@ TODO
 TODO
 
 ### Sol City
-  
+
 Chicken Trap has 5 Speednuts and 5 Bananas
 
 ### Crusader Frame
