@@ -8,15 +8,17 @@ Ported from Google Docs, this is unfinished and might miss content.
 
 ## Before starting
 
-- If playing on BizHawk, make sure Skip BIOS is set to FALSE and RTC is set to FALSE in the GBA Settings (Requires v2.6.3+):
-- Set the date to 1st of August 2004 at 10PM (08/01/2004 22:00)
-- Keep the default region selection
+- If playing on BizHawk, make sure Skip BIOS is set to FALSE and RTC is set to FALSE in the GBA Settings (Requires v2.6.3+):  
+![emulatorsettings](./assets/images/image42.png)
+- Set the system time to August 1st 2004 at 10PM (2004/08/01 22:00).  
+![systemtime](./assets/images/image25.png)
+- Keep the default region selection.
 
 ## Setting up the Dark Boy password
-
-Note: The characters to use are to the left of the numbers!
-Dark Boy title grants +2 STRG & AGIL and adds 1 Power Nut & bearnut in the inventory.  
-After that, use a single character for the player name (saves a few frames each time the name shows up)
+![password](./assets/images/image100.png)  
+Note: The characters to use are to the left of the numbers!  
+Dark Boy title grants +2 STRG & AGIL and adds 1 ![powernut](./assets/images/image41.png) Power Nut & ![bearnut](./assets/images/image73.png) Bearnut to the inventory.  
+After that, use a single character for the player name (saves a few frames each time the name shows up).
 
 - If playing on English, the Dark Boy password is:  
   `h9bfvCgX +>@Hf3>-`  
@@ -24,656 +26,830 @@ After that, use a single character for the player name (saves a few frames each 
 
 ## Tutorial
 
-After the intro, open the menu and change the text speed to "Fast".  
-MENUING: Start, L, L, A, Down, Right, A
+After the intro, open the menu and change the text speed to Fast:  
+![textspeed](./assets/images/image30.png) 
 
 ### Trap
 
-- Go to ↘️ to open a chest and obtain the Gradius then go back and hit the skeleton from behind
+- Go to ↘️ to open a chest and obtain the ![gladius](./assets/images/image68.png) Gladius, then go back and hit the skeleton from behind.
 
-Keep going, in the room with another green chest, open it for a Cloth Armor.
-Unequip your current armor (less defense, faster walking speed)  
-MENUING: Start, L, L, A, A, B
+Keep going, in the room with another green chest, open it for a ![clotharmor](./assets/images/image13.png) Cloth Armor.  
+Unequip your current armor (less defense, faster walking speed).  
 
 ### Trap
 
-- Hit 3 times to trigger the cutscene, then damage boost and hit the ghoul from behind
+- Hit the ghoul 3 times to trigger the cutscene, then damage boost and hit it from behind twice.
 
 ## San Miguel
 
-After the dialogs kill the first ghoul for EXP, proceed in the ↗️ direction, in the pile driver area take the ↖️ direction.  
-Go to ↗️, kill the ghoul for EXP, enter the dungeon
+After the dialogs, kill the first ghoul for EXP then proceed in the ↗️ direction.  
+In the pile driver area take the ↖️ direction.  
+Go to ↗️, kill the ghoul for EXP, enter the dungeon.
 
 ## Cathedral
 
-Kill 2 ghouls to reach Lvl 3, upgrade AGI to 17 and put your remaining stat point into STRG
-MENUING: Start, R, R, Down, Down, Right, Down, Right, Right, Right, Right, Right, A, Left, A, B
+Kill two ghouls to reach Lvl 3, upgrade AGIL to 17 and put your remaining stat point into STRG.
 
-Push the blocks on the way (turn on sunlight during block push animations), aim for the ↗️ direction, during the cutscene turn off sunlight, after the cutscene, go to ↘️
-
-### Puzzle
-
-Open the chest for Club
-Backtrack, kill the ghoul in the cutscene room for EXP
-Destroy the first wooden block to push the 2 stone blocks (turn on sunlight during block push animations), also open the chest for a Power Nut.  
-Proceed in the ↘️ direction by destroying the wooden block
+Push the blocks on the way (turn on sunlight during block push animations), aim for the ↗️ direction.  
+During the cutscene turn off sunlight, after the cutscene go to ↘️.
 
 ### Puzzle
 
-- 1st row: push the 2nd tombstone
-- 2nd row: push 1st
-- 3rd row: push 2nd
+![firstblockpuzzle](./assets/images/image62.png)  
+Open the chest for a ![club](./assets/images/image87.png) Club.  
+Backtrack, kill the ghoul in the cutscene room for EXP.  
+Destroy the first wooden block to push the 2 stone blocks, also open the chest for a ![powernut](./assets/images/image41.png) Power Nut.  
+Proceed in the ↘️ direction by destroying the wooden block.
 
-Go back and take the stairs, turn off sunlight during door opening animation after pushing the first block, kill 5 ghouls for EXP.  
+### Puzzle
+
+- 1st row: Push the 2nd tombstone
+- 2nd row: Push 1st
+- 3rd row: Push 2nd
+
+Go back and take the stairs, kill five ghouls for EXP.  
 In the 5th room, knock on the wall near the center of the room, then hug the right wall to avoid the ghoul.  
-Use Fire element on the torches
+Use Fire on the torches.
 
 ### Puzzle
-
-Use Fire element and hammer (on levers) to keep going  
-After the dialogs, put points into STRG
+![basementpuzzle](./assets/images/image7.png)  
+Use Fire and hammer (on levers) to keep going.  
+After the dialogs, put stat points into STRG.
 
 ### Trap
 
-- Use sol element and hit them from behind
+- Use ![sol](./assets/images/image57.png) Sol and hit the skeletons from behind.
+- Stand on the third skeleton's position as it dies in case you get a random drop.
 
-Take the bottom ↖️ exit, open the chest for a Solar Leaf, knock on the central wall to lure the ghoul onto the switch to proceed.  
-Refill health on the skylight if needed, break the wooden blocks to get the key, then light the torch and place the yellow orb. Turn on sunlight during cutscene, refill Energy to at least 80% before leaving the room.
+Open the chest for the ![yelloworb](./assets/images/image85.png) Yellow Orb and take the bottom ↖️ exit.  
+Knock on the central wall to lure the ghoul onto the switch before opening the chest for a ![solarleaf](./assets/images/image19.png) Solar Leaf and proceed.  
+Break and move the wooden blocks to get the ![triangle](./assets/images/image45.png) key, then light the torch and place the ![yelloworb](./assets/images/image85.png) Yellow Orb.  
+Turn on sunlight during the cutscene, refill life if under 50% and refill energy to at least 70% before leaving the room.
 
 Go back to the trap room, then open the door in the upper ↘️ direction.  
-In this room pick up the red orb at the lightspots from the cathedral windows (Sun must be on).  
-After you get it, take the stairs.
+The ![redorb](./assets/images/image111.png) Red Orb will be in a random lightspot.  
+Check the spot directly next to the stairs, then take the stairs whether or not you found it.
 
 ### Trap
 
-- Just kill everything, put stat points into STRG if you have any by the time you kill the first ghoul, be careful because the ghouls can do some serious damage
+- Put stat points into STRG if available.  
+- The black ghoul deals heavy damage, be careful.
 
-Proceed in the ↖️ direction, fall down to get the Short Spear,then go back to this room:
+Proceed in the ↖️ direction, fall down to get the ![spear](./assets/images/image75.png) Short Spear, then go back to this room:  
+![cathedralentrance](./assets/images/image2.png)
 
 Use the spear on the lever to open the gate and proceed.
 
-Light the first torch and place the red orb, then take the stairs, light the torch and talk to the explanation panel in the bottom-left corner (necessary for a puzzle)
+Light the first torch and place the ![redorb](./assets/images/image111.png) Red Orb if you already found it, otherwise take the stairs.  
+Hold left upon entering the top floor to trigger the trapdoor and light the torch with the hammer to set up the timing to walk over the trapdoor.  
+Talk to the hint panel in the bottom-left corner (necessary for a puzzle).  
+Drop through a trapdoor and go back to the Red Orb room.
 
-After this, go back to the room where the red orb was, and light the torch with the Spear. Take the new stairs and go outside
+If you did not already get the Red Orb, check all of the lightspots whilst moving through the room, then light the torch with the spear.  
+Take the new stairs and go outside.
 
-Once outside, destroy the 2 statues with the Spear to obtain the blue orb.  
-(Use Sol enchant to reduce # of hits needed)  
-Open the orange chest in that area for a solar leaf
+Once outside, destroy the 2 statues with the spear to obtain the ![blueorb](./assets/images/image91.png) Blue Orb.  
+(Use ![sol](./assets/images/image57.png) Sol to reduce # of hits needed).  
+Open the orange chest in that area for a ![solarleaf](./assets/images/image19.png) Solar Leaf.
 
-Go back inside the cathedral and take the stairs, go where you obtained the Spear, but instead of falling, keep going in the ↖️ direction
-
-### Puzzle
-
-Talk to these books to open the gate:
-
-### Puzzle
-
-Open the first chests on the left for a Power Nut and a key
+Go back to the Red Orb room.  
+If you did not already find the Red Orb, **do not proceed before finding it.**  
+Go back to where you obtained the spear, but instead of falling, keep going in the ↖️ direction.
 
 ### Puzzle
 
-Light the torches, then push the first block to reach the 2nd one.  
-Push the 2nd block to the left, then push the block on the weight switch to activate the other switch to obtain the green orb
+Talk to these bookshelves **in this order** to open the gate:
 
-Now go back to the room with the explanation panel and place the green orb (2nd option), turn off sunlight during cutscene
+![library1](./assets/images/image80.png)
+![library2](./assets/images/image118.png)
+![library3](./assets/images/image103.png)
+![library4](./assets/images/image119.png)
 
-Proceed through the door in the ↖️ direction (Refill health on skylights), light the torch and place the last orb.  
-Now take the stairs in the trap room, refill energy on Solar Station, put points into STRG and equip the 2nd armor
+### Puzzle  
+![cathedralpuzzle1](./assets/images/image52.png)
+![cathedralpuzzle2](./assets/images/image1.png)  
+Open the first chests on the left for a ![powernut](./assets/images/image41.png) Power Nut and a ![trianglekey](./assets/images/image45.png) key.
+
+### Puzzle
+
+Light the torches with the spear, then push the first block to reach the second one.  
+Push the second block to the left, then push the block on the weight switch to activate the lamp to obtain the ![greenorb](./assets/images/image34.png) Green Orb.
+
+Now go back to the room with the hint panel and place the ![greenorb](./assets/images/image34.png) Green Orb (2nd option).  
+![greenorbroom](./assets/images/image53.png)  
+
+Turn off sunlight during the cutscene.  
+Proceed through the door in the ↖️ direction (Refill health on skylights if low).  
+Light the torch and place the ![blueorb](./assets/images/image91.png) Blue Orb.  
+Now take the new stairs in the main room and refill energy on the Solar Station.  
+Put stat points into STRG and equip the second armor.
 
 ### Boss
 
-- Light the torch in the center with the spear, if your position is good, you only need to attack once
-- Use the spear to attack Duneyrr (no element)
-- If you have time, kill the adds to reduce lag
-- Turn on sunlight during death animation
+- Light the torch in the center with the spear. With precise positioning you can hit all four candles with one attack. 
+- Use the spear to attack Duneyrr (No element to save energy, Fire to deal higher damage).
+- Kill the adds during downtime to reduce lag.
+- Turn on sunlight during her death animation.
 
-Cutscene in the ↗️ direction, open the chest for a card.  
-After picking up the coffin, unequip the armor and use a Power Nut
+Trigger the cutscene after going in the ↗️ direction, then open the chest for a ![redcard](./assets/images/image8.png) card.  
+After picking up the coffin, unequip the armor and use a ![powernut](./assets/images/image41.png) Power Nut.
 
-First, take the upper ↖️ exit in the trap room, activate the 3 weight switches by using the coffin and pushing the block, then open the blue chest (O-key), the 3 green chests (bad weapons) and the chest to the left (Power Nut)
+Take the upper ↖️ exit in the main room.  
+Activate the 3 weight switches by using the coffin and pushing the block.  
+Take the middle ↖️ exit and open the blue chest (![okey](./assets/images/image26.png) key), the 3 green chests (![dullknife](./assets/images/image48.png) ![staff](./assets/images/image55.png) ![pounder](./assets/images/image49.png) bad weapons) and the chest to the left (![powernut](./assets/images/image41.png) Power Nut).  
+Drag the coffin back to town and into the piledriver screen.
 
-Activate the 4th piledriver during the purification to skip dialogs.  
-After the purification, choose the 1st dialog
+Activate three piledrivers and leave the fourth until after you've started the purification to skip a long dialog.  
+After the purification, choose the first dialog.
 
 ## San Miguel [2]
 
 Talk to Smith near the forging house, then enter it.  
-Talk to the 2nd hint panel (the one at the top) and forge Short Sword (If the forge fails, forge again with the sword obtained and the one from the green chest in Cathedral. Time loss: ~40s), if you get a Gladius instead (40% chance), forge again with the resulting weapon and the remaining sword in your inventory.
+Talk to the second hint panel (the one at the top), then forge a ![shortsword](./assets/images/image9.png) Short Sword (![staff](./assets/images/image55.png) + ![pounder](./assets/images/image49.png)). 
 
-After forging, go in the ↘️ direction, break the wooden block on the way (do not equip the new sword yet)
+### Forge
+
+- Use 3-4 sunlight to get the slowest viable bar speed, aim for GREAT hits.
+- Do not exceed 25 total hits; this worsens the quality of your final weapon.
+
+If you get a ![gladius](./assets/images/image68.png) Gladius instead (80~% chance), forge again with the Gladius and the ![dullknife](./assets/images/image48.png) in your inventory.
+
+After forging, go in the ↘️ direction, break the wooden block on the way (do not equip the new sword yet).
 
 ## Remains
 
-In the main room with golems, go in the ↖️ direction and take the stairs
+In the main room with golems, go in the ↖️ direction, then take the stairs.
 
 ### Trap
 
-- If your armor is not equipped, be very careful as you will die in 2 hits. Try to group them up and use Sol element
+- If no armor is equipped, **be careful as you will die in 2 hits.**  
+- Try to group them up and use ![sol](./assets/images/image57.png) Sol.
 
-After you level up (2nd slime), put points into stats (AGIL to 17 and leftovers to STRG) and equip the new sword ( ).  
-Go to the left and push the block, then go back and TURN OFF SUNLIGHT before taking the ↗️ exit, or Solar Wind will kill you.
+Equip the ![shortsword](./assets/images/image9.png) Short Sword and spawn the slimes.  
+After you level up on the slimes, raise AGIL to 17 and put remaining points into STRG.  
+Unequip armor if you had it equipped for the trap.    
+Go to the left and push the block, then go back and **TURN OFF SUNLIGHT** before taking the ↗️ exit, or Solar Wind will kill you.
 
-Light the torches, during the dialog, choose the 1st option.  
-Go through the room with the torches again, after it, take the stairs and use frost element to keep going
+Light the torches and proceed.  
+During the dialog, choose the first option.  
+Backtrack through the room with the torches, then take the stairs and use ![frost](./assets/images/image110.png) Frost to keep going.
 
-After pushing the block, keep going, use fire element to melt the blocks.  
-Open the chest in the upper-left for a Power Nut.  
-Use frost element to make the block fall, now is a good time to replenish life and energy
+Push the block, then keep going ↖️.  
+Use Fire to melt the blocks.  
+Open the chest in the upper-left for a ![powernut](./assets/images/image41.png) Power Nut.  
+Use ![frost](./assets/images/image110.png) Frost to make the block fall, then replenish life and energy to 100% on the skylight.
 
 ### Traps
 
-- 1st: Use sol element to deal more damage
-- 2nd: Attack without using any element
-- 3rd: Knock on the walls so the golems stuns each other, then finish them off
+- 1st: Use ![sol](./assets/images/image57.png) Sol to deal more damage.
+- 2nd: Attack without using any element.
+- 3rd: Knock on the walls so that the golems stun each other, then finish them off.
 
-Possible change : use card manip on the chest in the 1st trap to get The Tower
+Possible change: Use card manip on the chest in the first trap to get ![bluecard](./assets/images/image24.png) The Tower.
 
-Open the blue chest for a key, then proceed in the ↘️ and open the door.  
-During the dialog, choose the 2nd choice, then takes the stairs in the next room
+Open the blue chest for a ![trianglekey](./assets/images/image45.png) key, then proceed in the ↘️ direction and open the door.  
+During the dialog, choose the second choice, then takes the stairs in the next room.
 
-Kill the bat and keep going, replenish energy before leaving the room
+Kill the bat and keep going.  
+Refill energy to at least 70% before leaving the room.
 
 ### Puzzle
 
-Put stats points into STRG and use a Power Nut and push one block like this.  
-After that, push the block on the corresponding spot, and do the same with the first block
+Use a ![powernut](./assets/images/image41.png) Power Nut and push one block towards the start of the room like this:  
+![remainspuzzle1](./assets/images/image64.png)  
+After that, push the other block on its spot, then do the same with the first block:
+![remainspuzzle2](./assets/images/image77.png)
 
-In the next room, push the block with sword and cloud element ↘️, then spear ↗️, and finish with ice element
+In the next room, push the block with sword and ![cloud](./assets/images/image46.png) Cloud ↘️, then spear ↗️, then lower it with ![frost](./assets/images/image110.png) Frost.
 
-In the room after, destroy the block with cloud element to get the key.  
+In the newly-unlocked room, destroy the block with ![cloud](./assets/images/image46.png) Cloud to get the ![trianglekey](./assets/images/image45.png) key.  
 Go back to the previous room and push the block on the left, keep going in the ↖️ direction.  
-Break the block on the way with cloud element, then select the sol element
+Break the block on the way with ![cloud](./assets/images/image46.png) Cloud, then select Fire.
 
-Open the door, kill the slime, then go through the ↘️ exit and push the block, then go back and take the stairs, proceed in the ↘️ direction
+Open the door, kill the slime, then go through the ↘️ exit and push the block.  
+Go back outside and take the stairs, then proceed in the ↘️ direction.
 
-In the room with skulls, make sure that you have no sunlight (traps deactivated), and open the chest on the left (bottom) for a speednut, then go in the ↗️ direction
+In the room with skulls, make sure that you have no sunlight (deactivates traps).  
+Open the chest on the left (bottom) for a ![speednut](./assets/images/image29.png) Speed Nut, then go in the ↗️ direction.
 
 ### Puzzle
 
-Use a Power Nut, then push the blocks like this (start with the fire block)
+Use a ![powernut](./assets/images/image41.png) Power Nut, then push the blocks like this (start with the fire block):  
+![4blockpuzzle1](./assets/images/image122.png)
+![4blockpuzzle2](./assets/images/image86.png)
+![4blockpuzzle3](./assets/images/image22.png) 
+![4blockpuzzle4](./assets/images/image54.png)
 
-Watch out for the mummies, take the stairs, then watch out for the golem at the end of the next room.  
-Keep going, in the room with fire, use fire element on the mummy to activate the torch, take the stairs.  
-Avoid the slimes and open the blue chest for a key
+Avoid the mummies and take the stairs.  
+Take the stairs to the bottom of the next room, then pass the golem whilst avoiding it.  
+Take the immediate ↙️ exit.  
+In the room with fire, use Fire on the mummy to activate the torch, then take the stairs.  
+Avoid the slimes and open the blue chest for a ![trianglekey](./assets/images/image45.png) key.
 
-Go back down and go through the opened gate, push the block and go in the ↘️ direction, then open the door
+Go back downstairs and take the ↙️ exit.  
+Push the block and go in the ↘️ exit.  
+Open the ↗️ door and proceed.
 
 ### Trap
 
-- It’s an axe! Use sol element to deal more damage, then open all the chests for a key, the Dynamite magic, and a card
+- It’s an axe!!  
+- Use ![sol](./assets/images/image57.png) Sol to deal more damage.  
 
-Using sol element consumes less energy, but still increases damage, so it’s better to use this one
+Open all the chests for a ![okey](./assets/images/image26.png) key, the ![dynamite](./assets/images/image4.png) Dynamite magic, and a ![greencard](./assets/images/image70.png) card.
 
-If you aren’t Lvl 10 yet, kill a Golem in the central room with Cloud element to reach Lvl 10.
+If you aren’t Lvl 10 yet, kill a Golem in the central room with ![cloud](./assets/images/image46.png) Cloud to reach Lvl 10.
 
-Now go back to where Sabata was ( ↘️), keep going the in the same direction.
+Now go back to where Sabata was (↘️) and keep going the in the same direction.
 
-Open this hidden chest (solar leaf), then open the door.
+Open this hidden chest (![solarleaf](./assets/images/image19.png) Solar Leaf), then open the door.  
+![remainsleafchest1](./assets/images/image10.png)  
 
 Once outside, talk to the fountain to get water, then proceed.
 
-For this part, you have to find 3 stone tablets, these can be in any of these spots:
+You must now find three ![stonetablet](./assets/images/image97.png) stone tablets that are in random spots on eight screens:  
+![desert1](./assets/images/image101.png) 
+![desert2](./assets/images/image65.png)
+![desert3](./assets/images/image89.png)
+![desert4](./assets/images/image38.png)
+![desert5](./assets/images/image109.png)
+![desert6](./assets/images/image50.png)
+![desert7](./assets/images/image121.png)
+![desert8](./assets/images/image92.png)
 
-When you have all 3 tablets, go to the center and talk to the statue on the left
+When you have all three tablets, go to the central screen and talk to the statue on the left:
+![desertend](./assets/images/image81.png)
 
-In the next area, open this hidden chest (Power Nut)
+In the next area, open this hidden chest (![powernut](./assets/images/image41.png) Power Nut):  
+![remainspowerchest](./assets/images/image106.png)
 
 ### Puzzle
+Light the torches in this order:  
+![remainslamps](./assets/images/image120.png)  
 
-(light the torches in this order)
+Go downstairs, run through the golem and take the ↙️ exit.  
 
-Keep going, then start with the puzzle room on the right:  
-Use spear & cloud element on the 1st block to push it above the hole, push the 2nd block on the weight switch.  
-After that, push the 1st block on the other switch, then use ice element on both blocks
+Start with the puzzle room on the top-right:  
+Use spear & ![cloud](./assets/images/image46.png) Cloud on the first block to push it ↘️.  
+Push the second block ↘️ onto the weight switch.  
+Push the first block ↖️↗️↖️ onto the other switch, then use ![frost](./assets/images/image110.png) Frost on both blocks.
 
-Proceed to the puzzle room on the left:  
-Use fire element on the block, push on in the wall’s direction, then push it towards the torch
+Proceed to the puzzle room on the top-left:  
+Use Fire on the block, then use ![cloud](./assets/images/image46.png) Cloud to push it against the wall, then push it towards the torch.  
 
-Open the hidden chest for a solar leaf, put all stat points into STRG stat, then use your speednut
+Open the hidden chest for a ![solarleaf](./assets/images/image19.png) Solar Leaf:  
+![remainsleafchest2](./assets/images/image104.png)  
 
-### Puzzle room (bottom-right)
+Put all stat points into STRG, then use your ![speednut](./assets/images/image29.png) Speed Nut.  
+Refill energy to 50% before leaving the room.
 
-Activate the first lever, then run in the south direction.  
-When you’re close enough, walk on the switch
+Proceed to the puzzle room on the bottom-left:  
+Activate all of the floor switches, then hit the lever with the spear.  
+Equip sword and ![sol](./assets/images/image57.png) Sol before leaving the room.
 
-For the last puzzle room, you just need to activate all the switches, replenish energy if it’s below 70%
+Proceed to the final puzzle room on the bottom-right:  
+Activate the first lever with the sword, then run in the south direction.  
+When you’re close enough, walk onto the switch.
 
 ### Boss
 
-- Stay away so that Sabata doesn’t get hit too often
-- Hit the vampire when necessary, so that he moves away
-- Try to position yourself so that the swords don’t go in Sabata’s direction
-- When the vampire is stuck in the dark orb, use sol element
+- Stay away so that Sabata doesn’t get hit.
+- Position yourself so that the swords don’t go in Sabata’s direction.
+- Only hit the vampire when the black hole is active.  
+- Face in the same direction as the vampire to push him into the black hole faster.  
+- When the vampire is stuck in the black hole, use ![sol](./assets/images/image57.png) Sol.
 
-During the Sabata section, use Power Nuts to go back to San Miguel and do the purification.  
-Don’t forget to keep some energy for the purification
+Once you gain control of Sabata, use ![powernut](./assets/images/image41.png) Power Nuts to drag the coffin back to San Miguel.  
+**Don’t forget to keep some energy for the purification.**
 
 ## San Miguel [3]
 
-Replenish energy and HP, then buy the elefan coffin (160 solls).  
-Equip the dark element, mouse and bat magics, select your Spear
+Replenish energy and HP, then buy the ![elefan](./assets/images/image14.png) Elefan coffin (160 solls).  
+Equip ![dark](./assets/images/image116.png) Dark, Mouse and ![bat](./assets/images/image5.png) Bat, then select spear.
 
-Go to the piledriver area and kill the 2 plants on the right with Spear and dark element, then leave and come back to kill them again, repeat this until you reach lvl 13.  
-After this, take the ↘️ exit, break the 2 blocks, and push the slime with the hammer, aim for ↗️ exit
+Go to the piledriver area.  
+Kill the two dark roots on the right with spear and ![dark](./assets/images/image116.png) Dark, then leave **through the way you came in.**  
+Go back to the piledriver ares and  repeat this until you reach lvl 13.  
+Take the ↘️ exit, break the two blocks and push the slime with the hammer.  
+Take the furthest ↗️ exit.
 
 ## Dark Town
 
-Open the first chest for a sunscreen.  
-After leaving the room, proceed in the ↗️ direction, then go around and go through the narrow pass (↘️ direction)
+Open the first chest for a ![sunscreen](./assets/images/image28.png) Sunscreen.  
+After leaving the room, proceed in the ↗️ direction, then go around and go through the narrow passage (↘️ direction).
 
-Take the ↙️ exit, then the last exit at the bottom, put points into STRG.  
-After the room, take the ↗️ exit, then take the stairs again in the same direction
+Take the ↙️ exit, then the last exit at the bottom.  
+Take the ↗️ exit, then take the stairs again in the same direction.  
 
-In the room with ghouls, open this hidden chest.  
-After the cutscene, go through the narrow pass to break the wooden block, and push the iron block.  
-Then go through the narrow pass again and proceed in the ↖️ direction
+In the room with the ghouls, open this hidden chest:  
+![citychest1](./assets/images/image117.png)  
 
-Go through the 2nd door, use mouse magic to proceed and activate the lever, then take the stairs.  
+After the cutscene, go through the narrow pass to break the wooden block, then push the iron block.  
+Go back through the narrow pass and proceed in the ↖️ direction.
+
+Go through the second door, use Mouse to proceed and activate the lever, then take the stairs.  
 Take the ↙️ exit, then take the stairs.  
-Use bat magic to go through the window
+Use ![bat](./assets/images/image5.png) Bat to go through the window.
 
-After the room with mummies, use mouse magic on the elevator to keep going and push a block.  
+After the room with mummies, use Mouse on the elevator to keep going and push a block.  
 Go back and take the elevator without transforming.  
-Use bat magic to go over the water, get the key
+Use ![bat](./assets/images/image5.png) Bat to go over the water, get the ![okey](./assets/images/image26.png) key.
 
-Go back again and take the ↘️ exit, then go through the first door (it’s the same rooms as before).  
-Take the stairs to go up, open the door, then take the stairs go down.  
-Once outside, take the ↖️ exit nearby, use bat magic to bypass the water, and go through the door
+Go back and take the ↘️ exit, then go through the first door to backtrack to where you first used Mouse.  
+Take the stairs and open the locked door, then take the stairs to go down.  
+Once outside, take the ↖️ exit nearby, use ![bat](./assets/images/image5.png) Bat to go over the water, then go through the door.
 
-Use bat magic on the elevator and go through the window, then take the first entrance to push a block
+Use ![bat](./assets/images/image5.png) Bat on the elevator and go through the window, then take the first entrance to push a block.
 
-After pushing the block, go back but do not take the stairs, proceed in the ↙️ direction instead
+Go back inside but do not take the stairs, proceed in the ↙️ direction instead.  
 
-(there is a hidden chest on the way).  
-Use bat magic go bypass the water and switch trap, open the chest for a key.  
-Proceed in the ↘️ direction, push the block and go through the 2nd door.  
-After opening the door, use bat magic to go over the narrow paths, then go through the window.  
-Go to the left and take the last entrance for a key, there is also a hidden chest
+Pick up this hidden chest on the way:  
+![citychest2](./assets/images/image67.png)
+ 
+Use ![bat](./assets/images/image5.png) Bat to go over the water and switch trap, then open the chest for a ![okey](./assets/images/image26.png) key.  
+Proceed in the ↘️ direction, push the block and go through the second door.  
+After opening the door, use ![bat](./assets/images/image5.png) Bat to go over the narrow paths, then go through the window.  
+Go to the left and take the last exit for a ![okey](./assets/images/image26.png) key, there is also a hidden chest:
+![darkroomchest](./assets/images/image84.png)
 
-Go through the window again, take the first entrance, go through the door to push another block.  
+Go through the window again and take the first exit.  
+Go through the door to push another block.  
 Go back and take the elevator, exit through ↙️, then go ↘️ and ↗️ to open the door.  
-Equip the first armor, select the first option during the dialog
+Equip the first armor and put stat points into STRG.  
+Select the first option during the dialog.
 
 ### Cheyenne
 
-- Use Dark element, keep hitting him non-stop
-- Try to aim in the proper directions so that hits counts as back hits (more damage)
+- Use ![dark](./assets/images/image116.png) Dark, keep hitting him non-stop.
+- Try to aim in the correct direction so that hits counts as back hits for higher damage.
 
-Take the magic square, unequip the armor and use a solar leaf to leave the dungeon.  
+Take the magic circle, unequip the armor and use a ![solarleaf](./assets/images/image19.png) Solar Leaf to leave the dungeon.  
 Take the ↙️ and ↖️ exits to go to San Miguel.  
-Talk to Cheyenne to unlock the weapon shop, and buy Short Sword and Broadsword.  
-Go to the forging house to forge Long Sword
+Talk to Cheyenne to unlock the weapon shop, and buy ![shortsword](./assets/images/image9.png) Short Sword and ![broadsword](./assets/images/image78.png) Broadsword.  
+Go to the forging house to forge ![longsword](./assets/images/image37.png) Long Sword (![shortsword](./assets/images/image9.png)  + ![broadsword](./assets/images/image78.png)).
 
-Go back to the dungeon, take the magic square and unlock the door, open the hidden chest here
+Go back to the dungeon.  
+Take the magic circle and unlock the door, open the hidden chest here:  
+![citychest3](./assets/images/image71.png)
 
-In the room with mummies, take the stairs, then go through the ↘️ exit, open another hidden chest
+In the room with mummies, take the stairs, then go through the ↘️ exit.  
+Open another hidden chest:  
+![citychest4](./assets/images/image102.png)  
 
-In the next room, use bat magic to go through the window on the left, then keep using mouse, go to the right (across the wood), then use bat magic to go through the last window
+In the next room, use ![bat](./assets/images/image5.png) Bat to go through the window on the left, then keep using Mouse, go to the right (across the wood), then use ![bat](./assets/images/image5.png) Bat to go through the last window.
 
 Do not push the block, just keep going.  
-Replenish your energy and equip the new sword and 2nd armor before the fight
+Refill your life/energy and equip the new sword and second armor before entering the boss fight.
 
 ### Boss
 
 - 1st phase:
-  - Keep hitting her, tank the hits and use healing items
+  - Keep hitting the bulb. Tank the hits and use healing items.
 - 2nd phase:
-  - Hit the correct bulb; look for the vibrating bulb, or you can use bat magic to see which one it is
-  - Use dark element x3 once the bulb is opened
+  - Hit the correct bulb; look for the vibrating bulb, or you can use ![bat](./assets/images/image5.png) Bat to see which one it is.
+  - Use ![dark](./assets/images/image116.png) Dark x3 once the bulb is opened.
 - 3rd phase:
-  - Use dark element, hit her right as she spawns to cancel her attacks
+  - Use ![dark](./assets/images/image116.png) Dark, hit her right as she spawns to cancel her attacks.
 
-Go in the ↗️ room for a card.  
-Then carry the coffin and solve the puzzles.  
-After solving the puzzle with 2 wooden blocks, leave the coffin, keep going and activate the lever
+Go in the ↗️ room for a ![redcard](./assets/images/image8.png) card if you need money.  
 
-Possible change: On the way to the lever, get blood soaked cloak (hidden chest)
+Drag the coffin and solve the puzzles.  
+After solving the puzzle with 2 wooden blocks, leave the coffin.  
+Keep going alone and activate the lever.
 
-Use a Solar Leaf and go to the purification area, leave the area through the same exit, save and soft reset (A+B+Start+Select).  
-Set the time to 2004/08/31 22:00
+Possible change: On the way to the lever, get ![bloodcloak](./assets/images/image23.png) Blood-Soaked Cloak (hidden chest):  
+![bloodcloakchest](./assets/images/image40.png)
 
-The coffin is now in the piledriver area, you can do the purification, equip Sol element after the cutscene
+Use a ![solarleaf](./assets/images/image19.png) Solar Leaf to leave and go to the piledriver area.  
+Leave the area through the same exit, save the game and soft reset (A+B+Start+Select). 
+
+Set the system time to 2004/08/31 22:00.  
+The coffin is now in the piledriver area.  
+
+Do the purification and equip ![sol](./assets/images/image57.png) Sol after the cutscene.
 
 ## San Miguel [4]
 
-Go to Cheyenne’s shop to get the Dash magic.  
-Equip the Dash, Transform, Dark and Cloud magics, then go outside and talk to Violet to trigger Nero
+Go to Cheyenne’s shop and talk to him directly to get the ![dash](./assets/images/image44.png) Dash magic.  
+**Use this for movement whenever possible.**  
 
-Go to Lita’s shop & buy 2 solar leaves (you should have 4), sell cards & , then exit and follow Nero
+Equip ![dash](./assets/images/image44.png) Dash, Transform, ![dark](./assets/images/image116.png) Dark and ![cloud](./assets/images/image46.png) Cloud, then go outside and talk to Violet to trigger Nero.
 
-Open the hidden nest near the bank for another solar leaf.  
-Before the Aqueduct dungeon, there is an optional dungeon, go inside it
+Go to Lita’s shop & buy two ![solarleaf](./assets/images/image19.png) Solar Leaves (you should now have four), sell ![redcard](./assets/images/image8.png) ![greencard](./assets/images/image70.png) cards & ![bearnut](./assets/images/image73.png), then exit and follow Nero.
+
+Open the hidden chest near the bank for a fifth ![solarleaf](./assets/images/image19.png) Solar Leaf:  
+![sanmiguelchest](./assets/images/image93.png)  
+Before the Aqueduct dungeon, there is an optional dungeon. Go inside it.
 
 ## Treasury
 
-Use cloud element to push the block, then go through the first entrance to start the puzzles:
+Use ![cloud](./assets/images/image46.png) Cloud to push the block, then go into the first entrance and solve the puzzles:  
+![treasury1](./assets/images/image15.png) 
+![treasury2](./assets/images/image123.png)  
+![treasury3](./assets/images/image95.png)
+![treasury4](./assets/images/image88.png)
+![treasury5](./assets/images/image36.png)
 
-Rooms 3, 4 & 5:
-
-Open the 1st chest in the next room for a Zweihander, then use a solar leaf to leave
+Open the first chest in the final room for a ![zweihander](./assets/images/image31.png) Zweihander, then use a ![solarleaf](./assets/images/image19.png) Solar Leaf to leave.
 
 ## Aqueduct
 
-Go inside the Aqueduct to receive the Earth element magic, then leave
+Go inside the Aqueduct to receive ![earth](./assets/images/image74.png) Earth, then leave.
 
 ## Cathedral [2]
 
-Keep going in the ↗️ direction, on the way, open the chest for a Power Nut (before the room where the 2 statues were destroyed), then proceed in the ↖️ direction and use the magic on the lily pads to open the chest and get a tarot card, then use a solar leaf to leave.
+Go in the ↗️ direction.  
+On the way, open the chest for a ![you can write an optional image title here](./assets/images/image41.png) Power Nut, then proceed in the ↖️ direction.  
+Use ![you can write an optional image title here](./assets/images/image43.png) on the lily pads to open the chest and get a ![you can write an optional image title here](./assets/images/image69.png) Tarot Card, then use a ![solarleaf](./assets/images/image19.png) Solar Leaf to leave.
 
-On the way to the next dungeon, go through the piledriver area and kill all 4 dark roots for exp
+On the way to the next dungeon, go through the piledriver area and kill all four dark roots for EXP.
 
 ## Dark Town [2]
 
-Keep going in the ↗️ direction, then go through the door and take the platform.  
-After the rooms with ghouls, take the ↗️ exit, keep going, once outside go through the first entrance
+Pick up the ![you can write an optional image title here](./assets/images/image28.png) Sunscreen in the first main room.  
+Go in the ↗️ direction past the iron block, then go through the door and take the platform.  
+After the rooms with ghouls, take the ↗️ exit.  
+Once outside, go through the first entrance.
 
 ### Puzzle
 
-Equip Fire, Frost, Cloud and Earth elements.  
-Use Fire on the first block
+Equip Fire, ![frost](./assets/images/image110.png) Frost, ![cloud](./assets/images/image46.png) Cloud and ![earth](./assets/images/image74.png) Earth.  
+Use Fire on the first block. 
+Push the iron block like this:   
+![citypuzzle1](./assets/images/image58.png)  
+Use ![earth](./assets/images/image74.png) Earth on the block next to the iron block, then push the iron block in the hole.
 
-Push the iron block like this, use Earth element on the block in front of you, then push the iron block in the hole
+Use ![cloud](./assets/images/image46.png) Cloud & sword to push the block on the left once ↘️.
 
-Use Cloud & sword to push the block on the left once ↘️
-
-Use Cloud to push the first block in the room in these directions:
-
+Use ![cloud](./assets/images/image46.png) Cloud to push the first block in the room in these directions:  
+![citypuzzle2](./assets/images/image99.png)
 - ↖️ (sword)
 - ↗️ (spear)
 - ↖️ (spear) 2x
 - ↗️ (spear)
 
-Now, focus on the other block:
-
+Now use ![cloud](./assets/images/image46.png) Cloud on the other block:  
+![citypuzzle3](./assets/images/image94.png)
 - ↘️ (sword)
 - ↗️ (sword)
 - ↖️ (spear)
 - ↗️ (spear)
 
-Use the spear & Frost element to freeze both cubes at once.  
-Take the stairs, equip Dark element, Mouse, Transform & Dash
+Use spear & ![frost](./assets/images/image110.png) Frost to freeze both blocks at once.  
+Take the stairs, equip ![dark](./assets/images/image116.png) Dark, Mouse, Transform & ![dash](./assets/images/image44.png) Dash.
 
-Keep going (↙️ ↖️ ↗️), use mouse to go through the hole, then open the chest for a tarot card.  
-During the cutscene, choose the 1st option, replace mouse magic by Dynamite, then use a solar leaf to leave, then proceed in the ↙️ direction (kill the dark root)
+Keep going (↙️ ↖️ ↗️), use Mouse to go through the hole, then open the chest for a ![tarotcard](./assets/images/image69.png) Tarot Card.  
+During the cutscene, choose the first option.  
+Replace Mouse with ![dynamite](./assets/images/image4.png) Dynamite, then use a ![solarleaf](./assets/images/image19.png) Solar Leaf to leave.  
+Proceed in the ↙️ direction (kill the dark root).  
+Go back to the Remains.
 
 ## Remains [2]
 
-In the golems room, take the ↗️ exit, then the 2nd ↖️ exit.  
-Proceed in the ↗️ direction (do not take the stairs), use Dynamite on the wall next to the ghouls on the left, then kill the dark root and open the chest for the last tarot card, use a solar leaf again
+In the golem room, take the ↗️ exit, then the second ↖️ exit.  
+Proceed in the ↗️ direction (do not take the stairs).  
+Use ![dynamite](./assets/images/image4.png) Dynamite on the wall next to the ghoul on the top-left, then proceed.  
+Kill the dark root and open the chest for the last ![tarotcard](./assets/images/image69.png) Tarot Card, then use a ![solarleaf](./assets/images/image19.png) Solar Leaf to leave.
 
 ## San Miguel [5]
 
-Forge + to get either a Flamberge or a Katana, focus on GOOD to get a bonus (+03).  
-This leads to more damage compared to having the SP effect because of the damage formula
+Forge ![longsword](./assets/images/image37.png) + ![zweihander](./assets/images/image31.png) to get either a ![flamberge](./assets/images/image6.png) Flamberge or a ![katana](./assets/images/image33.png) Katana.  
+Focus on GOOD hits to get a bonus (+03).  
+This leads to more damage compared to having the SP effect because of the damage formula.
 
-Getting a Katana (R-Rank weapon) is random, however it will save extra time, especially in Spiral Tower because Katana has higher attack
+Getting a ![katana](./assets/images/image33.png) Katana (R-Rank weapon) is random, however it will save more time because ![katana](./assets/images/image33.png) Katana has higher attack.
 
 ## Aqueduct [2]
 
-Open the door, then proceed
+Open the door, then proceed.
 
 ### Trap
 
-- Use vampire django, no element & sword
+- Use Black Django, no element & sword.
 
-Farm exp in the same room until you reach lvl 21
+Farm EXP in the same room until you reach lvl 21.
 
-Keep going, on the way, open these 2 hidden chests for items
+Keep going, on the way open these two hidden chests for items:  
+![aqueduct1](./assets/images/image66.png)
+![aqueduct2](./assets/images/image51.png)
 
-Raise AGI to 19, put the others into STRG, equip or and 2nd armor
+Raise AGIL to 19, then put remaining stat point into STRG.  
+Equip ![flamberge](./assets/images/image6.png) or ![katana](./assets/images/image33.png), and ![clotharmor](./assets/images/image13.png) 2nd armor.
 
 ### Trap
 
-- Use Fire element, after the fight, replenish life & energy with the skylight
+- Use Fire, after the fight replenish life/energy with the skylight.
 
 ### Trap
 
-- Use Sol element & hit them in the back, replenish life & energy after this
+- Use ![sol](./assets/images/image57.png) Sol and hit them in the back, replenish life/energy after this.
 
 ### Boss
 
-- Use Flamberge or Katana with Fire element
-- Use the skylight to replenish life & energy
-- When she’s charging, time your hit so it cancels her attack
-- If she’s at 1 HP and far away, shoot her with elefan coffin (vampire django & Sleeping magic)
+- Use ![flamberge](./assets/images/image6.png) Flamberge or ![katana](./assets/images/image33.png) Katana with Fire.
+- Use the skylight to replenish life/energy as needed.
+- When she charges you, time your hit so that it cancels her attack.
+- If she’s at 1 HP and far away, shoot her with ![elefan](./assets/images/image14.png) Elefan coffin (Black Django & ![sleeping](./assets/images/image39.png) Sleeping).
 
-After the boss fight, use a solar leaf
+After the boss fight, use a ![solarleaf](./assets/images/image19.png) Solar Leaf to leave.
 
 ## San Miguel [6]
 
-Go into the clockhouse and talk to the NPC, keep talking, change in-game time to 2004/09/30 22:xx
-Now go to the purification area and do the purification
-Go in the ↗️ direction, equip Dark element & Bat magic & put points into STRG
+Go into the clockhouse and talk to the NPC.  
+Keep talking, then change the system time to 2004/09/30 22:xx.  
+Go to the piledriver area and do the purification.  
+Go in the ↗️ direction, equip ![dark](./assets/images/image116.png) Dark, ![bat](./assets/images/image5.png) Bat and put stat points into STRG.
 
 ## Spiral Tower
 
 Avoid the slimes and take the stairs, then go in the ↘️ direction.  
-Use Bat magic, push the block, then go back and fall through the trap to the left side of the room.  
-Use your spear to hit the switch, then push the block and use the magic circle to switch to Sabata
+Use ![bat](./assets/images/image5.png) Bat to pass over the narrow walkway and push the block.  
+Go back and fall through the trapdoor on the left side of the room.  
+Use your spear to hit the switch, then push the block and use the magic circle to switch to Sabata.
 
-Take the stairs, use Zero Shift to go through enemies.  
-On the way, step on the switch to open a gate for Django, then keep going until you reach the switch outside, step on it, then use the magic circle to switch back to Django
+Take the stairs, use ![zeroshift](./assets/images/image56.png) Zero Shift to go through enemies.  
+On the way, step on the switch to open a gate for Django, then keep going.  
+Step on the switch outside, then use the magic circle to switch back to Django.
 
 Take the stairs to go outside, step on the switch and take the elevator.  
-In the 2nd room with cockatrices, you can use solar panels for shortcuts
+In the second room with cockatrices, you can use solar panels as a shortcut.
 
 ### Trap
 
-- Use vampire django & Dark element
+- Use Black Django & ![dark](./assets/images/image116.png) Dark.
 
-Possible change: use card manip on the chest to get The Tower
+Possible change: use card manip on the chest to get ![bluecard](./assets/images/image24.png) The Tower.
 
-Take the ↖️ exit, once outside, take the stairs.  
+Take the ↖️ exit.  
+Once outside, take the stairs.  
 Dodge the golems and go in the ↘️ direction, then activate the lever and switch to Sabata.  
-Take the elevator and take the stairs at the bottom of the room.  
-Shoot the enemy outside (where Django is), then go back and take the other stairs
 
-Kill the ghoul to get the key and open the door, before going outside, replenish your energy.  
-Once outside, shoot the lever and use the magic circle to switch back to Django
+Take the elevator, then take the stairs at the bottom of the room.  
+Shoot the enemy outside (where Django is), then go back and take the other stairs.
 
-As Django, take the elevator, then go through the ↘️ exit
+Kill the ghoul to get the key and open the door.  
+**Before going outside, replenish some energy.**  
+
+Once outside, shoot the lever and use the magic circle to switch back to Django.
+
+As Django, take the elevator, then go through the ↘️ exit.
 
 Activate levers and switch characters during this puzzle to activate the brown lever.  
-Push the block and go back, then activate the lever inside to unlock Sabata
+During Sabata's segments, use a charge attack to hit the closest grey lever and minimise movement.  
+
+Push the block and go back inside, then activate the lever to free Sabata.
 
 ### Puzzle
 
-Activate the first switch when the mummy is near that spot, then activate the other switches in order
+Activate the first switch when the mummy is near its spot, then activate the other switches in order after the first bomb detonates:  
+![mummyswitches](./assets/images/image82.png)
 
 Open the door to keep going, take the stairs, then take the ↘️ exit to go outside.  
-Use Bat magic to avoid falling off the platform, activate the switch
+Use ![bat](./assets/images/image5.png) Bat to avoid falling off the platform and activate the switch.  
+**If no armor is equipped, the flame jets will easily kill you.**
 
-Go back and take the stairs, before using the magic circle, check the hint panel for the number and the kanji.  
-As Sabata, take the elevator to keep going.
+Go back inside and take the stairs.  
 
-### Puzzle
+Before using the magic circle, **check the hint panel for the number and the kanji.**  
+![kanji1](./assets/images/image108.png)  
 
-After this, check the hint panel and switch back to Django, go through the gate and push the block based on the hint panels and the statue.  
+As Sabata, take the elevator and keep going.
+
+### Puzzle  
+Use a ![powernut](./assets/images/image41.png) Power Nut:  
+![sabatablocks1](./assets/images/image115.png)
+![sabatablocks2](./assets/images/image21.png)
+![sabatablocks3](./assets/images/image27.png)
+
+After this, **check the hint panel** and switch back to Django.  
+![kanji2](./assets/images/image11.png)
+
+Go through the gate and push the iron block based on the hint panels and the statue.  
 北 = North, 南 = South, 東 = East, 酉 = West
 
 ### Trap
 
-- Put points in STRG, use vampire django & Dark element, open the chest after for a random card
+- Put stat points into STRG, use Black Django & ![dark](./assets/images/image116.png) Dark.  
 
-Go back and take the stairs until you reach an elevator.  
-Take that elevator, do not use sunlight because there is solar wind
+Open the chest afterwards for a random card.
 
-Open these chests for items before taking the next elevator:
+Go back inside and take the stairs until you reach an elevator.  
+Take the elevator to go outside. 
 
-Use Sol element to kill the ghosts, activate the lever, then kill the ghosts again
+This outdoors screen has solar wind that will push you if using sunlight.  
+Use the solar walkway to go straight to the next elevator if you don't need pickups.  
 
-Push the block and start farming exp until you reach lvl 26.  
-Put points into STRG, equip Dash, Sol, Frost & Cloud elements
+If you do need pickups, open these chests for items (![meat1](./assets/images/image35.png) ![solarnut](./assets/images/image63.png) ![solarleaf](./assets/images/image19.png) ![meat2](./assets/images/image60.png)) before taking the next elevator:  
+![spiralchests1](./assets/images/image114.png)
+![spiralchests2](./assets/images/image61.png)
 
-After that, take the stairs to go back to the room below, and do the puzzle:
+Use ![sol](./assets/images/image57.png) Sol to kill the ghosts, activate the lever, then kill the ghosts again.
 
-Push the block on the left in the ↘️ direction, then push the other block (↙️ ↘️) so that they’re next to each other
+Push the block and farm EXP until you reach lvl 26.  
+Put stat points into STRG, equip ![dash](./assets/images/image44.png) Dash, ![sol](./assets/images/image57.png) Sol, ![frost](./assets/images/image110.png) Frost & ![cloud](./assets/images/image46.png) Cloud.
 
-Take the stairs and push the grey block with Cloud & spear in the ↗️ direction
+Take the stairs to go back to the room below and use a ![powernut](./assets/images/image41.png) Power Nut to do the puzzle.  
 
-Break the 2nd stone block so that you can push the 1st one to cross and reach the grey block again
+Push the block on the left in the ↘️ direction, then push the other block (↙️ ↘️) so that they’re next to each other.  
+![spiralcloudpuzzle1](./assets/images/image96.png)
 
-Take the stairs again, use Cloud & spear on the grey block, then use Frost element
 
-Then proceed in the ↘️ direction
 
-As Sabata, take the stairs, go through the 2nd slime and shoot in the ↗️ direction to activate the lever, then take the stairs and go through the other slime to reach Django (↖️ direction)
+Push the grey block with ![cloud](./assets/images/image46.png) Cloud & spear in the ↗️ direction.
 
-During the dialogs, choose the 2nd option to avoid a game over
+Break the second stone block so that you can push the first one to cross and reach the grey block again:  
+![spiralcloudpuzzle2](./assets/images/image17.png)
+
+Push the grey block onto the switch with ![cloud](./assets/images/image46.png) Cloud & spear, then use ![frost](./assets/images/image110.png) Frost.  
+Proceed in the ↘️ direction.
+
+As Sabata, take the stairs.  
+Go through the southern slime and shoot in the ↗️ direction to activate the final lever.  
+Go back downstairs and go through the other slime to reach Django (↖️ direction).
+
+During the dialog, choose the second option to avoid a Game Over.
 
 ## Boss
 
 - 1st phase:
-  - Stay away so that Sabata doesn’t get hit too often, destroy dark orbs when Dainn spawns them
-  - Don’t attack Dainn, instead, focus on good positions to avoid swords easily
-  - When Dainn is stuck in the dark orb, use Sol element
+  - Stay away so that Sabata doesn’t get hit.  
+  - When Dainn spawns dark orbs, destroy them with ![sol](./assets/images/image57.png) Sol.  
+  - Don’t attack Dainn, instead, focus on good positions to avoid swords easily.
+  - When Dainn is stuck in the black hole, use ![sol](./assets/images/image57.png) Sol.
+
 - 2nd phase:
-  - Use Sol element & avoid attacks at all cost
+  - Use ![sol](./assets/images/image57.png) Sol & avoid Dainn's attacks at all cost.
 
-Open the chest for a card
-Leave the coffin, enter the tower on the ↘️ side, then take the stairs to go down
+Open the chest for a ![redcard](./assets/images/image8.png) card.  
+Leave the coffin, enter the tower on the ↘️ side, then take the stairs to go down.
 
-Push the grey block with Cloud element, then open the last chest for a Magic Sword
+Push the grey block with ![cloud](./assets/images/image46.png) Cloud, then open the last chest for a ![magicsword](./assets/images/image83.png) Magic Sword: 
+![magicswordblock](./assets/images/image18.png)
+![magicswordchest](./assets/images/image90.png)
 
-After this, use a Solar Leaf, go to the purification area, leave through the same exit, save and reset.  
-Change in-game time to 2004/10/29 23:58 and do the purification
+Use a ![solarleaf](./assets/images/image19.png) Solar Leaf to leave.  
+Go to the piledriver area, leave through the same exit, save the game and soft-reset.  
+Change the system time to 2004/10/29 23:58.  
+Begin the purification.
 
-Do the purification, skip the chest after
+Do the purification as Black Django, use ![sunscreen](./assets/images/image28.png) Sunscreen to avoid taking damage from the sunlight.  
+Skip the chest afterwards.
 
 ## San Miguel [7]
 
-Go to Lita’s shop, sell items except for 1 sunscreen and fill the inventory with:
+Go to Lita’s shop, sell items except for one ![sunscreen](./assets/images/image28.png) Sunscreen and fill the inventory with:
 
-- 6 Solar Nuts
-- Other spots with Earthly Nuts or better healing items
+- Six ![solarnut](./assets/images/image63.png) Solar Nuts.
+- Other slots with ![earthlynut](./assets/images/image112.png) Earthly Nuts or better healing items.
 
-Go to Cheyenne’s shop, buy Claymore and Bardiche.  
-Equip these weapons, puts stat points into STRG, equip Dynamite & Cloud element.  
-Proceed in the ↗️ direction
+Go to Cheyenne’s shop and buy ![claymore](./assets/images/image16.png) Claymore and ![bardiche](./assets/images/image79.png) Bardiche.  
+Equip these weapons.  
+
+Put stat points into STRG, equip ![dynamite](./assets/images/image4.png) Dynamite & ![cloud](./assets/images/image46.png) Cloud.  
+Proceed in the ↗️ direction.
 
 ## Undead Zone [1]
 
 In the room on the ↖️ side, knock on the wall to lure the skeletons, avoid being seen.  
-↗️ entrance, break the cactus to keep going
+Take the ↗️ exit, break the cacti to keep going.
 
-In the next room, hit the first skeleton in the back so it looks in another direction, then keep going.  
-After this, skip the puzzle by using Dynamite magic near the torch
+Hit the first skeleton in the back so that it looks in another direction, then keep going.  
+Skip the next puzzle by using ![dynamite](./assets/images/image4.png) Dynamite near the torch.
 
-In the next room, knock on the wall, after the stairs, walk in the ↘️ direction to avoid being seen
+In the next room, knock on the wall near the first skeleton.  
+After the stairs, walk in the ↘️ direction to avoid being seen.
 
-### Puzzle
+### Puzzle  
+![undeadzone1](./assets/images/image20.png)
+![undeadzone2](./assets/images/image3.png) 
+![undeadzone3](./assets/images/image47.png)
 
-In the next room, use sunlight to enable solar panels and take the ↖️ exit.  
-In this room, hit the skeletons and dash during their animation so they don’t see you
+In the next room, use <=8 sunlight to enable the solar walkway and take the ↖️ exit.  
+Hit the skeletons from behind and ![dash](./assets/images/image44.png) Dash during their damage animation so that they don’t see you.
 
-Use vampire django & Bat magic to go above the traps and get the key, then go through the door.  
-In the next room, knock on the walls to lure the skeletons
+Use Black Django & ![bat](./assets/images/image5.png) Bat to fly over the traps and get the key, then go through the door.  
+In the next room, knock on the walls to lure the skeletons.
 
-Have sunlight during the next room to enable solar panels.  
-After this, push the block and get the key, then go back to the first elevator (↘️)
-Replenish energy and open the door
+Have <=8 sunlight during the next room to enable the solar walkway.  
+Push the block and get the key, then go back to the first elevator (↘️).  
+Refill energy and open the door.
 
 ### Trap
 
-- Use Cloud element except when it's doing the tail attack
-- Attack the head to stun it
+- Use ![cloud](./assets/images/image46.png) Cloud except when it's doing the tail attack.
+- Attack the head to stun it.
 
-Open the blue chest for a key, use it on the other door to proceed (replenish energy on the way)
+Possible change: use ![bluecard](./assets/images/image24.png) The Tower and ![bearnut](./assets/images/image73.png) Bearnut for TRAP.
+
+Open the blue chest for a ![okey](./assets/images/image26.png) key, use it on the other door to proceed (refill energy on the way).
 
 ## Undead Zone [2]
 
-Equip Dash, Fire & Earth elements, Dynamite.  
-Take the ↘️ exit, light all the torches to open the gate
+Equip ![dash](./assets/images/image44.png) Dash, Fire, ![earth](./assets/images/image74.png) Earth and ![dynamite](./assets/images/image4.png) Dynamite.  
+Take the ↘️ exit, light all the torches to open the gate.
 
 Avoid the cockatrices in the next rooms, then light the torches on the moving platforms.  
-Have some sunlight to enable solar panels in the next room
+Have <=8 sunlight to enable the solar walkways in the next room.
 
-Use Dynamite on the wall here in this room and get the Garb of Darkness armor, equip it & equip Magic Sword, raise AGI to 21, put the other points into STRG
+Use ![dynamite](./assets/images/image4.png) Dynamite on the wall here in this room:  
+![garbofdarknessroom](./assets/images/image107.png)  
+
+Get the ![garbofdarkness](./assets/images/image105.png) Garb of Darkness armor, then equip it & ![magicsword](./assets/images/image83.png) Magic Sword.  
+Raise AGIL to 21, put remaining stat points into STRG.  
+
 
 Break the wooden blocks and take the ↗️ exit.  
-After the rooms with skeletons, take the stairs & replenish your energy
-
-Possible change: use The Tower and bearnuts for TRAP
+After the rooms with skeletons, take the stairs & refill energy.
 
 ### Trap
 
-- Use Earth element and hit the lich from behind
-- You can destroy the lightning balls
-- Avoid the summons & clouds
+- Use ![earth](./assets/images/image74.png) Earth and hit the Lich from behind.
+- You can destroy the lightning balls.
+- Avoid the summons & clouds.
+- Use ![solarnut](./assets/images/image63.png) Solar Nuts to replenish energy.
 
-Open both chest for a key and a card then open the door in the ↙️ direction & take the elevator
+Open the blue chest for a ![okey](./assets/images/image26.png) key, then open the door in the ↙️ direction & take the elevator.
 
 ## Undead Zone [3]
 
-Go to ↖️ direction and activate the lever.  
+Go in the ↖️ direction and activate the lever.  
 Go back and take the ↙️ exit, then ↖️ to activate another lever and spawn an ice block.  
 Go through the ↗️ ↘️ ↙️ exits.  
-Use Dynamite here, then use the first wall to slide on this spot. Look in the ↗️ direction and get hit by the dynamite
+Use ![dynamite](./assets/images/image4.png) Dynamite here, then use the first wall to slide onto this spot:  
+![icepuzzle](./assets/images/image32.png)
 
-Slide in the down direction, then slide towards the lever and activate it
+Look in the ↗️ direction and get hit by the dynamite.  
+
+Slide directly downwards, then slide towards the lever and activate it.
 
 Proceed and take the ↗️ ↘️ ↙️ ↙️ ↖️ exits.  
-Go through the gate in the ↙️ direction, then use the plant to reach the next ↙️ exit
+Go through the gate in the ↙️ direction, then use the plant to reach the next ↙️ exit.
 
-Replenish your energy & put stats points into STRG before taking the platform
-
-Possible change: use The Tower and bearnuts for TRAP
+Refill energy & put stat points into STRG before taking the platform.
 
 ## Trap
 
-- Use Fire element & spear
-- Only aim for the head & tail
-- Break the bubbles to force it to jump at you
+- Use Fire & spear.
+- Only aim for the head & tail.
+- Break the bubbles to force it to jump at you.
 
-Open both chest for a key and a card, then take the new platform and go back to the first room to open the door
+Possible change: use ![bluecard](./assets/images/image24.png) The Tower and ![bearnut](./assets/images/image73.png) Bearnut for TRAP.
+
+Open the blue chest for a ![okey](./assets/images/image26.png) key, then take the new platform and go back to the first room to open the ↘️ door.
 
 ## Undead Zone [4]
 
-Replenish your energy, in the next room, take the ↘️ exit
+Refill energy, then in the next room, take the ↘️ exit.
 
 ### Puzzle
 
-Push the stone block & use Fire element on the grey block.  
-Push the grey block with Cloud & spear (↗️ ↘️)
+Push the stone block & use Fire on the grey block.  
+Push the grey block with ![cloud](./assets/images/image46.png) Cloud & spear (↗️ ↘️):  
+![undeadzone4](./assets/images/image113.png)
 
 Break the stone block & push the iron block.  
-Use Earth element on the grey block.  
-Walk on the switch
+Use ![earth](./assets/images/image74.png) Earth on the grey block.  
+Walk onto the switch.
 
-Go back and go through the ↗️ ↘️ ↘️ exits
+Go back and go through the ↗️ ↘️ ↘️ exits.
 
-Equip Frost element, Dash, Transform & Sleeping magics.  
+Equip ![frost](./assets/images/image110.png) Frost, ![dash](./assets/images/image44.png) Dash, Transform and ![sleeping](./assets/images/image39.png) Sleeping.  
 Put stat points into STRG.  
-Do not go on the platform, instead go here and use Frost & spear to extinguish the fire
+Do not go on the platform, instead go here and use ![frost](./assets/images/image110.png) Frost & spear to extinguish the fire:  
+![undeadzone5](./assets/images/image59.png)  
 
-Then use Sleeping magic and elefan coffin to shoot the lever
+Then use ![sleeping](./assets/images/image39.png) Sleeping and ![elefan](./assets/images/image14.png) Elefan coffin to shoot the lever.
 
 Go back and go through the ↙️ exit.  
-Open this hidden chest on the way for a Solar Nut
+
+Open this hidden chest on the way for a ![solarnut](./assets/images/image63.png) Solar Nut:  
+![undeadzone6](./assets/images/image12.png)  
+
 
 Go through the ↘️ ↘️ exits, then take the stairs to keep going.  
-Replenish your energy at the Solar Station when your reach it
+Refill energy at the Solar Station when you reach it.
 
 ### Trap
 
-- Use Frost element & hit from behind
-- If you’re close enough, some attacks won’t hit you
-- Use Solar Nuts
+- Use ![frost](./assets/images/image110.png) Frost & hit the Lich+ from behind.
+- If you run into its back to take damage and immediately let go of directional input, you will land in the correct spot to avoid its rotating attack.
+- Use ![solarnut](./assets/images/image63.png) Solar Nuts to replenish energy.
 
-You can open the chest for a random card.
+You can open the chest for a random card if you want.
 
 ## Undead Zone [5]
 
-Equip Dark element, Transform & Dash, put stat points into VIT.  
-You’ll need to enable solar panels at the end so keep some sunlight.
+Equip ![dark](./assets/images/image116.png) Dark, Transform & ![dash](./assets/images/image44.png) Dash, put stat points into VIT.  
+You’ll need to enable a solar walkway at the end, so have <=8 sunlight.
 
 ### Jormungandr
 
-- You need to have sunlight during the entire fight
-- Use vampire django & Dark element to deal more damage
-- Use sunscreen
-- Aim for the eyes until the tongue is out
-- When the tongue is out, hit it 4 times, then hit the body to do more damage
+- You need to have at least 1 sunlight during the entire fight.
+- Use Black Django & ![dark](./assets/images/image116.png) Dark to deal more damage.
+- Use ![sunscreen](./assets/images/image28.png) Sunscreen to avoid taking damage from sunlight.
+- Aim for the eyes until the tongue is out.
+- When the tongue is out, hit it 4 times, then hit the body to do more damage.
+- During the black breath attack, stand at range and use the spear to hit both the eyes and the body at once.
 
+During the cutscenes, enable maximum sunlight.  
 After the cutscenes, charge energy.  
-When Jormungandr dies, the timer stops.
+Time ends when Jormungandr's health bar reaches zero during this final charge.
