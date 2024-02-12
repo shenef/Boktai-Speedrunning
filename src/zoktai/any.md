@@ -82,7 +82,7 @@ After the dialogs, put stat points into STRG.
 - Stand on the third skeleton's position as it dies in case you get a random drop.
 
 Open the chest for the ![yelloworb](./assets/images/image85.png) Yellow Orb and take the bottom ↖️ exit.  
-Knock on the central wall to lure the ghoul onto the switch before opening the chest for a ![solarleaf](./assets/images/image19.png) Solar Leaf and proceed.  
+Knock on the central wall to lure the ghoul onto the switch before opening the chest for a ![warpleaf](./assets/images/image19.png) Warp Leaf and proceed.  
 Break and move the wooden blocks to get the ![triangle](./assets/images/image45.png) key, then light the torch and place the ![yelloworb](./assets/images/image85.png) Yellow Orb.  
 Turn on sunlight during the cutscene, refill life if under 50% and refill energy to at least 70% before leaving the room.
 
@@ -110,7 +110,7 @@ Take the new stairs and go outside.
 
 Once outside, destroy the 2 statues with the spear to obtain the ![blueorb](./assets/images/image91.png) Blue Orb.  
 (Use ![sol](./assets/images/image57.png) Sol to reduce # of hits needed).  
-Open the orange chest in that area for a ![solarleaf](./assets/images/image19.png) Solar Leaf.
+Open the orange chest in that area for a ![warpleaf](./assets/images/image19.png) Warp Leaf.
 
 Go back to the Red Orb room.  
 If you did not already find the Red Orb, **do not proceed before finding it.**  
@@ -261,7 +261,7 @@ If you aren’t Lvl 10 yet, kill a Golem in the central room with ![cloud](./ass
 
 Now go back to where Sabata was (↘️) and keep going the in the same direction.
 
-Open this hidden chest (![solarleaf](./assets/images/image19.png) Solar Leaf), then open the door.  
+Open this hidden chest (![warpleaf](./assets/images/image19.png) Warp Leaf), then open the door.  
 ![remainsleafchest1](./assets/images/image10.png)  
 
 Once outside, talk to the fountain to get water, then proceed.
@@ -296,7 +296,7 @@ Push the first block ↖️↗️↖️ onto the other switch, then use ![frost]
 Proceed to the puzzle room on the top-left:  
 Use Fire on the block, then use ![cloud](./assets/images/image46.png) Cloud to push it against the wall, then push it towards the torch.  
 
-Open the hidden chest for a ![solarleaf](./assets/images/image19.png) Solar Leaf:  
+Open the hidden chest for a ![warpleaf](./assets/images/image19.png) Warp Leaf:  
 ![remainsleafchest2](./assets/images/image104.png)  
 
 Put all stat points into STRG, then use your ![speednut](./assets/images/image29.png) Speed Nut.  
@@ -382,7 +382,7 @@ Select the first option during the dialog.
 - Use ![dark](./assets/images/image116.png) Dark, keep hitting him non-stop.
 - Try to aim in the correct direction so that hits counts as back hits for higher damage.
 
-Take the magic circle, unequip the armor and use a ![solarleaf](./assets/images/image19.png) Solar Leaf to leave the dungeon.  
+Take the magic circle, unequip the armor and use a ![warpleaf](./assets/images/image19.png) Warp Leaf to leave the dungeon.  
 Take the ↙️ and ↖️ exits to go to San Miguel.  
 Talk to Cheyenne to unlock the weapon shop, and buy ![shortsword](./assets/images/image9.png) Short Sword and ![broadsword](./assets/images/image78.png) Broadsword.  
 Go to the forging house to forge ![longsword](./assets/images/image37.png) Long Sword (![shortsword](./assets/images/image9.png)  + ![broadsword](./assets/images/image78.png)).
@@ -419,26 +419,36 @@ Keep going alone and activate the lever.
 Possible change: On the way to the lever, get ![bloodcloak](./assets/images/image23.png) Blood-Soaked Cloak (hidden chest):  
 ![bloodcloakchest](./assets/images/image40.png)
 
-Use a ![solarleaf](./assets/images/image19.png) Solar Leaf to leave and go to the piledriver area.  
+Use a ![warpleaf](./assets/images/image19.png) Warp Leaf to leave and go to the piledriver area.  
 Leave the area through the same exit, save the game and soft reset (A+B+Start+Select). 
 
 Set the system time to 2004/08/31 22:00.  
 The coffin is now in the piledriver area.  
 
-Do the purification and equip ![sol](./assets/images/image57.png) Sol after the cutscene.
+Activate one piledriver.  
+Equip ![sol](./assets/images/image57.png) Sol and start the purification.  
+Enable maximum sunlight during the cutscene.  
+
+Choose the second dialog option after the purification.
 
 ## San Miguel [4]
 
-Go to Cheyenne’s shop and talk to him directly to get the ![dash](./assets/images/image44.png) Dash magic.  
+Go to Cheyenne’s shop and talk to him to get the ![dash](./assets/images/image44.png) Dash magic.  
 **Use this for movement whenever possible.**  
 
-Equip ![dash](./assets/images/image44.png) Dash, Transform, ![dark](./assets/images/image116.png) Dark and ![cloud](./assets/images/image46.png) Cloud, then go outside and talk to Violet to trigger Nero.
+Equip ![dash](./assets/images/image44.png) Dash, Transform, ![dark](./assets/images/image116.png) Dark and ![cloud](./assets/images/image46.png) Cloud.  
+Go outside and talk to Violet to trigger Nero.
 
-Go to Lita’s shop & buy two ![solarleaf](./assets/images/image19.png) Solar Leaves (you should now have four), sell ![redcard](./assets/images/image8.png) ![greencard](./assets/images/image70.png) cards & ![bearnut](./assets/images/image73.png), then exit and follow Nero.
+Go to Lita’s shop:  
+- Buy two ![warpleaf](./assets/images/image19.png) Warp Leaves (you should now have four).  
+- Sell ![redcard](./assets/images/image8.png) ![greencard](./assets/images/image70.png) cards & ![bearnut](./assets/images/image73.png).  
 
-Open the hidden chest near the bank for a fifth ![solarleaf](./assets/images/image19.png) Solar Leaf:  
+Exit the shop and follow Nero.
+
+Open the hidden chest near the bank for a fifth ![warpleaf](./assets/images/image19.png) Warp Leaf:  
 ![sanmiguelchest](./assets/images/image93.png)  
-Before the Aqueduct dungeon, there is an optional dungeon. Go inside it.
+
+Before the Aqueduct, there is an optional dungeon to the ↙️. Go inside it.
 
 ## Treasury
 
@@ -449,7 +459,8 @@ Use ![cloud](./assets/images/image46.png) Cloud to push the block, then go into 
 ![treasury4](./assets/images/image88.png)
 ![treasury5](./assets/images/image36.png)
 
-Open the first chest in the final room for a ![zweihander](./assets/images/image31.png) Zweihander, then use a ![solarleaf](./assets/images/image19.png) Solar Leaf to leave.
+Open the first chest in the final room for a ![zweihander](./assets/images/image31.png) Zweihander.  
+Use a ![warpleaf](./assets/images/image19.png) Warp Leaf to leave.
 
 ## Aqueduct
 
@@ -459,7 +470,8 @@ Go inside the Aqueduct to receive ![earth](./assets/images/image74.png) Earth, t
 
 Go in the ↗️ direction.  
 On the way, open the chest for a ![you can write an optional image title here](./assets/images/image41.png) Power Nut, then proceed in the ↖️ direction.  
-Use ![you can write an optional image title here](./assets/images/image43.png) on the lily pads to open the chest and get a ![you can write an optional image title here](./assets/images/image69.png) Tarot Card, then use a ![solarleaf](./assets/images/image19.png) Solar Leaf to leave.
+Use ![you can write an optional image title here](./assets/images/image43.png) on the lily pads to open the chest and get a ![you can write an optional image title here](./assets/images/image69.png) Tarot Card.  
+Use a ![warpleaf](./assets/images/image19.png) Warp Leaf to leave.
 
 On the way to the next dungeon, go through the piledriver area and kill all four dark roots for EXP.
 
@@ -472,10 +484,13 @@ Once outside, go through the first entrance.
 
 ### Puzzle
 
-Equip Fire, ![frost](./assets/images/image110.png) Frost, ![cloud](./assets/images/image46.png) Cloud and ![earth](./assets/images/image74.png) Earth.  
-Use Fire on the first block. 
+Equip Fire, ![frost](./assets/images/image110.png) Frost, ![cloud](./assets/images/image46.png) Cloud and ![earth](./assets/images/image74.png) Earth. 
+
+Use Fire on the first block.  
+
 Push the iron block like this:   
 ![citypuzzle1](./assets/images/image58.png)  
+
 Use ![earth](./assets/images/image74.png) Earth on the block next to the iron block, then push the iron block in the hole.
 
 Use ![cloud](./assets/images/image46.png) Cloud & sword to push the block on the left once ↘️.
@@ -499,7 +514,8 @@ Take the stairs, equip ![dark](./assets/images/image116.png) Dark, Mouse, Transf
 
 Keep going (↙️ ↖️ ↗️), use Mouse to go through the hole, then open the chest for a ![tarotcard](./assets/images/image69.png) Tarot Card.  
 During the cutscene, choose the first option.  
-Replace Mouse with ![dynamite](./assets/images/image4.png) Dynamite, then use a ![solarleaf](./assets/images/image19.png) Solar Leaf to leave.  
+Replace Mouse with ![dynamite](./assets/images/image4.png) Dynamite.  
+Use a ![warpleaf](./assets/images/image19.png) Warp Leaf to leave.  
 Proceed in the ↙️ direction (kill the dark root).  
 Go back to the Remains.
 
@@ -508,7 +524,8 @@ Go back to the Remains.
 In the golem room, take the ↗️ exit, then the second ↖️ exit.  
 Proceed in the ↗️ direction (do not take the stairs).  
 Use ![dynamite](./assets/images/image4.png) Dynamite on the wall next to the ghoul on the top-left, then proceed.  
-Kill the dark root and open the chest for the last ![tarotcard](./assets/images/image69.png) Tarot Card, then use a ![solarleaf](./assets/images/image19.png) Solar Leaf to leave.
+Kill the dark root and open the chest for the last ![tarotcard](./assets/images/image69.png) Tarot Card.  
+Use a ![warpleaf](./assets/images/image19.png) Warp Leaf to leave.
 
 ## San Miguel [5]
 
@@ -516,7 +533,7 @@ Forge ![longsword](./assets/images/image37.png) + ![zweihander](./assets/images/
 Focus on GOOD hits to get a bonus (+03).  
 This leads to more damage compared to having the SP effect because of the damage formula.
 
-Getting a ![katana](./assets/images/image33.png) Katana (R-Rank weapon) is random, however it will save more time because ![katana](./assets/images/image33.png) Katana has higher attack.
+Getting a ![katana](./assets/images/image33.png) Katana (R-Rank weapon) is random, however it will save time because ![katana](./assets/images/image33.png) Katana has higher attack.
 
 ## Aqueduct [2]
 
@@ -550,7 +567,7 @@ Equip ![flamberge](./assets/images/image6.png) or ![katana](./assets/images/imag
 - When she charges you, time your hit so that it cancels her attack.
 - If she’s at 1 HP and far away, shoot her with ![elefan](./assets/images/image14.png) Elefan coffin (Black Django & ![sleeping](./assets/images/image39.png) Sleeping).
 
-After the boss fight, use a ![solarleaf](./assets/images/image19.png) Solar Leaf to leave.
+After the boss fight, use a ![warpleaf](./assets/images/image19.png) Warp Leaf to leave.
 
 ## San Miguel [6]
 
@@ -559,19 +576,23 @@ Keep talking, then change the system time to 2004/09/30 22:xx.
 Go to the piledriver area and do the purification.  
 Go in the ↗️ direction, equip ![dark](./assets/images/image116.png) Dark, ![bat](./assets/images/image5.png) Bat and put stat points into STRG.
 
+Disable sunlight to open Sabata's half of Spiral Tower.  
+Enable sunlight to open Django's half of Spiral Tower.
+
 ## Spiral Tower
 
 Avoid the slimes and take the stairs, then go in the ↘️ direction.  
 Use ![bat](./assets/images/image5.png) Bat to pass over the narrow walkway and push the block.  
 Go back and fall through the trapdoor on the left side of the room.  
-Use your spear to hit the switch, then push the block and use the magic circle to switch to Sabata.
+Use your spear to hit the switch.  
+Push the block and use the magic circle to switch to Sabata.
 
-Take the stairs, use ![zeroshift](./assets/images/image56.png) Zero Shift to go through enemies.  
+Take the stairs, using ![zeroshift](./assets/images/image56.png) Zero Shift to run through enemies.  
 On the way, step on the switch to open a gate for Django, then keep going.  
 Step on the switch outside, then use the magic circle to switch back to Django.
 
 Take the stairs to go outside, step on the switch and take the elevator.  
-In the second room with cockatrices, you can use solar panels as a shortcut.
+In the second room with cockatrices, have <=8 sunlight to use the solar walkway as a shortcut.
 
 ### Trap
 
@@ -609,7 +630,7 @@ Use ![bat](./assets/images/image5.png) Bat to avoid falling off the platform and
 
 Go back inside and take the stairs.  
 
-Before using the magic circle, **check the hint panel for the number and the kanji.**  
+Before using the magic circle, **check the hint panel for the number and the kanji:**  
 ![kanji1](./assets/images/image108.png)  
 
 As Sabata, take the elevator and keep going.
@@ -620,11 +641,11 @@ Use a ![powernut](./assets/images/image41.png) Power Nut:
 ![sabatablocks2](./assets/images/image21.png)
 ![sabatablocks3](./assets/images/image27.png)
 
-After this, **check the hint panel** and switch back to Django.  
+After this, **check the hint panel** and switch back to Django:  
 ![kanji2](./assets/images/image11.png)
 
 Go through the gate and push the iron block based on the hint panels and the statue.  
-北 = North, 南 = South, 東 = East, 酉 = West
+**北 = North, 南 = South, 東 = East, 酉 = West**
 
 ### Trap
 
@@ -638,7 +659,7 @@ Take the elevator to go outside.
 This outdoors screen has solar wind that will push you if using sunlight.  
 Use the solar walkway to go straight to the next elevator if you don't need pickups.  
 
-If you do need pickups, open these chests for items (![meat1](./assets/images/image35.png) ![solarnut](./assets/images/image63.png) ![solarleaf](./assets/images/image19.png) ![meat2](./assets/images/image60.png)) before taking the next elevator:  
+If you do need pickups, open these chests for items (![meat1](./assets/images/image35.png) ![solarnut](./assets/images/image63.png) ![warpleaf](./assets/images/image19.png) ![meat2](./assets/images/image60.png)) before taking the next elevator:  
 ![spiralchests1](./assets/images/image114.png)
 ![spiralchests2](./assets/images/image61.png)
 
@@ -649,10 +670,8 @@ Put stat points into STRG, equip ![dash](./assets/images/image44.png) Dash, ![so
 
 Take the stairs to go back to the room below and use a ![powernut](./assets/images/image41.png) Power Nut to do the puzzle.  
 
-Push the block on the left in the ↘️ direction, then push the other block (↙️ ↘️) so that they’re next to each other.  
+Push the block on the left in the ↘️ direction, then push the other block (↙️ ↘️) so that they’re next to each other:  
 ![spiralcloudpuzzle1](./assets/images/image96.png)
-
-
 
 Push the grey block with ![cloud](./assets/images/image46.png) Cloud & spear in the ↗️ direction.
 
@@ -663,12 +682,13 @@ Push the grey block onto the switch with ![cloud](./assets/images/image46.png) C
 Proceed in the ↘️ direction.
 
 As Sabata, take the stairs.  
-Go through the southern slime and shoot in the ↗️ direction to activate the final lever.  
+Go through the southern slime and take the stairs.  
+Shoot in the ↗️ direction to activate the final lever.  
 Go back downstairs and go through the other slime to reach Django (↖️ direction).
 
 During the dialog, choose the second option to avoid a Game Over.
 
-## Boss
+### Boss
 
 - 1st phase:
   - Stay away so that Sabata doesn’t get hit.  
@@ -686,8 +706,10 @@ Push the grey block with ![cloud](./assets/images/image46.png) Cloud, then open 
 ![magicswordblock](./assets/images/image18.png)
 ![magicswordchest](./assets/images/image90.png)
 
-Use a ![solarleaf](./assets/images/image19.png) Solar Leaf to leave.  
-Go to the piledriver area, leave through the same exit, save the game and soft-reset.  
+Use a ![warpleaf](./assets/images/image19.png) Warp Leaf to leave.  
+
+Go to the piledriver area, then leave through the same exit.  
+Save the game and soft-reset.  
 Change the system time to 2004/10/29 23:58.  
 Begin the purification.
 
