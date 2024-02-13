@@ -9,14 +9,14 @@ Ported from Google Docs, this is unfinished and might miss content.
 ## Before starting
 
 - If playing on BizHawk, make sure Skip BIOS is set to FALSE and RTC is set to FALSE in the GBA Settings (Requires v2.6.3+):  
-![](./assets/images/emu_settings.png)
+![](./assets/images/emu_settings.webp)
 - Set the in-game time to August 1st 2004 at 10PM (2004/08/01 22:00).  
-![](./assets/images/igt.png)
+![](./assets/images/igt.webp)
 - Keep the default region selection.
 
 ## Setting up the Dark Boy password
 
-![](./assets/images/dark_boy_pw.png)  
+![](./assets/images/dark_boy_pw.webp)  
 Note: The characters to use are to the left of the numbers!  
 Dark Boy title grants +2 STRG & AGIL and adds 1 ![][icon_power_nut] Power Nut & ![][icon_bearnut] Bearnut to the inventory.  
 After that, use a single character for the player name (saves a few frames each time the name shows up).
@@ -28,7 +28,7 @@ After that, use a single character for the player name (saves a few frames each 
 ## Tutorial
 
 After the intro, open the menu and change the text speed to Fast:  
-![](./assets/images/text_speed.png)
+![](./assets/images/text_speed.webp)
 
 ### Trap
 
@@ -56,7 +56,7 @@ During the cutscene turn off sunlight, after the cutscene go to ↘️.
 
 ### Puzzle
 
-![](./assets/images/first_block_puzzle.png)  
+![](./assets/images/first_block_puzzle.webp)  
 Open the chest for a ![][icon_club] Club.  
 Backtrack, kill the ghoul in the cutscene room for EXP.  
 Destroy the first wooden block to push the 2 stone blocks, also open the chest for a ![][icon_power_nut] Power Nut.  
@@ -74,7 +74,7 @@ Use ![fire](./assets/images/image125.png) Flame on the torches.
 
 ### Puzzle
 
-![](./assets/images/basement_puzzle.png)  
+![](./assets/images/basement_puzzle.webp)  
 Use ![fire](./assets/images/image125.png) Flame and hammer (on levers) to keep going.  
 After the dialogs, put stat points into STRG.
 
@@ -98,7 +98,7 @@ Check the spot directly next to the stairs, then take the stairs whether or not 
 - The black ghoul deals heavy damage, be careful.
 
 Proceed in the ↖️ direction, fall down to get the ![][icon_spear] Short Spear, then go back to this room:  
-![](./assets/images/cathedral_entrance.png)
+![](./assets/images/cathedral_entrance.webp)
 
 Use the spear on the lever to open the gate and proceed.
 
@@ -122,15 +122,15 @@ Go back to where you obtained the spear, but instead of falling, keep going in t
 
 Talk to these bookshelves **in this order** to open the gate:
 
-![](./assets/images/library_1.png)
-![](./assets/images/library_2.png)
-![](./assets/images/library_3.png)
-![](./assets/images/library_4.png)
+![](./assets/images/library_1.webp)
+![](./assets/images/library_2.webp)
+![](./assets/images/library_3.webp)
+![](./assets/images/library_4.webp)
 
 ### Puzzle
 
-![](./assets/images/cathedral_puzzle_1.png)
-![](./assets/images/cathedral_puzzle_2.png)  
+![](./assets/images/cathedral_puzzle_1.webp)
+![](./assets/images/cathedral_puzzle_2.webp)  
 Open the first chests on the left for a ![][icon_power_nut] Power Nut and a ![][icon_triangle_key] key.
 
 ### Puzzle
@@ -139,7 +139,7 @@ Light the torches with the spear, then push the first block to reach the second 
 Push the second block to the left, then push the block on the weight switch to activate the lamp to obtain the ![][icon_green_orb] Green Orb.
 
 Now go back to the room with the hint panel and place the ![][icon_green_orb] Green Orb (2nd option).  
-![](./assets/images/green_orb_room.png)
+![](./assets/images/green_orb_room.webp)
 
 Turn off sunlight during the cutscene.  
 Proceed through the door in the ↖️ direction (Refill health on skylights if low).  
@@ -219,9 +219,9 @@ Refill energy to at least 70% before leaving the room.
 ### Puzzle
 
 Use a ![][icon_power_nut] Power Nut and push one block towards the start of the room like this:  
-![](./assets/images/remains_puzzle_1.png)  
+![](./assets/images/remains_puzzle_1.webp)  
 After that, push the other block on its spot, then do the same with the first block:
-![](./assets/images/remains_puzzle_2.png)
+![](./assets/images/remains_puzzle_2.webp)
 
 In the next room, push the block with sword and ![][icon_cloud] Cloud ↘️, then spear ↗️, then lower it with ![][icon_frost] Frost.
 
@@ -238,10 +238,10 @@ Open the chest on the left (bottom) for a ![][icon_speed_nut] Speed Nut, then go
 ### Puzzle
 
 Use a ![][icon_power_nut] Power Nut, then push the blocks like this (start with the ![fire](./assets/images/image125.png) Flame block):  
-![](./assets/images/4_block_puzzle_1.png)
-![](./assets/images/4_block_puzzle_2.png)
-![](./assets/images/4_block_puzzle_3.png)
-![](./assets/images/4_block_puzzle_4.png)
+![](./assets/images/4_block_puzzle_1.webp)
+![](./assets/images/4_block_puzzle_2.webp)
+![](./assets/images/4_block_puzzle_3.webp)
+![](./assets/images/4_block_puzzle_4.webp)
 
 Avoid the mummies and take the stairs.  
 Take the stairs to the bottom of the next room, then pass the golem whilst avoiding it.  
@@ -265,30 +265,30 @@ If you aren’t Lvl 10 yet, kill a Golem in the central room with ![][icon_cloud
 Now go back to where Sabata was (↘️) and keep going the in the same direction.
 
 Open this hidden chest (![][icon_warp_leaf] Warp Leaf), then open the door.  
-![](./assets/images/remains_leaf_chest_1.png)
+![](./assets/images/remains_leaf_chest_1.webp)
 
 Once outside, talk to the fountain to get water, then proceed.
 
 You must now find three ![][icon_stone_tablet] stone tablets that are in random spots on eight screens:  
-![](./assets/images/desert_1.png)
-![](./assets/images/desert_2.png)
-![](./assets/images/desert_3.png)
-![](./assets/images/desert_4.png)
-![](./assets/images/desert_5.png)
-![](./assets/images/desert_6.png)
-![](./assets/images/desert_7.png)
-![](./assets/images/desert_8.png)
+![](./assets/images/desert_1.webp)
+![](./assets/images/desert_2.webp)
+![](./assets/images/desert_3.webp)
+![](./assets/images/desert_4.webp)
+![](./assets/images/desert_5.webp)
+![](./assets/images/desert_6.webp)
+![](./assets/images/desert_7.webp)
+![](./assets/images/desert_8.webp)
 
 When you have all three tablets, go to the central screen and talk to the statue on the left:
-![](./assets/images/desert_end.png)
+![](./assets/images/desert_end.webp)
 
 In the next area, open this hidden chest (![][icon_power_nut] Power Nut):  
-![](./assets/images/remains_power_chest.png)
+![](./assets/images/remains_power_chest.webp)
 
 ### Puzzle
 
 Light the torches in this order:  
-![](./assets/images/remains_lamps.png)
+![](./assets/images/remains_lamps.webp)
 
 Go downstairs, run through the golem and take the ↙️ exit.
 
@@ -301,7 +301,7 @@ Proceed to the puzzle room on the top-left:
 Use ![fire](./assets/images/image125.png) Flame on the block, then use ![][icon_cloud] Cloud to push it against the wall, then push it towards the torch.
 
 Open the hidden chest for a ![][icon_warp_leaf] Warp Leaf:  
-![](./assets/images/remains_leaf_chest_2.png)
+![](./assets/images/remains_leaf_chest_2.webp)
 
 Put all stat points into STRG, then use your ![][icon_speed_nut] Speed Nut.  
 Refill energy to 50% before leaving the room.
@@ -345,7 +345,7 @@ Take the ↙️ exit, then the last exit at the bottom.
 Take the ↗️ exit, then take the stairs again in the same direction.
 
 In the room with the ghouls, open this hidden chest:  
-![](./assets/images/city_chest_1.png)
+![](./assets/images/city_chest_1.webp)
 
 After the cutscene, go through the narrow pass to break the wooden block, then push the iron block.  
 Go back through the narrow pass and proceed in the ↖️ direction.
@@ -367,13 +367,13 @@ Use ![][icon_bat] Bat on the elevator and go through the window, then take the f
 Go back inside but do not take the stairs, proceed in the ↙️ direction instead.
 
 Pick up this hidden chest on the way:  
-![](./assets/images/city_chest_2.png)
+![](./assets/images/city_chest_2.webp)
 
 Use ![][icon_bat] Bat to go over the water and switch trap, then open the chest for a ![][icon_circle_key] key.  
 Proceed in the ↘️ direction, push the block and go through the second door.  
 After opening the door, use ![][icon_bat] Bat to go over the narrow paths, then go through the window.  
 Go to the left and take the last exit for a ![][icon_circle_key] key, there is also a hidden chest:
-![](./assets/images/dark_room_chest.png)
+![](./assets/images/dark_room_chest.webp)
 
 Go through the window again and take the first exit.  
 Go through the door to push another block.  
@@ -393,11 +393,11 @@ Go to the forging house to forge ![][icon_long_sword] Long Sword (![][icon_short
 
 Go back to the dungeon.  
 Take the magic circle and unlock the door, open the hidden chest here:  
-![](./assets/images/city_chest_3.png)
+![](./assets/images/city_chest_3.webp)
 
 In the room with mummies, take the stairs, then go through the ↘️ exit.  
 Open another hidden chest:  
-![](./assets/images/city_chest_4.png)
+![](./assets/images/city_chest_4.webp)
 
 In the next room, use ![][icon_bat] Bat to go through the window on the left, then keep using ![mouse](./assets/images/image126.png) Mouse, go to the right (across the wood), then use ![][icon_bat] Bat to go through the last window.
 
@@ -421,7 +421,7 @@ After solving the puzzle with 2 wooden blocks, leave the coffin.
 Keep going alone and activate the lever.
 
 Possible change: On the way to the lever, get ![][icon_blood_cloak]Blood-Soaked Cloak (hidden chest):  
-![](./assets/images/blood_cloak_chest.png)
+![](./assets/images/blood_cloak_chest.webp)
 
 Use a ![][icon_warp_leaf] Warp Leaf to leave and go to the piledriver area.  
 Leave the area through the same exit, save the game and soft reset (A+B+Start+Select).
@@ -451,18 +451,18 @@ Go to Lita’s shop:
 Exit the shop and follow Nero.
 
 Open the hidden chest near the bank for a fifth ![][icon_warp_leaf] Warp Leaf:  
-![](./assets/images/san_miguel_chest.png)
+![](./assets/images/san_miguel_chest.webp)
 
 Before the Aqueduct dungeon, there is an optional dungeon. Go inside it.
 
 ## Treasury
 
 Use ![][icon_cloud] Cloud to push the block, then go into the first entrance and solve the puzzles:  
-![](./assets/images/treasury_1.png)
-![](./assets/images/treasury_2.png)
-![](./assets/images/treasury_3.png)
-![](./assets/images/treasury_4.png)
-![](./assets/images/treasury_5.png)
+![](./assets/images/treasury_1.webp)
+![](./assets/images/treasury_2.webp)
+![](./assets/images/treasury_3.webp)
+![](./assets/images/treasury_4.webp)
+![](./assets/images/treasury_5.webp)
 
 Open the first chest in the final room for a ![][icon_zweihander] Zweihander.  
 Use a ![][icon_warp_leaf] Warp Leaf to leave.
@@ -494,14 +494,14 @@ Equip ![fire](./assets/images/image125.png) Flame, ![][icon_frost] Frost, ![][ic
 Use ![fire](./assets/images/image125.png) Flame on the first block.
 
 Push the iron block like this:  
-![](./assets/images/city_puzzle_1.png)
+![](./assets/images/city_puzzle_1.webp)
 
 Use ![][icon_earth] Earth on the block next to the iron block, then push the iron block in the hole.
 
 Use ![][icon_cloud] Cloud & sword to push the block on the left once ↘️.
 
 Use ![][icon_cloud] Cloud to push the first block in the room in these directions:  
-![](./assets/images/city_puzzle_2.png)
+![](./assets/images/city_puzzle_2.webp)
 
 - ↖️ (sword)
 - ↗️ (spear)
@@ -509,7 +509,7 @@ Use ![][icon_cloud] Cloud to push the first block in the room in these direction
 - ↗️ (spear)
 
 Now use ![][icon_cloud] Cloud on the other block:  
-![](./assets/images/city_puzzle_3.png)
+![](./assets/images/city_puzzle_3.webp)
 
 - ↘️ (sword)
 - ↗️ (sword)
@@ -553,8 +553,8 @@ Open the door, then proceed.
 Farm EXP in the same room until you reach lvl 21.
 
 Keep going, on the way open these two hidden chests for items:  
-![](./assets/images/aqueduct_1.png)
-![](./assets/images/aqueduct_2.png)
+![](./assets/images/aqueduct_1.webp)
+![](./assets/images/aqueduct_2.webp)
 
 Raise AGIL to 19, then put remaining stat point into STRG.  
 Equip ![][icon_flamberge] or ![][icon_katana], and ![][icon_cloth_armor] 2nd armor.
@@ -629,7 +629,7 @@ Push the block and go back inside, then activate the lever to free Sabata.
 ### Puzzle
 
 Activate the first switch when the mummy is near its spot, then activate the other switches in order after the first bomb detonates:  
-![](./assets/images/mummy_switches.png)
+![](./assets/images/mummy_switches.webp)
 
 Open the door to keep going, take the stairs, then take the ↘️ exit to go outside.  
 Use ![][icon_bat] Bat to avoid falling off the platform and activate the switch.  
@@ -638,19 +638,19 @@ Use ![][icon_bat] Bat to avoid falling off the platform and activate the switch.
 Go back inside and take the stairs.
 
 Before using the magic circle, **check the hint panel for the number and the kanji:**  
-![](./assets/images/kanji_1.png)
+![](./assets/images/kanji_1.webp)
 
 As Sabata, take the elevator and keep going.
 
 ### Puzzle
 
 Use a ![][icon_power_nut] Power Nut:  
-![](./assets/images/sabata_blocks_1.png)
-![](./assets/images/sabata_blocks_2.png)
-![](./assets/images/sabata_blocks_3.png)
+![](./assets/images/sabata_blocks_1.webp)
+![](./assets/images/sabata_blocks_2.webp)
+![](./assets/images/sabata_blocks_3.webp)
 
 After this, **check the hint panel** and switch back to Django:  
-![](./assets/images/kanji_2.png)
+![](./assets/images/kanji_2.webp)
 
 Go through the gate and push the iron block based on the hint panels and the statue.  
 **北 = North, 南 = South, 東 = East, 酉 = West**
@@ -668,8 +668,8 @@ This outdoors screen has solar wind that will push you if using sunlight.
 Use the solar walkway to go straight to the next elevator if you don't need pickups.
 
 If you do need pickups, open these chests for items (![][icon_jerky] ![icon_solar_nut] ![][icon_warp_leaf] ![][icon_tasty_meat]) before taking the next elevator:  
-![](./assets/images/spiral_chests_1.png)
-![](./assets/images/spiral_chests_2.png)
+![](./assets/images/spiral_chests_1.webp)
+![](./assets/images/spiral_chests_2.webp)
 
 Use ![][icon_sol] Sol to kill the ghosts, activate the lever, then kill the ghosts again.
 
@@ -679,12 +679,12 @@ Put stat points into STRG, equip ![][icon_dash] Dash, ![][icon_sol] Sol, ![][ico
 Take the stairs to go back to the room below and use a ![][icon_power_nut] Power Nut to do the puzzle.
 
 Push the block on the left in the ↘️ direction, then push the other block (↙️ ↘️) so that they’re next to each other:  
-![](./assets/images/spiral_cloud_puzzle_1.png)
+![](./assets/images/spiral_cloud_puzzle_1.webp)
 
 Push the grey block with ![][icon_cloud] Cloud & spear in the ↗️ direction.
 
 Break the second stone block so that you can push the first one to cross and reach the grey block again:  
-![](./assets/images/spiral_cloud_puzzle_2.png)
+![](./assets/images/spiral_cloud_puzzle_2.webp)
 
 Push the grey block onto the switch with ![][icon_cloud] Cloud & spear, then use ![][icon_frost] Frost.  
 Proceed in the ↘️ direction.
@@ -710,8 +710,8 @@ Open the chest for a ![][icon_red_card] card.
 Leave the coffin, enter the tower on the ↘️ side, then take the stairs to go down.
 
 Push the grey block with ![][icon_cloud] Cloud, then open the last chest for a ![][icon_magic_sword] Magic Sword:
-![](./assets/images/magic_sword_block.png)
-![](./assets/images/magic_sword_chest.png)
+![](./assets/images/magic_sword_block.webp)
+![](./assets/images/magic_sword_chest.webp)
 
 Use a ![][icon_warp_leaf] Warp Leaf to leave.
 
@@ -749,9 +749,9 @@ After the stairs, walk in the ↘️ direction to avoid being seen.
 
 ### Puzzle
 
-![](./assets/images/undead_zone_1.png)
-![](./assets/images/undead_zone_2.png)
-![](./assets/images/undead_zone_3.png)
+![](./assets/images/undead_zone_1.webp)
+![](./assets/images/undead_zone_2.webp)
+![](./assets/images/undead_zone_3.webp)
 
 In the next room, use <=8 sunlight to enable the solar walkway and take the ↖️ exit.  
 Hit the skeletons from behind and ![][icon_dash] Dash during their damage animation so that they don’t see you.
@@ -781,7 +781,7 @@ Avoid the cockatrices in the next rooms, then light the torches on the moving pl
 Have <=8 sunlight to enable the solar walkways in the next room.
 
 Use ![][icon_dynamite] Dynamite on the wall here in this room:  
-![](./assets/images/garb_of_darkness_room.png)
+![](./assets/images/garb_of_darkness_room.webp)
 
 Get the ![][icon_garb_of_darkness] Garb of Darkness armor, then equip it & ![][icon_magic_sword] Magic Sword.  
 Raise AGIL to 21, put remaining stat points into STRG.
@@ -804,7 +804,7 @@ Go in the ↖️ direction and activate the lever.
 Go back and take the ↙️ exit, then ↖️ to activate another lever and spawn an ice block.  
 Go through the ↗️ ↘️ ↙️ exits.  
 Use ![][icon_dynamite] Dynamite here, then use the first wall to slide onto this spot:  
-![](./assets/images/ice_puzzle.png)
+![](./assets/images/ice_puzzle.webp)
 
 Look in the ↗️ direction and get hit by the dynamite.
 
@@ -833,7 +833,7 @@ Refill energy, then in the next room, take the ↘️ exit.
 
 Push the stone block & use ![fire](./assets/images/image125.png) Flame on the grey block.  
 Push the grey block with ![][icon_cloud] Cloud & spear (↗️ ↘️):  
-![](./assets/images/undead_zone_4.png)
+![](./assets/images/undead_zone_4.webp)
 
 Break the stone block & push the iron block.  
 Use ![][icon_earth] Earth on the grey block.  
@@ -844,14 +844,14 @@ Go back and go through the ↗️ ↘️ ↘️ exits.
 Equip ![][icon_frost] Frost, ![][icon_dash] Dash, ![transform](./assets/images/image124.png) Transform and ![][icon_sleep] Sleeping.  
 Put stat points into STRG.  
 Do not go on the platform, instead go here and use ![][icon_frost] Frost & spear to extinguish the ![fire](./assets/images/image125.png) Fire:  
-![](./assets/images/undead_zone_5.png)
+![](./assets/images/undead_zone_5.webp)
 
 Then use ![][icon_sleep] Sleeping and ![][icon_elefan] Elefan coffin to shoot the lever.
 
 Go back and go through the ↙️ exit.
 
 Open this hidden chest on the way for a ![][icon_solar_nut] Solar Nut:  
-![](./assets/images/undead_zone_6.png)
+![](./assets/images/undead_zone_6.webp)
 
 Go through the ↘️ ↘️ exits, then take the stairs to keep going.  
 Refill energy at the Solar Station when you reach it.
@@ -883,57 +883,57 @@ After the cutscenes, charge energy.
 Time ends when Jormungandr's health bar reaches zero during this final charge.
 
 <!-- Items -->
-[icon_earthly_nut]: ./assets/images/icon_earthly_nut.png
-[icon_solar_nut]: ./assets/images/icon_solar_nut.png
-[icon_speed_nut]: ./assets/images/icon_speed_nut.png
-[icon_power_nut]: ./assets/images/icon_power_nut.png
-[icon_bearnut]: ./assets/images/icon_bearnut.png
-[icon_warp_leaf]: ./assets/images/icon_warp_leaf.png
-[icon_tasty_meat]: ./assets/images/icon_tasty_meat.png
-[icon_jerky]: ./assets/images/icon_jerky.png
-[icon_sunscreen]: ./assets/images/icon_sunscreen.png
-[icon_triangle_key]: ./assets/images/icon_triangle_key.png
-[icon_circle_key]: ./assets/images/icon_circle_key.png
-[icon_red_card]: ./assets/images/icon_red_card.png
-[icon_blue_card]: ./assets/images/icon_blue_card.png
-[icon_green_card]: ./assets/images/icon_green_card.png
-[icon_black_card]: ./assets/images/icon_black_card.png
-[icon_stone_tablet]: ./assets/images/icon_stone_tablet.png
-[icon_yellow_orb]: ./assets/images/icon_yellow_orb.png
-[icon_red_orb]: ./assets/images/icon_red_orb.png
-[icon_green_orb]: ./assets/images/icon_green_orb.png
-[icon_blue_orb]: ./assets/images/icon_blue_orb.png
-[icon_elefan]: ./assets/images/icon_elefan.png
+[icon_earthly_nut]: ./assets/images/icon_earthly_nut.webp
+[icon_solar_nut]: ./assets/images/icon_solar_nut.webp
+[icon_speed_nut]: ./assets/images/icon_speed_nut.webp
+[icon_power_nut]: ./assets/images/icon_power_nut.webp
+[icon_bearnut]: ./assets/images/icon_bearnut.webp
+[icon_warp_leaf]: ./assets/images/icon_warp_leaf.webp
+[icon_tasty_meat]: ./assets/images/icon_tasty_meat.webp
+[icon_jerky]: ./assets/images/icon_jerky.webp
+[icon_sunscreen]: ./assets/images/icon_sunscreen.webp
+[icon_triangle_key]: ./assets/images/icon_triangle_key.webp
+[icon_circle_key]: ./assets/images/icon_circle_key.webp
+[icon_red_card]: ./assets/images/icon_red_card.webp
+[icon_blue_card]: ./assets/images/icon_blue_card.webp
+[icon_green_card]: ./assets/images/icon_green_card.webp
+[icon_black_card]: ./assets/images/icon_black_card.webp
+[icon_stone_tablet]: ./assets/images/icon_stone_tablet.webp
+[icon_yellow_orb]: ./assets/images/icon_yellow_orb.webp
+[icon_red_orb]: ./assets/images/icon_red_orb.webp
+[icon_green_orb]: ./assets/images/icon_green_orb.webp
+[icon_blue_orb]: ./assets/images/icon_blue_orb.webp
+[icon_elefan]: ./assets/images/icon_elefan.webp
 
 <!-- Magic -->
-[icon_sol]: ./assets/images/icon_sol.png
-[icon_frost]: ./assets/images/icon_frost.png
-[icon_earth]: ./assets/images/icon_earth.png
-[icon_cloud]: ./assets/images/icon_cloud.png
-[icon_dark]: ./assets/images/icon_dark.png
-[icon_dash]: ./assets/images/icon_dash.png
-[icon_dynamite]: ./assets/images/icon_dynamite.png
-[icon_grow]: ./assets/images/icon_grow.png
-[icon_bat]: ./assets/images/icon_bat.png
-[icon_sleep]: ./assets/images/icon_sleep.png
-[icon_zero_shift]: ./assets/images/icon_zero_shift.png
+[icon_sol]: ./assets/images/icon_sol.webp
+[icon_frost]: ./assets/images/icon_frost.webp
+[icon_earth]: ./assets/images/icon_earth.webp
+[icon_cloud]: ./assets/images/icon_cloud.webp
+[icon_dark]: ./assets/images/icon_dark.webp
+[icon_dash]: ./assets/images/icon_dash.webp
+[icon_dynamite]: ./assets/images/icon_dynamite.webp
+[icon_grow]: ./assets/images/icon_grow.webp
+[icon_bat]: ./assets/images/icon_bat.webp
+[icon_sleep]: ./assets/images/icon_sleep.webp
+[icon_zero_shift]: ./assets/images/icon_zero_shift.webp
 
 <!-- Equipment -->
-[icon_dull_knife]: ./assets/images/icon_dull_knife.png
-[icon_gladius]: ./assets/images/icon_gladius.png
-[icon_short_sword]: ./assets/images/icon_short_sword.png
-[icon_broad_sword]: ./assets/images/icon_broad_sword.png
-[icon_long_sword]: ./assets/images/icon_long_sword.png
-[icon_zweihander]: ./assets/images/icon_zweihander.png
-[icon_katana]: ./assets/images/icon_katana.png
-[icon_flamberge]: ./assets/images/icon_flamberge.png
-[icon_claymore]: ./assets/images/icon_claymore.png
-[icon_magic_sword]: ./assets/images/icon_magic_sword.png
-[icon_staff]: ./assets/images/icon_staff.png
-[icon_spear]: ./assets/images/icon_spear.png
-[icon_bardiche]: ./assets/images/icon_bardiche.png
-[icon_pounder]: ./assets/images/icon_pounder.png
-[icon_club]: ./assets/images/icon_club.png
-[icon_cloth_armor]: ./assets/images/icon_cloth_armor.png
-[icon_blood_cloak]: ./assets/images/icon_blood_cloak.png
-[icon_garb_of_darkness]: ./assets/images/icon_garb_of_darkness.png
+[icon_dull_knife]: ./assets/images/icon_dull_knife.webp
+[icon_gladius]: ./assets/images/icon_gladius.webp
+[icon_short_sword]: ./assets/images/icon_short_sword.webp
+[icon_broad_sword]: ./assets/images/icon_broad_sword.webp
+[icon_long_sword]: ./assets/images/icon_long_sword.webp
+[icon_zweihander]: ./assets/images/icon_zweihander.webp
+[icon_katana]: ./assets/images/icon_katana.webp
+[icon_flamberge]: ./assets/images/icon_flamberge.webp
+[icon_claymore]: ./assets/images/icon_claymore.webp
+[icon_magic_sword]: ./assets/images/icon_magic_sword.webp
+[icon_staff]: ./assets/images/icon_staff.webp
+[icon_spear]: ./assets/images/icon_spear.webp
+[icon_bardiche]: ./assets/images/icon_bardiche.webp
+[icon_pounder]: ./assets/images/icon_pounder.webp
+[icon_club]: ./assets/images/icon_club.webp
+[icon_cloth_armor]: ./assets/images/icon_cloth_armor.webp
+[icon_blood_cloak]: ./assets/images/icon_blood_cloak.webp
+[icon_garb_of_darkness]: ./assets/images/icon_garb_of_darkness.webp
