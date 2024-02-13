@@ -56,7 +56,7 @@ During the cutscene turn off sunlight, after the cutscene go to ↘️.
 
 ### Puzzle
 
-![firstblockpuzzle](./assets/images/image62.png)  
+![](./assets/images/first_block_puzzle.png)  
 Open the chest for a ![][icon_club] Club.  
 Backtrack, kill the ghoul in the cutscene room for EXP.  
 Destroy the first wooden block to push the 2 stone blocks, also open the chest for a ![][icon_power_nut] Power Nut.  
@@ -74,7 +74,7 @@ Use ![fire](./assets/images/image125.png) Flame on the torches.
 
 ### Puzzle
 
-![basementpuzzle](./assets/images/image7.png)  
+![](./assets/images/basement_puzzle.png)  
 Use ![fire](./assets/images/image125.png) Flame and hammer (on levers) to keep going.  
 After the dialogs, put stat points into STRG.
 
@@ -98,7 +98,7 @@ Check the spot directly next to the stairs, then take the stairs whether or not 
 - The black ghoul deals heavy damage, be careful.
 
 Proceed in the ↖️ direction, fall down to get the ![][icon_spear] Short Spear, then go back to this room:  
-![cathedralentrance](./assets/images/image2.png)
+![](./assets/images/cathedral_entrance.png)
 
 Use the spear on the lever to open the gate and proceed.
 
@@ -122,15 +122,15 @@ Go back to where you obtained the spear, but instead of falling, keep going in t
 
 Talk to these bookshelves **in this order** to open the gate:
 
-![library1](./assets/images/image80.png)
-![library2](./assets/images/image118.png)
-![library3](./assets/images/image103.png)
-![library4](./assets/images/image119.png)
+![](./assets/images/library_1.png)
+![](./assets/images/library_2.png)
+![](./assets/images/library_3.png)
+![](./assets/images/library_4.png)
 
 ### Puzzle
 
-![cathedral_puzzle_1](./assets/images/cathedral_puzzle_1.png)
-![cathedral_puzzle_2](./assets/images/cathedral_puzzle_2.png)  
+![](./assets/images/cathedral_puzzle_1.png)
+![](./assets/images/cathedral_puzzle_2.png)  
 Open the first chests on the left for a ![][icon_power_nut] Power Nut and a ![][icon_triangle_key] key.
 
 ### Puzzle
@@ -139,7 +139,7 @@ Light the torches with the spear, then push the first block to reach the second 
 Push the second block to the left, then push the block on the weight switch to activate the lamp to obtain the ![][icon_green_orb] Green Orb.
 
 Now go back to the room with the hint panel and place the ![][icon_green_orb] Green Orb (2nd option).  
-![greenorbroom](./assets/images/image53.png)
+![](./assets/images/green_orb_room.png)
 
 Turn off sunlight during the cutscene.  
 Proceed through the door in the ↖️ direction (Refill health on skylights if low).  
@@ -219,9 +219,9 @@ Refill energy to at least 70% before leaving the room.
 ### Puzzle
 
 Use a ![][icon_power_nut] Power Nut and push one block towards the start of the room like this:  
-![remainspuzzle1](./assets/images/image64.png)  
+![](./assets/images/remains_puzzle_1.png)  
 After that, push the other block on its spot, then do the same with the first block:
-![remainspuzzle2](./assets/images/image77.png)
+![](./assets/images/remains_puzzle_2.png)
 
 In the next room, push the block with sword and ![][icon_cloud] Cloud ↘️, then spear ↗️, then lower it with ![][icon_frost] Frost.
 
@@ -238,10 +238,10 @@ Open the chest on the left (bottom) for a ![][icon_speed_nut] Speed Nut, then go
 ### Puzzle
 
 Use a ![][icon_power_nut] Power Nut, then push the blocks like this (start with the ![fire](./assets/images/image125.png) Flame block):  
-![4blockpuzzle1](./assets/images/image122.png)
-![4blockpuzzle2](./assets/images/image86.png)
-![4blockpuzzle3](./assets/images/image22.png)
-![4blockpuzzle4](./assets/images/image54.png)
+![](./assets/images/4_block_puzzle_1.png)
+![](./assets/images/4_block_puzzle_2.png)
+![](./assets/images/4_block_puzzle_3.png)
+![](./assets/images/4_block_puzzle_4.png)
 
 Avoid the mummies and take the stairs.  
 Take the stairs to the bottom of the next room, then pass the golem whilst avoiding it.  
@@ -265,30 +265,30 @@ If you aren’t Lvl 10 yet, kill a Golem in the central room with ![][icon_cloud
 Now go back to where Sabata was (↘️) and keep going the in the same direction.
 
 Open this hidden chest (![][icon_warp_leaf] Warp Leaf), then open the door.  
-![remainsleafchest1](./assets/images/image10.png)
+![](./assets/images/remains_leaf_chest_1.png)
 
 Once outside, talk to the fountain to get water, then proceed.
 
 You must now find three ![][icon_stone_tablet] stone tablets that are in random spots on eight screens:  
-![desert1](./assets/images/image101.png)
-![desert2](./assets/images/image65.png)
-![desert3](./assets/images/image89.png)
-![desert4](./assets/images/image38.png)
-![desert5](./assets/images/image109.png)
-![desert6](./assets/images/image50.png)
-![desert7](./assets/images/image121.png)
-![desert8](./assets/images/image92.png)
+![](./assets/images/desert_1.png)
+![](./assets/images/desert_2.png)
+![](./assets/images/desert_3.png)
+![](./assets/images/desert_4.png)
+![](./assets/images/desert_5.png)
+![](./assets/images/desert_6.png)
+![](./assets/images/desert_7.png)
+![](./assets/images/desert_8.png)
 
 When you have all three tablets, go to the central screen and talk to the statue on the left:
-![desertend](./assets/images/image81.png)
+![](./assets/images/desert_end.png)
 
 In the next area, open this hidden chest (![][icon_power_nut] Power Nut):  
-![remainspowerchest](./assets/images/image106.png)
+![](./assets/images/remains_power_chest.png)
 
 ### Puzzle
 
 Light the torches in this order:  
-![remainslamps](./assets/images/image120.png)
+![](./assets/images/remains_lamps.png)
 
 Go downstairs, run through the golem and take the ↙️ exit.
 
@@ -301,7 +301,7 @@ Proceed to the puzzle room on the top-left:
 Use ![fire](./assets/images/image125.png) Flame on the block, then use ![][icon_cloud] Cloud to push it against the wall, then push it towards the torch.
 
 Open the hidden chest for a ![][icon_warp_leaf] Warp Leaf:  
-![remainsleafchest2](./assets/images/image104.png)
+![](./assets/images/remains_leaf_chest_2.png)
 
 Put all stat points into STRG, then use your ![][icon_speed_nut] Speed Nut.  
 Refill energy to 50% before leaving the room.
@@ -345,7 +345,7 @@ Take the ↙️ exit, then the last exit at the bottom.
 Take the ↗️ exit, then take the stairs again in the same direction.
 
 In the room with the ghouls, open this hidden chest:  
-![citychest1](./assets/images/image117.png)
+![](./assets/images/city_chest_1.png)
 
 After the cutscene, go through the narrow pass to break the wooden block, then push the iron block.  
 Go back through the narrow pass and proceed in the ↖️ direction.
@@ -367,13 +367,13 @@ Use ![][icon_bat] Bat on the elevator and go through the window, then take the f
 Go back inside but do not take the stairs, proceed in the ↙️ direction instead.
 
 Pick up this hidden chest on the way:  
-![citychest2](./assets/images/image67.png)
+![](./assets/images/city_chest_2.png)
 
 Use ![][icon_bat] Bat to go over the water and switch trap, then open the chest for a ![][icon_circle_key] key.  
 Proceed in the ↘️ direction, push the block and go through the second door.  
 After opening the door, use ![][icon_bat] Bat to go over the narrow paths, then go through the window.  
 Go to the left and take the last exit for a ![][icon_circle_key] key, there is also a hidden chest:
-![darkroomchest](./assets/images/image84.png)
+![](./assets/images/dark_room_chest.png)
 
 Go through the window again and take the first exit.  
 Go through the door to push another block.  
@@ -388,16 +388,16 @@ Select the first option during the dialog.
 
 Take the magic circle, unequip the armor and use a ![][icon_warp_leaf] Warp Leaf to leave the dungeon.  
 Take the ↙️ and ↖️ exits to go to San Miguel.  
-Talk to Cheyenne to unlock the weapon shop, and buy ![][icon_short_sword] Short Sword and ![broadsword](./assets/images/image78.png) Broadsword.  
+Talk to Cheyenne to unlock the weapon shop, and buy ![][icon_short_sword] Short Sword and ![][icon_broad_sword] Broadsword.  
 Go to the forging house to forge ![][icon_long_sword] Long Sword (![][icon_short_sword] + ![][icon_broad_sword]).
 
 Go back to the dungeon.  
 Take the magic circle and unlock the door, open the hidden chest here:  
-![citychest3](./assets/images/image71.png)
+![](./assets/images/city_chest_3.png)
 
 In the room with mummies, take the stairs, then go through the ↘️ exit.  
 Open another hidden chest:  
-![citychest4](./assets/images/image102.png)
+![](./assets/images/city_chest_4.png)
 
 In the next room, use ![][icon_bat] Bat to go through the window on the left, then keep using ![mouse](./assets/images/image126.png) Mouse, go to the right (across the wood), then use ![][icon_bat] Bat to go through the last window.
 
@@ -421,7 +421,7 @@ After solving the puzzle with 2 wooden blocks, leave the coffin.
 Keep going alone and activate the lever.
 
 Possible change: On the way to the lever, get ![][icon_blood_cloak]Blood-Soaked Cloak (hidden chest):  
-![bloodcloakchest](./assets/images/image40.png)
+![](./assets/images/blood_cloak_chest.png)
 
 Use a ![][icon_warp_leaf] Warp Leaf to leave and go to the piledriver area.  
 Leave the area through the same exit, save the game and soft reset (A+B+Start+Select).
@@ -451,18 +451,18 @@ Go to Lita’s shop:
 Exit the shop and follow Nero.
 
 Open the hidden chest near the bank for a fifth ![][icon_warp_leaf] Warp Leaf:  
-![sanmiguelchest](./assets/images/image93.png)
+![](./assets/images/san_miguel_chest.png)
 
 Before the Aqueduct dungeon, there is an optional dungeon. Go inside it.
 
 ## Treasury
 
 Use ![][icon_cloud] Cloud to push the block, then go into the first entrance and solve the puzzles:  
-![treasury1](./assets/images/image15.png)
-![treasury2](./assets/images/image123.png)  
-![treasury3](./assets/images/image95.png)
-![treasury4](./assets/images/image88.png)
-![treasury5](./assets/images/image36.png)
+![](./assets/images/treasury_1.png)
+![](./assets/images/treasury_2.png)
+![](./assets/images/treasury_3.png)
+![](./assets/images/treasury_4.png)
+![](./assets/images/treasury_5.png)
 
 Open the first chest in the final room for a ![][icon_zweihander] Zweihander.  
 Use a ![][icon_warp_leaf] Warp Leaf to leave.
@@ -494,14 +494,14 @@ Equip ![fire](./assets/images/image125.png) Flame, ![][icon_frost] Frost, ![][ic
 Use ![fire](./assets/images/image125.png) Flame on the first block.
 
 Push the iron block like this:  
-![citypuzzle1](./assets/images/image58.png)
+![](./assets/images/city_puzzle_1.png)
 
 Use ![][icon_earth] Earth on the block next to the iron block, then push the iron block in the hole.
 
 Use ![][icon_cloud] Cloud & sword to push the block on the left once ↘️.
 
 Use ![][icon_cloud] Cloud to push the first block in the room in these directions:  
-![citypuzzle2](./assets/images/image99.png)
+![](./assets/images/city_puzzle_2.png)
 
 - ↖️ (sword)
 - ↗️ (spear)
@@ -509,7 +509,7 @@ Use ![][icon_cloud] Cloud to push the first block in the room in these direction
 - ↗️ (spear)
 
 Now use ![][icon_cloud] Cloud on the other block:  
-![citypuzzle3](./assets/images/image94.png)
+![](./assets/images/city_puzzle_3.png)
 
 - ↘️ (sword)
 - ↗️ (sword)
@@ -553,8 +553,8 @@ Open the door, then proceed.
 Farm EXP in the same room until you reach lvl 21.
 
 Keep going, on the way open these two hidden chests for items:  
-![aqueduct1](./assets/images/image66.png)
-![aqueduct2](./assets/images/image51.png)
+![](./assets/images/aqueduct_1.png)
+![](./assets/images/aqueduct_2.png)
 
 Raise AGIL to 19, then put remaining stat point into STRG.  
 Equip ![][icon_flamberge] or ![][icon_katana], and ![][icon_cloth_armor] 2nd armor.
@@ -629,7 +629,7 @@ Push the block and go back inside, then activate the lever to free Sabata.
 ### Puzzle
 
 Activate the first switch when the mummy is near its spot, then activate the other switches in order after the first bomb detonates:  
-![mummyswitches](./assets/images/image82.png)
+![](./assets/images/mummy_switches.png)
 
 Open the door to keep going, take the stairs, then take the ↘️ exit to go outside.  
 Use ![][icon_bat] Bat to avoid falling off the platform and activate the switch.  
@@ -638,19 +638,19 @@ Use ![][icon_bat] Bat to avoid falling off the platform and activate the switch.
 Go back inside and take the stairs.
 
 Before using the magic circle, **check the hint panel for the number and the kanji:**  
-![kanji1](./assets/images/image108.png)
+![](./assets/images/kanji_1.png)
 
 As Sabata, take the elevator and keep going.
 
 ### Puzzle
 
 Use a ![][icon_power_nut] Power Nut:  
-![sabatablocks1](./assets/images/image115.png)
-![sabatablocks2](./assets/images/image21.png)
-![sabatablocks3](./assets/images/image27.png)
+![](./assets/images/sabata_blocks_1.png)
+![](./assets/images/sabata_blocks_2.png)
+![](./assets/images/sabata_blocks_3.png)
 
 After this, **check the hint panel** and switch back to Django:  
-![kanji2](./assets/images/image11.png)
+![](./assets/images/kanji_2.png)
 
 Go through the gate and push the iron block based on the hint panels and the statue.  
 **北 = North, 南 = South, 東 = East, 酉 = West**
@@ -668,8 +668,8 @@ This outdoors screen has solar wind that will push you if using sunlight.
 Use the solar walkway to go straight to the next elevator if you don't need pickups.
 
 If you do need pickups, open these chests for items (![][icon_jerky] ![icon_solar_nut] ![][icon_warp_leaf] ![][icon_tasty_meat]) before taking the next elevator:  
-![spiralchests1](./assets/images/image114.png)
-![spiralchests2](./assets/images/image61.png)
+![](./assets/images/spiral_chests_1.png)
+![](./assets/images/spiral_chests_2.png)
 
 Use ![][icon_sol] Sol to kill the ghosts, activate the lever, then kill the ghosts again.
 
@@ -679,12 +679,12 @@ Put stat points into STRG, equip ![][icon_dash] Dash, ![][icon_sol] Sol, ![][ico
 Take the stairs to go back to the room below and use a ![][icon_power_nut] Power Nut to do the puzzle.
 
 Push the block on the left in the ↘️ direction, then push the other block (↙️ ↘️) so that they’re next to each other:  
-![spiralcloudpuzzle1](./assets/images/image96.png)
+![](./assets/images/spiral_cloud_puzzle_1.png)
 
 Push the grey block with ![][icon_cloud] Cloud & spear in the ↗️ direction.
 
 Break the second stone block so that you can push the first one to cross and reach the grey block again:  
-![spiralcloudpuzzle2](./assets/images/image17.png)
+![](./assets/images/spiral_cloud_puzzle_2.png)
 
 Push the grey block onto the switch with ![][icon_cloud] Cloud & spear, then use ![][icon_frost] Frost.  
 Proceed in the ↘️ direction.
@@ -710,8 +710,8 @@ Open the chest for a ![][icon_red_card] card.
 Leave the coffin, enter the tower on the ↘️ side, then take the stairs to go down.
 
 Push the grey block with ![][icon_cloud] Cloud, then open the last chest for a ![][icon_magic_sword] Magic Sword:
-![magicswordblock](./assets/images/image18.png)
-![magicswordchest](./assets/images/image90.png)
+![](./assets/images/magic_sword_block.png)
+![](./assets/images/magic_sword_chest.png)
 
 Use a ![][icon_warp_leaf] Warp Leaf to leave.
 
@@ -749,9 +749,9 @@ After the stairs, walk in the ↘️ direction to avoid being seen.
 
 ### Puzzle
 
-![undeadzone1](./assets/images/image20.png)
-![undeadzone2](./assets/images/image3.png)
-![undeadzone3](./assets/images/image47.png)
+![](./assets/images/undead_zone_1.png)
+![](./assets/images/undead_zone_2.png)
+![](./assets/images/undead_zone_3.png)
 
 In the next room, use <=8 sunlight to enable the solar walkway and take the ↖️ exit.  
 Hit the skeletons from behind and ![][icon_dash] Dash during their damage animation so that they don’t see you.
@@ -781,7 +781,7 @@ Avoid the cockatrices in the next rooms, then light the torches on the moving pl
 Have <=8 sunlight to enable the solar walkways in the next room.
 
 Use ![][icon_dynamite] Dynamite on the wall here in this room:  
-![garbofdarknessroom](./assets/images/image107.png)
+![](./assets/images/garb_of_darkness_room.png)
 
 Get the ![][icon_garb_of_darkness] Garb of Darkness armor, then equip it & ![][icon_magic_sword] Magic Sword.  
 Raise AGIL to 21, put remaining stat points into STRG.
@@ -804,7 +804,7 @@ Go in the ↖️ direction and activate the lever.
 Go back and take the ↙️ exit, then ↖️ to activate another lever and spawn an ice block.  
 Go through the ↗️ ↘️ ↙️ exits.  
 Use ![][icon_dynamite] Dynamite here, then use the first wall to slide onto this spot:  
-![icepuzzle](./assets/images/image32.png)
+![](./assets/images/ice_puzzle.png)
 
 Look in the ↗️ direction and get hit by the dynamite.
 
@@ -833,7 +833,7 @@ Refill energy, then in the next room, take the ↘️ exit.
 
 Push the stone block & use ![fire](./assets/images/image125.png) Flame on the grey block.  
 Push the grey block with ![][icon_cloud] Cloud & spear (↗️ ↘️):  
-![undeadzone4](./assets/images/image113.png)
+![](./assets/images/undead_zone_4.png)
 
 Break the stone block & push the iron block.  
 Use ![][icon_earth] Earth on the grey block.  
@@ -844,14 +844,14 @@ Go back and go through the ↗️ ↘️ ↘️ exits.
 Equip ![][icon_frost] Frost, ![][icon_dash] Dash, ![transform](./assets/images/image124.png) Transform and ![][icon_sleep] Sleeping.  
 Put stat points into STRG.  
 Do not go on the platform, instead go here and use ![][icon_frost] Frost & spear to extinguish the ![fire](./assets/images/image125.png) Fire:  
-![undeadzone5](./assets/images/image59.png)
+![](./assets/images/undead_zone_5.png)
 
 Then use ![][icon_sleep] Sleeping and ![][icon_elefan] Elefan coffin to shoot the lever.
 
 Go back and go through the ↙️ exit.
 
 Open this hidden chest on the way for a ![][icon_solar_nut] Solar Nut:  
-![undeadzone6](./assets/images/image12.png)
+![](./assets/images/undead_zone_6.png)
 
 Go through the ↘️ ↘️ exits, then take the stairs to keep going.  
 Refill energy at the Solar Station when you reach it.
