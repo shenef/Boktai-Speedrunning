@@ -69,11 +69,11 @@ Proceed in the ↘️ direction by destroying the wooden block.
 
 Go back and take the stairs, kill five ghouls for EXP.  
 In the 5th room, knock on the wall near the center of the room, then hug the right wall to avoid the ghoul.  
-Use Fire on the torches.
+Use ![fire](./assets/images/image125.png) Fire on the torches.
 
 ### Puzzle
 ![basementpuzzle](./assets/images/image7.png)  
-Use Fire and hammer (on levers) to keep going.  
+Use ![fire](./assets/images/image125.png) Fire and hammer (on levers) to keep going.  
 After the dialogs, put stat points into STRG.
 
 ### Trap
@@ -147,7 +147,7 @@ Put stat points into STRG and equip the second armor.
 ### Boss
 
 - Light the torch in the center with the spear. With precise positioning you can hit all four candles with one attack. 
-- Use the spear to attack Duneyrr (No element to save energy, Fire to deal higher damage).
+- Use the spear to attack Duneyrr (No element to save energy, ![fire](./assets/images/image125.png) Fire to deal higher damage).
 - Kill the adds during downtime to reduce lag.
 - Turn on sunlight during her death animation.
 
@@ -195,7 +195,7 @@ During the dialog, choose the first option.
 Backtrack through the room with the torches, then take the stairs and use ![frost](./assets/images/image110.png) Frost to keep going.
 
 Push the block, then keep going ↖️.  
-Use Fire to melt the blocks.  
+Use ![fire](./assets/images/image125.png) Fire to melt the blocks.  
 Open the chest in the upper-left for a ![powernut](./assets/images/image41.png) Power Nut.  
 Use ![frost](./assets/images/image110.png) Frost to make the block fall, then replenish life and energy to 100% on the skylight.
 
@@ -224,7 +224,7 @@ In the next room, push the block with sword and ![cloud](./assets/images/image46
 
 In the newly-unlocked room, destroy the block with ![cloud](./assets/images/image46.png) Cloud to get the ![trianglekey](./assets/images/image45.png) key.  
 Go back to the previous room and push the block on the left, keep going in the ↖️ direction.  
-Break the block on the way with ![cloud](./assets/images/image46.png) Cloud, then select Fire.
+Break the block on the way with ![cloud](./assets/images/image46.png) Cloud, then select ![fire](./assets/images/image125.png) Fire.
 
 Open the door, kill the slime, then go through the ↘️ exit and push the block.  
 Go back outside and take the stairs, then proceed in the ↘️ direction.
@@ -234,7 +234,7 @@ Open the chest on the left (bottom) for a ![speednut](./assets/images/image29.pn
 
 ### Puzzle
 
-Use a ![powernut](./assets/images/image41.png) Power Nut, then push the blocks like this (start with the fire block):  
+Use a ![powernut](./assets/images/image41.png) Power Nut, then push the blocks like this (start with the ![fire](./assets/images/image125.png) fire block):  
 ![4blockpuzzle1](./assets/images/image122.png)
 ![4blockpuzzle2](./assets/images/image86.png)
 ![4blockpuzzle3](./assets/images/image22.png) 
@@ -243,7 +243,7 @@ Use a ![powernut](./assets/images/image41.png) Power Nut, then push the blocks l
 Avoid the mummies and take the stairs.  
 Take the stairs to the bottom of the next room, then pass the golem whilst avoiding it.  
 Take the immediate ↙️ exit.  
-In the room with fire, use Fire on the mummy to activate the torch, then take the stairs.  
+In the room with ![fire](./assets/images/image125.png) fire, use ![fire](./assets/images/image125.png) Fire on the mummy to activate the torch, then take the stairs.  
 Avoid the slimes and open the blue chest for a ![trianglekey](./assets/images/image45.png) key.
 
 Go back downstairs and take the ↙️ exit.  
@@ -294,7 +294,7 @@ Push the second block ↘️ onto the weight switch.
 Push the first block ↖️↗️↖️ onto the other switch, then use ![frost](./assets/images/image110.png) Frost on both blocks.
 
 Proceed to the puzzle room on the top-left:  
-Use Fire on the block, then use ![cloud](./assets/images/image46.png) Cloud to push it against the wall, then push it towards the torch.  
+Use ![fire](./assets/images/image125.png) Fire on the block, then use ![cloud](./assets/images/image46.png) Cloud to push it against the wall, then push it towards the torch.  
 
 Open the hidden chest for a ![warpleaf](./assets/images/image19.png) Warp Leaf:  
 ![remainsleafchest2](./assets/images/image104.png)  
@@ -324,7 +324,7 @@ Once you gain control of Sabata, use ![powernut](./assets/images/image41.png) Po
 ## San Miguel [3]
 
 Replenish energy and HP, then buy the ![elefan](./assets/images/image14.png) Elefan coffin (160 solls).  
-Equip ![dark](./assets/images/image116.png) Dark, Mouse and ![bat](./assets/images/image5.png) Bat, then select spear.
+Equip ![dark](./assets/images/image116.png) Dark, ![mouse](./assets/images/image126.png) Mouse and ![bat](./assets/images/image5.png) Bat, then select spear.
 
 Go to the piledriver area.  
 Kill the two dark roots on the right with spear and ![dark](./assets/images/image116.png) Dark, then leave **through the way you came in.**  
@@ -346,15 +346,15 @@ In the room with the ghouls, open this hidden chest:
 After the cutscene, go through the narrow pass to break the wooden block, then push the iron block.  
 Go back through the narrow pass and proceed in the ↖️ direction.
 
-Go through the second door, use Mouse to proceed and activate the lever, then take the stairs.  
+Go through the second door, use ![mouse](./assets/images/image126.png) Mouse to proceed and activate the lever, then take the stairs.  
 Take the ↙️ exit, then take the stairs.  
 Use ![bat](./assets/images/image5.png) Bat to go through the window.
 
-After the room with mummies, use Mouse on the elevator to keep going and push a block.  
-Go back and take the elevator without transforming.  
+After the room with mummies, use ![mouse](./assets/images/image126.png) Mouse on the elevator to keep going and push a block.  
+Go back and take the elevator without ![transform](./assets/images/image124.png) transforming.  
 Use ![bat](./assets/images/image5.png) Bat to go over the water, get the ![okey](./assets/images/image26.png) key.
 
-Go back and take the ↘️ exit, then go through the first door to backtrack to where you first used Mouse.  
+Go back and take the ↘️ exit, then go through the first door to backtrack to where you first used ![mouse](./assets/images/image126.png) Mouse.  
 Take the stairs and open the locked door, then take the stairs to go down.  
 Once outside, take the ↖️ exit nearby, use ![bat](./assets/images/image5.png) Bat to go over the water, then go through the door.
 
@@ -395,7 +395,7 @@ In the room with mummies, take the stairs, then go through the ↘️ exit.
 Open another hidden chest:  
 ![citychest4](./assets/images/image102.png)  
 
-In the next room, use ![bat](./assets/images/image5.png) Bat to go through the window on the left, then keep using Mouse, go to the right (across the wood), then use ![bat](./assets/images/image5.png) Bat to go through the last window.
+In the next room, use ![bat](./assets/images/image5.png) Bat to go through the window on the left, then keep using ![mouse](./assets/images/image126.png) Mouse, go to the right (across the wood), then use ![bat](./assets/images/image5.png) Bat to go through the last window.
 
 Do not push the block, just keep going.  
 Refill your life/energy and equip the new sword and second armor before entering the boss fight.
@@ -436,7 +436,7 @@ Choose the second dialog option after the purification.
 Go to Cheyenne’s shop and talk to him to get the ![dash](./assets/images/image44.png) Dash magic.  
 **Use this for movement whenever possible.**  
 
-Equip ![dash](./assets/images/image44.png) Dash, Transform, ![dark](./assets/images/image116.png) Dark and ![cloud](./assets/images/image46.png) Cloud.  
+Equip ![dash](./assets/images/image44.png) Dash, ![transform](./assets/images/image124.png) Transform, ![dark](./assets/images/image116.png) Dark and ![cloud](./assets/images/image46.png) Cloud.  
 Go outside and talk to Violet to trigger Nero.
 
 Go to Lita’s shop:  
@@ -484,9 +484,9 @@ Once outside, go through the first entrance.
 
 ### Puzzle
 
-Equip Fire, ![frost](./assets/images/image110.png) Frost, ![cloud](./assets/images/image46.png) Cloud and ![earth](./assets/images/image74.png) Earth. 
+Equip ![fire](./assets/images/image125.png) Fire, ![frost](./assets/images/image110.png) Frost, ![cloud](./assets/images/image46.png) Cloud and ![earth](./assets/images/image74.png) Earth. 
 
-Use Fire on the first block.  
+Use ![fire](./assets/images/image125.png) Fire on the first block.  
 
 Push the iron block like this:   
 ![citypuzzle1](./assets/images/image58.png)  
@@ -510,11 +510,11 @@ Now use ![cloud](./assets/images/image46.png) Cloud on the other block:
 - ↗️ (spear)
 
 Use spear & ![frost](./assets/images/image110.png) Frost to freeze both blocks at once.  
-Take the stairs, equip ![dark](./assets/images/image116.png) Dark, Mouse, Transform & ![dash](./assets/images/image44.png) Dash.
+Take the stairs, equip ![dark](./assets/images/image116.png) Dark, ![mouse](./assets/images/image126.png) Mouse, ![transform](./assets/images/image124.png) Transform & ![dash](./assets/images/image44.png) Dash.
 
-Keep going (↙️ ↖️ ↗️), use Mouse to go through the hole, then open the chest for a ![tarotcard](./assets/images/image69.png) Tarot Card.  
+Keep going (↙️ ↖️ ↗️), use ![mouse](./assets/images/image126.png) Mouse to go through the hole, then open the chest for a ![tarotcard](./assets/images/image69.png) Tarot Card.  
 During the cutscene, choose the first option.  
-Replace Mouse with ![dynamite](./assets/images/image4.png) Dynamite.  
+Replace ![mouse](./assets/images/image126.png) Mouse with ![dynamite](./assets/images/image4.png) Dynamite.  
 Use a ![warpleaf](./assets/images/image19.png) Warp Leaf to leave.  
 Proceed in the ↙️ direction (kill the dark root).  
 Go back to the Remains.
@@ -554,7 +554,7 @@ Equip ![flamberge](./assets/images/image6.png) or ![katana](./assets/images/imag
 
 ### Trap
 
-- Use Fire, after the fight replenish life/energy with the skylight.
+- Use ![fire](./assets/images/image125.png) Fire, after the fight replenish life/energy with the skylight.
 
 ### Trap
 
@@ -562,7 +562,7 @@ Equip ![flamberge](./assets/images/image6.png) or ![katana](./assets/images/imag
 
 ### Boss
 
-- Use ![flamberge](./assets/images/image6.png) Flamberge or ![katana](./assets/images/image33.png) Katana with Fire.
+- Use ![flamberge](./assets/images/image6.png) Flamberge or ![katana](./assets/images/image33.png) Katana with ![fire](./assets/images/image125.png) Fire.
 - Use the skylight to replenish life/energy as needed.
 - When she charges you, time your hit so that it cancels her attack.
 - If she’s at 1 HP and far away, shoot her with ![elefan](./assets/images/image14.png) Elefan coffin (Black Django & ![sleeping](./assets/images/image39.png) Sleeping).
@@ -766,7 +766,7 @@ Open the blue chest for a ![okey](./assets/images/image26.png) key, use it on th
 
 ## Undead Zone [2]
 
-Equip ![dash](./assets/images/image44.png) Dash, Fire, ![earth](./assets/images/image74.png) Earth and ![dynamite](./assets/images/image4.png) Dynamite.  
+Equip ![dash](./assets/images/image44.png) Dash, ![fire](./assets/images/image125.png) Fire, ![earth](./assets/images/image74.png) Earth and ![dynamite](./assets/images/image4.png) Dynamite.  
 Take the ↘️ exit, light all the torches to open the gate.
 
 Avoid the cockatrices in the next rooms, then light the torches on the moving platforms.  
@@ -810,7 +810,7 @@ Refill energy & put stat points into STRG before taking the platform.
 
 ## Trap
 
-- Use Fire & spear.
+- Use ![fire](./assets/images/image125.png) Fire & spear.
 - Only aim for the head & tail.
 - Break the bubbles to force it to jump at you.
 
@@ -824,7 +824,7 @@ Refill energy, then in the next room, take the ↘️ exit.
 
 ### Puzzle
 
-Push the stone block & use Fire on the grey block.  
+Push the stone block & use ![fire](./assets/images/image125.png) Fire on the grey block.  
 Push the grey block with ![cloud](./assets/images/image46.png) Cloud & spear (↗️ ↘️):  
 ![undeadzone4](./assets/images/image113.png)
 
@@ -834,9 +834,9 @@ Walk onto the switch.
 
 Go back and go through the ↗️ ↘️ ↘️ exits.
 
-Equip ![frost](./assets/images/image110.png) Frost, ![dash](./assets/images/image44.png) Dash, Transform and ![sleeping](./assets/images/image39.png) Sleeping.  
+Equip ![frost](./assets/images/image110.png) Frost, ![dash](./assets/images/image44.png) Dash, ![transform](./assets/images/image124.png) Transform and ![sleeping](./assets/images/image39.png) Sleeping.  
 Put stat points into STRG.  
-Do not go on the platform, instead go here and use ![frost](./assets/images/image110.png) Frost & spear to extinguish the fire:  
+Do not go on the platform, instead go here and use ![frost](./assets/images/image110.png) Frost & spear to extinguish the ![fire](./assets/images/image125.png) fire:  
 ![undeadzone5](./assets/images/image59.png)  
 
 Then use ![sleeping](./assets/images/image39.png) Sleeping and ![elefan](./assets/images/image14.png) Elefan coffin to shoot the lever.
@@ -860,7 +860,7 @@ You can open the chest for a random card if you want.
 
 ## Undead Zone [5]
 
-Equip ![dark](./assets/images/image116.png) Dark, Transform & ![dash](./assets/images/image44.png) Dash, put stat points into VIT.  
+Equip ![dark](./assets/images/image116.png) Dark, ![transform](./assets/images/image124.png) Transform & ![dash](./assets/images/image44.png) Dash, put stat points into VIT.  
 You’ll need to enable a solar walkway at the end, so have <=8 sunlight.
 
 ### Jormungandr
