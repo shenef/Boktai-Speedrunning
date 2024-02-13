@@ -70,12 +70,12 @@ Proceed in the ↘️ direction by destroying the wooden block.
 
 Go back and take the stairs, kill five ghouls for EXP.  
 In the 5th room, knock on the wall near the center of the room, then hug the right wall to avoid the ghoul.  
-Use ![fire](./assets/images/image125.png) Fire on the torches.
+Use ![fire](./assets/images/image125.png) Flame on the torches.
 
 ### Puzzle
 
 ![basementpuzzle](./assets/images/image7.png)  
-Use ![fire](./assets/images/image125.png) Fire and hammer (on levers) to keep going.  
+Use ![fire](./assets/images/image125.png) Flame and hammer (on levers) to keep going.  
 After the dialogs, put stat points into STRG.
 
 ### Trap
@@ -150,7 +150,7 @@ Put stat points into STRG and equip the second armor.
 ### Boss
 
 - Light the torch in the center with the spear. With precise positioning you can hit all four candles with one attack.
-- Use the spear to attack Duneyrr (No element to save energy, ![fire](./assets/images/image125.png) Fire to deal higher damage).
+- Use the spear to attack Duneyrr (No element to save energy, ![fire](./assets/images/image125.png) Flame to deal higher damage).
 - Kill the adds during downtime to reduce lag.
 - Turn on sunlight during her death animation.
 
@@ -198,7 +198,7 @@ During the dialog, choose the first option.
 Backtrack through the room with the torches, then take the stairs and use ![][icon_frost] Frost to keep going.
 
 Push the block, then keep going ↖️.  
-Use ![fire](./assets/images/image125.png) Fire to melt the blocks.  
+Use ![fire](./assets/images/image125.png) Flame to melt the blocks.  
 Open the chest in the upper-left for a ![][icon_power_nut] Power Nut.  
 Use ![][icon_frost] Frost to make the block fall, then replenish life and energy to 100% on the skylight.
 
@@ -227,7 +227,7 @@ In the next room, push the block with sword and ![][icon_cloud] Cloud ↘️, th
 
 In the newly-unlocked room, destroy the block with ![][icon_cloud] Cloud to get the ![][icon_triangle_key] key.  
 Go back to the previous room and push the block on the left, keep going in the ↖️ direction.  
-Break the block on the way with ![][icon_cloud] Cloud, then select ![fire](./assets/images/image125.png) Fire.
+Break the block on the way with ![][icon_cloud] Cloud, then select ![fire](./assets/images/image125.png) Flame.
 
 Open the door, kill the slime, then go through the ↘️ exit and push the block.  
 Go back outside and take the stairs, then proceed in the ↘️ direction.
@@ -237,7 +237,7 @@ Open the chest on the left (bottom) for a ![][icon_speed_nut] Speed Nut, then go
 
 ### Puzzle
 
-Use a ![][icon_power_nut] Power Nut, then push the blocks like this (start with the ![fire](./assets/images/image125.png) fire block):  
+Use a ![][icon_power_nut] Power Nut, then push the blocks like this (start with the ![fire](./assets/images/image125.png) Flame block):  
 ![4blockpuzzle1](./assets/images/image122.png)
 ![4blockpuzzle2](./assets/images/image86.png)
 ![4blockpuzzle3](./assets/images/image22.png)
@@ -246,7 +246,7 @@ Use a ![][icon_power_nut] Power Nut, then push the blocks like this (start with 
 Avoid the mummies and take the stairs.  
 Take the stairs to the bottom of the next room, then pass the golem whilst avoiding it.  
 Take the immediate ↙️ exit.  
-In the room with ![fire](./assets/images/image125.png) fire, use ![fire](./assets/images/image125.png) Fire on the mummy to activate the torch, then take the stairs.  
+In the room with ![fire](./assets/images/image125.png) the flamethrower, use ![fire](./assets/images/image125.png) Flame on the mummy to activate the torch, then take the stairs.  
 Avoid the slimes and open the blue chest for a ![][icon_triangle_key] key.
 
 Go back downstairs and take the ↙️ exit.  
@@ -298,7 +298,7 @@ Push the second block ↘️ onto the weight switch.
 Push the first block ↖️↗️↖️ onto the other switch, then use ![][icon_frost] Frost on both blocks.
 
 Proceed to the puzzle room on the top-left:  
-Use ![fire](./assets/images/image125.png) Fire on the block, then use ![][icon_cloud] Cloud to push it against the wall, then push it towards the torch.
+Use ![fire](./assets/images/image125.png) Flame on the block, then use ![][icon_cloud] Cloud to push it against the wall, then push it towards the torch.
 
 Open the hidden chest for a ![][icon_warp_leaf] Warp Leaf:  
 ![remainsleafchest2](./assets/images/image104.png)
@@ -489,9 +489,9 @@ Once outside, go through the first entrance.
 
 ### Puzzle
 
-Equip ![fire](./assets/images/image125.png) Fire, ![][icon_frost] Frost, ![][icon_cloud] Cloud and ![][icon_earth] Earth.
+Equip ![fire](./assets/images/image125.png) Flame, ![][icon_frost] Frost, ![][icon_cloud] Cloud and ![][icon_earth] Earth.
 
-Use ![fire](./assets/images/image125.png) Fire on the first block.
+Use ![fire](./assets/images/image125.png) Flame on the first block.
 
 Push the iron block like this:  
 ![citypuzzle1](./assets/images/image58.png)
@@ -561,7 +561,7 @@ Equip ![][icon_flamberge] or ![][icon_katana], and ![][icon_cloth_armor] 2nd arm
 
 ### Trap
 
-- Use ![fire](./assets/images/image125.png) Fire, after the fight replenish life/energy with the skylight.
+- Use ![fire](./assets/images/image125.png) Flame, after the fight replenish life/energy with the skylight.
 
 ### Trap
 
@@ -569,7 +569,7 @@ Equip ![][icon_flamberge] or ![][icon_katana], and ![][icon_cloth_armor] 2nd arm
 
 ### Boss
 
-- Use ![][icon_flamberge] Flamberge or ![][icon_katana] Katana with ![fire](./assets/images/image125.png) Fire.
+- Use ![][icon_flamberge] Flamberge or ![][icon_katana] Katana with ![fire](./assets/images/image125.png) Flame.
 - Use the skylight to replenish life/energy as needed.
 - When she charges you, time your hit so that it cancels her attack.
 - If she’s at 1 HP and far away, shoot her with ![][icon_elefan] Elefan coffin (Black Django & ![][icon_sleep] Sleeping).
@@ -703,7 +703,6 @@ During the dialog, choose the second option to avoid a Game Over.
   - When Dainn spawns dark orbs, destroy them with ![][icon_sol] Sol.
   - Don’t attack Dainn, instead, focus on good positions to avoid swords easily.
   - When Dainn is stuck in the black hole, use ![][icon_sol] Sol.
-
 - 2nd phase:
   - Use ![][icon_sol] Sol & avoid Dainn's attacks at all cost.
 
@@ -775,7 +774,7 @@ Open the blue chest for a ![][icon_circle_key] key, use it on the other door to 
 
 ## Undead Zone [2]
 
-Equip ![][icon_dash] Dash, ![fire](./assets/images/image125.png) Fire, ![][icon_earth] Earth and ![][icon_dynamite] Dynamite.  
+Equip ![][icon_dash] Dash, ![fire](./assets/images/image125.png) Flame, ![][icon_earth] Earth and ![][icon_dynamite] Dynamite.  
 Take the ↘️ exit, light all the torches to open the gate.
 
 Avoid the cockatrices in the next rooms, then light the torches on the moving platforms.  
@@ -818,7 +817,7 @@ Refill energy & put stat points into STRG before taking the platform.
 
 ## Trap
 
-- Use ![fire](./assets/images/image125.png) Fire & spear.
+- Use ![fire](./assets/images/image125.png) Flame & spear.
 - Only aim for the head & tail.
 - Break the bubbles to force it to jump at you.
 
@@ -832,7 +831,7 @@ Refill energy, then in the next room, take the ↘️ exit.
 
 ### Puzzle
 
-Push the stone block & use ![fire](./assets/images/image125.png) Fire on the grey block.  
+Push the stone block & use ![fire](./assets/images/image125.png) Flame on the grey block.  
 Push the grey block with ![][icon_cloud] Cloud & spear (↗️ ↘️):  
 ![undeadzone4](./assets/images/image113.png)
 
@@ -844,7 +843,7 @@ Go back and go through the ↗️ ↘️ ↘️ exits.
 
 Equip ![][icon_frost] Frost, ![][icon_dash] Dash, ![transform](./assets/images/image124.png) Transform and ![][icon_sleep] Sleeping.  
 Put stat points into STRG.  
-Do not go on the platform, instead go here and use ![][icon_frost] Frost & spear to extinguish the ![fire](./assets/images/image125.png) fire:  
+Do not go on the platform, instead go here and use ![][icon_frost] Frost & spear to extinguish the ![fire](./assets/images/image125.png) Fire:  
 ![undeadzone5](./assets/images/image59.png)
 
 Then use ![][icon_sleep] Sleeping and ![][icon_elefan] Elefan coffin to shoot the lever.
