@@ -420,7 +420,7 @@ Drag the coffin and solve the puzzles.
 After solving the puzzle with 2 wooden blocks, leave the coffin.  
 Keep going alone and activate the lever.
 
-Possible change: On the way to the lever, get ![][icon_blood_cloak]Blood-Soaked Cloak (hidden chest):  
+Possible change: On the way to the lever, get ![][icon_blood_cloak] Blood-Soaked Cloak (hidden chest):  
 ![](./assets/images/blood_cloak_chest.webp)
 
 Use a ![][icon_warp_leaf] Warp Leaf to leave and go to the piledriver area.  
