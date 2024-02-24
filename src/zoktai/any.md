@@ -164,7 +164,7 @@ Drag the coffin back to town and into the piledriver screen.
 Activate three piledrivers and leave the fourth until after you've started the purification to skip a long dialog.  
 After the purification, choose the first dialog.
 
-## San Miguel [2]
+## San Miguel (2)
 
 Talk to Smith near the forging house, then enter it.  
 Talk to the second hint panel (the one at the top), then forge a ![][icon_short_sword] Short Sword (![][icon_staff] + ![][icon_pounder]).
@@ -325,7 +325,7 @@ When you’re close enough, walk onto the switch.
 Once you gain control of Sabata, use ![][icon_power_nut] Power Nuts to drag the coffin back to San Miguel.  
 **Don’t forget to keep some energy for the purification.**
 
-## San Miguel [3]
+## San Miguel (3)
 
 Replenish energy and HP, then buy the ![][icon_elefan] Elefan coffin (160 solls).  
 Equip ![][icon_dark] Dark, ![][icon_mouse] Mouse and ![][icon_bat] Bat, then select spear.
@@ -435,7 +435,7 @@ Enable maximum sunlight during the cutscene.
 
 Choose the second dialog option after the purification.
 
-## San Miguel [4]
+## San Miguel (4)
 
 Go to Cheyenne’s shop and talk to him to get the ![][icon_dash] Dash magic.  
 **Use this for movement whenever possible.**
@@ -471,7 +471,7 @@ Use a ![][icon_warp_leaf] Warp Leaf to leave.
 
 Go inside the Aqueduct to receive ![][icon_earth] Earth, then leave.
 
-## Cathedral [2]
+## Cathedral (2)
 
 Go in the ↗️ direction.  
 On the way, open the chest for a ![][icon_power_nut] Power Nut, then proceed in the ↖️ direction.  
@@ -480,7 +480,7 @@ Use a ![][icon_warp_leaf] Warp Leaf to leave.
 
 On the way to the next dungeon, go through the piledriver area and kill all four dark roots for EXP.
 
-## Dark Town [2]
+## Dark Town (2)
 
 Pick up the ![][icon_sunscreen] Sunscreen in the first main room.  
 Go in the ↗️ direction past the iron block, then go through the door and take the platform.  
@@ -526,7 +526,7 @@ Use a ![][icon_warp_leaf] Warp Leaf to leave.
 Proceed in the ↙️ direction (kill the dark root).  
 Go back to the Remains.
 
-## Remains [2]
+## Remains (2)
 
 In the golem room, take the ↗️ exit, then the second ↖️ exit.  
 Proceed in the ↗️ direction (do not take the stairs).  
@@ -534,7 +534,7 @@ Use ![][icon_dynamite] Dynamite on the wall next to the ghoul on the top-left, t
 Kill the dark root and open the chest for the last ![][icon_black_card] Tarot Card.  
 Use a ![][icon_warp_leaf] Solar Leaf to leave.
 
-## San Miguel [5]
+## San Miguel (5)
 
 Forge ![][icon_long_sword] + ![][icon_zweihander] to get either a ![][icon_flamberge] Flamberge or a ![][icon_katana] Katana.  
 Focus on GOOD hits to get a bonus (+03).  
@@ -542,7 +542,7 @@ This leads to more damage compared to having the SP effect because of the damage
 
 Getting a ![][icon_katana] Katana (R-Rank weapon) is random, however it will save time because ![][icon_katana] Katana has higher attack.
 
-## Aqueduct [2]
+## Aqueduct (2)
 
 Open the door, then proceed.
 
@@ -576,7 +576,7 @@ Equip ![][icon_flamberge] or ![][icon_katana], and ![][icon_cloth_armor] 2nd arm
 
 After the boss fight, use a ![][icon_warp_leaf] Warp Leaf to leave.
 
-## San Miguel [6]
+## San Miguel (6)
 
 Go into the clockhouse and talk to the NPC.  
 Keep talking, then change the system time to 2004/09/30 22:xx.  
@@ -723,7 +723,7 @@ Begin the purification.
 Do the purification as Black Django, use ![][icon_sunscreen] Sunscreen to avoid taking damage from the sunlight.  
 Skip the chest afterwards.
 
-## San Miguel [7]
+## San Miguel (7)
 
 Go to Lita’s shop, sell items except for one ![][icon_sunscreen] Sunscreen and fill the inventory with:
 
@@ -736,7 +736,7 @@ Equip these weapons.
 Put stat points into STRG, equip ![][icon_dynamite] Dynamite & ![][icon_cloud] Cloud.  
 Proceed in the ↗️ direction.
 
-## Undead Zone [1]
+## Undead Zone (1)
 
 In the room on the ↖️ side, knock on the wall to lure the skeletons, avoid being seen.  
 Take the ↗️ exit, break the cacti to keep going.
@@ -772,7 +772,7 @@ Possible change: use ![][icon_blue_card] The Tower and ![][icon_bearnut] Bearnut
 
 Open the blue chest for a ![][icon_circle_key] key, use it on the other door to proceed (refill energy on the way).
 
-## Undead Zone [2]
+## Undead Zone (2)
 
 Equip ![][icon_dash] Dash, ![][icon_flame] Flame, ![][icon_earth] Earth and ![][icon_dynamite] Dynamite.  
 Take the ↘️ exit, light all the torches to open the gate.
@@ -798,7 +798,7 @@ After the rooms with skeletons, take the stairs & refill energy.
 
 Open the blue chest for a ![][icon_circle_key] key, then open the door in the ↙️ direction & take the elevator.
 
-## Undead Zone [3]
+## Undead Zone (3)
 
 Go in the ↖️ direction and activate the lever.  
 Go back and take the ↙️ exit, then ↖️ to activate another lever and spawn an ice block.  
@@ -825,7 +825,7 @@ Possible change: use ![][icon_blue_card] The Tower and ![][icon_bearnut] Bearnut
 
 Open the blue chest for a ![][icon_circle_key] key, then take the new platform and go back to the first room to open the ↘️ door.
 
-## Undead Zone [4]
+## Undead Zone (4)
 
 Refill energy, then in the next room, take the ↘️ exit.
 
@@ -864,7 +864,7 @@ Refill energy at the Solar Station when you reach it.
 
 You can open the chest for a random card if you want.
 
-## Undead Zone [5]
+## Undead Zone (5)
 
 Equip ![][icon_dark] Dark, ![][icon_transform] Transform & ![][icon_dash] Dash, put stat points into VIT.  
 You’ll need to enable a solar walkway at the end, so have <=8 sunlight.
