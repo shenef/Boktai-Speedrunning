@@ -1,5 +1,7 @@
 # Boktai 2 (JP) Any% Route
 
+<!-- TODO: Rename Headers for Traps, Puzzles, Bosses, etc. to be more descriptive -->
+
 ## About this guide
 
 - Directions for paths and exits will use ↖️, ↗️, ↙️ and ↘️.
@@ -772,6 +774,8 @@ Possible change: use ![][icon_blue_card] The Tower and ![][icon_bearnut] Bearnut
 
 Open the blue chest for a ![][icon_circle_key] key, use it on the other door to proceed (refill energy on the way).
 
+<!-- TODO: Change Undead Zone Headers, afaik they are not revisits, maybe "Floor -2" or something like that would be more descriptive -->
+
 ## Undead Zone (2)
 
 Equip ![][icon_dash] Dash, ![][icon_flame] Flame, ![][icon_earth] Earth and ![][icon_dynamite] Dynamite.  
@@ -815,7 +819,7 @@ Go through the gate in the ↙️ direction, then use the plant to reach the nex
 
 Refill energy & put stat points into STRG before taking the platform.
 
-## Trap
+### Trap
 
 - Use ![][icon_flame] Flame & spear.
 - Only aim for the head & tail.
