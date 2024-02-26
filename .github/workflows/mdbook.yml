@@ -53,7 +53,7 @@ jobs:
           curl -sSL $url -o mdbook-linkcheck.zip
           unzip mdbook-linkcheck.zip -d ./mdbook-linkcheck
           chmod +x ./mdbook-linkcheck/mdbook-linkcheck
-          echo `pwd`/mdbook-linkcheck/mdbook-linkcheck >> $GITHUB_PATH
+          echo `pwd`/mdbook-linkcheck >> $GITHUB_PATH
 
       - name: Setup Pages
         id: pages
