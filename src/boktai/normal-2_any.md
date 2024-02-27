@@ -5,6 +5,11 @@
 This Guide is intended for the Japanese version of Boktai: The Sun is in your Hands and the Normal 2 Any% Category. It should work exactly the same for other languages but JP is significantly faster.  
 Credits go to the entire [Taiyoh Network Community](https://discord.gg/0dUb9OmJrIrRPFGf) and many casual players that discovered strategies on accident.
 
+## Map
+
+[![Map depicting the Any% path](./assets/images/any_map_small.webp)](./assets/images/any_map.webp)
+[Click for full size <i class="fa fa-arrows-alt" aria-hidden="true"></i>](./assets/images/any_map.webp)
+
 ### Videos
 
 Some sections have videos attached that show that section being played. Watch those videos for chests, pathing and enemies that need to be killed as that will be omitted from the text description. If a section has no video, there will be no chests you need and every enemy is a mandatory kill.  
