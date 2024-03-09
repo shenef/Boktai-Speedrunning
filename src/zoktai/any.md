@@ -9,14 +9,14 @@ Directions for paths and exits will use ↖️, ↗️, ↙️ and ↘️.
 If playing on BizHawk, set Skip BIOS to FALSE and RTC to FALSE in the GBA Settings (Requires v2.6.3+):  
 ![](./assets/images/emu_settings.webp)  
 Set the system time to August 1st 2004 at 10PM (2004/08/01 22:00):  
-![](./assets/images/igt.webp)  
+![](./assets/images/igt.webp)
 
 Use the default region selection.
 
 ## Setting up the Dark Boy password
 
 ![](./assets/images/dark_boy_pw.webp)  
-Use the characters to the left of the numbers!  
+Use the characters to the left of the numbers!
 
 The Dark Boy title grants +2 STRG and AGIL and adds 1 ![][icon_power_nut] Power Nut and ![][icon_bearnut] Bearnut to the inventory.  
 Use a single character for the player name (saves a few frames each time the name is displayed).
@@ -32,7 +32,7 @@ After the intro, open the menu and change the text speed to Fast:
 
 ### Trap: Skeleton
 
-- Proceed through the ↘️ exit to obtain the ![][icon_gladius] Gladius. 
+- Proceed through the ↘️ exit to obtain the ![][icon_gladius] Gladius.
 - Backtrack and hit the Skeleton from behind to reach **Lvl 2**.
 
 Proceed through the ↖️ exit, then open the next green chest for a ![][icon_cloth_armor] Leather Armor.  
@@ -98,7 +98,7 @@ Check the spot directly next to the stairs, then take the stairs whether or not 
 - Put stat points into STRG to kill the Ghouls in two hits from behind.
 - The Zombie deals heavy damage, be careful.
 
-Proceed through the ↖️ exit and fall down to get the ![][icon_spear] Short Spear.  
+Proceed through the ↖️ exit and fall down to get the ![][icon_spear] Short Spear.
 
 Kill two Ghouls, then backtrack to this room:  
 ![](./assets/images/cathedral_entrance.webp)
@@ -146,7 +146,7 @@ Backtrack to the room with the trapdoors and hint panel.
 Place the ![][icon_red_orb] Red Orb before going to the top floor if you did not already place it.  
 Place the ![][icon_green_orb] Green Orb (2nd option):  
 ![](./assets/images/green_orb_room.webp)
- 
+
 Proceed through the ↖️ exit (Refill life on skylights if low).  
 Light the torch with ![][icon_flame] Flame and place the ![][icon_blue_orb] Blue Orb.  
 Backtrack and proceed down the new stairs in the main room, refill energy on the Solar Station.  
@@ -198,9 +198,9 @@ In the main room with Clay Golems, proceed through the ↖️ exit, then take th
 
 Equip the ![][icon_short_sword] Short Sword.  
 Unequip armor if you had it equipped for the trap.  
-Put all stat points into STRG.  
+Put all stat points into STRG.
 
-Use no element to kill the Yellow Slimes, they have high elemental resistances.   
+Use no element to kill the Yellow Slimes, they have high elemental resistances.
 Go to the left and push the block, then backtrack and **TURN OFF SUNLIGHT** before proceeding through the ↗️ exit, or Solar Wind will kill you.
 
 Light the torch with ![][icon_flame] Flame and proceed.  
@@ -215,11 +215,11 @@ Use ![][icon_frost] Frost to make the floating block fall, then refill life/ener
 
 ### Traps: Sword, Yellow Slimes, Clay Golems
 
-- Sword: Use ![][icon_sol] Sol to deal more damage.  
-  - You should reach **Lvl 8** after this fight.  
+- Sword: Use ![][icon_sol] Sol to deal more damage.
+  - You should reach **Lvl 8** after this fight.
 - Yellow Slimes: Attack without using any element.
-- Clay Golems: Knock on the walls so that they stun each other, then finish them off.  
-  - If any Clay Golems kill each other, you must kill extras later to make up the lost EXP.  
+- Clay Golems: Knock on the walls so that they stun each other, then finish them off.
+  - If any Clay Golems kill each other, you must kill extras later to make up the lost EXP.
   - You should reach **Lvl 9** after this fight.
 
 Possible change: Use card manip on the chest in the first trap to get ![][icon_blue_card] The Tower.
@@ -271,7 +271,7 @@ Open the ↗️ door and proceed.
 ### Trap: Axe
 
 - It’s an axe!!
-- Use ![][icon_sol] Sol to deal more damage.  
+- Use ![][icon_sol] Sol to deal more damage.
 - You should reach **Lvl 10** after this fight.
 
 Open all the chests for a ![][icon_circle_key] key, the ![][icon_dynamite] Dynamite magic, and a ![][icon_green_card] card.
@@ -337,46 +337,48 @@ Proceed to the final puzzle room on the bottom-right:
 Activate the first lever with the sword, then run in the south direction.  
 When you’re close enough, walk onto the switch.
 
-**Do not assign stat points before the boss fight.**  
+**Do not assign stat points before the boss fight.**
+
 - 31 STRG (35 Attack) is enough for the fight, you want to save these stat points for later.
 
 ### Boss: Vampire
 
 - Stay away so that Sabata doesn’t get hit.
 - Position yourself so that the swords don’t go in Sabata’s direction.
-- Only hit the Vampire when the black hole is active.  
+- Only hit the Vampire when the black hole is active.
 - Face in the same direction as the Vampire to push him into the black hole faster.
-- When the Vampire is stuck in the black hole, use ![][icon_sol] Sol.  
+- When the Vampire is stuck in the black hole, use ![][icon_sol] Sol.
   - He will break out after 5 hits, deal an extra 6th hit for reduced damage to avoid a third cycle later in the fight.
 - You should reach **Lvl 12** after this fight.
 
-Once you gain control of Sabata, use ![][icon_power_nut] Power Nuts to drag the coffin back to San Miguel.  
+Once you gain control of Sabata, use ![][icon_power_nut] Power Nuts to drag the coffin back to San Miguel.
 
 ### Django Purification
 
-Enable max sunlight, activate the bottom two generators and begin the purification.  
+Enable max sunlight, activate the bottom two generators and begin the purification.
 
 ![][icon_zero_shift] Zero Shift onto the coffin after gaining control of Sabata and activate the other two generators.  
 Position Sabata to the south of the coffin to manipulate Django to move upwards.  
 ![][icon_zero_shift] Zero Shift upwards and knock him back into the coffin from the north.  
 Move just north of the coffin and wait for Django to attack one of the generators.  
-![][icon_zero_shift] Zero Shift in the appropriate direction and shoot Django back into the coffin.  
+![][icon_zero_shift] Zero Shift in the appropriate direction and shoot Django back into the coffin.
+
 - If Django goes to a northern generator, shoot diagonally to push him back into the coffin.
 - If Django goes to a southern generator, shoot horizontally to push him back into the coffin.
-
 
 ## San Miguel (3)
 
 Unequip your current elements.  
 Equip ![][icon_dark] Dark, ![][icon_mouse] Mouse and ![][icon_bat] Bat.  
-Raise AGIL to 25.  
+Raise AGIL to 25.
 
 Refill life/energy, then buy the ![][icon_elefan] Elefan coffin (160 solls).  
-Proceed to the piledriver screen.  
+Proceed to the piledriver screen.
 
 Kill the two Dark Roots on the right with ![][icon_dark] Dark, then leave **through the way you came in.**  
-Backtrack to the piledriver screen and repeat this until you reach **Lvl 15**.  
-- Use sword until your sword skill reaches 8, then switch to spear to farm the Dark Roots.  
+Backtrack to the piledriver screen and repeat this until you reach **Lvl 15**.
+
+- Use sword until your sword skill reaches 8, then switch to spear to farm the Dark Roots.
 
 Put all stat points into STRG.  
 Proceed through the ↘️ exit and break the two blocks to the south.  
@@ -402,17 +404,17 @@ Use ![][icon_bat] Bat to go through the window.
 
 In the room with the three Gusts, fly into the center of the room before un-transforming.  
 Take a couple of steps to distract the Gusts and cluster them in the center of the room.  
-Kill them whilst using no element, **take great care on these packs as you will die very easily.**  
+Kill them whilst using no element, **take great care on these packs as you will die very easily.**
 
 Use ![][icon_mouse] Mouse on the elevator to proceed and push a block.  
 Backtrack and take the elevator without being shapeshifted.  
-Use ![][icon_bat] Bat to go over the water and proceed through the door.  
+Use ![][icon_bat] Bat to go over the water and proceed through the door.
 
 Knock on the central wall to distract the Gusts, then use ![][icon_bat] Bat to fly to the ![][icon_circle_key] key without taking footsteps.  
 Kill the Gusts using no element to reach **Lvl 16**.
 
 Backtrack and proceed through the ↘️ exit, then go through the first door to backtrack to where you first used ![][icon_mouse] Mouse.  
-Take the stairs and open the locked door.  
+Take the stairs and open the locked door.
 
 Kill the two Gusts, then proceed down the ↙️ stairs.  
 Once outside, proceed through the ↖️ exit nearby.  
@@ -429,10 +431,10 @@ Pick up this hidden chest on the way:
 Use ![][icon_bat] Bat to go over the water and switch trap, then open the chest for a ![][icon_circle_key] key.  
 Proceed through the ↘️ exit, push the block and go through the second door.  
 After opening the door, use ![][icon_bat] Bat to go over the narrow paths, then go through the window.  
-Go left and proceed through the last exit.  
+Go left and proceed through the last exit.
 
 Un-transform immediately, then hug the left wall to go behind the Gust.  
-Knock on the wall after passing the first corner to distract the second Gust, then hug the left wall and knock on the wall inside the skylight to cluster them.  
+Knock on the wall after passing the first corner to distract the second Gust, then hug the left wall and knock on the wall inside the skylight to cluster them.
 
 Get the ![][icon_circle_key] key and a hidden chest:  
 ![](./assets/images/dark_room_chest.webp)
@@ -452,7 +454,7 @@ Select the first option during the dialog.
 - Try to cause him to flinch as he pulls out new weapons to keep him disarmed.
 
 Take the magic circle, then use a ![][icon_warp_leaf] Warp Leaf to leave the dungeon.  
-Proceed through the ↙️ and ↖️ exits to backtrack to San Miguel.  
+Proceed through the ↙️ and ↖️ exits to backtrack to San Miguel.
 
 Talk to Cheyenne to unlock the weapon shop.  
 Buy two ![][icon_broad_sword] Broadswords and equip the ![][icon_gladius] Gladius.  
@@ -463,19 +465,19 @@ Go to the forging house and forge a ![][icon_long_sword] Long Sword using the **
 
 Exit and re-enter the forging house.  
 Save and soft-reset (A+B+Start+Select).  
-**From soft-reset, RNG advances every frame. Use an external timer like EonTimer to assist in the manipulation.**  
+**From soft-reset, RNG advances every frame. Use an external timer like EonTimer to assist in the manipulation.**
 
 Set the system time to 2004/05/05 23:56.  
 Talk to Smith and begin selecting your weapons to forge with.  
 Select the ![][icon_broad_sword] Broadsword and ![][icon_long_sword] Long Sword in the first two slots.  
-**Start the forge at precisely 34.07 seconds after soft-reset has taken place.**  
+**Start the forge at precisely 34.07 seconds after soft-reset has taken place.**
 
 Do precisely 15 strikes in this forge.  
 If every hit is a GREAT, you will double the frame window from 4 to 8.  
 Get at least two GREATs to guarantee an SP weapon.  
 If the start of forge was timed correctly, the resulting weapon will become a ![][icon_katana] Katana SP.
 
-Backtrack through the ↘️↗️↗️ exits to Dark City.  
+Backtrack through the ↘️↗️↗️ exits to Dark City.
 
 ## Dark City (2)
 
@@ -500,7 +502,7 @@ Refill life/energy before entering the boss fight.
   - Hit the correct bulb; look for the vibrating bulb, or you can use ![][icon_bat] Bat to see which one it is.
   - Use ![][icon_dark] Dark x3 once the bulb is opened.
 - 3rd phase:
-  - Hit once with no element, then once with ![][icon_dark] Dark to end each cycle quickly. 
+  - Hit once with no element, then once with ![][icon_dark] Dark to end each cycle quickly.
   - Hit her right as she spawns to cancel her attacks.
 - You should reach **Lvl 18** after this fight.
 
@@ -526,7 +528,7 @@ The coffin is now in the piledriver screen.
 Activate one generator and start the purification.  
 Enable max sunlight during the cutscene.  
 Unequip ![][icon_mouse] Mouse and ![][icon_bat] Bat.  
-Equip ![][icon_cloth_armor] Leather Armor and replace ![][icon_dark] Dark with ![][icon_sol] Sol after regaining your powers, then finish the purification.  
+Equip ![][icon_cloth_armor] Leather Armor and replace ![][icon_dark] Dark with ![][icon_sol] Sol after regaining your powers, then finish the purification.
 
 Choose the second dialog option after the purification.
 
@@ -541,7 +543,7 @@ Go to Cheyenne’s shop and talk to him to get the ![][icon_dash] Dash magic.
 **Use this for movement whenever possible.**
 
 Equip ![][icon_dash] Dash, ![][icon_transform] Transform, ![][icon_grow] Grow, and replace ![][icon_sol] Sol with ![][icon_dark] Dark.  
-Go outside and talk to Violet to trigger Nero, then follow him.  
+Go outside and talk to Violet to trigger Nero, then follow him.
 
 Open the hidden chest near the bank for a fourth ![][icon_warp_leaf] Warp Leaf:  
 ![](./assets/images/san_miguel_chest.webp)
@@ -601,15 +603,22 @@ Now use ![][icon_cloud] Cloud on the other block:
 
 Use ![][icon_frost] Frost and spear to freeze both blocks at once.  
 Equip ![][icon_sol] Sol, ![][icon_mouse] Mouse, ![][icon_transform] Transform and ![][icon_dash] Dash.  
-Use both of your ![icon_solar_nut] Solar Nuts to refill energy, then proceed up the stairs.
+Use both of your ![][icon_solar_nut] Solar Nuts to refill energy, then proceed up the stairs.
 
-Use ![][icon_sol] Sol to kill the Gusts as shown in https://www.youtube.com/watch?v=-Wz2Hz2FYiQ to reach **Lvl 20**.  
+Use ![][icon_sol] Sol to kill the Gusts as shown in this video to reach **Lvl 20**:
+
+<iframe
+  style="aspect-ratio: 16/9"
+  src="https://www.youtube.com/embed/-Wz2Hz2FYiQ"
+  title="Boktai 2: 1500 easy EXP during Tarot Card collection"
+  allowfullscreen
+></iframe>
 
 Use ![][icon_mouse] Mouse to go through the hole.  
 Open the chest for a ![][icon_black_card] Tarot Card.  
 During the cutscene, choose the first option.  
 Replace ![][icon_mouse] Mouse with ![][icon_dynamite] Dynamite and ![][icon_sol] Sol with ![][icon_dark] Dark.  
-Use a ![][icon_warp_leaf] Warp Leaf to leave.  
+Use a ![][icon_warp_leaf] Warp Leaf to leave.
 
 Proceed through the ↙️ exit and backtrack to the Remains.
 
@@ -642,8 +651,8 @@ Proceed, on the way open these two hidden chests for items:
 ### Trap: Skeleton Fencers
 
 - Put stat points into STRG.
-- Use Black Django and ![][icon_dark] Dark.  
-- Walk into the center of the room to cluster them, then kill all three at the same time.  
+- Use Black Django and ![][icon_dark] Dark.
+- Walk into the center of the room to cluster them, then kill all three at the same time.
 
 Refill life/energy before entering the boss.
 
@@ -654,7 +663,7 @@ Refill life/energy before entering the boss.
 - When she charges you, time your hit so that it cancels her attack.
 - You can hit the oil bullets with ![][icon_flame] Flame to destroy them before they land.
 - If she’s at 1 HP and far away, shoot her with ![][icon_elefan] Elefan coffin (Black Django and ![][icon_sleep] Sleeping).
-- You should reach **Lvl 22** after this fight.  
+- You should reach **Lvl 22** after this fight.
 
 After the boss fight, use a ![][icon_warp_leaf] Warp Leaf to leave.
 
@@ -662,13 +671,14 @@ After the boss fight, use a ![][icon_warp_leaf] Warp Leaf to leave.
 
 Go into the clockhouse and talk to the NPC.  
 Keep talking, then change the system time to 2004/09/30 22:xx.  
-Go to Lita's shop and buy:  
-- 1 ![][icon_power_nut] Power Nut 
-- 2 ![][icon_speed_nut] Speed Nuts 
-- 2 ![icon_solar_nut] Solar Nuts
-- 1 ![][icon_warp_leaf] Warp Leaf  
+Go to Lita's shop and buy:
 
-Proceed to the piledriver screen.  
+- 1 ![][icon_power_nut] Power Nut
+- 2 ![][icon_speed_nut] Speed Nuts
+- 2 ![][icon_solar_nut] Solar Nuts
+- 1 ![][icon_warp_leaf] Warp Leaf
+
+Proceed to the piledriver screen.
 
 ### Dvalinn Purification
 
@@ -699,7 +709,7 @@ In the second room with Cockatrices, have <=8 sunlight to use the solar walkway 
 ### Trap: Sword+
 
 - Use Black Django and ![][icon_dark] Dark.
-- You should reach **Lvl 23** after this fight.  
+- You should reach **Lvl 23** after this fight.
 
 Possible change: use card manip on the chest to get ![][icon_blue_card] The Tower.
 
@@ -765,12 +775,12 @@ Take the elevator to go outside.
 This outdoors screen has solar wind that will push you if using sunlight.  
 Use the solar walkway to go straight to the next elevator if you don't need pickups.
 
-If you do need pickups, open these chests for items (![][icon_jerky] ![icon_solar_nut] ![][icon_warp_leaf] ![][icon_tasty_meat]) before taking the next elevator:  
+If you do need pickups, open these chests for items (![][icon_jerky] ![][icon_solar_nut] ![][icon_warp_leaf] ![][icon_tasty_meat]) before taking the next elevator:  
 ![](./assets/images/spiral_chests_1.webp)
 ![](./assets/images/spiral_chests_2.webp)
 
 Use ![][icon_sol] Sol to kill the Leys, activate the lever, then kill the Leys again.  
-Push the block and farm EXP until you reach **Lvl 26**.  
+Push the block and farm EXP until you reach **Lvl 26**.
 
 Put stat points into STRG, equip ![][icon_dash] Dash, ![][icon_sol] Sol, ![][icon_frost] Frost and ![][icon_cloud] Cloud.
 
@@ -816,14 +826,14 @@ Use a ![][icon_warp_leaf] Warp Leaf to leave.
 
 Backtrack ↙️ to the piledriver screen, then leave through the same exit.  
 Save the game and soft-reset.  
-Change the system time to 2004/10/29 23:58.  
+Change the system time to 2004/10/29 23:58.
 
 ### Dainn Purification
 
 Activate all four generators and enable max sunlight.  
 ![][icon_transform] Transform into Black Django and begin the purification.  
 After starting the purification, use ![][icon_sunscreen] Sunscreen to avoid taking damage from the sunlight.  
-Black Django will not take lethal damage from the dark orbs, but they should not be ignored during downtime.  
+Black Django will not take lethal damage from the dark orbs, but they should not be ignored during downtime.
 
 Skip the chest after finishing the purification.
 
@@ -834,7 +844,7 @@ Go to Lita’s shop, sell all items except for one ![][icon_sunscreen] Sunscreen
 - Six ![][icon_solar_nut] Solar Nuts.
 - Other slots with ![][icon_earthly_nut] Earthly Nuts or better healing items.
 
-Go to Cheyenne’s shop and buy a ![][icon_bardiche] Bardiche, then equip it.  
+Go to Cheyenne’s shop and buy a ![][icon_bardiche] Bardiche, then equip it.
 
 Put stat points into STRG, equip ![][icon_dynamite] Dynamite and ![][icon_cloud] Cloud.  
 Proceed through the ↗️ exit.
@@ -1030,10 +1040,7 @@ Time ends when Jormungandr's life bar reaches zero during this final charge.
 [icon_short_sword]: ./assets/images/icons/icon_short_sword.webp
 [icon_broad_sword]: ./assets/images/icons/icon_broad_sword.webp
 [icon_long_sword]: ./assets/images/icons/icon_long_sword.webp
-[icon_zweihander]: ./assets/images/icons/icon_zweihander.webp
 [icon_katana]: ./assets/images/icons/icon_katana.webp
-[icon_flamberge]: ./assets/images/icons/icon_flamberge.webp
-[icon_claymore]: ./assets/images/icons/icon_claymore.webp
 [icon_magic_sword]: ./assets/images/icons/icon_magic_sword.webp
 [icon_staff]: ./assets/images/icons/icon_staff.webp
 [icon_spear]: ./assets/images/icons/icon_spear.webp
