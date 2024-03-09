@@ -2,4 +2,4 @@
 
 ## Guides
 
-- [(WIP) Any%](./zoktai/any.md)
+- [Any%](./zoktai/any.md)
