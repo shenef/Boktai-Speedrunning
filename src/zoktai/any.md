@@ -770,7 +770,8 @@ If you do need pickups, open these chests for items (![][icon_jerky] ![icon_sola
 ![](./assets/images/spiral_chests_2.webp)
 
 Use ![][icon_sol] Sol to kill the Leys, activate the lever, then kill the Leys again.  
-Push the block and farm EXP until you reach **Lvl 26**.  
+Push the block and farm Leys for EXP until you reach **Lvl 26.**  
+Kill an additional eight Leys before proceeding.  
 
 Put stat points into STRG, equip ![][icon_dash] Dash, ![][icon_sol] Sol, ![][icon_frost] Frost and ![][icon_cloud] Cloud.
 
@@ -803,7 +804,7 @@ During the dialog, choose the second option to avoid a Game Over.
   - When Dainn is stuck in the black hole, use ![][icon_sol] Sol.
 - 2nd phase:
   - Use ![][icon_sol] Sol and avoid Dainn's attacks at all cost.
-- You should reach **Lvl 27** after this fight.
+- You should reach **Lvl 28** after this fight.
 
 Open the chest for a ![][icon_red_card] card.  
 Leave the coffin, backtrack ↘️ to Sabata's side of the tower, then proceed downstairs.
@@ -811,7 +812,8 @@ Leave the coffin, backtrack ↘️ to Sabata's side of the tower, then proceed d
 Push the floating block with ![][icon_cloud] Cloud, then open the last chest for a ![][icon_magic_sword] Magic Sword:  
 ![](./assets/images/magic_sword_block.webp)
 ![](./assets/images/magic_sword_chest.webp)
-
+ 
+Put all stat points into STRG.  
 Use a ![][icon_warp_leaf] Warp Leaf to leave.
 
 Backtrack ↙️ to the piledriver screen, then leave through the same exit.  
@@ -836,7 +838,7 @@ Go to Lita’s shop, sell all items except for one ![][icon_sunscreen] Sunscreen
 
 Go to Cheyenne’s shop and buy a ![][icon_bardiche] Bardiche, then equip it.  
 
-Put stat points into STRG, equip ![][icon_dynamite] Dynamite and ![][icon_cloud] Cloud.  
+Equip ![][icon_dynamite] Dynamite and ![][icon_cloud] Cloud.  
 Proceed through the ↗️ exit.
 
 ## Undead Zone B1
@@ -870,6 +872,7 @@ Refill energy and open the door.
 
 - Use ![][icon_cloud] Cloud except when it's doing the tail attack.
 - Attack the head to stun it.
+- You should reach **Lvl 30** after this fight.  
 
 Possible change: use ![][icon_blue_card] The Tower and ![][icon_bearnut] Bearnut to instantly kill it.
 
@@ -880,8 +883,8 @@ Open the blue chest for a ![][icon_circle_key] key, use it on the other door to 
 Equip ![][icon_dash] Dash, ![][icon_flame] Flame, ![][icon_earth] Earth and ![][icon_dynamite] Dynamite.  
 Proceed through the ↘️ exit, light all the torches to open the gate.
 
-Avoid the Cockatrices in the next rooms, then light the torches on the moving platforms.  
-Have <=8 sunlight to enable the solar walkways in the next room.
+Kill the first Cockatrice with ![][icon_earth] Earth in the first dark room, then light the torches on the moving platforms.  
+Have <=8 sunlight to enable the solar walkways in the next room. 
 
 Use ![][icon_dynamite] Dynamite on the wall here in this room:  
 ![](./assets/images/garb_of_darkness_room.webp)
@@ -898,6 +901,7 @@ After the rooms with Skeletons, proceed up the stairs and refill energy.
 - You can destroy the lightning balls.
 - Avoid the summons and clouds.
 - Use ![][icon_solar_nut] Solar Nuts to refill energy.
+- You should reach **Lvl 32** after this fight.  
 
 Open the blue chest for a ![][icon_circle_key] key, then proceed through the ↙️ exit and take the elevator.
 
@@ -921,6 +925,7 @@ Refill energy and put stat points into STRG before taking the platform.
 - Use ![][icon_flame] Flame and spear.
 - Only aim for the head and tail.
 - Break the bubbles to force it to jump at you.
+- You should reach **Lvl 34** after this fight.  
 
 Possible change: use ![][icon_blue_card] The Tower and ![][icon_bearnut] Bearnut to instantly kill it.
 
@@ -943,7 +948,7 @@ Walk onto the switch.
 Backtrack and proceed through the ↗️↘️↘️ exits.
 
 Equip ![][icon_frost] Frost, ![][icon_dash] Dash, ![][icon_transform] Transform and ![][icon_sleep] Sleeping.  
-Put stat points into STRG. You should now be at or close to 99 STRG.  
+Put stat points into STRG. You should now be at 98 STRG.  
 Do not walk onto the platform, instead go here and use ![][icon_frost] Frost and spear to extinguish the fire:  
 ![](./assets/images/undead_zone_5.webp)
 
@@ -962,13 +967,14 @@ Proceed through the ↙️↘️↖️↖️ exits, then refill energy at the So
 - Use ![][icon_frost] Frost and hit the Lich+ from behind.
 - If you run into its back to take damage and immediately let go of directional input, you will land in the correct spot to avoid its rotating attack.
 - Use ![][icon_solar_nut] Solar Nuts to refill energy.
+- You should reach **Lvl 35** after this fight.  
 
 Proceed through the ↖️ exit, then take the elevator.
 
 ## Undead Zone B5
 
 Equip ![][icon_dark] Dark, ![][icon_transform] Transform and ![][icon_dash] Dash.  
-You can put stat points into VIT if you want to be safer, but this is not faster.  
+Raise STRG to 99, then you can put stat points into VIT if you want to be safer, but this is not faster.  
 You’ll need to enable a solar walkway at the end, so have <=8 sunlight.  
 Take the single exits, this map is linear.
 
