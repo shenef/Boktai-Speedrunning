@@ -35,7 +35,7 @@ After the intro, open the menu and change the text speed to Fast:
 - Proceed through the ↘️ exit to obtain the ![][icon_gladius] Gladius.
 - Backtrack and hit the Skeleton from behind to reach **Lvl 2**.
 
-Proceed through the ↖️ exit, then open the next green chest for a ![][icon_cloth_armor] Leather Armor.  
+Proceed through the ↖️ exit, then open the next green chest for a ![][icon_leather_armor] Leather Armor.  
 Unequip your current armor (less defense, faster walking speed).
 
 ### Trap: Ghoul
@@ -150,7 +150,7 @@ Place the ![][icon_green_orb] Green Orb (2nd option):
 Proceed through the ↖️ exit (Refill life on skylights if low).  
 Light the torch with ![][icon_flame] Flame and place the ![][icon_blue_orb] Blue Orb.  
 Backtrack and proceed down the new stairs in the main room, refill energy on the Solar Station.  
-Put stat points into STRG and equip the ![][icon_cloth_armor] Leather Armor.
+Put stat points into STRG and equip the ![][icon_leather_armor] Leather Armor.
 
 ### Boss: White Duneyrr
 
@@ -528,7 +528,7 @@ The coffin is now in the piledriver screen.
 Activate one generator and start the purification.  
 Enable max sunlight during the cutscene.  
 Unequip ![][icon_mouse] Mouse and ![][icon_bat] Bat.  
-Equip ![][icon_cloth_armor] Leather Armor and replace ![][icon_dark] Dark with ![][icon_sol] Sol after regaining your powers, then finish the purification.
+Equip ![][icon_leather_armor] Leather Armor and replace ![][icon_dark] Dark with ![][icon_sol] Sol after regaining your powers, then finish the purification.
 
 Choose the second dialog option after the purification.
 
@@ -781,7 +781,7 @@ If you do need pickups, open these chests for items (![][icon_jerky] ![][icon_so
 
 Use ![][icon_sol] Sol to kill the Leys, activate the lever, then kill the Leys again.  
 Push the block and farm Leys for EXP until you reach **Lvl 26.**  
-Kill an additional eight Leys before proceeding.  
+Kill an additional eight Leys before proceeding.
 
 Put stat points into STRG, equip ![][icon_dash] Dash, ![][icon_sol] Sol, ![][icon_frost] Frost and ![][icon_cloud] Cloud.
 
@@ -822,7 +822,7 @@ Leave the coffin, backtrack ↘️ to Sabata's side of the tower, then proceed d
 Push the floating block with ![][icon_cloud] Cloud, then open the last chest for a ![][icon_magic_sword] Magic Sword:  
 ![](./assets/images/magic_sword_block.webp)
 ![](./assets/images/magic_sword_chest.webp)
- 
+
 Put all stat points into STRG.  
 Use a ![][icon_warp_leaf] Warp Leaf to leave.
 
@@ -882,7 +882,7 @@ Refill energy and open the door.
 
 - Use ![][icon_cloud] Cloud except when it's doing the tail attack.
 - Attack the head to stun it.
-- You should reach **Lvl 30** after this fight.  
+- You should reach **Lvl 30** after this fight.
 
 Possible change: use ![][icon_blue_card] The Tower and ![][icon_bearnut] Bearnut to instantly kill it.
 
@@ -894,7 +894,7 @@ Equip ![][icon_dash] Dash, ![][icon_flame] Flame, ![][icon_earth] Earth and ![][
 Proceed through the ↘️ exit, light all the torches to open the gate.
 
 Kill the first Cockatrice with ![][icon_earth] Earth in the first dark room, then light the torches on the moving platforms.  
-Have <=8 sunlight to enable the solar walkways in the next room. 
+Have <=8 sunlight to enable the solar walkways in the next room.
 
 Use ![][icon_dynamite] Dynamite on the wall here in this room:  
 ![](./assets/images/garb_of_darkness_room.webp)
@@ -911,7 +911,7 @@ After the rooms with Skeletons, proceed up the stairs and refill energy.
 - You can destroy the lightning balls.
 - Avoid the summons and clouds.
 - Use ![][icon_solar_nut] Solar Nuts to refill energy.
-- You should reach **Lvl 32** after this fight.  
+- You should reach **Lvl 32** after this fight.
 
 Open the blue chest for a ![][icon_circle_key] key, then proceed through the ↙️ exit and take the elevator.
 
@@ -935,7 +935,7 @@ Refill energy and put stat points into STRG before taking the platform.
 - Use ![][icon_flame] Flame and spear.
 - Only aim for the head and tail.
 - Break the bubbles to force it to jump at you.
-- You should reach **Lvl 34** after this fight.  
+- You should reach **Lvl 34** after this fight.
 
 Possible change: use ![][icon_blue_card] The Tower and ![][icon_bearnut] Bearnut to instantly kill it.
 
@@ -977,7 +977,7 @@ Proceed through the ↙️↘️↖️↖️ exits, then refill energy at the So
 - Use ![][icon_frost] Frost and hit the Lich+ from behind.
 - If you run into its back to take damage and immediately let go of directional input, you will land in the correct spot to avoid its rotating attack.
 - Use ![][icon_solar_nut] Solar Nuts to refill energy.
-- You should reach **Lvl 35** after this fight.  
+- You should reach **Lvl 35** after this fight.
 
 Proceed through the ↖️ exit, then take the elevator.
 
@@ -1053,6 +1053,6 @@ Time ends when Jormungandr's life bar reaches zero during this final charge.
 [icon_bardiche]: ./assets/images/icons/icon_bardiche.webp
 [icon_pounder]: ./assets/images/icons/icon_pounder.webp
 [icon_club]: ./assets/images/icons/icon_club.webp
-[icon_cloth_armor]: ./assets/images/icons/icon_cloth_armor.webp
+[icon_leather_armor]: ./assets/images/icons/icon_leather_armor.webp
 [icon_blood_cloak]: ./assets/images/icons/icon_blood_cloak.webp
 [icon_garb_of_darkness]: ./assets/images/icons/icon_garb_of_darkness.webp
