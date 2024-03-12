@@ -11,32 +11,36 @@ table thead th {
 /**
  * Boktai 1 Normal 2 Any% Lens exp table
  */
-.lens-exp td:first-of-type {
-  width: 32%;
-}
+.lens-exp {
+  td {
+    &:first-of-type {
+      width: 32%;
+    }
 
-.lens-exp td:nth-child(2),
-.lens-exp td:nth-child(3),
-.lens-exp td:nth-child(4),
-.lens-exp td:nth-child(5) {
-  width: 5%;
-}
+    &:nth-child(2),
+    &:nth-child(3),
+    &:nth-child(4),
+    &:nth-child(5) {
+      width: 5%;
+    }
 
-.lens-exp td:last-of-type {
-  width: 48%;
-}
+    &:last-of-type {
+      width: 48%;
+    }
 
-.lens-exp td:nth-child(2),
-.lens-exp td:nth-child(3) {
-  color: var(--color-sol);
-}
+    &:nth-child(2),
+    &:nth-child(3) {
+      color: var(--color-sol);
+    }
 
-.lens-exp td:nth-child(4),
-.lens-exp td:nth-child(5) {
-  color: var(--color-frost);
-}
+    &:nth-child(4),
+    &:nth-child(5) {
+      color: var(--color-frost);
+    }
 
-.lens-exp td:nth-child(3),
-.lens-exp td:nth-child(5) {
-  text-align: right;
+    &:nth-child(3),
+    &:nth-child(5) {
+      text-align: right;
+    }
+  }
 }
