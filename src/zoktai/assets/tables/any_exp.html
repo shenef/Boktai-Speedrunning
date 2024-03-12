@@ -1,0 +1,48 @@
+<table id="csvData">
+  <thead></thead>
+  <tbody></tbody>
+</table>
+
+<script>
+  const remoteFile =
+    "https://docs.google.com/spreadsheets/d/e/2PACX-1vTNo7fpKbeq4Y0AOuN5bUKSsGR9VM2kfFnB6zuCZSzeeHcioeCbUOm65Tq8e7JwOmyMTbN1A4ocqjLB/pub?gid=0&single=true&output=csv";
+
+  async function displayCSVData() {
+    await fetch(remoteFile)
+      .then((response) => response.text())
+      .then((csvText) => {
+        const rows = csvText.split("\n");
+        const tableHead = document
+          .getElementById("csvData")
+          .getElementsByTagName("thead")[0];
+        const tableBody = document
+          .getElementById("csvData")
+          .getElementsByTagName("tbody")[0];
+
+        // Create header row from first CSV row
+        const headerRow = tableHead.insertRow();
+        const headerCells = rows[0].split(",");
+        for (let i = 0; i < headerCells.length; i++) {
+          const headerCell = document.createElement("th"); // insertRow can't create 'th' elements
+          headerCell.innerHTML = headerCells[i];
+          headerRow.appendChild(headerCell); // Append to the row
+        }
+
+        // Create data rows from the rest of the CSV
+        for (let i = 1; i < rows.length; i++) {
+          const cells = rows[i].split(",");
+          const row = tableBody.insertRow();
+
+          for (let j = 0; j < cells.length; j++) {
+            const cell = row.insertCell();
+            cell.innerHTML = cells[j];
+          }
+        }
+      })
+      .catch((error) => {
+        console.error("Error fetching or parsing CSV:", error);
+      });
+  }
+
+  window.addEventListener("load", displayCSVData);
+</script>

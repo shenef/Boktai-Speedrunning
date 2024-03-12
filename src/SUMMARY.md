@@ -8,6 +8,7 @@
   - [Resources](./boktai/resources.md)
 - [Boktai 2](./zoktai.md)
   - [Any%](./zoktai/any.md)
+  - [Resources](./zoktai/resources.md)
 - [Boktai 3 (WIP)](./shinbok.md)
 - [Lunar Knights (WIP)](./lunar-knights.md)
 - [Kura5 (WIP)](./kura5.md)
