@@ -510,6 +510,7 @@ Select the ![][icon_broad_sword] Broadsword and ![][icon_long_sword] Long Sword 
 
 - **Emulator: 34.07 seconds**
 - **Nintendo DS: 34.25 seconds**
+- **Game Boy Player: 34.23 seconds**
 
 Do precisely 15 strikes in this forge.  
 Get at least two GREATs to guarantee an SP weapon.  
