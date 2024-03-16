@@ -19,7 +19,11 @@ additional-css = [
     "theme/css/pagetoc.css",
     "theme/css/mdbook-admonish.css",
 ]
-additional-js = ["theme/pagetoc.js"]
+
+additional-js = [
+    "theme/js/papaparse.min.js",
+    "theme/js/pagetoc.js",
+]
 
 [output.html.fold]
 enable = false # currently not needed
