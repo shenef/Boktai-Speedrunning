@@ -1,3 +1,5 @@
 # Boktai 3
 
-Work in Progress
+## Guides
+
+- [Any%](./shinbok/any.md)
