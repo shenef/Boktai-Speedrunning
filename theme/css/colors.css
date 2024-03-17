@@ -15,3 +15,31 @@
   --color-earth: #00a000;
   --color-cloud: #c800ff;
 }
+
+.sol {
+  color: var(--color-sol);
+}
+
+.luna {
+  color: var(--color-luna);
+}
+
+.dark {
+  color: var(--color-dark);
+}
+
+.flame {
+  color: var(--color-flame);
+}
+
+.frost {
+  color: var(--color-frost);
+}
+
+.earth {
+  color: var(--color-earth);
+}
+
+.cloud {
+  color: var(--color-cloud);
+}
