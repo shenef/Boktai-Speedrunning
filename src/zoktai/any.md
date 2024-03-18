@@ -813,10 +813,11 @@ After this, **check the hint panel** and switch back to Django:
 ![](./assets/images/kanji_2.webp)
 
 Proceed through the gate and push the iron block based on the hint panels and the statue.  
-Note that Django and Sabata's hint panels refer to *each other's* blocks, inverting the solution as read.  
-For instance, 北2 東4 means East 4, North 2, NOT North 2, East 4.  
+Note that Django and Sabata's hint panels refer to _each other's_ blocks, inverting the solution as read.  
+For instance, 北2 東4 means East 4, North 2, NOT North 2, East 4.
 
-**北 = North, 南 = South, 東 = East, 酉 = West**
+<!-- Maybe this could be replaced with an image or could use icons for the letters -->
+**北 = North, 南 = South, 東 = East, 酉 = West.**
 
 ### Trap: Axe+
 
