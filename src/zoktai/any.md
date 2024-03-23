@@ -592,11 +592,17 @@ Go outside and talk to Violet to trigger Nero, then follow him.
 Open this hidden chest for a fourth ![][icon_warp_leaf] Warp Leaf:  
 ![](./assets/images/san_miguel_chest.webp)
 
-Follow Nero to proceed to the Aqueduct.
+Follow Nero through the ↖️ exit.  
+Use ![][icon_dark] Dark to destroy the Dark Root in front of the Treasury, then proceed through the ↖️ exit to the Aqueduct.
 
 ## Aqueduct
 
 Go inside the Aqueduct to receive ![][icon_earth] Earth, then leave.
+
+Backtrack to San Miguel through the ↘️ exit, then disable sunlight and immediately go back to the screen you just came from.  
+
+Gusts will now spawn on this screen because the Treasury Dark Root is dead; kill the Gust immediately in front of you with ![][icon_sol] Sol, then leave and re-enter the screen to infinitely respawn it.  
+Kill this Gust until you reach **Lvl 19**, then kill two more.
 
 Proceed through the ↗️ exit and backtrack to the Cathedral.
 
