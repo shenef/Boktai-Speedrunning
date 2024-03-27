@@ -660,21 +660,20 @@ Use spear and ![][icon_frost] Frost to lower both blocks at once.
 Equip ![][icon_sol] Sol, ![][icon_mouse] Mouse, ![][icon_transform] Transform and ![][icon_dash] Dash.  
 Use both of your ![][icon_solar_nut] Solar Nuts to refill energy, then proceed up the stairs.
 
-Use ![][icon_sol] Sol to kill the Gusts as shown in this video to reach **Lvl 20**:
+Use ![][icon_sol] Sol to kill the Gusts as shown in the below video, whilst using ![][icon_mouse] Mouse to go through the ↗️ mousehole.  
+Open the chest for a ![][icon_black_card] Tarot Card.  
+During the cutscene, choose the first option:
 
 <iframe
   style="aspect-ratio: 16/9"
-  src="https://www.youtube.com/embed/-Wz2Hz2FYiQ"
-  title="Boktai 2: 1500 easy EXP during Tarot Card collection"
+  src="https://www.youtube.com/watch?v=3JF41hijDQM"
+  title="Boktai 2: Revised Dark City Gust Farm"
   allowfullscreen
 ></iframe>
 
-Use ![][icon_mouse] Mouse to go through the ↗️ mousehole.  
-Open the chest for a ![][icon_black_card] Tarot Card.  
-During the cutscene, choose the first option.
-
-Replace ![][icon_mouse] Mouse with ![][icon_dynamite] Dynamite and ![][icon_sol] Sol with ![][icon_dark] Dark.  
-Use a ![][icon_warp_leaf] Warp Leaf to leave.
+After finishing the kill route shown in the video, replace ![][icon_mouse] Mouse with ![][icon_dynamite] Dynamite and ![][icon_sol] Sol with ![][icon_dark] Dark.  
+Use a ![][icon_warp_leaf] Warp Leaf to leave.  
+You should be **Lvl 21** after finishing the above kills.  
 
 Proceed through the ↙️ exit and backtrack to the Remains.
 
@@ -705,7 +704,6 @@ Proceed, on the way open these hidden chests for items:
 ### Trap: Octopi
 
 - Use ![][icon_flame] Flame, after the fight refill life/energy on the skylight.
-- Re-enter the room and kill extra Octopi to reach **Lvl 21** if you did not already reach it.
 
 ### Trap: Skeleton Fencers
 
