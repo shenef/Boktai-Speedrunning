@@ -572,7 +572,7 @@ Activate one generator and start the purification.
 Enable max sunlight during the cutscene.
 
 Unequip ![][icon_mouse] Mouse and ![][icon_bat] Bat.  
-Equip ![][icon_leather_armor] Leather Armor and replace ![][icon_dark] Dark with ![][icon_sol] Sol after regaining your powers, then finish the purification.
+Replace ![][icon_dark] Dark with ![][icon_sol] Sol after regaining your powers, then finish the purification.
 
 Choose the second dialog option after the purification.
 
@@ -592,11 +592,17 @@ Go outside and talk to Violet to trigger Nero, then follow him.
 Open this hidden chest for a fourth ![][icon_warp_leaf] Warp Leaf:  
 ![](./assets/images/san_miguel_chest.webp)
 
-Follow Nero to proceed to the Aqueduct.
+Follow Nero through the ↖️ exit.  
+Use ![][icon_dark] Dark to destroy the Dark Root in front of the Treasury, then proceed through the ↖️ exit to the Aqueduct.
 
 ## Aqueduct
 
 Go inside the Aqueduct to receive ![][icon_earth] Earth, then leave.
+
+Backtrack to San Miguel through the ↘️ exit, then disable sunlight and immediately go back to the screen you just came from.  
+
+Gusts will now spawn on this screen because the Treasury Dark Root is dead; kill the Gust immediately in front of you with ![][icon_sol] Sol, then leave and re-enter the screen to infinitely respawn it.  
+Kill this Gust until you reach **Lvl 19**, then kill two more.
 
 Proceed through the ↗️ exit and backtrack to the Cathedral.
 
@@ -704,6 +710,7 @@ Proceed, on the way open these hidden chests for items:
 ### Trap: Skeleton Fencers
 
 - Put all stat points into STRG.
+- Equip ![][icon_leather_armor] Leather Armor.
 - Use Black Django and ![][icon_dark] Dark.
 - Walk into the center of the room to cluster them, then kill all three at the same time.
 
@@ -730,7 +737,6 @@ Go to Lita's shop and buy:
 - 1 ![][icon_power_nut] Power Nut
 - 2 ![][icon_speed_nut] Speed Nuts
 - 1 ![][icon_solar_nut] Solar Nut
-- 1 ![][icon_warp_leaf] Warp Leaf
 
 Proceed to the piledriver screen.
 
@@ -758,12 +764,14 @@ On the way, step on the switch to open a gate for Django, then proceed.
 Step on the switch outside, then use the magic circle to switch back to Django.
 
 Proceed upstairs to go outside, step on the switch and take the elevator.  
-In the second room with Cockatrices, have <=8 sunlight to use the solar walkway as a shortcut.
+In the first room with Cockatrices, kill both of them with ![][icon_earth] Earth and open the chest on the south end of the room for a ![][icon_warp_leaf] Warp Leaf.  
+In the second room with Cockatrices, proceed through the ↘️ exit, then re-enter the room.  
+Knock on the upper pillar to attract all three Cockatrices, then kill them all with ![][icon_earth] Earth to reach **Lvl 24.**
 
 ### Trap: Sword+
 
 - Use Black Django and ![][icon_dark] Dark.
-- You should reach **Lvl 23** after this fight.
+- You should reach **Lvl 25** after this fight.
 
 Possible change: use card manip on the chest to get ![][icon_blue_card] The Tower.
 
@@ -822,7 +830,7 @@ For instance, 北2 東4 means East 4, North 2, NOT North 2, East 4.
 ### Trap: Axe+
 
 - Put all stat points into STRG, use Black Django and ![][icon_dark] Dark.
-- You should reach **Lvl 24** after this fight.
+- You should reach **Lvl 26** after this fight.
 
 Open the chest afterwards for a random card.  
 Backtrack inside and proceed upstairs until you take an elevator.  
@@ -834,10 +842,9 @@ If you do, open these chests for items (![][icon_jerky] ![][icon_solar_nut] ![][
 ![](./assets/images/spiral_chests_2.webp)
 
 Use ![][icon_sol] Sol to kill the Leys, activate the lever, then kill the Leys again.  
-Push the block and farm Leys for EXP until you reach **Lvl 26.**  
-Kill an additional eight Leys before proceeding.  
+Push the block and farm Leys for EXP if you did not already reach **Lvl 27.**   
 Put all stat points into STRG, equip ![][icon_dash] Dash, ![][icon_sol] Sol, ![][icon_frost] Frost and ![][icon_cloud] Cloud.  
-Proceed down the stairs and use a ![][icon_power_nut] Power Nut to do the puzzle.
+Proceed downstairs and use a ![][icon_power_nut] Power Nut to do the puzzle.
 
 Push the left block ↘️, then the other block ↙️↘️ so that they’re next to each other:  
 ![](./assets/images/spiral_cloud_puzzle_1.webp)
@@ -874,6 +881,7 @@ Push the floating block with ![][icon_cloud] Cloud, then open the last chest for
 ![](./assets/images/magic_sword_block.webp)
 ![](./assets/images/magic_sword_chest.webp)
 
+Kill the Mimic directly next to you.  
 Put all stat points into STRG.  
 Use a ![][icon_warp_leaf] Warp Leaf to leave.
 
@@ -947,8 +955,6 @@ Open the blue chest for a ![][icon_circle_key] key, use it on the other door to 
 Equip ![][icon_dash] Dash, ![][icon_flame] Flame, ![][icon_earth] Earth and ![][icon_dynamite] Dynamite.  
 Proceed through the ↘️ exit, light all the torches to open the gate.
 
-Kill the first Cockatrice with ![][icon_earth] Earth in the first dark room, then proceed.
-
 In the third dark room, light the torches on the moving platforms with spear and ![][icon_flame] Flame.  
 Have <=8 sunlight to enable the solar walkways in the next room.
 
@@ -991,6 +997,7 @@ Refill energy on the Solar Station and put all stat points into STRG before taki
 ### Trap: Serpent
 
 - Use ![][icon_flame] Flame and spear.
+- **Use ![][icon_dynamite] Dynamite whilst the Serpent is underwater to force it to jump at you.**
 - Only aim for the head and tail.
 - Break the bubbles to force it to jump at you.
 - You should reach **Lvl 34** after this fight.
@@ -1036,7 +1043,7 @@ Proceed through the ↙️↘️↖️↖️ exits, then refill energy on the So
 - Use ![][icon_frost] Frost and hit the Lich+ from behind.
 - Once it begins its rotating attack, damage boost on its back and immediately let go of directional input to land in the correct spot to avoid getting hit.
 - Use ![][icon_solar_nut] Solar Nuts to refill energy.
-- You should reach **Lvl 35** after this fight.
+- You should reach **Lvl 36** after this fight.
 
 Proceed through the ↖️ exit, then take the elevator.
 
