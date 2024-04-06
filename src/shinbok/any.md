@@ -201,11 +201,12 @@ Open the green chest to get the **Tire Trail** bike part.
 Go back once and proceed in the ↗️ direction to reach the boss room.
 
 During dialog, spam A (the 2nd option is faster by a few frame, only worth menuing for TAS).  
-Open the menu, put all your stats into STR, equip ![][icon_hoop_frame] Hoop Frame & ![][icon_sol_lens], then go through the door.
+Open the menu, put all your stats into STR, equip ![][icon_hoop_frame] Hoop Frame & ![][icon_sol_lens] Sol Lens, then go through the door.
 
 ### BOSS: The Count
 
 - Use ![][icon_hoop_frame] Hoop Frame on the count. Do not bother with the windows.
+- You are now **Lvl 7** *(413 => 662 EXP)*.
 
 ### COFFIN
 
@@ -223,6 +224,7 @@ Once you get past the room where you fought the Armor (brown door), take the ↖
 - Go at the bottom of the piledriver and use ![][icon_wizard_frame] Wizard Frame to activate all of them in one shot. During the shot, walk and activate the piledriver as soon as all 4 of them have been hit to skip dialogs.
 - Start the purification and use ![][icon_hoop_frame] Hoop Frame until the end.  
 ![](./assets/images/lifeless_town_purification_example.png)
+- *(662 => 743 EXP)*
 
 ## San Miguel (2)
 
