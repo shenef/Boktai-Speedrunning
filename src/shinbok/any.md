@@ -224,6 +224,17 @@ Once you get past the room where you fought the Armor (brown door), take the ↖
 - Start the purification and use ![][icon_hoop_frame] Hoop Frame until the end.  
 ![](./assets/images/lifeless_town_purification_example.png)
 
+## San Miguel (2)
+
+### Django's House
+
+- Equip **Tire Trail** & **Knuckle Guard** bike parts to get more HP & be able to drive on mud during bike races.
+
+### Item Shop
+
+- Sell both ![][icon_red_card] cards.
+- Buy 7 ![][icon_banana] bananas.
+
 <!-- Items -->
 [icon_earthly_nut]: ./assets/images/icons/icon_earthly_nut.png
 [icon_solar_nut]: ./assets/images/icons/icon_solar_nut.png
