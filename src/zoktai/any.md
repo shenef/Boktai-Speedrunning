@@ -599,7 +599,7 @@ Use ![][icon_dark] Dark to destroy the Dark Root in front of the Treasury, then 
 
 Go inside the Aqueduct to receive ![][icon_earth] Earth, then leave.
 
-Backtrack to San Miguel through the ↘️ exit, then disable sunlight and immediately go back to the screen you just came from.  
+Backtrack to San Miguel through the ↘️ exit, then disable sunlight and immediately go back to the screen you just came from.
 
 Gusts will now spawn on this screen because the Treasury Dark Root is dead; kill the Gust immediately in front of you with ![][icon_sol] Sol, then leave and re-enter the screen to infinitely respawn it.  
 Kill this Gust until you reach **Lvl 19**, then kill two more.
@@ -660,21 +660,20 @@ Use spear and ![][icon_frost] Frost to lower both blocks at once.
 Equip ![][icon_sol] Sol, ![][icon_mouse] Mouse, ![][icon_transform] Transform and ![][icon_dash] Dash.  
 Use both of your ![][icon_solar_nut] Solar Nuts to refill energy, then proceed up the stairs.
 
-Use ![][icon_sol] Sol to kill the Gusts as shown in this video to reach **Lvl 20**:
+Use ![][icon_sol] Sol to kill the Gusts as shown in the below video, whilst using ![][icon_mouse] Mouse to go through the ↗️ mousehole.  
+Open the chest for a ![][icon_black_card] Tarot Card.  
+During the cutscene, choose the first option:
 
 <iframe
   style="aspect-ratio: 16/9"
-  src="https://www.youtube.com/embed/-Wz2Hz2FYiQ"
-  title="Boktai 2: 1500 easy EXP during Tarot Card collection"
+  src="https://www.youtube.com/embed/3JF41hijDQM"
+  title="Boktai 2: Revised Dark City Gust Farm"
   allowfullscreen
 ></iframe>
 
-Use ![][icon_mouse] Mouse to go through the ↗️ mousehole.  
-Open the chest for a ![][icon_black_card] Tarot Card.  
-During the cutscene, choose the first option.
-
-Replace ![][icon_mouse] Mouse with ![][icon_dynamite] Dynamite and ![][icon_sol] Sol with ![][icon_dark] Dark.  
-Use a ![][icon_warp_leaf] Warp Leaf to leave.
+After finishing the kill route shown in the video, replace ![][icon_mouse] Mouse with ![][icon_dynamite] Dynamite and ![][icon_sol] Sol with ![][icon_dark] Dark.  
+Use a ![][icon_warp_leaf] Warp Leaf to leave.  
+You should be **Lvl 21** after finishing the above kills.
 
 Proceed through the ↙️ exit and backtrack to the Remains.
 
@@ -705,7 +704,6 @@ Proceed, on the way open these hidden chests for items:
 ### Trap: Octopi
 
 - Use ![][icon_flame] Flame, after the fight refill life/energy on the skylight.
-- Re-enter the room and kill extra Octopi to reach **Lvl 21** if you did not already reach it.
 
 ### Trap: Skeleton Fencers
 
@@ -842,7 +840,7 @@ If you do, open these chests for items (![][icon_jerky] ![][icon_solar_nut] ![][
 ![](./assets/images/spiral_chests_2.webp)
 
 Use ![][icon_sol] Sol to kill the Leys, activate the lever, then kill the Leys again.  
-Push the block and farm Leys for EXP if you did not already reach **Lvl 27.**   
+Push the block and farm Leys for EXP if you did not already reach **Lvl 27.**  
 Put all stat points into STRG, equip ![][icon_dash] Dash, ![][icon_sol] Sol, ![][icon_frost] Frost and ![][icon_cloud] Cloud.  
 Proceed downstairs and use a ![][icon_power_nut] Power Nut to do the puzzle.
 
