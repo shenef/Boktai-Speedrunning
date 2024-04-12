@@ -241,7 +241,7 @@ Use ![][icon_frost] Frost to make the floating block fall, then refill life/ener
   - If any Clay Golems kill each other, you must kill extras later to make up the lost EXP.
   - You should reach **Lvl 9** after this fight.
 
-Possible change: Use card manip on the chest in the first trap to get ![][icon_blue_card] The Tower.
+Possible change: Use card manip on the chest in the first trap to get ![][icon_blue_card] The Tower **(塔)**.
 
 Open the blue chest for a ![][icon_triangle_key] key, then proceed through the ↘️ exit and open the door.  
 During the dialog, choose the second choice, then proceed up the stairs in the next room.
@@ -550,11 +550,12 @@ Refill life/energy before entering the boss fight.
 Proceed through the ↗️ exit for a ![][icon_red_card] card if you need money.
 
 Drag the coffin and solve the puzzles.  
-After solving the puzzle with 2 wooden blocks, leave the coffin.  
-Proceed alone and activate the lever.
+After solving the puzzle with 2 wooden blocks, leave the coffin behind and proceed alone.
 
-Possible change: On the way to the lever, get ![][icon_blood_cloak] Blood-Soaked Cloak (hidden chest):  
-![](./assets/images/blood_cloak_chest.webp)
+Avoid the Bandits outdoors and proceed through the last ↖️ exit.  
+Attack the Green Slime to move it and bypass it safely, then proceed down the ↙️ staircase.  
+Damage boost through the Zombies to proceed through the next two rooms.  
+Stand on the platform and use Hammer to activate the lever.
 
 Use a ![][icon_warp_leaf] Warp Leaf to leave the dungeon.
 
@@ -571,8 +572,7 @@ The coffin is now in the piledriver screen.
 Activate one generator and start the purification.  
 Enable max sunlight during the cutscene.
 
-Unequip ![][icon_mouse] Mouse and ![][icon_bat] Bat.  
-Replace ![][icon_dark] Dark with ![][icon_sol] Sol after regaining your powers, then finish the purification.
+After regaining your powers, unequip ![][icon_mouse] Mouse and ![][icon_bat] Bat, then equip ![][icon_sol] Sol and finish the purification.
 
 Choose the second dialog option after the purification.
 
@@ -580,20 +580,23 @@ Choose the second dialog option after the purification.
 
 Go to Lita’s shop:
 
-- Buy a ![][icon_warp_leaf] Warp Leaf (you should now have three).
 - Sell your ![][icon_red_card] ![][icon_green_card] cards and ![][icon_bearnut] Bearnut.
+- Buy:
+  - 1 ![][icon_warp_leaf] Warp Leaf
+  - 1 ![][icon_power_nut] Power Nut
+  - 2 ![][icon_speed_nut] Speed Nuts
 
 Go to Cheyenne’s shop and talk to him to get the ![][icon_dash] Dash magic.  
 **Use this for movement whenever possible.**
 
-Equip ![][icon_dash] Dash, ![][icon_transform] Transform, ![][icon_grow] Grow, and replace ![][icon_sol] Sol with ![][icon_dark] Dark.  
+Equip ![][icon_dash] Dash, ![][icon_transform] Transform, ![][icon_sol] Sol and ![][icon_dark] Dark.  
 Go outside and talk to Violet to trigger Nero, then follow him.
 
 Open this hidden chest for a fourth ![][icon_warp_leaf] Warp Leaf:  
 ![](./assets/images/san_miguel_chest.webp)
 
 Follow Nero through the ↖️ exit.  
-Use ![][icon_dark] Dark to destroy the Dark Root in front of the Treasury, then proceed through the ↖️ exit to the Aqueduct.
+Use ![][icon_dark] Dark to destroy the Dark Root in front of the Treasury, then follow Nero and proceed through the ↖️ exit to the Aqueduct.
 
 ## Aqueduct
 
@@ -602,7 +605,8 @@ Go inside the Aqueduct to receive ![][icon_earth] Earth, then leave.
 Backtrack to San Miguel through the ↘️ exit, then disable sunlight and immediately go back to the screen you just came from.
 
 Gusts will now spawn on this screen because the Treasury Dark Root is dead; kill the Gust immediately in front of you with ![][icon_sol] Sol, then leave and re-enter the screen to infinitely respawn it.  
-Kill this Gust until you reach **Lvl 19**, then kill two more.
+Kill this Gust until you reach **Lvl 19**, then kill two more.  
+Replace ![][icon_sol] Sol with ![][icon_grow] Grow.
 
 Proceed through the ↗️ exit and backtrack to the Cathedral.
 
@@ -615,7 +619,7 @@ Use ![][icon_grow] Grow on the lily pads to reach a chest and get a ![][icon_bla
 
 Use a ![][icon_warp_leaf] Warp Leaf to leave.
 
-Backtrack to Dark City, go through the piledriver screen on the way and kill all four Dark Roots to disable their respawns.
+Backtrack to Dark City, go through the piledriver screen on the way and kill all four Dark Roots with ![][icon_dark] Dark to disable their respawns.
 
 ## Dark City (3)
 
@@ -683,7 +687,7 @@ In the Clay Golem room, proceed through the ↗️ exit, then the second ↖️ 
 Proceed through the ↗️ exit (do not take the stairs).
 
 Use ![][icon_dynamite] Dynamite on the wall next to the Zombie on the top-left, then proceed.  
-Kill the Dark Root and open the chest for the last ![][icon_black_card] Tarot Card.
+Kill the Dark Root with ![][icon_dark] Dark and open the chest for the last ![][icon_black_card] Tarot Card.
 
 Use a ![][icon_warp_leaf] Warp Leaf to leave.
 
@@ -712,7 +716,7 @@ Proceed, on the way open these hidden chests for items:
 - Use Black Django and ![][icon_dark] Dark.
 - Walk into the center of the room to cluster them, then kill all three at the same time.
 
-Refill life/energy before entering the boss.
+Refill life/energy and put all stat points into STRG before entering the boss.
 
 ### Boss: Blue Dvalinn
 
@@ -730,28 +734,23 @@ After the boss fight, use a ![][icon_warp_leaf] Warp Leaf to leave.
 Go into the clockhouse and talk to the NPC.  
 Keep talking, then change the system time to 2004/09/30 22:xx.
 
-Go to Lita's shop and buy:
-
-- 1 ![][icon_power_nut] Power Nut
-- 2 ![][icon_speed_nut] Speed Nuts
-- 1 ![][icon_solar_nut] Solar Nut
-
 Proceed to the piledriver screen.
 
 ### Dvalinn Purification
 
 Activate all four generators and start the purification.  
+Replace ![][icon_flame] Flame with ![][icon_sol] Sol.  
 Standard purification method, be careful of the bubble streams as they deal heavy damage.
 
-Proceed through the ↗️ exit, equip ![][icon_dark] Dark and ![][icon_bat] Bat.
+Proceed through the ↗️ exit, break the wooden block with hammer to continue.
 
 Disable sunlight to open Sabata's half of Spiral Tower.  
 Enable sunlight to open Django's half of Spiral Tower.
 
 ## Spiral Tower
 
-Avoid the Black Slimes and take the stairs, then proceed through the ↘️ exit.  
-Use ![][icon_bat] Bat to pass over the narrow walkway and push the block.  
+Hug the top corner to avoid the Black Slime and take the stairs, then proceed through the ↘️ exit.  
+Slide along the wall over the narrow walkway (This is no slower than transforming) and push the block.  
 Backtrack and fall through the trapdoor on the left side of the room.  
 Use spear to hit the switch through the Black Slime.  
 Push the block and use the magic circle to switch to Sabata.
@@ -761,8 +760,9 @@ Proceed upstairs, using ![][icon_zero_shift] Zero Shift to run through enemies.
 On the way, step on the switch to open a gate for Django, then proceed.  
 Step on the switch outside, then use the magic circle to switch back to Django.
 
+Upon gaining control of Django, hold Right on the D-pad WITHOUT using ![][icon_dash] Dash, with the ![][icon_leather_armor] Leather Armor equipped you will consistently dodge the Black Slime.  
 Proceed upstairs to go outside, step on the switch and take the elevator.  
-In the first room with Cockatrices, kill both of them with ![][icon_earth] Earth and open the chest on the south end of the room for a ![][icon_warp_leaf] Warp Leaf.  
+In the first room with Cockatrices, replace ![][icon_sol] Sol with ![][icon_earth] Earth, then use it to kill both of them and open the chest on the south end of the room for a ![][icon_warp_leaf] Warp Leaf.  
 In the second room with Cockatrices, proceed through the ↘️ exit, then re-enter the room.  
 Knock on the upper pillar to attract all three Cockatrices, then kill them all with ![][icon_earth] Earth to reach **Lvl 24.**
 
@@ -771,10 +771,13 @@ Knock on the upper pillar to attract all three Cockatrices, then kill them all w
 - Use Black Django and ![][icon_dark] Dark.
 - You should reach **Lvl 25** after this fight.
 
-Possible change: use card manip on the chest to get ![][icon_blue_card] The Tower.
+Possible change: use card manip on the chest to get ![][icon_blue_card] The Tower **(塔)**.
 
 Proceed through the ↖️ exit.  
-Once outside, take the stairs.  
+If you have ![][icon_blue_card] The Tower **(塔)** in your inventory, use ![][icon_mouse] Mouse to go through the ↗️ mousehole and pick up a ![][icon_bearnut] Bearnut.  
+Once outside, take the stairs.
+
+Replace ![][icon_earth] Earth with ![][icon_sol] Sol and use it to kill the first Leys once you get indoors.  
 Avoid the Stone Golems and proceed through the ↘️ exit, then activate the lever and switch to Sabata.
 
 Use a ![][icon_speed_nut] Speed Nut as soon as you gain control.  
@@ -841,8 +844,7 @@ If you do, open these chests for items (![][icon_jerky] ![][icon_solar_nut] ![][
 
 Use ![][icon_sol] Sol to kill the Leys, activate the lever, then kill the Leys again.  
 Push the block and farm Leys for EXP if you did not already reach **Lvl 27.**  
-Put all stat points into STRG, equip ![][icon_dash] Dash, ![][icon_sol] Sol, ![][icon_frost] Frost and ![][icon_cloud] Cloud.  
-Proceed downstairs and use a ![][icon_power_nut] Power Nut to do the puzzle.
+Proceed downstairs, put all stat points into STRG, equip ![][icon_dash] Dash, ![][icon_sol] Sol, ![][icon_frost] Frost and ![][icon_cloud] Cloud, then use a ![][icon_power_nut] Power Nut to do the puzzle.
 
 Push the left block ↘️, then the other block ↙️↘️ so that they’re next to each other:  
 ![](./assets/images/spiral_cloud_puzzle_1.webp)
@@ -907,7 +909,7 @@ Go to Lita’s shop, sell all items except for one ![][icon_sunscreen] Sunscreen
 
 Go to Cheyenne’s shop and buy a ![][icon_bardiche] Bardiche, then equip it.
 
-Equip ![][icon_dynamite] Dynamite and ![][icon_cloud] Cloud.  
+Equip ![][icon_dynamite] Dynamite, ![][icon_cloud] Cloud, ![][icon_dash] Dash and ![][icon_frost] Frost.  
 Backtrack ↗️ to Spiral Tower.
 
 ## Undead Zone B1
@@ -915,7 +917,7 @@ Backtrack ↗️ to Spiral Tower.
 In the room on the ↖️ side, knock on the wall to lure the Skeletons, avoid being seen.  
 Proceed through the ↗️ exit, break the cacti to proceed.
 
-Hit the first Skeleton in the back so that it looks in another direction, then proceed.  
+Knock on the central pillar near the first Skeleton so that it looks in another direction, then proceed.  
 Skip the next puzzle by using ![][icon_dynamite] Dynamite near the torch.
 
 In the next room, knock on the wall near the first Skeleton.  
@@ -930,6 +932,7 @@ After the stairs, run in the ↘️ direction to avoid being seen.
 In the next room, use <=8 sunlight to enable the solar walkway and proceed through the ↖️ exit.  
 Hit the Skeletons from behind and ![][icon_dash] Dash during their damage animation so that they don’t see you.
 
+Replace ![][icon_frost] Frost and ![][icon_dynamite] Dynamite with ![][icon_transform] Transform and ![][icon_bat] Bat.  
 Use Black Django and ![][icon_bat] Bat to fly over the traps and get the key, then proceed through the door.  
 In the next room, knock on the walls to lure the Skeletons.
 
@@ -944,7 +947,7 @@ Refill energy on the Solar Station and open the ↗️ door.
 - Attack the head to stun it.
 - You should reach **Lvl 30** after this fight.
 
-Possible change: use ![][icon_blue_card] The Tower and ![][icon_bearnut] Bearnut to instantly kill it.
+Possible change: use ![][icon_blue_card] The Tower **(塔)** and ![][icon_bearnut] Bearnut to instantly kill it.
 
 Open the blue chest for a ![][icon_circle_key] key, use it on the other door to proceed (refill energy on the Solar Station on the way).
 
@@ -1000,7 +1003,7 @@ Refill energy on the Solar Station and put all stat points into STRG before taki
 - Break the bubbles to force it to jump at you.
 - You should reach **Lvl 34** after this fight.
 
-Possible change: use ![][icon_blue_card] The Tower and ![][icon_bearnut] Bearnut to instantly kill it.
+Possible change: use ![][icon_blue_card] The Tower **(塔)** and ![][icon_bearnut] Bearnut to instantly kill it.
 
 Open the blue chest for a ![][icon_circle_key] key, then take the new platform and backtrack to the first room to open the ↘️ door.
 
@@ -1010,6 +1013,7 @@ Refill energy on the Solar Station, then in the next room proceed through the �
 
 ### Puzzle
 
+Replace ![][icon_dynamite] Dynamite with ![][icon_cloud] Cloud.  
 Push the stone block and use ![][icon_flame] Flame on the floating block.  
 Push the floating block with spear and ![][icon_cloud] Cloud ↗️↘️:  
 ![](./assets/images/undead_zone_4.webp)
@@ -1118,5 +1122,4 @@ Time ends when Jormungandr's life bar reaches zero during this final charge.
 [icon_pounder]: ./assets/images/icons/icon_pounder.webp
 [icon_club]: ./assets/images/icons/icon_club.webp
 [icon_leather_armor]: ./assets/images/icons/icon_leather_armor.webp
-[icon_blood_cloak]: ./assets/images/icons/icon_blood_cloak.webp
 [icon_garb_of_darkness]: ./assets/images/icons/icon_garb_of_darkness.webp
