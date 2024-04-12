@@ -550,7 +550,7 @@ Refill life/energy before entering the boss fight.
 Proceed through the ↗️ exit for a ![][icon_red_card] card if you need money.
 
 Drag the coffin and solve the puzzles.  
-After solving the puzzle with 2 wooden blocks, leave the coffin behind and proceed alone.  
+After solving the puzzle with 2 wooden blocks, leave the coffin behind and proceed alone.
 
 Avoid the Bandits outdoors and proceed through the last ↖️ exit.  
 Attack the Green Slime to move it and bypass it safely, then proceed down the ↙️ staircase.  
@@ -581,7 +581,7 @@ Choose the second dialog option after the purification.
 Go to Lita’s shop:
 
 - Sell your ![][icon_red_card] ![][icon_green_card] cards and ![][icon_bearnut] Bearnut.
-- Buy: 
+- Buy:
   - 1 ![][icon_warp_leaf] Warp Leaf
   - 1 ![][icon_power_nut] Power Nut
   - 2 ![][icon_speed_nut] Speed Nuts
@@ -775,7 +775,7 @@ Possible change: use card manip on the chest to get ![][icon_blue_card] The Towe
 
 Proceed through the ↖️ exit.  
 If you have ![][icon_blue_card] The Tower **(塔)** in your inventory, use ![][icon_mouse] Mouse to go through the ↗️ mousehole and pick up a ![][icon_bearnut] Bearnut.  
-Once outside, take the stairs.  
+Once outside, take the stairs.
 
 Replace ![][icon_earth] Earth with ![][icon_sol] Sol and use it to kill the first Leys once you get indoors.  
 Avoid the Stone Golems and proceed through the ↘️ exit, then activate the lever and switch to Sabata.
@@ -843,7 +843,7 @@ If you do, open these chests for items (![][icon_jerky] ![][icon_solar_nut] ![][
 ![](./assets/images/spiral_chests_2.webp)
 
 Use ![][icon_sol] Sol to kill the Leys, activate the lever, then kill the Leys again.  
-Push the block and farm Leys for EXP if you did not already reach **Lvl 27.**   
+Push the block and farm Leys for EXP if you did not already reach **Lvl 27.**  
 Proceed downstairs, put all stat points into STRG, equip ![][icon_dash] Dash, ![][icon_sol] Sol, ![][icon_frost] Frost and ![][icon_cloud] Cloud, then use a ![][icon_power_nut] Power Nut to do the puzzle.
 
 Push the left block ↘️, then the other block ↙️↘️ so that they’re next to each other:  
@@ -1122,5 +1122,4 @@ Time ends when Jormungandr's life bar reaches zero during this final charge.
 [icon_pounder]: ./assets/images/icons/icon_pounder.webp
 [icon_club]: ./assets/images/icons/icon_club.webp
 [icon_leather_armor]: ./assets/images/icons/icon_leather_armor.webp
-[icon_blood_cloak]: ./assets/images/icons/icon_blood_cloak.webp
 [icon_garb_of_darkness]: ./assets/images/icons/icon_garb_of_darkness.webp
