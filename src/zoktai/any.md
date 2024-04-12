@@ -40,7 +40,7 @@ Unequip your current armor (less defense, faster walking speed).
 
 ### Trap: Zombie
 
-- Hit the Zombie 3 times to trigger the cutscene, then damage boost and hit it from behind twice.
+- Hit the Zombie 3 times to trigger the cutscene, then hit it from the front twice.
 
 ## San Miguel
 
