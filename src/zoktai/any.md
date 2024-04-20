@@ -306,7 +306,7 @@ Kill another Clay Golem with ![][icon_cloud] Cloud and proceed in the same direc
 Open this hidden chest for a ![][icon_warp_leaf] Warp Leaf, then open the door:  
 ![](./assets/images/remains_leaf_chest_1.webp)
 
-Talk to the fountain to get water, then proceed.
+Skip getting water from the fountain, then proceed.
 
 You must now find three ![][icon_stone_tablet] Stone Tablets that are in fixed spots on eight screens:  
 ![](./assets/images/desert_1.webp)
