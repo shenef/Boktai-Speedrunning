@@ -51,7 +51,7 @@ Once you reach the room with the 2 spiders, go to the right to get the ![][icon_
 - Open the chest for a ![][icon_solar_nut] Solar Nut.
 - Open the menu, use the ![][icon_solar_nut] Solar Nut & equip the ![][icon_wizard_frame] Wizard Frame.
 - Shoot the Skeleton until death.
-- You are now **Lvl 2** *(12 EXP)*.
+- You are now **Lvl 2** _(12 EXP)_.
 
 Keep going until you reach the **"+-shaped room"**, take the ↘️ path and step on the weight switch to get the ![][icon_gradius] Gradius.
 
@@ -71,7 +71,7 @@ Keep going, and when you reach the room with klorofoluns, get the hidden ![][ico
 - Shoot once with ![][icon_fighter_frame] Fight Frame.
 - Go on the skylight on the right.
 - Aim up, and when the armor is aligned, keep shooting in rhythm to stunlock & prevent it from raising its shield until the trap is over. (approx time ~16.84s)
-- You are now **Lvl 4** *(12 => 136 EXP)*.  
+- You are now **Lvl 4** _(12 => 136 EXP)_.  
 ![](./assets/images/sealed_dungeon_armor_strat.png)
 
 After the trap proceed in the ↗️ direction to leave the dungeon.  
@@ -82,7 +82,7 @@ Set the sunlight to 0.
 ### Django's House
 
 - Talk to Violet & choose the first option for less text.
-- <span style="color: #fff3cd;">*Safety strat: get the ![][icon_luna_lens] Luna Lens near the doll on the left.*</span>
+- <span style="color: #fff3cd;">_Safety strat: get the ![][icon_luna_lens] Luna Lens near the doll on the left._</span>
 
 ### Solar Smith
 
@@ -104,7 +104,7 @@ Set the sunlight to 0.
 
 ### Solar Bank | Dark Loans
 
-- Widthdraw all the money from the Solar Bank *(500 solls)*.
+- Widthdraw all the money from the Solar Bank _(500 solls)_.
 
 ### Clock Tower
 
@@ -117,12 +117,13 @@ Set the sunlight to 0.
 ### Item Shop
 
 - Talk to Lita, then open all chests to get 2 ![][icon_earthly_nut] Earthly Nuts & 2 ![][icon_healer] Healers.
-- Sell at least the following items for money:
+- Sell the following items for money:
   - 1 ![][icon_see_all_nut] See-All Nut
   - 1 ![][icon_speed_nut] Speed Nut
   - 1 ![][icon_tiptoe_nut] Tiptoe Nut
-  - 2 ![][icon_earthly_nut] Earthly Nuts
+  - 4 ![][icon_earthly_nut] Earthly Nuts
   - 2 ![][icon_healer] Healers
+  - 1 ![][icon_tasty_meat] Tasty Meat
 - Buy 3 ![][icon_banana] Bananas & sort your inventory before closing the shop menu and leaving.
 
 ### Accessory Shop
@@ -150,8 +151,8 @@ Open the green chest to get ![][icon_flame_lens] Flame Lens.
 Go back and go in front of the gate.
 Equip ![][icon_flame_lens] Flame Lens and shoot at the torch.
 
-<span style="color: #fff3cd;">*Safety strat: get the ![][icon_tasty_meat] Tasty Meat from Trinity.*</span>  
-<span style="color: #fff3cd;">*Safety strat: get the hidden ![][icon_jerky] Jerky in the ↘️ room, then go back to the previous room (Jerky doesn't perish over time and this one can be kept for endgame).*</span>  
+<span style="color: #fff3cd;">_Safety strat: get the ![][icon_tasty_meat] Tasty Meat from Trinity._</span>  
+<span style="color: #fff3cd;">_Safety strat: get the hidden ![][icon_jerky] Jerky in the ↘️ room, then go back to the previous room (Jerky doesn't perish over time and this one can be kept for endgame)._</span>  
 ![](./assets/images/lifeless_town_hidden_jerky.png)
 
 Proceed in the ↗️ direction.
@@ -159,7 +160,7 @@ Proceed in the ↗️ direction.
 ### TRAP: Skeletons
 
 - Use ![][icon_wizard_frame] Wizard Frame, start by shooting in the back
-- *(136 => 224 EXP)*
+- _(136 => 224 EXP)_
 
 Proceed in the ↘️ direction.
 
@@ -178,7 +179,7 @@ Take go through the ↘️ path & open the door to proceed in the ↗️ directi
 - Shoot once with ![][icon_wizard_frame] Wizard Frame to force it to shield.
 - Get closer and use ![][icon_gradius] Gradius while aiming UP until the cutscene triggers. (approx time until cutscene : ~15.85s)
 - After the cutscene, spam B as Black Django.
-- You are now **Lvl 6** *(224 => 413 EXP)*.
+- You are now **Lvl 6** _(224 => 413 EXP)_.
 
 Keep going in the ↗️ direction.  
 In the room with mummies, proceed in the ↗️ direction, then ↖️ twice.  
@@ -206,7 +207,7 @@ Open the menu, put all your stats into STR, equip ![][icon_hoop_frame] Hoop Fram
 ### BOSS: The Count
 
 - Use ![][icon_hoop_frame] Hoop Frame on the count. Do not bother with the windows.
-- You are now **Lvl 7** *(413 => 662 EXP)*.
+- You are now **Lvl 7** _(413 => 662 EXP)_.
 
 ### COFFIN
 
@@ -224,7 +225,7 @@ Once you get past the room where you fought the Armor (brown door), take the ↖
 - Go at the bottom of the piledriver and use ![][icon_wizard_frame] Wizard Frame to activate all of them in one shot. During the shot, walk and activate the piledriver as soon as all 4 of them have been hit to skip dialogs.
 - Start the purification and use ![][icon_hoop_frame] Hoop Frame until the end.  
 ![](./assets/images/lifeless_town_purification_example.png)
-- *(662 => 743 EXP)*
+- _(662 => 743 EXP)_
 
 ## San Miguel (2)
 
@@ -237,6 +238,197 @@ Once you get past the room where you fought the Armor (brown door), take the ↖
 - Sell both ![][icon_red_card] cards.
 - Buy 7 ![][icon_banana] bananas.
 
+## Ancient Tree
+
+Enter the tree, then take the ↖️ & ↗️ paths.
+
+### TRAP: Ghouls & Bats
+
+- Use ![][icon_hoop_frame] Hoop Frame with ![][icon_sol_lens] Sol Lens & ![][icon_gradius] Gradius.
+- You are now **Lvl 8** _(743 => 847 EXP)_.
+
+Proceed through the ↘️ gate & take the elevator to reach **2F**.
+
+After the elevator, take the ↙️ and ↖️ paths.
+
+### MISSION: Make the Solar Roots grow!
+
+Proceed in the ↖️ direction, then ↗️ twice (you can pass from the left side in the room with purple slimes).
+
+### PUZZLE
+
+- Use a ![][icon_banana] Banana.
+- Push the first block once in ↗️ & ↖️ directions.
+- Push the second block ↗️ once & open the green chest to get the ![][icon_earth_lens] Earth Lens.
+
+Go back, equip ![][icon_earth_lens] Earth Lens.  
+Grow the first plan, then alternate between the other 2 plans. Start with the left one because the right one will end the mission once fully grown.
+
+Open the green chest on the left to get ![][icon_dragoon_frame] Dragoon Frame, then proceed in the ↗️ direction.  
+![](./assets/images/ancient_tree_dragoon_frame.png)
+
+Push the blocks on the weight switches and take the elevator to reach **3F** (if you were fast enough, the banana will still be effective).
+
+Proceed in the ↙️ twice, then ↖️ and ↙️ once each.
+
+Equip ![][icon_iron_clogs] Iron Clogs to negate the solar wind.
+
+On the way, grow the plan to create a shortcut. Hug the left side when dashing towards it to prevent the bulb from exploding.
+Replenish your energy and re-enter the tree from the ↘️ path, then :
+
+- Put all points in STR.
+- Unequip ![][icon_iron_clogs] Iron Clogs.
+- Unequip ![][icon_gradius] Gradius.
+- Equip ![][icon_estoc] Estoc.
+
+### TRAP: Earth Armor
+
+- Dash once to go under the skylight.
+- Use ![][icon_hoop_frame] Hoop Frame to shoot once.
+- Use ![][icon_estoc] Estoc to stunlock. You can prevent it from raising its shield if your position is good enough.
+- When the shield breaks, move away because the Armor will spin, then go back to stunlocking with ![][icon_estoc] Estoc.
+- You are now **Lvl 9** _(847 => 1152 EXP)_.
+
+Open the green chest to get the **Einherjar** bike part, then proceed in the ↗️ direction.  
+After the cutscene, take the ↘️ path twice.
+
+As soon as you enter the room, dash towards the nearest platform to take the ↘️ path.  
+Push the iron block, then go back and take the other platform.  
+During this room you can set the sunlight to 0 to delay overheating a bit.
+
+Kill the 3 klorofoluns that hovers above the last moving platform with ![][icon_hoop_frame] Hoop Frame _(1152 => 1165 EXP)_.  
+_This isn't about getting EXP, but rather an extra TRC block for later._
+
+After the last platform, take the ↘️ path, then ↙️.  
+Grow the plan near the end of the room, then leave through the ↙️ path.  
+After the cutscene about the beehive, go in the ↖️ direction and push the elemental blocks to activate the elevator.
+
+Take the elevator to reach **4F**.
+
+Proceed in the ↘️ direction.
+
+### TRAP: Spiders & golem
+
+- Open the menu and put all your points into STR.
+- Use ![][icon_estoc] Estoc.
+- Start with the golem, then the spiders. They should be more or less grouped together after killing the golem.
+- _(1165 => 1247 EXP)_
+
+Proceed in the ↙️ twice.
+
+Replenish life and energy, then set sunlight between 1 and 8 to make the solar platform appear.  
+Use it to reach the green chest and get the ![][icon_plate_mail] Plate Mail, then go back inside the tree.
+
+Grow the plants to take the ↖️ path, then proceed through the ↙️ and ↖️ paths.
+
+### MISSION: Find the Red Key!
+
+- Use ![][icon_fighter_frame] Fighter Frame & ![][icon_flame_lens] Fire Lens.
+- Go on the platform near you and light the 2 torches to open the ↖️ gate (you can shoot the 1st torch by shooting straight UP while on the platform).
+- In the next room, light the 5 torches (only ![][icon_fighter_frame] Fighter Frame allows you to light all 5 in one trip because of the delay between shots and the lack of recoil, you can also shoot the first torch by aiming to the left while on the platform).
+- Continue in the ↘️ direction twice.
+- Open the hidden blue chest to get the ![][icon_circle_key] Circle Key, then go back and open the door.  
+![](./assets/images/ancient_tree_hidden_circle_key.png)
+
+After opening the door, proceed in the ↗️ direction.
+
+### PUZZLE
+
+- Use a ![][icon_banana] Banana.
+- Take the elevator to reach **5F**.
+
+Take the ↘️ path, then ↗️ twice.
+You should be in a room with ghouls, proceed in the ↖️ direction, then ↙️ 3 times.
+
+Then take the ↖️ path to go outside.
+Equip ![][icon_iron_clogs] Iron Clogs, then go through the room, make sure to grow the plant before taking the ↘️ path.
+
+Proceed through the ↗️ entry, and take the elevator to reach the boss.
+
+### BOSS: Hresvelgr
+
+- _You are expected to be missing 2 TRC blocks at the start of this fight._
+- Use use ![][icon_hoop_frame] Hoop Frame until the TRC gauge is full.
+- You can ![][icon_dark_trans] Dark Trans and spam B right away, however the boss will get invulnerable and begin his wind attack.
+- After the dialog, ignore Trinity and spam B with ![][icon_dark_trans] Dark Trans until the fight is over.
+- You are now **Lvl 11** _(1247 => 1747 EXP)_.
+
+During the dialog, just hold B and choose the first option.
+
+### COFFIN
+
+Open the menu and :
+
+- Turn off the sunlight.
+- Put all points into STR.
+- Unequip ![][icon_iron_clogs] Iron Clogs.
+- Use a ![][icon_banana] Banana.
+
+Take the elevator and start going back to th entrance of the dungeon.  
+Use the grown plant ouside as a shortcut, then go back inside the tree and take the ↘️ path.  
+Set sunlight to max, put the coffin on the first weight switch, then use ![][icon_dash] Dash to step on the other one.
+
+Grab the coffin and go through the ↗️ gate, use another ![][icon_banana] Banana after the current one runs out.
+
+Then take the elevator to go back to **4F**.
+
+Take the ↙️ path, walk on the weight switch to go through the ↘️ gate.  
+Kill the green slime with ![][icon_estoc] Estoc, use ![][icon_dash] Dash and open the green chest for a ![][icon_red_card] +4 stat card (400 solls) _(1747 => 1765 EXP)_.
+
+Then grab the coffin & take the ↗️ path to reach the elevator and go back to **3F**.
+Turn off the sunlight during the elevator.
+
+Go through the ↘️, ↗️ paths, then walk on the grown plant & the iron block to proceed in the ↖️ direction.
+
+You can reach the moving platform without using another ![][icon_banana]banana, so wait until you've reached the other side before using another one.
+
+Then proceed in the ↖️ direction twice (watch out for the centripede), then ↙️ twice and ↖️ again to go outside.
+
+Use the grown plant as a shortcut, stay on the left to prevent the bulb from exploding.
+Take the ↘️ and ↗️ paths to go back inside the tree.
+
+Proceed in the ↘️ direction (watch out for the golems), then ↗️ twice to take the elevator to go back to **2F**.
+
+Go through the ↙️ and ↘️ paths, then go towards the ↗️ path, be careful when passing next to the bulb.
+
+Take the elevator to go back to **1F**.
+
+Proceed in the ↖️ direction, then ↙️, ↘️ and ↙️ twice to reach the purification area.
+_The banana effect should stop are the dialog begins._
+
+### PURIFICATION
+
+- Go at the bottom of the piledriver and use ![][icon_wizard_frame] Wizard Frame to activate all of them in one shot. During the shot, walk and activate the piledriver as soon as all 4 of them have been hit to skip dialogs.
+- Start the purification and use ![][icon_hoop_frame] Hoop Frame until the end.  
+![](./assets/images/lifeless_town_purification_example.png)
+- During the purification do NOT avoid attacks & take damage on purpose, ideally you want to be at least in orange (40% Life).
+- _(1747 => 1879 EXP)_
+
+Dash in the ↙️ direction to trigger the next cutscene. Turn off the sunlight when it begins.
+
+### BOSS: The Count
+
+- The Count will do 2 bat attacks: get hit on purpose until you reach critical (red) Life.
+- The Count will now use Blood Rain and trigger the cutscene (by already being in critical state you won't have to wait as long).
+- After the cutscene use B and ![][icon_sol_trans] Sol Trans until the fight is over.
+_Note: unlike Dark Trans, the timing when pressing B matters. Sol Trans has the possibility to attack faster than Dark Trans, however timing is strict and attacks does NOT stun enemies._
+
+## San Miguel (2)
+
+### Django's House
+
+- Equip **Einherjar** & bike part (lower acceleration, higher speed).
+
+### Item Shop
+
+- Sell ![][icon_red_card] card.
+- Buy 4 ![][icon_banana] bananas.
+
+## White Forest
+
+**REWRITING IN PROGRESS**
+
+<!-- markdownlint-disable MD053 -->
 <!-- Items -->
 [icon_earthly_nut]: ./assets/images/icons/icon_earthly_nut.png
 [icon_solar_nut]: ./assets/images/icons/icon_solar_nut.png
