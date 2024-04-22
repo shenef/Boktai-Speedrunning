@@ -6,6 +6,19 @@
 
 /* reduces the inline html needed for video embeds */
 iframe {
-  width: 100%;
+  width: 97%;
   border: none;
+  display: block;
+  margin: auto;
+  border-radius: 2px;
+}
+
+.center {
+  max-width: 90% !important;
+  display: block;
+  margin: auto;
+}
+
+img {
+  border-radius: 2px;
 }
