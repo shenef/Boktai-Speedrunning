@@ -50,13 +50,13 @@
  * Used to highlight the type of section, such as "Trap:", "Boss:"
  */
 .puzzle {
-  color: var(--color-frost);
+  color: hsl(from var(--color-frost) h 60% l);
 }
 
 .trap {
-  color: var(--color-cloud);
+  color: hsl(from var(--color-cloud) h 60% l);
 }
 
 .boss {
-  color: var(--color-dark);
+  color: hsl(from var(--color-dark) h 85% l);
 }
