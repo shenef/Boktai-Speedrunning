@@ -6,10 +6,22 @@ Directions for paths and exits will use ↖️, ↗️, ↙️ and ↘️.
 
 ## Before starting
 
-If playing on BizHawk, set Skip BIOS to FALSE and RTC to FALSE in the GBA Settings (Requires v2.6.3+):  
+If playing on original hardware with an existing save file, skip ahead to "Initial Game Settings".  
+If playing on BizHawk emulator, follow the remaining instructions in this section before starting a run.  
+
+Set Skip BIOS to FALSE and RTC to FALSE in the GBA Settings (Requires v2.6.3+):  
 ![](./assets/images/emu_settings.webp)  
-Set the system time to August 1st 2004 at 10PM (2004/08/01 22:00):  
-![](./assets/images/igt.webp)
+
+Start a new game and create a save file after killing the tutorial Zombie with the Sol de Vice.  
+Create a save file (This is required to access the Link menu) and soft-reset (A+B+Start+Select).  
+
+## Initial Game Settings
+
+Ensure that no UV is reaching the solar sensor before confirming calibration settings (Not relevant for emulator play):
+![](./assets/images/calibration.png)
+
+Set the system time to August 1st 2004 at 11:55PM (2004/08/01 23:55):  
+![](./assets/images/system_time.png)
 
 Use the default region selection.
 
@@ -99,10 +111,16 @@ Backtrack to the trap room and kill a Ghoul, then proceed through the top ↘️
 The ![][icon_red_orb] Red Orb will be in a random skylight.  
 Check the spot directly next to the stairs, then take the stairs whether or not you found it.
 
-### Trap: Ghouls + Zombie
+### Trap: Ghouls + Zombie (Short Sword RNG Manip)
 
-- Kill the enemies in clockwise order.
-- The Zombie deals heavy damage, be careful.
+- Follow the RNG manip method in the below video to get a ![][icon_short_sword] Short Sword:
+- (Set the system time during the soft-reset to 2004/08/31 22:00)
+<iframe
+  style="aspect-ratio: 16/9"
+  src="https://www.youtube.com/embed/ww9upKYnA70"
+  title="Boktai 2: Short Sword RNG Manip by Raphi"
+  allowfullscreen
+></iframe>
 
 Proceed through the ↖️ exit and fall down to get the ![][icon_spear] Short Spear.
 
@@ -160,21 +178,23 @@ Proceed through the ↖️ exit (Refill life on skylights if low).
 
 Light the torch with ![][icon_flame] Flame and place the ![][icon_blue_orb] Blue Orb.  
 Backtrack and proceed down the new stairs in the main room, refill energy on the Solar Station.  
-Put all stat points into STRG and equip the ![][icon_leather_armor] Leather Armor.
+Put all stat points into STRG, then equip the ![][icon_short_sword] Short Sword and ![][icon_leather_armor] Leather Armor.
 
 ### Boss: White Duneyrr
 
 - Light the torch in the center with spear and ![][icon_flame] Flame. With precise positioning you can hit all four candles with one attack.
-- Use the spear to attack Duneyrr (Use no element to save energy, or ![][icon_flame] Flame to deal higher damage).
-- Kill the adds during downtime to reduce lag.
+- Use the ![][icon_short_sword] Short Sword and ![][icon_sol] Sol to attack Duneyrr twice per cycle.
+- After she flinches, switch back to spear and ![][icon_flame] Flame to hit the torch in the center again.  
+- Repeat until the fight is over, if executed correctly your energy will last until the end of the fight and Duneyrr will never be able to act.
 - You should reach **Lvl 7** after this fight.
 
-Proceed through the ↗️ exit, then open the chest for a ![][icon_red_card] card.  
+Proceed through the ↗️ exit to trigger a cutscene.  
+Ignore the chest and exit the room.  
 After picking up the coffin, unequip your armor and use a ![][icon_power_nut] Power Nut.
 
 Proceed through the top ↖️ exit in the main room.  
 Activate the 3 weight switches by using the coffin and pushing the block.  
-Proceed through the middle ↖️ exit and open the blue chest (![][icon_circle_key] key), the 3 green chests (![][icon_dull_knife] ![][icon_staff] ![][icon_pounder] bad weapons) and the chest to the left (![][icon_power_nut] Power Nut).
+Proceed through the middle ↖️ exit and open the blue chest (![][icon_circle_key] key) and the chest to the left (![][icon_power_nut] Power Nut).
 
 Drag the coffin back to town and into the piledriver screen.
 
@@ -183,25 +203,14 @@ Drag the coffin back to town and into the piledriver screen.
 Enable max sunlight for purifications, you cannot start a purification sequence without sunlight enabled.
 
 - Activate three generators and leave the fourth inactive until after you've started the purification to skip a long dialog.
-- Stand southeast of the coffin and aim to knock her back in as soon as she escapes.
+- Stand east-southeast of the coffin and aim to knock her back in as soon as she escapes.
 - Her first attack begins directly after this, do not stand in it as you will die quickly.
 
 After the purification, choose the first dialog.
 
 ## San Miguel (2)
 
-Talk to Smith near the forging house, then enter it.
-
-Talk to the top hint panel, then forge a ![][icon_short_sword] Short Sword (![][icon_staff] + ![][icon_pounder]).
-
-### Forge
-
-- Use 3-4 sunlight to get the slowest viable bar speed, aim for GREAT hits.
-- Do not exceed 25 total hits; this worsens the quality of your final weapon.
-
-If you get a ![][icon_gladius] Gladius instead (80~% chance), forge again with the Gladius and the ![][icon_dull_knife] in your inventory.
-
-After forging, proceed through the ↘️ exit and enter the Remains.
+Talk to Smith near the forging house, then proceed through the ↘️ exit and enter the Remains.
 
 ## Remains
 
@@ -211,8 +220,7 @@ In the main room with Clay Golems, proceed through the ↖️ exit, then take th
 
 - If no armor is equipped, **be careful as you will die in 2 hits.**
 - Try to group them up and use ![][icon_sol] Sol.
-
-Equip the ![][icon_short_sword] Short Sword.  
+ 
 Unequip armor if you had it equipped for the trap.  
 Put all stat points into STRG.
 
@@ -247,7 +255,7 @@ Open the blue chest for a ![][icon_triangle_key] key, then proceed through the �
 During the dialog, choose the second choice, then proceed up the stairs in the next room.
 
 Kill the Vampire Bat and proceed.  
-Refill energy to at least 70% before leaving the room.
+Refill energy to at least 50% before leaving the room.
 
 ### Puzzle
 
@@ -262,7 +270,9 @@ In the newly-unlocked room, destroy the stone block with ![][icon_cloud] Cloud t
 Backtrack to the previous room and push the block on the left, proceed through the ↖️ exit.  
 Break the stone block on the way with ![][icon_cloud] Cloud, then select ![][icon_flame] Flame.
 
-Open the door, kill the Yellow Slime, then proceed through the ↘️ exit and push the block.  
+Open the door and kill the Yellow Slime.  
+Refill to at least 60% energy (allows you to wait and see if the Yellow Slimes drop a ![][icon_power_nut] Power Nut).  
+Proceed through the ↘️ exit and push the block.  
 Backtrack outside and take the stairs, then proceed through the ↘️ exit.
 
 In the room with skulls, make sure that you have no sunlight (deactivates traps).  
@@ -345,12 +355,14 @@ Push the first block ↖️↗️↖️ onto the other switch, then use ![][icon
 
 Proceed to the puzzle room on the top-left:  
 Refill energy on the Solar Station.  
-Use ![][icon_flame] Flame on the block, then spear and ![][icon_cloud] Cloud to push it ↖️↙️.
+Use ![][icon_flame] Flame on the block, then spear and ![][icon_cloud] Cloud to push it ↖️.  
+Use your ![][icon_speed_nut] Speed Nut.  
+Use spear and ![][icon_cloud] Cloud to push the block ↙️.  
 
 Open this hidden chest for a ![][icon_warp_leaf] Warp Leaf:  
 ![](./assets/images/remains_leaf_chest_2.webp)
 
-Use your ![][icon_speed_nut] Speed Nut.  
+  
 Refill energy to 100% on the Solar Station before leaving the room.
 
 Proceed to the puzzle room on the bottom-left:  
@@ -372,7 +384,13 @@ When you’re close enough, run ↗️ onto the switch.
 - Only hit the Vampire when the black hole is active.
 - Face in the same direction as the Vampire to push him into the black hole faster.
 - When the Vampire is stuck in the black hole, use ![][icon_sol] Sol.
-  - He will break out after 5 hits, deal an extra 6th hit for reduced damage to avoid a third cycle later in the fight.
+  - Follow the specific damage route shown in the below video, or you will get a third cycle:
+  <iframe
+  style="aspect-ratio: 16/9"
+  src="https://www.youtube.com/embed/wKOekb6LSps"
+  title="Boktai 2: Ringo 2-cycle w/ +0 Short Sword"
+  allowfullscreen
+></iframe>
 - You should reach **Lvl 12** after this fight.
 
 Once you gain control of Sabata, use ![][icon_power_nut] Power Nuts to drag the coffin back to San Miguel.
@@ -474,7 +492,8 @@ Get the ![][icon_circle_key] key and open this hidden chest:
 ![](./assets/images/dark_room_chest.webp)
 
 When all of the Gusts are in the skylight, enable 9 sunlight to deal 270 damage to them, then immediately disable sunlight.  
-Finish them off to reach **Lvl 17** before exiting through the window.
+Finish them off to reach **Lvl 17** before exiting through the window.  
+If something went wrong with your sunlight setup and the Gusts instantly died, you can farm on the Green Slime through the ↗️ exit to make up the missing EXP.
 
 Proceed through the first exit, then go downstairs and through the ↘️ door to push another block.  
 Backtrack and take the elevator, proceed through the ↙️ exit, then go ↘️ and ↗️ to unlock the next door.
@@ -564,7 +583,7 @@ Proceed through the southern ↖️ exit to go to the piledriver screen.
 
 Leave the piledriver screen through the same exit, save the game and soft reset (A+B+Start+Select).
 
-Set the system time to 2004/08/31 22:00.  
+Set the system time to 2004/09/30 22:00.  
 The coffin is now in the piledriver screen.
 
 ### Durathror Purification
@@ -732,7 +751,7 @@ After the boss fight, use a ![][icon_warp_leaf] Warp Leaf to leave.
 ## San Miguel (5)
 
 Go into the clockhouse and talk to the NPC.  
-Keep talking, then change the system time to 2004/09/30 22:xx.
+Keep talking, then change the system time to 2004/10/29 22:xx.
 
 Proceed to the piledriver screen.
 
@@ -888,7 +907,7 @@ Use a ![][icon_warp_leaf] Warp Leaf to leave.
 Backtrack ↙️ to the piledriver screen, then leave through the same exit.
 
 Save the game and soft-reset.  
-Change the system time to 2004/10/29 23:58.
+Change the system time to 2004/11/28 22:xx.
 
 ### Dainn Purification
 
