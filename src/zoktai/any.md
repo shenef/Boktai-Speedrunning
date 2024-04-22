@@ -7,27 +7,27 @@ Directions for paths and exits will use ↖️, ↗️, ↙️ and ↘️.
 ## Before starting
 
 If playing on original hardware with an existing save file, skip ahead to "Initial Game Settings".  
-If playing on BizHawk emulator, follow the remaining instructions in this section before starting a run.  
+If playing on BizHawk emulator, follow the remaining instructions in this section before starting a run.
 
-Set Skip BIOS to FALSE and RTC to FALSE in the GBA Settings (Requires v2.6.3+):  
-![](./assets/images/emu_settings.webp)  
+Set Skip BIOS to FALSE and RTC to FALSE in the GBA Settings (Requires v2.6.3+):
+<img class="center" src="./assets/images/emu_settings.webp">
 
 Start a new game and create a save file after killing the tutorial Zombie with the Sol de Vice.  
-Create a save file (This is required to access the Link menu) and soft-reset (A+B+Start+Select).  
+Create a save file (This is required to access the Link menu) and soft-reset (A+B+Start+Select).
 
 ## Initial Game Settings
 
 Ensure that no UV is reaching the solar sensor before confirming calibration settings (Not relevant for emulator play):
-![](./assets/images/calibration.png)
+<img class="center" src="./assets/images/calibration.webp">
 
 Set the system time to August 1st 2004 at 11:55PM (2004/08/01 23:55):  
-![](./assets/images/system_time.png)
+<img class="center" src="./assets/images/system_time.webp">
 
 Use the default region selection.
 
 ## Setting up the Dark Boy password
 
-![](./assets/images/dark_boy_pw.webp)  
+<img class="center" src="./assets/images/dark_boy_pw.webp">
 Use the characters to the left of the numbers!
 
 The Dark Boy title grants +2 STRG+AGIL and adds 1 ![][icon_power_nut] Power Nut+![][icon_bearnut] Bearnut to the inventory.  
@@ -111,10 +111,11 @@ Backtrack to the trap room and kill a Ghoul, then proceed through the top ↘️
 The ![][icon_red_orb] Red Orb will be in a random skylight.  
 Check the spot directly next to the stairs, then take the stairs whether or not you found it.
 
-### Trap: Ghouls + Zombie (Short Sword RNG Manip)
+### Trap: Ghouls + Zombie & Short Sword RNG Manip
 
 - Follow the RNG manip method in the below video to get a ![][icon_short_sword] Short Sword:
 - (Set the system time during the soft-reset to 2004/08/31 22:00)
+
 <iframe
   style="aspect-ratio: 16/9"
   src="https://www.youtube.com/embed/ww9upKYnA70"
@@ -184,7 +185,7 @@ Put all stat points into STRG, then equip the ![][icon_short_sword] Short Sword 
 
 - Light the torch in the center with spear and ![][icon_flame] Flame. With precise positioning you can hit all four candles with one attack.
 - Use the ![][icon_short_sword] Short Sword and ![][icon_sol] Sol to attack Duneyrr twice per cycle.
-- After she flinches, switch back to spear and ![][icon_flame] Flame to hit the torch in the center again.  
+- After she flinches, switch back to spear and ![][icon_flame] Flame to hit the torch in the center again.
 - Repeat until the fight is over, if executed correctly your energy will last until the end of the fight and Duneyrr will never be able to act.
 - You should reach **Lvl 7** after this fight.
 
@@ -220,7 +221,7 @@ In the main room with Clay Golems, proceed through the ↖️ exit, then take th
 
 - If no armor is equipped, **be careful as you will die in 2 hits.**
 - Try to group them up and use ![][icon_sol] Sol.
- 
+
 Unequip armor if you had it equipped for the trap.  
 Put all stat points into STRG.
 
@@ -357,12 +358,11 @@ Proceed to the puzzle room on the top-left:
 Refill energy on the Solar Station.  
 Use ![][icon_flame] Flame on the block, then spear and ![][icon_cloud] Cloud to push it ↖️.  
 Use your ![][icon_speed_nut] Speed Nut.  
-Use spear and ![][icon_cloud] Cloud to push the block ↙️.  
+Use spear and ![][icon_cloud] Cloud to push the block ↙️.
 
 Open this hidden chest for a ![][icon_warp_leaf] Warp Leaf:  
 ![](./assets/images/remains_leaf_chest_2.webp)
 
-  
 Refill energy to 100% on the Solar Station before leaving the room.
 
 Proceed to the puzzle room on the bottom-left:  
@@ -385,12 +385,12 @@ When you’re close enough, run ↗️ onto the switch.
 - Face in the same direction as the Vampire to push him into the black hole faster.
 - When the Vampire is stuck in the black hole, use ![][icon_sol] Sol.
   - Follow the specific damage route shown in the below video, or you will get a third cycle:
-  <iframe
-  style="aspect-ratio: 16/9"
-  src="https://www.youtube.com/embed/wKOekb6LSps"
-  title="Boktai 2: Ringo 2-cycle w/ +0 Short Sword"
-  allowfullscreen
-></iframe>
+    <iframe
+      style="aspect-ratio: 16/9"
+      src="https://www.youtube.com/embed/wKOekb6LSps"
+      title="Boktai 2: Ringo 2-cycle w/ +0 Short Sword"
+      allowfullscreen
+    ></iframe>
 - You should reach **Lvl 12** after this fight.
 
 Once you gain control of Sabata, use ![][icon_power_nut] Power Nuts to drag the coffin back to San Miguel.
@@ -824,7 +824,7 @@ Use ![][icon_bat] Bat to avoid falling off the platform and activate the switch.
 Backtrack inside and proceed upstairs.
 
 Before using the magic circle, **check the hint panel for the number and the kanji:**  
-![](./assets/images/kanji_1.webp)
+<img class="center" src="./assets/images/kanji_1.webp">
 
 Use the magic circle to switch to Sabata.
 
@@ -838,7 +838,7 @@ Use a ![][icon_power_nut] Power Nut:
 ![](./assets/images/sabata_blocks_3.webp)
 
 After this, **check the hint panel** and switch back to Django:  
-![](./assets/images/kanji_2.webp)
+<img class="center" src="./assets/images/kanji_2.webp">
 
 Proceed through the gate and push the iron block based on the hint panels and the statue.  
 Note that Django and Sabata's hint panels refer to _each other's_ blocks, inverting the solution as read.  
