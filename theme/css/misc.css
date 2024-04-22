@@ -21,4 +21,5 @@ iframe {
 
 img {
   border-radius: 2px;
+  image-rendering: pixelated;
 }
