@@ -43,3 +43,20 @@
 .cloud {
   color: var(--color-cloud);
 }
+
+/**
+ * Header highlights
+ *
+ * Used to highlight the type of section, such as "Trap:", "Boss:"
+ */
+.puzzle {
+  color: var(--color-frost);
+}
+
+.trap {
+  color: var(--color-cloud);
+}
+
+.boss {
+  color: var(--color-dark);
+}

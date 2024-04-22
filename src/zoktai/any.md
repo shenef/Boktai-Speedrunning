@@ -42,7 +42,7 @@ If playing on English, the Dark Boy password is:
 After the intro, open the menu and change the text speed to Fast:  
 ![](./assets/images/text_speed.webp)
 
-### Trap: Skeleton
+### <span class="trap">Trap:</span> Skeleton
 
 - Proceed through the ↘️ exit to obtain the ![][icon_gladius] Gladius.
 - Backtrack and hit the Skeleton from behind to reach **Lvl 2**.
@@ -50,7 +50,7 @@ After the intro, open the menu and change the text speed to Fast:
 Proceed through the ↖️ exit, then open the next green chest for a ![][icon_leather_armor] Leather Armor.  
 Unequip your current armor (less defense, faster walking speed).
 
-### Trap: Zombie
+### <span class="trap">Trap:</span> Zombie
 
 - Hit the Zombie 3 times to trigger the cutscene, then hit it from the front twice.
 
@@ -68,7 +68,7 @@ Kill two Ghouls to reach **Lvl 3**, raise AGIL to 17 and put your remaining stat
 Push the blocks to progress and proceed through the ↗️ exit.  
 After the cutscene, proceed through the ↘️ exit.
 
-### Puzzle
+### <span class="puzzle">Puzzle</span>
 
 ![](./assets/images/first_block_puzzle.webp)  
 Open the chest for a ![][icon_club] Club.
@@ -77,7 +77,7 @@ Backtrack, kill the Ghoul in the previous room for EXP.
 Destroy the first wooden block to push the 2 stone blocks, also open the chest for a ![][icon_power_nut] Power Nut.  
 Proceed through the ↘️ exit by destroying the wooden block.
 
-### Puzzle
+### <span class="puzzle">Puzzle</span>
 
 - 1st row: Push the 2nd tombstone
 - 2nd row: Push 1st
@@ -87,13 +87,13 @@ Backtrack and take the stairs, kill all Ghouls as you proceed to reach **Lvl 4**
 In the 5th room, knock on the wall near the center of the room, then hug the right wall to avoid the Zombie.  
 Use ![][icon_flame] Flame to light the torches.
 
-### Puzzle
+### <span class="puzzle">Puzzle</span>
 
 ![](./assets/images/basement_puzzle.webp)  
 Use ![][icon_flame] Flame to light the torches, and hammer on levers to proceed.  
 After the dialogs, put all stat points into STRG.
 
-### Trap: Skeletons
+### <span class="trap">Trap:</span> Skeletons
 
 - Use ![][icon_sol] Sol and hit the Skeletons from behind.
 - Stand on the third Skeleton's position as it dies in case you get a random drop.
@@ -111,7 +111,7 @@ Backtrack to the trap room and kill a Ghoul, then proceed through the top ↘️
 The ![][icon_red_orb] Red Orb will be in a random skylight.  
 Check the spot directly next to the stairs, then take the stairs whether or not you found it.
 
-### Trap: Ghouls + Zombie & Short Sword RNG Manip
+### <span class="trap">Trap:</span> Ghouls + Zombie & Short Sword RNG Manip
 
 - Follow the RNG manip method in the below video to get a ![][icon_short_sword] Short Sword:
 - (Set the system time during the soft-reset to 2004/08/31 22:00)
@@ -147,7 +147,7 @@ Backtrack to the Red Orb room.
 If you did not already find the ![][icon_red_orb] Red Orb, **do not proceed before finding it.**  
 Backtrack to where you obtained the spear, but instead of falling, proceed through the ↖️ exit.
 
-### Puzzle
+### <span class="puzzle">Puzzle</span>
 
 Talk to these bookshelves to open the gate:
 
@@ -156,13 +156,13 @@ Talk to these bookshelves to open the gate:
 ![](./assets/images/library_3.webp)
 ![](./assets/images/library_4.webp)
 
-### Puzzle
+### <span class="puzzle">Puzzle</span>
 
 ![](./assets/images/cathedral_puzzle_1.webp)
 ![](./assets/images/cathedral_puzzle_2.webp)  
 Open the first chests on the left for a ![][icon_power_nut] Power Nut and a ![][icon_triangle_key] key.
 
-### Puzzle
+### <span class="puzzle">Puzzle</span>
 
 Light the torches with spear and ![][icon_flame] Flame, then push the first block to reach the second one.  
 Push the second block onto the weight switch to activate the lamp.  
@@ -181,7 +181,7 @@ Light the torch with ![][icon_flame] Flame and place the ![][icon_blue_orb] Blue
 Backtrack and proceed down the new stairs in the main room, refill energy on the Solar Station.  
 Put all stat points into STRG, then equip the ![][icon_short_sword] Short Sword and ![][icon_leather_armor] Leather Armor.
 
-### Boss: White Duneyrr
+### <span class="boss">Boss:</span> White Duneyrr
 
 - Light the torch in the center with spear and ![][icon_flame] Flame. With precise positioning you can hit all four candles with one attack.
 - Use the ![][icon_short_sword] Short Sword and ![][icon_sol] Sol to attack Duneyrr twice per cycle.
@@ -217,7 +217,7 @@ Talk to Smith near the forging house, then proceed through the ↘️ exit and e
 
 In the main room with Clay Golems, proceed through the ↖️ exit, then take the stairs.
 
-### Trap: Vampire Bats
+### <span class="trap">Trap:</span> Vampire Bats
 
 - If no armor is equipped, **be careful as you will die in 2 hits.**
 - Try to group them up and use ![][icon_sol] Sol.
@@ -241,7 +241,7 @@ Open the top chest for a ![][icon_power_nut] Power Nut.
 
 Use ![][icon_frost] Frost to make the floating block fall, then refill life/energy to 100% on the skylight.
 
-### Traps: Sword, Yellow Slimes, Clay Golems
+### <span class="trap">Traps:</span> Sword, Yellow Slimes, Clay Golems
 
 - Sword: Use ![][icon_sol] Sol to deal more damage.
   - You should reach **Lvl 8** after this fight.
@@ -258,7 +258,7 @@ During the dialog, choose the second choice, then proceed up the stairs in the n
 Kill the Vampire Bat and proceed.  
 Refill energy to at least 50% before leaving the room.
 
-### Puzzle
+### <span class="puzzle">Puzzle</span>
 
 Use a ![][icon_power_nut] Power Nut and push one block towards the start of the room like this:  
 ![](./assets/images/remains_puzzle_1.webp)  
@@ -279,7 +279,7 @@ Backtrack outside and take the stairs, then proceed through the ↘️ exit.
 In the room with skulls, make sure that you have no sunlight (deactivates traps).  
 Open the chest on the left (bottom) for a ![][icon_speed_nut] Speed Nut, then proceed through the ↗️ exit.
 
-### Puzzle
+### <span class="puzzle">Puzzle</span>
 
 Use a ![][icon_power_nut] Power Nut, then push the blocks like this (start with the ![][icon_flame] Flame block):  
 ![](./assets/images/4_block_puzzle_1.webp)
@@ -301,7 +301,7 @@ Push the block, refill energy on the Solar Station and proceed through the ↘�
 
 Open the ↗️ door and proceed.
 
-### Trap: Axe
+### <span class="trap">Trap:</span> Axe
 
 - It’s an axe!!
 - Use ![][icon_sol] Sol to deal more damage.
@@ -340,7 +340,7 @@ Proceed into Remains B.
 Open this hidden chest for a ![][icon_power_nut] Power Nut:  
 ![](./assets/images/remains_power_chest.webp)
 
-### Puzzle
+### <span class="puzzle">Puzzle</span>
 
 Light the torches in this order:  
 ![](./assets/images/remains_lamps.webp)
@@ -377,7 +377,7 @@ When you’re close enough, run ↗️ onto the switch.
 
 - 31 STRG (35 Attack) is enough for the fight, you want to save these stat points for later.
 
-### Boss: Vampire
+### <span class="boss">Boss:</span> Vampire
 
 - Stay away so that Sabata doesn’t get hit.
 - Position yourself so that the swords don’t go in Sabata’s direction.
@@ -501,7 +501,7 @@ Backtrack and take the elevator, proceed through the ↙️ exit, then go ↘️
 Refill energy on the Solar Station and put all stat points into STRG.  
 Select the first option during the dialog.
 
-### Boss: Cheyenne
+### <span class="boss">Boss:</span> Cheyenne
 
 - Use ![][icon_dark] Dark, keep hitting him non-stop.
 - Try to aim in the correct direction so that hits counts as back hits for higher damage.
@@ -553,7 +553,7 @@ In the next room, use ![][icon_bat] Bat to go through the window on the left, th
 Do not push the block, just proceed through the ↗️ exit and continue downstairs.  
 Refill life/energy before entering the boss fight.
 
-### Boss: Red Durathror
+### <span class="boss">Boss:</span> Red Durathror
 
 - 1st phase:
   - Equip the ![][icon_katana] Katana as the Dark Roots are spawning to react to where the bulb appears.
@@ -649,7 +649,7 @@ Proceed through the ↗️ exit, go past the iron block, then proceed through th
 After the rooms with Zombies, proceed through the ↗️ exit.  
 Once outside, proceed through the first entrance.
 
-### Puzzle
+### <span class="puzzle">Puzzle</span>
 
 Equip ![][icon_flame] Flame, ![][icon_frost] Frost, ![][icon_cloud] Cloud and ![][icon_earth] Earth.
 
@@ -716,7 +716,7 @@ Backtrack to the Aqueduct.
 
 Open the door, then proceed.
 
-### Trap: Purple Slimes
+### <span class="trap">Trap:</span> Purple Slimes
 
 - Use Red Django, no element and sword.
 
@@ -724,11 +724,11 @@ Proceed, on the way open these hidden chests for items:
 ![](./assets/images/aqueduct_1.webp)
 ![](./assets/images/aqueduct_2.webp)
 
-### Trap: Octopi
+### <span class="trap">Trap:</span> Octopi
 
 - Use ![][icon_flame] Flame, after the fight refill life/energy on the skylight.
 
-### Trap: Skeleton Fencers
+### <span class="trap">Trap:</span> Skeleton Fencers
 
 - Put all stat points into STRG.
 - Equip ![][icon_leather_armor] Leather Armor.
@@ -737,7 +737,7 @@ Proceed, on the way open these hidden chests for items:
 
 Refill life/energy and put all stat points into STRG before entering the boss.
 
-### Boss: Blue Dvalinn
+### <span class="boss">Boss:</span> Blue Dvalinn
 
 - Use ![][icon_flame] Flame.
 - Refill life/energy on the skylight as needed.
@@ -785,7 +785,7 @@ In the first room with Cockatrices, replace ![][icon_sol] Sol with ![][icon_eart
 In the second room with Cockatrices, proceed through the ↘️ exit, then re-enter the room.  
 Knock on the upper pillar to attract all three Cockatrices, then kill them all with ![][icon_earth] Earth to reach **Lvl 24.**
 
-### Trap: Sword+
+### <span class="trap">Trap:</span> Sword+
 
 - Use Black Django and ![][icon_dark] Dark.
 - You should reach **Lvl 25** after this fight.
@@ -813,7 +813,7 @@ During Sabata's segments, use a charge attack to hit the closest grey lever and 
 
 Push the block and backtrack inside, then activate the lever to free Sabata.
 
-### Puzzle
+### <span class="puzzle">Puzzle</span>
 
 Activate the first switch when the Mummy is near its spot, then activate the other switches in order after the first bomb detonates:  
 ![](./assets/images/mummy_switches.webp)
@@ -830,7 +830,7 @@ Use the magic circle to switch to Sabata.
 
 Go back indoors, then proceed up the elevator on the south side of the room.
 
-### Puzzle
+### <span class="puzzle">Puzzle</span>
 
 Use a ![][icon_power_nut] Power Nut:  
 ![](./assets/images/sabata_blocks_1.webp)
@@ -847,7 +847,7 @@ For instance, 北2 東4 means North 4, East 2, NOT North 2, East 4.
 <!-- Maybe this could be replaced with an image or could use icons for the letters -->
 **北 = North, 南 = South, 東 = East, 酉 = West.**
 
-### Trap: Axe+
+### <span class="trap">Trap:</span> Axe+
 
 - Put all stat points into STRG, use Black Django and ![][icon_dark] Dark.
 - You should reach **Lvl 26** after this fight.
@@ -882,7 +882,7 @@ Backtrack downstairs and proceed through the ↖️ exit to reach Django.
 
 During the dialog, choose the second dialog option to avoid a Game Over.
 
-### Boss: Black Dainn
+### <span class="boss">Boss:</span> Black Dainn
 
 - 1st phase:
   - Stay away so that Sabata doesn’t get hit.
@@ -942,7 +942,7 @@ Skip the next puzzle by using ![][icon_dynamite] Dynamite near the torch.
 In the next room, knock on the wall near the first Skeleton.  
 After the stairs, run in the ↘️ direction to avoid being seen.
 
-### Puzzle
+### <span class="puzzle">Puzzle</span>
 
 ![](./assets/images/undead_zone_1.webp)
 ![](./assets/images/undead_zone_2.webp)
@@ -960,7 +960,7 @@ Push the block and get the key, then backtrack to the first elevator (↘️).
 
 Refill energy on the Solar Station and open the ↗️ door.
 
-### Trap: Sand Worm
+### <span class="trap">Trap:</span> Sand Worm
 
 - Use ![][icon_cloud] Cloud except when it's doing the tail attack.
 - Attack the head to stun it.
@@ -987,7 +987,7 @@ Put all stat points into STRG.
 Break the wooden blocks and proceed through the ↗️ exit.  
 After the rooms with Skeletons, proceed up the stairs and refill energy on the Solar Station.
 
-### Trap: Lich
+### <span class="trap">Trap:</span> Lich
 
 - Use ![][icon_earth] Earth and hit the Lich from behind.
 - You can destroy the lightning balls.
@@ -1014,7 +1014,7 @@ Proceed through the ↙️ gate, then use the plant to reach the next ↙️ exi
 
 Refill energy on the Solar Station and put all stat points into STRG before taking the platform.
 
-### Trap: Serpent
+### <span class="trap">Trap:</span> Serpent
 
 - Use ![][icon_flame] Flame and spear.
 - **Use ![][icon_dynamite] Dynamite whilst the Serpent is underwater to force it to jump at you.**
@@ -1030,7 +1030,7 @@ Open the blue chest for a ![][icon_circle_key] key, then take the new platform a
 
 Refill energy on the Solar Station, then in the next room proceed through the ↘️ exit.
 
-### Puzzle
+### <span class="puzzle">Puzzle</span>
 
 Replace ![][icon_dynamite] Dynamite with ![][icon_cloud] Cloud.  
 Push the stone block and use ![][icon_flame] Flame on the floating block.  
@@ -1059,7 +1059,7 @@ Open this hidden chest on the way for a ![][icon_solar_nut] Solar Nut:
 Proceed through the ↘️↘️ exits, then take the stairs.  
 Proceed through the ↙️↘️↖️↖️ exits, then refill energy on the Solar Station.
 
-### Trap: Lich+
+### <span class="trap">Trap:</span> Lich+
 
 - Use ![][icon_frost] Frost and hit the Lich+ from behind.
 - Once it begins its rotating attack, damage boost on its back and immediately let go of directional input to land in the correct spot to avoid getting hit.
@@ -1075,7 +1075,7 @@ Raise STRG to 99, then you can put stat points into VIT if you want to be safer,
 You’ll need to enable a solar walkway at the end, so have <=8 sunlight.  
 Take the single exits, this map is linear.
 
-### Final Boss: Jormungandr
+### <span class="boss">Final Boss:</span> Jormungandr
 
 - You must have at least 1 sunlight during the entire fight.
 - Use Black Django and ![][icon_dark] Dark.
