@@ -1128,17 +1128,14 @@ Time ends when Jormungandr's life bar reaches zero during this final charge.
 [icon_zero_shift]: ./assets/images/icons/icon_zero_shift.webp
 
 <!-- Equipment -->
-[icon_dull_knife]: ./assets/images/icons/icon_dull_knife.webp
 [icon_gladius]: ./assets/images/icons/icon_gladius.webp
 [icon_short_sword]: ./assets/images/icons/icon_short_sword.webp
 [icon_broad_sword]: ./assets/images/icons/icon_broad_sword.webp
 [icon_long_sword]: ./assets/images/icons/icon_long_sword.webp
 [icon_katana]: ./assets/images/icons/icon_katana.webp
 [icon_magic_sword]: ./assets/images/icons/icon_magic_sword.webp
-[icon_staff]: ./assets/images/icons/icon_staff.webp
 [icon_spear]: ./assets/images/icons/icon_spear.webp
 [icon_bardiche]: ./assets/images/icons/icon_bardiche.webp
-[icon_pounder]: ./assets/images/icons/icon_pounder.webp
 [icon_club]: ./assets/images/icons/icon_club.webp
 [icon_leather_armor]: ./assets/images/icons/icon_leather_armor.webp
 [icon_garb_of_darkness]: ./assets/images/icons/icon_garb_of_darkness.webp
