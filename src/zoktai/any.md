@@ -68,7 +68,7 @@ Kill two Ghouls to reach **Lvl 3**, raise AGIL to 17 and put your remaining stat
 Push the blocks to progress and proceed through the ↗️ exit.  
 After the cutscene, proceed through the ↘️ exit.
 
-### <span class="puzzle">Puzzle</span>
+### <span class="puzzle">First Block Puzzle</span>
 
 ![](./assets/images/first_block_puzzle.webp)  
 Open the chest for a ![][icon_club] Club.
@@ -77,7 +77,7 @@ Backtrack, kill the Ghoul in the previous room for EXP.
 Destroy the first wooden block to push the 2 stone blocks, also open the chest for a ![][icon_power_nut] Power Nut.  
 Proceed through the ↘️ exit by destroying the wooden block.
 
-### <span class="puzzle">Puzzle</span>
+### <span class="puzzle">Graveyard Puzzle</span>
 
 - 1st row: Push the 2nd tombstone
 - 2nd row: Push 1st
@@ -87,7 +87,7 @@ Backtrack and take the stairs, kill all Ghouls as you proceed to reach **Lvl 4**
 In the 5th room, knock on the wall near the center of the room, then hug the right wall to avoid the Zombie.  
 Use ![][icon_flame] Flame to light the torches.
 
-### <span class="puzzle">Puzzle</span>
+### <span class="puzzle">Lamp Puzzle</span>
 
 ![](./assets/images/basement_puzzle.webp)  
 Use ![][icon_flame] Flame to light the torches, and hammer on levers to proceed.  
@@ -147,7 +147,7 @@ Backtrack to the Red Orb room.
 If you did not already find the ![][icon_red_orb] Red Orb, **do not proceed before finding it.**  
 Backtrack to where you obtained the spear, but instead of falling, proceed through the ↖️ exit.
 
-### <span class="puzzle">Puzzle</span>
+### <span class="puzzle">Library Puzzle</span>
 
 Talk to these bookshelves to open the gate:
 
@@ -156,13 +156,13 @@ Talk to these bookshelves to open the gate:
 ![](./assets/images/library_3.webp)
 ![](./assets/images/library_4.webp)
 
-### <span class="puzzle">Puzzle</span>
+### <span class="puzzle">Lamp Puzzle 2</span>
 
 ![](./assets/images/cathedral_puzzle_1.webp)
 ![](./assets/images/cathedral_puzzle_2.webp)  
 Open the first chests on the left for a ![][icon_power_nut] Power Nut and a ![][icon_triangle_key] key.
 
-### <span class="puzzle">Puzzle</span>
+### <span class="puzzle">Green Orb Puzzle</span>
 
 Light the torches with spear and ![][icon_flame] Flame, then push the first block to reach the second one.  
 Push the second block onto the weight switch to activate the lamp.  
@@ -258,7 +258,7 @@ During the dialog, choose the second choice, then proceed up the stairs in the n
 Kill the Vampire Bat and proceed.  
 Refill energy to at least 50% before leaving the room.
 
-### <span class="puzzle">Puzzle</span>
+### <span class="puzzle">2-Colour Puzzle</span>
 
 Use a ![][icon_power_nut] Power Nut and push one block towards the start of the room like this:  
 ![](./assets/images/remains_puzzle_1.webp)  
@@ -279,7 +279,7 @@ Backtrack outside and take the stairs, then proceed through the ↘️ exit.
 In the room with skulls, make sure that you have no sunlight (deactivates traps).  
 Open the chest on the left (bottom) for a ![][icon_speed_nut] Speed Nut, then proceed through the ↗️ exit.
 
-### <span class="puzzle">Puzzle</span>
+### <span class="puzzle">4-Colour Puzzle</span>
 
 Use a ![][icon_power_nut] Power Nut, then push the blocks like this (start with the ![][icon_flame] Flame block):  
 ![](./assets/images/4_block_puzzle_1.webp)
@@ -317,7 +317,9 @@ Kill another Clay Golem with ![][icon_cloud] Cloud and proceed in the same direc
 Open this hidden chest for a ![][icon_warp_leaf] Warp Leaf, then open the door:  
 ![](./assets/images/remains_leaf_chest_1.webp)
 
-Skip getting water from the fountain, then proceed.
+Skip getting water from the fountain, then proceed.  
+
+### <span class="puzzle">Desert Puzzle</span>
 
 You must now find three ![][icon_stone_tablet] Stone Tablets that are in fixed spots on eight screens:  
 ![](./assets/images/desert_1.webp)
@@ -340,7 +342,7 @@ Proceed into Remains B.
 Open this hidden chest for a ![][icon_power_nut] Power Nut:  
 ![](./assets/images/remains_power_chest.webp)
 
-### <span class="puzzle">Puzzle</span>
+### <span class="puzzle">Torch Puzzle</span>
 
 Light the torches in this order:  
 ![](./assets/images/remains_lamps.webp)
@@ -649,7 +651,7 @@ Proceed through the ↗️ exit, go past the iron block, then proceed through th
 After the rooms with Zombies, proceed through the ↗️ exit.  
 Once outside, proceed through the first entrance.
 
-### <span class="puzzle">Puzzle</span>
+### <span class="puzzle">Element Puzzle</span>
 
 Equip ![][icon_flame] Flame, ![][icon_frost] Frost, ![][icon_cloud] Cloud and ![][icon_earth] Earth.
 
@@ -813,7 +815,7 @@ During Sabata's segments, use a charge attack to hit the closest grey lever and 
 
 Push the block and backtrack inside, then activate the lever to free Sabata.
 
-### <span class="puzzle">Puzzle</span>
+### <span class="puzzle">Bomb Puzzle</span>
 
 Activate the first switch when the Mummy is near its spot, then activate the other switches in order after the first bomb detonates:  
 ![](./assets/images/mummy_switches.webp)
@@ -830,7 +832,7 @@ Use the magic circle to switch to Sabata.
 
 Go back indoors, then proceed up the elevator on the south side of the room.
 
-### <span class="puzzle">Puzzle</span>
+### <span class="puzzle">Sabata Block Puzzle</span>
 
 Use a ![][icon_power_nut] Power Nut:  
 ![](./assets/images/sabata_blocks_1.webp)
@@ -942,7 +944,7 @@ Skip the next puzzle by using ![][icon_dynamite] Dynamite near the torch.
 In the next room, knock on the wall near the first Skeleton.  
 After the stairs, run in the ↘️ direction to avoid being seen.
 
-### <span class="puzzle">Puzzle</span>
+### <span class="puzzle">B1 Block Puzzle</span>
 
 ![](./assets/images/undead_zone_1.webp)
 ![](./assets/images/undead_zone_2.webp)
@@ -1030,7 +1032,7 @@ Open the blue chest for a ![][icon_circle_key] key, then take the new platform a
 
 Refill energy on the Solar Station, then in the next room proceed through the ↘️ exit.
 
-### <span class="puzzle">Puzzle</span>
+### <span class="puzzle">B4 Block Puzzle</span>
 
 Replace ![][icon_dynamite] Dynamite with ![][icon_cloud] Cloud.  
 Push the stone block and use ![][icon_flame] Flame on the floating block.  
