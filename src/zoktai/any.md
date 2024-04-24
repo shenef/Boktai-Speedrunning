@@ -114,12 +114,11 @@ Check the spot directly next to the stairs, then take the stairs whether or not 
 ### <span class="trap">Trap:</span> Ghouls + Zombie & Short Sword RNG Manip
 
 - Follow the RNG manip method in the below video to get a ![][icon_short_sword] Short Sword:
-- (Set the system time during the soft-reset to 2004/08/31 22:00)
 
 <iframe
   style="aspect-ratio: 16/9"
-  src="https://www.youtube.com/embed/ww9upKYnA70"
-  title="Boktai 2: Short Sword RNG Manip by Raphi"
+  src="https://www.youtube.com/embed/YmsQ1HICzCc"
+  title="Boktai 2: Short Sword RNG Manip w/o Link Menu"
   allowfullscreen
 ></iframe>
 
@@ -165,6 +164,7 @@ Open the first chests on the left for a ![][icon_power_nut] Power Nut and a ![][
 ### <span class="puzzle">Green Orb Puzzle</span>
 
 Light the torches with spear and ![][icon_flame] Flame, then push the first block to reach the second one.  
+Open the chest whilst pushing the first block for a ![][icon_solar_nut] Solar Nut.  
 Push the second block onto the weight switch to activate the lamp.  
 Interact with the lamp to obtain the ![][icon_green_orb] Green Orb.
 
@@ -179,13 +179,13 @@ Proceed through the ↖️ exit (Refill life on skylights if low).
 
 Light the torch with ![][icon_flame] Flame and place the ![][icon_blue_orb] Blue Orb.  
 Backtrack and proceed down the new stairs in the main room, refill energy on the Solar Station.  
-Put all stat points into STRG, then equip the ![][icon_short_sword] Short Sword and ![][icon_leather_armor] Leather Armor.
+Equip the ![][icon_short_sword] Short Sword and ![][icon_leather_armor] Leather Armor, then put all stat points into STRG.  
 
 ### <span class="boss">Boss:</span> White Duneyrr
 
 - Light the torch in the center with spear and ![][icon_flame] Flame. With precise positioning you can hit all four candles with one attack.
-- Use the ![][icon_short_sword] Short Sword and ![][icon_sol] Sol to attack Duneyrr twice per cycle.
-- After she flinches, switch back to spear and ![][icon_flame] Flame to hit the torch in the center again.
+- Line up directly behind Duneyrr and use the ![][icon_short_sword] Short Sword and ![][icon_sol] Sol to attack Duneyrr twice per cycle.
+- After she flinches, move onto her position, then switch back to spear and ![][icon_flame] Flame to hit the torch in the center again.
 - Repeat until the fight is over, if executed correctly your energy will last until the end of the fight and Duneyrr will never be able to act.
 - You should reach **Lvl 7** after this fight.
 
@@ -226,6 +226,7 @@ Unequip armor if you had it equipped for the trap.
 Put all stat points into STRG.
 
 Use no element to kill the Yellow Slimes, they have high elemental resistances.  
+Refill health to at least 80%.  
 Go ↖️ to push a block, then **TURN OFF SUNLIGHT** before proceeding through the ↗️ exit, or Solar Wind will kill you.
 
 Light the torch with ![][icon_flame] Flame and proceed.
@@ -247,6 +248,7 @@ Use ![][icon_frost] Frost to make the floating block fall, then refill life/ener
   - You should reach **Lvl 8** after this fight.
 - Yellow Slimes: Attack without using any element.
 - Clay Golems: Knock on the walls so that they stun each other, then finish them off.
+  - With a +0 Short Sword, each set of Clay Golems will need 3 hits with ![][icon_sol] Sol plus 1 additional unenchanted hit to kill quickly.
   - If any Clay Golems kill each other, you must kill extras later to make up the lost EXP.
   - You should reach **Lvl 9** after this fight.
 
@@ -260,6 +262,7 @@ Refill energy to at least 50% before leaving the room.
 
 ### <span class="puzzle">2-Colour Puzzle</span>
 
+Put all stat points into STRG.  
 Use a ![][icon_power_nut] Power Nut and push one block towards the start of the room like this:  
 ![](./assets/images/remains_puzzle_1.webp)  
 After that, push the other block on its spot, then do the same with the first block:  
@@ -290,7 +293,8 @@ Use a ![][icon_power_nut] Power Nut, then push the blocks like this (start with 
 
 Kill the two Mummies with ![][icon_sol] Sol and proceed up the stairs.
 
-Proceed to the bottom of the next room, then kill the Clay Golem with ![][icon_cloud] Cloud before exiting.  
+Proceed to the bottom of the next room, then kill the Clay Golem with ![][icon_cloud] Cloud.  
+Before exiting, wait for the Clay Golem's death animation before switching to  ![][icon_flame] Flame (allows you to wait and see if the Clay Golem drops a weapon).  
 Proceed through the immediate ↙️ exit.
 
 In the room with the flame jet, use ![][icon_flame] Flame on the Mummy to activate the torch, then proceed up the stairs.  
@@ -308,6 +312,7 @@ Open the ↗️ door and proceed.
 - You should reach **Lvl 10** after this fight.
 
 Open all the chests for a ![][icon_circle_key] key, the ![][icon_dynamite] Dynamite magic, and a ![][icon_green_card] card.  
+Use a ![][icon_solar_nut] Solar Nut.  
 Backtrack to the first room by proceeding through the ↙️ exits.
 
 Kill two Clay Golems with ![][icon_cloud] Cloud and proceed through the ↘️ exit.
@@ -377,7 +382,7 @@ When you’re close enough, run ↗️ onto the switch.
 
 **Do not assign stat points before the boss fight.**
 
-- 31 STRG (35 Attack) is enough for the fight, you want to save these stat points for later.
+- 31 STRG (33 Attack) is enough for the fight, you want to save these stat points for later.
 
 ### <span class="boss">Boss:</span> Vampire
 
@@ -417,7 +422,7 @@ Unequip your current elements.
 Equip ![][icon_dark] Dark, ![][icon_mouse] Mouse and ![][icon_bat] Bat.  
 Raise AGIL to 25.
 
-Refill life/energy, then buy the ![][icon_elefan] Elefan coffin (160 solls).  
+Buy the ![][icon_elefan] Elefan coffin (160 solls).  
 Proceed to the piledriver screen.
 
 Kill the two Dark Roots on the right with ![][icon_dark] Dark, then leave **through the way you came in.**  
@@ -585,7 +590,7 @@ Proceed through the southern ↖️ exit to go to the piledriver screen.
 
 Leave the piledriver screen through the same exit, save the game and soft reset (A+B+Start+Select).
 
-Set the system time to 2004/09/30 22:00.  
+Set the system time to 2004/08/31 22:00.  
 The coffin is now in the piledriver screen.
 
 ### Durathror Purification
@@ -593,7 +598,7 @@ The coffin is now in the piledriver screen.
 Activate one generator and start the purification.  
 Enable max sunlight during the cutscene.
 
-After regaining your powers, unequip ![][icon_mouse] Mouse and ![][icon_bat] Bat, then equip ![][icon_sol] Sol and finish the purification.
+After regaining your powers, replace ![][icon_mouse] Mouse with ![][icon_sol] Sol and unequip ![][icon_bat] Bat, then finish the purification.
 
 Choose the second dialog option after the purification.
 
@@ -753,7 +758,7 @@ After the boss fight, use a ![][icon_warp_leaf] Warp Leaf to leave.
 ## San Miguel (5)
 
 Go into the clockhouse and talk to the NPC.  
-Keep talking, then change the system time to 2004/10/29 22:xx.
+Keep talking, then change the system time to 2004/09/30 22:xx.
 
 Proceed to the piledriver screen.
 
@@ -798,6 +803,7 @@ Proceed through the ↖️ exit.
 If you have ![][icon_blue_card] The Tower **(塔)** in your inventory, use ![][icon_mouse] Mouse to go through the ↗️ mousehole and pick up a ![][icon_bearnut] Bearnut.  
 Once outside, take the stairs.
 
+Put all stat points into STRG.  
 Replace ![][icon_earth] Earth with ![][icon_sol] Sol and use it to kill the first Leys once you get indoors.  
 Avoid the Stone Golems and proceed through the ↘️ exit, then activate the lever and switch to Sabata.
 
@@ -851,7 +857,7 @@ For instance, 北2 東4 means North 4, East 2, NOT North 2, East 4.
 
 ### <span class="trap">Trap:</span> Axe+
 
-- Put all stat points into STRG, use Black Django and ![][icon_dark] Dark.
+- Use Black Django and ![][icon_dark] Dark.
 - You should reach **Lvl 26** after this fight.
 
 Open the chest afterwards for a random card.  
@@ -863,9 +869,10 @@ If you do, open these chests for items (![][icon_jerky] ![][icon_solar_nut] ![][
 ![](./assets/images/spiral_chests_1.webp)
 ![](./assets/images/spiral_chests_2.webp)
 
+Equip ![][icon_dash] Dash, ![][icon_sol] Sol, ![][icon_frost] Frost and ![][icon_cloud] Cloud.  
 Use ![][icon_sol] Sol to kill the Leys, activate the lever, then kill the Leys again.  
 Push the block and farm Leys for EXP if you did not already reach **Lvl 27.**  
-Proceed downstairs, put all stat points into STRG, equip ![][icon_dash] Dash, ![][icon_sol] Sol, ![][icon_frost] Frost and ![][icon_cloud] Cloud, then use a ![][icon_power_nut] Power Nut to do the puzzle.
+Proceed downstairs, put all stat points into STRG, then use a ![][icon_power_nut] Power Nut to do the puzzle.
 
 Push the left block ↘️, then the other block ↙️↘️ so that they’re next to each other:  
 ![](./assets/images/spiral_cloud_puzzle_1.webp)
@@ -909,11 +916,12 @@ Use a ![][icon_warp_leaf] Warp Leaf to leave.
 Backtrack ↙️ to the piledriver screen, then leave through the same exit.
 
 Save the game and soft-reset.  
-Change the system time to 2004/11/28 22:xx.
+Change the system time to 2004/10/29 22:xx.
 
 ### Dainn Purification
 
 Activate all four generators and enable max sunlight.  
+Replace ![][icon_sol] Sol with ![][icon_transform] Transform and ![][icon_frost] Frost with ![][icon_dark] Dark.  
 ![][icon_transform] Transform into Black Django and begin the purification.
 
 After starting the purification, use ![][icon_sunscreen] Sunscreen to avoid taking damage from the sunlight.  
@@ -931,6 +939,7 @@ Go to Lita’s shop, sell all items except for one ![][icon_sunscreen] Sunscreen
 Go to Cheyenne’s shop and buy a ![][icon_bardiche] Bardiche, then equip it.
 
 Equip ![][icon_dynamite] Dynamite, ![][icon_cloud] Cloud, ![][icon_dash] Dash and ![][icon_frost] Frost.  
+Put all stat points into STRG.  
 Backtrack ↗️ to Spiral Tower.
 
 ## Undead Zone B1
@@ -953,7 +962,7 @@ After the stairs, run in the ↘️ direction to avoid being seen.
 In the next room, use <=8 sunlight to enable the solar walkway and proceed through the ↖️ exit.  
 Hit the Skeletons from behind and ![][icon_dash] Dash during their damage animation so that they don’t see you.
 
-Replace ![][icon_frost] Frost and ![][icon_dynamite] Dynamite with ![][icon_transform] Transform and ![][icon_bat] Bat.  
+Replace ![][icon_frost] Frost with ![][icon_transform] Transform and ![][icon_dynamite] Dynamite with ![][icon_bat] Bat.  
 Use Black Django and ![][icon_bat] Bat to fly over the traps and get the key, then proceed through the door.  
 In the next room, knock on the walls to lure the Skeletons.
 
@@ -975,6 +984,7 @@ Open the blue chest for a ![][icon_circle_key] key, use it on the other door to 
 ## Undead Zone B2
 
 Equip ![][icon_dash] Dash, ![][icon_flame] Flame, ![][icon_earth] Earth and ![][icon_dynamite] Dynamite.  
+Put all stat points into STRG.  
 Proceed through the ↘️ exit, light all the torches to open the gate.
 
 In the third dark room, light the torches on the moving platforms with spear and ![][icon_flame] Flame.  
@@ -984,7 +994,6 @@ Use ![][icon_dynamite] Dynamite on the wall here in this room:
 ![](./assets/images/garb_of_darkness_room.webp)
 
 Get the ![][icon_garb_of_darkness] Garb of Darkness armor, then equip it and ![][icon_magic_sword] Magic Sword.  
-Put all stat points into STRG.
 
 Break the wooden blocks and proceed through the ↗️ exit.  
 After the rooms with Skeletons, proceed up the stairs and refill energy on the Solar Station.
@@ -1034,8 +1043,9 @@ Refill energy on the Solar Station, then in the next room proceed through the �
 
 ### <span class="puzzle">B4 Block Puzzle</span>
 
-Replace ![][icon_dynamite] Dynamite with ![][icon_cloud] Cloud.  
+Put all stat points into STRG. You should now be at 98 STRG.  
 Push the stone block and use ![][icon_flame] Flame on the floating block.  
+Replace ![][icon_dynamite] Dynamite with ![][icon_cloud] Cloud and ![][icon_flame] Flame with ![][icon_frost] Frost.  
 Push the floating block with spear and ![][icon_cloud] Cloud ↗️↘️:  
 ![](./assets/images/undead_zone_4.webp)
 
@@ -1046,7 +1056,6 @@ Walk onto the switch.
 Backtrack and proceed through the ↗️↘️↘️ exits.
 
 Equip ![][icon_frost] Frost, ![][icon_dash] Dash, ![][icon_transform] Transform and ![][icon_sleep] Sleeping.  
-Put all stat points into STRG. You should now be at 98 STRG.
 
 Do not walk onto the platform, instead stand at the corner edge and use spear and ![][icon_frost] Frost to extinguish the fire:  
 ![](./assets/images/undead_zone_5.webp)
@@ -1072,7 +1081,7 @@ Proceed through the ↖️ exit, then take the elevator.
 
 ## Undead Zone B5
 
-Equip ![][icon_dark] Dark, ![][icon_transform] Transform and ![][icon_dash] Dash.  
+Replace ![][icon_sleep] Sleeping with ![][icon_dark] Dark.  
 Raise STRG to 99, then you can put stat points into VIT if you want to be safer, but this is not faster.  
 You’ll need to enable a solar walkway at the end, so have <=8 sunlight.  
 Take the single exits, this map is linear.
