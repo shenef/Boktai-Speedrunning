@@ -7,7 +7,8 @@ Directions for paths and exits will use ↖️, ↗️, ↙️ and ↘️.
 ## Before starting
 
 If playing on BizHawk, set Skip BIOS to FALSE and RTC to FALSE in the GBA Settings(Requires v2.6.3+):  
-![](./assets/images/emu_settings.webp)  
+![](./assets/images/emu_settings.webp)
+
 Set the system time to July 21st 2005 at 8PM (2005/08/21 20:00):  
 ![](./assets/images/igt.png)
 
@@ -15,10 +16,11 @@ Set the system time to July 21st 2005 at 8PM (2005/08/21 20:00):
 
 When making a new file, select the left option, then input the password.
 
-![](./assets/images/grand_master_pw.png)  
+<img class="center smoothImage" src="./assets/images/grand_master_pw.png">
+
 Use the characters to the **right** of the numbers!
 
-The Grand Master title grants +2 VIT+SPR+STRG and adds the following items in the inventory (in order from left to right):
+The Grand Master title grants +2 VIT, +2 SPR, +2 STRG and adds the following items in the inventory (in order from left to right):
 
 - 2 ![][icon_earthly_nut] Earthly Nuts
 - 1 ![][icon_speed_nut] Speed Nut
@@ -46,7 +48,7 @@ Then go into the inventory, use a ![][icon_solar_nut] Solar Nut and a ![][icon_s
 Keep going without stopping.
 Once you reach the room with the 2 spiders, go to the right to get the ![][icon_wizard_frame] Wizard Frame, then proceed in the ↖️ and ↗️ directions.
 
-### Trap: Skeleton
+### <span class="trap">Skeleton Trap</span>
 
 - Open the chest for a ![][icon_solar_nut] Solar Nut.
 - Open the menu, use the ![][icon_solar_nut] Solar Nut & equip the ![][icon_wizard_frame] Wizard Frame.
@@ -65,7 +67,7 @@ Then instead of getting close to the lever, switch to ![][icon_wizard_frame] Wiz
 
 Keep going, and when you reach the room with klorofoluns, get the hidden ![][icon_speed_nut] Speed Nut on the side of the stairs before proceeding in the ↗️ direction.
 
-### Trap: Armor
+### <span class="trap">Armor Trap</span>
 
 - Set sunlight to max.
 - Shoot once with ![][icon_fighter_frame] Fight Frame.
@@ -77,12 +79,12 @@ Keep going, and when you reach the room with klorofoluns, get the hidden ![][ico
 After the trap proceed in the ↗️ direction to leave the dungeon.  
 Set the sunlight to 0.
 
-## San Miguel (1)
+## San Miguel
 
 ### Django's House
 
 - Talk to Violet & choose the first option for less text.
-- <span style="color: #fff3cd;">_Safety strat: get the ![][icon_luna_lens] Luna Lens near the doll on the left._</span>
+- <span class="safety">Safety strat:</span> Get the ![][icon_luna_lens] Luna Lens near the doll on the left.</span>
 
 ### Solar Smith
 
@@ -143,7 +145,7 @@ When you reach the room with 2 skeletons, take the ↘️ path and go to the end
 
 Go back in the previous room and take the ↗️ path.
 
-### MISSION: Open the gate! (Light the torch)
+### <span class="mission">Mission: Open the gate!</span> (Light the torch)
 
 Take the stairs in the upper-↖️ direction.
 Open the green chest to get ![][icon_flame_lens] Flame Lens.
@@ -151,13 +153,13 @@ Open the green chest to get ![][icon_flame_lens] Flame Lens.
 Go back and go in front of the gate.
 Equip ![][icon_flame_lens] Flame Lens and shoot at the torch.
 
-<span style="color: #fff3cd;">_Safety strat: get the ![][icon_tasty_meat] Tasty Meat from Trinity._</span>  
-<span style="color: #fff3cd;">_Safety strat: get the hidden ![][icon_jerky] Jerky in the ↘️ room, then go back to the previous room (Jerky doesn't perish over time and this one can be kept for endgame)._</span>  
+<span class="safety">Safety strat:</span> Get the ![][icon_tasty_meat] Tasty Meat from Trinity.  
+<span class="safety">Safety strat:</span> Get the hidden ![][icon_jerky] Jerky in the ↘️ room, then go back to the previous room (Jerky doesn't perish over time and this one can be kept for endgame).  
 ![](./assets/images/lifeless_town_hidden_jerky.png)
 
 Proceed in the ↗️ direction.
 
-### TRAP: Skeletons
+### <span class="trap">Skeletons Trap</span>
 
 - Use ![][icon_wizard_frame] Wizard Frame, start by shooting in the back
 - _(136 => 224 EXP)_
@@ -174,10 +176,10 @@ After the dialogs, open both chests to get a ![][icon_red_card] +4 stat card (40
 Leave the room and take the closest elevator to go back down.  
 Take go through the ↘️ path & open the door to proceed in the ↗️ direction.
 
-### TRAP: Armor
+### <span class="trap">Armor Trap</span>
 
 - Shoot once with ![][icon_wizard_frame] Wizard Frame to force it to shield.
-- Get closer and use ![][icon_gradius] Gradius while aiming UP until the cutscene triggers. (approx time until cutscene : ~15.85s)
+- Get closer and use ![][icon_gradius] Gradius while aiming UP until the cutscene triggers. (approx time until cutscene: ~15.85s)
 - After the cutscene, spam B as Black Django.
 - You are now **Lvl 6** _(224 => 413 EXP)_.
 
@@ -189,7 +191,7 @@ Open the green chest to get the ![][icon_hoop_frame] Hoop Frame.
 Go back and proceed in the ↘️ direction.  
 Lure the ghoul on the weight switch, go through the ↗️ gate, then ↖️.
 
-### MISSION: Find the yellow key!
+### <span class="mission">Mission: Find the yellow key!</span>
 
 - Go up the stairs and dash above the traps to reach the last room.
 - Open the left chest first to get a ![][icon_jerky] Jerky, then open the blue chest to get the ![][icon_triangle_key] Triangle Key and trigger the cutscene.
@@ -204,12 +206,12 @@ Go back once and proceed in the ↗️ direction to reach the boss room.
 During dialog, spam A (the 2nd option is faster by a few frame, only worth menuing for TAS).  
 Open the menu, put all your stats into STR, equip ![][icon_hoop_frame] Hoop Frame & ![][icon_sol_lens] Sol Lens, then go through the door.
 
-### BOSS: The Count
+### <span class="boss">The Count</span>
 
 - Use ![][icon_hoop_frame] Hoop Frame on the count. Do not bother with the windows.
 - You are now **Lvl 7** _(413 => 662 EXP)_.
 
-### COFFIN
+### Coffin
 
 - Set sunlight to 0.
 - Use a ![][icon_banana] Banana and start going back.
@@ -220,7 +222,7 @@ Push the iron block and take the ↙️ path.
 
 Once you get past the room where you fought the Armor (brown door), take the ↖️ path and keep going towards the entrance of the dungeon (the other path is for a sidequest and takes longer to go through because of puzzles).
 
-### PURIFICATION
+### <span class="purification">The Count Purification</span>
 
 - Go at the bottom of the piledriver and use ![][icon_wizard_frame] Wizard Frame to activate all of them in one shot. During the shot, walk and activate the piledriver as soon as all 4 of them have been hit to skip dialogs.
 - Start the purification and use ![][icon_hoop_frame] Hoop Frame until the end.  
@@ -242,7 +244,7 @@ Once you get past the room where you fought the Armor (brown door), take the ↖
 
 Enter the tree, then take the ↖️ & ↗️ paths.
 
-### TRAP: Ghouls & Bats
+### <span class="trap">Ghouls & Bats Trap</span>
 
 - Use ![][icon_hoop_frame] Hoop Frame with ![][icon_sol_lens] Sol Lens & ![][icon_gradius] Gradius.
 - You are now **Lvl 8** _(743 => 847 EXP)_.
@@ -251,11 +253,11 @@ Proceed through the ↘️ gate & take the elevator to reach **2F**.
 
 After the elevator, take the ↙️ and ↖️ paths.
 
-### MISSION: Make the Solar Roots grow!
+### <span class="mission">Mission: Make the Solar Roots grow!</span>
 
 Proceed in the ↖️ direction, then ↗️ twice (you can pass from the left side in the room with purple slimes).
 
-### PUZZLE
+#### <span class="puzzle">Puzzle</span>
 
 - Use a ![][icon_banana] Banana.
 - Push the first block once in ↗️ & ↖️ directions.
@@ -274,14 +276,14 @@ Proceed in the ↙️ twice, then ↖️ and ↙️ once each.
 Equip ![][icon_iron_clogs] Iron Clogs to negate the solar wind.
 
 On the way, grow the plan to create a shortcut. Hug the left side when dashing towards it to prevent the bulb from exploding.
-Replenish your energy and re-enter the tree from the ↘️ path, then :
+Replenish your energy and re-enter the tree from the ↘️ path, then:
 
 - Put all points in STR.
 - Unequip ![][icon_iron_clogs] Iron Clogs.
 - Unequip ![][icon_gradius] Gradius.
 - Equip ![][icon_estoc] Estoc.
 
-### TRAP: Earth Armor
+### <span class="trap">Earth Armor Trap</span>
 
 - Dash once to go under the skylight.
 - Use ![][icon_hoop_frame] Hoop Frame to shoot once.
@@ -307,7 +309,7 @@ Take the elevator to reach **4F**.
 
 Proceed in the ↘️ direction.
 
-### TRAP: Spiders & golem
+### <span class="trap">Spiders & Golem Trap</span>
 
 - Open the menu and put all your points into STR.
 - Use ![][icon_estoc] Estoc.
@@ -321,7 +323,7 @@ Use it to reach the green chest and get the ![][icon_plate_mail] Plate Mail, the
 
 Grow the plants to take the ↖️ path, then proceed through the ↙️ and ↖️ paths.
 
-### MISSION: Find the Red Key!
+### <span class="mission">Mission: Find the Red Key!</span>
 
 - Use ![][icon_fighter_frame] Fighter Frame & ![][icon_flame_lens] Fire Lens.
 - Go on the platform near you and light the 2 torches to open the ↖️ gate (you can shoot the 1st torch by shooting straight UP while on the platform).
@@ -332,7 +334,7 @@ Grow the plants to take the ↖️ path, then proceed through the ↙️ and ↖
 
 After opening the door, proceed in the ↗️ direction.
 
-### PUZZLE
+### <span class="puzzle">Puzzle</span>
 
 - Use a ![][icon_banana] Banana.
 - Take the elevator to reach **5F**.
@@ -345,7 +347,7 @@ Equip ![][icon_iron_clogs] Iron Clogs, then go through the room, make sure to gr
 
 Proceed through the ↗️ entry, and take the elevator to reach the boss.
 
-### BOSS: Hresvelgr
+### <span class="boss">Hresvelgr</span>
 
 - _You are expected to be missing 2 TRC blocks at the start of this fight._
 - Use use ![][icon_hoop_frame] Hoop Frame until the TRC gauge is full.
@@ -355,9 +357,9 @@ Proceed through the ↗️ entry, and take the elevator to reach the boss.
 
 During the dialog, just hold B and choose the first option.
 
-### COFFIN
+### Coffin
 
-Open the menu and :
+Open the menu and:
 
 - Turn off the sunlight.
 - Put all points into STR.
@@ -396,7 +398,7 @@ Take the elevator to go back to **1F**.
 Proceed in the ↖️ direction, then ↙️, ↘️ and ↙️ twice to reach the purification area.
 _The banana effect should stop are the dialog begins._
 
-### PURIFICATION
+### <span class="purification">Hresvelgr Purification</span>
 
 - Go at the bottom of the piledriver and use ![][icon_wizard_frame] Wizard Frame to activate all of them in one shot. During the shot, walk and activate the piledriver as soon as all 4 of them have been hit to skip dialogs.
 - Start the purification and use ![][icon_hoop_frame] Hoop Frame until the end.  
@@ -406,11 +408,11 @@ _The banana effect should stop are the dialog begins._
 
 Dash in the ↙️ direction to trigger the next cutscene. Turn off the sunlight when it begins.
 
-### BOSS: The Count
+### <span class="boss">The Count</span>
 
 - The Count will do 2 bat attacks: get hit on purpose until you reach critical (red) Life.
 - The Count will now use Blood Rain and trigger the cutscene (by already being in critical state you won't have to wait as long).
-- After the cutscene use B and ![][icon_sol_trans] Sol Trans until the fight is over.
+- After the cutscene use B and ![][icon_sol_trans] Sol Trans until the fight is over.  
 _Note: unlike Dark Trans, the timing when pressing B matters. Sol Trans has the possibility to attack faster than Dark Trans, however timing is strict and attacks does NOT stun enemies._
 
 ## San Miguel (2)
