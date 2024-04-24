@@ -169,7 +169,7 @@ Talk to these bookshelves to open the gate:
 ![](./assets/images/library_3.webp)
 ![](./assets/images/library_4.webp)
 
-### <span class="puzzle">Lamp Puzzle 2</span>
+### <span class="puzzle">Lamp Puzzle</span>
 
 ![](./assets/images/cathedral_puzzle_1.webp)
 ![](./assets/images/cathedral_puzzle_2.webp)  
