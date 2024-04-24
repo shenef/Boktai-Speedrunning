@@ -50,13 +50,29 @@
  * Used to highlight the type of section, such as "Trap:", "Boss:"
  */
 .puzzle {
-  color: hsl(from var(--color-frost) h 60% l);
+  text-decoration: underline solid var(--color-earth) 2px;
+  &:hover {
+    color: var(--color-earth);
+  }
 }
 
 .trap {
-  color: hsl(from var(--color-cloud) h 60% l);
+  text-decoration: underline solid var(--color-cloud) 2px;
+  &:hover {
+    color: var(--color-cloud);
+  }
 }
 
 .boss {
-  color: hsl(from var(--color-dark) h 85% l);
+  text-decoration: underline solid var(--color-dark) 3px;
+  &:hover {
+    color: var(--color-dark);
+  }
+}
+
+.purification {
+  text-decoration: underline solid var(--color-sol) 2px;
+  &:hover {
+    color: var(--color-sol);
+  }
 }
