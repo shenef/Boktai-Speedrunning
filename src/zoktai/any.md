@@ -2,25 +2,39 @@
 
 ## About this guide
 
+This guide assumes you are playing on the japanese 1.0 release of Boktai 2.  
+It will likely work fine for other releases but some strategies like RNG manipulation will need different timings.  
 Directions for paths and exits will use ↖️, ↗️, ↙️ and ↘️.
+
+### Terminology
+
+- RNG manip: Short for "Random Number Generator Manipulation". Used to influence the randomness within the game to make things happen that are normally reliant on chance.
+- Soft reset: Pressing A + B + Start & Select at the same time reboots the game. This is useful for RNG manips and is faster when loading a save after a death.
 
 ## Before starting
 
-If playing on original hardware with an existing save file, skip ahead to "Initial Game Settings".  
-If playing on BizHawk emulator, follow the remaining instructions in this section before starting a run.
+Make sure you have an existing save file and that the Crossover option is unlocked in the Link menu.  
+To unlock the Crossover option, go to the Link menu, then press the following buttons in order:  
+`L R L R L L R R R R L L Select Start Select Start`.
 
-Set Skip BIOS to FALSE and RTC to FALSE in the GBA Settings (Requires v2.6.3+):
-<img class="center" src="./assets/images/emu_settings.webp">
+### Emulator settings
 
-Start a new game and create a save file after killing the tutorial Zombie with the Sol de Vice.  
-Create a save file (This is required to access the Link menu) and soft-reset (A+B+Start+Select).
+- Requires BizHawk 2.6.3 or newer.
+- Set "Skip BIOS" and "RTC" to False in the GBA Settings.
+
+Setting "Skip BIOS" is mandatory as this creates parity with actual hardware.  
+Disabling RTC is optional but recommended since it simulates an empty cartridge battery.
+
+![](./assets/images/emu_settings.webp)
 
 ## Initial Game Settings
 
 Ensure that no UV is reaching the solar sensor before confirming calibration settings (Not relevant for emulator play):
+
 <img class="center" src="./assets/images/calibration.webp">
 
-Set the system time to August 1st 2004 at 11:55PM (2004/08/01 23:55):  
+Set the system time to August 1st 2004 at 11:55PM (2004/08/01 23:55):
+
 <img class="center" src="./assets/images/system_time.webp">
 
 Use the default region selection.
@@ -28,14 +42,11 @@ Use the default region selection.
 ## Dark Boy password
 
 <img class="center" src="./assets/images/dark_boy_pw.webp">
-Use the characters to the left of the numbers!
+
+Use the characters to the right of the numbers!
 
 The Dark Boy title grants +2 STRG+AGIL and adds 1 ![][icon_power_nut] Power Nut+![][icon_bearnut] Bearnut to the inventory.  
 Use a single character for the player name (saves a few frames each time the name is displayed).
-
-If playing on English, the Dark Boy password is:  
-  `h9bfvCgX +>@Hf3>-`  
-  `9Sm^0smm nCw86jmJ`
 
 ## Tutorial
 
@@ -179,7 +190,7 @@ Proceed through the ↖️ exit (Refill life on skylights if low).
 
 Light the torch with ![][icon_flame] Flame and place the ![][icon_blue_orb] Blue Orb.  
 Backtrack and proceed down the new stairs in the main room, refill energy on the Solar Station.  
-Equip the ![][icon_short_sword] Short Sword and ![][icon_leather_armor] Leather Armor, then put all stat points into STRG.  
+Equip the ![][icon_short_sword] Short Sword and ![][icon_leather_armor] Leather Armor, then put all stat points into STRG.
 
 ### <span class="boss">White Duneyrr</span>
 
@@ -322,7 +333,7 @@ Kill another Clay Golem with ![][icon_cloud] Cloud and proceed in the same direc
 Open this hidden chest for a ![][icon_warp_leaf] Warp Leaf, then open the door:  
 ![](./assets/images/remains_leaf_chest_1.webp)
 
-Skip getting water from the fountain, then proceed.  
+Skip getting water from the fountain, then proceed.
 
 ### <span class="puzzle">Desert Puzzle</span>
 
@@ -993,7 +1004,7 @@ Have <=8 sunlight to enable the solar walkways in the next room.
 Use ![][icon_dynamite] Dynamite on the wall here in this room:  
 ![](./assets/images/garb_of_darkness_room.webp)
 
-Get the ![][icon_garb_of_darkness] Garb of Darkness armor, then equip it and ![][icon_magic_sword] Magic Sword.  
+Get the ![][icon_garb_of_darkness] Garb of Darkness armor, then equip it and ![][icon_magic_sword] Magic Sword.
 
 Break the wooden blocks and proceed through the ↗️ exit.  
 After the rooms with Skeletons, proceed up the stairs and refill energy on the Solar Station.
@@ -1055,7 +1066,7 @@ Walk onto the switch.
 
 Backtrack and proceed through the ↗️↘️↘️ exits.
 
-Equip ![][icon_frost] Frost, ![][icon_dash] Dash, ![][icon_transform] Transform and ![][icon_sleep] Sleeping.  
+Equip ![][icon_frost] Frost, ![][icon_dash] Dash, ![][icon_transform] Transform and ![][icon_sleep] Sleeping.
 
 Do not walk onto the platform, instead stand at the corner edge and use spear and ![][icon_frost] Frost to extinguish the fire:  
 ![](./assets/images/undead_zone_5.webp)
