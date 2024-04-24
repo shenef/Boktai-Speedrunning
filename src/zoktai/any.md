@@ -89,23 +89,24 @@ Backtrack, kill the Ghoul in the previous room for EXP.
 Destroy the first wooden block to push the 2 stone blocks, also open the chest for a ![][icon_power_nut] Power Nut.  
 Proceed through the ↘️ exit by destroying the wooden block.
 
-### <span class="puzzle">Graveyard Puzzle</span>
+### <span class="puzzle">Graveyard & Basement Puzzles</span>
+
+Proceed straight ahead to enter the Graveyard.
 
 - 1st row: Push the 2nd tombstone
 - 2nd row: Push 1st
 - 3rd row: Push 2nd
 
-Backtrack and take the stairs, kill all Ghouls as you proceed to reach **Lvl 4**.  
-In the 5th room, knock on the wall near the center of the room, then hug the right wall to avoid the Zombie.  
-Use ![][icon_flame] Flame to light the torches.
+Backtrack and take the stairs into the basement.  
+Kill all Ghouls until you reach the 5th room. You should now be **Lvl 4**.  
+In the 5th room, knock on the fifth wall block in the center of the room, then run along the right outside wall to avoid the Zombie.
 
-### <span class="puzzle">Torch Puzzles</span>
+In the remaining basement rooms, use ![][icon_flame] Flame with ![][icon_gladius] Sword to light torches and ![][icon_club] Club to activate levers.
 
 Push the Blocks as shown here, then touch the lamp:  
 ![](./assets/images/basement_puzzle.webp)
 
-In the next rooms, use ![][icon_flame] Flame with ![][icon_gladius] Sword to light torches and ![][icon_club] Club on levers to proceed.  
-After the Otenko dialog, put all stat points into STRG.
+After leaving the basement, put all stat points into STRG.
 
 ### <span class="trap">Skeletons Trap</span>
 
