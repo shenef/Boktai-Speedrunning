@@ -309,14 +309,14 @@ Open this hidden chest for a ![][icon_warp_leaf] Warp Leaf, then open the door:
 Talk to the fountain to get water, then proceed.
 
 You must now find three ![][icon_stone_tablet] Stone Tablets that are in fixed spots on eight screens:  
-![](./assets/images/desert_1.webp)
-![](./assets/images/desert_2.webp)
-![](./assets/images/desert_3.webp)
-![](./assets/images/desert_4.webp)
-![](./assets/images/desert_5.webp)
-![](./assets/images/desert_6.webp)
-![](./assets/images/desert_7.webp)
-![](./assets/images/desert_8.webp)
+![](./assets/images/desert_1.webp "根(か)れたオアシスの下 / Beneath a dried-up oasis")
+![](./assets/images/desert_2.webp "ミミックの下 / Under a mimic")
+![](./assets/images/desert_3.webp "静れからはぐれた炎の下 / Beneath straying flames")
+![](./assets/images/desert_4.webp "バットの巣の下 / Under a bat roost")
+![](./assets/images/desert_5.webp "サボテンの輪の中 / Inside a ring of cacti")
+![](./assets/images/desert_6.webp "株(く)ちたゴーレムの修ろ / Behind a crumbling golem")
+![](./assets/images/desert_7.webp "2つのドクロの閉 / Between two skulls")
+![](./assets/images/desert_8.webp "サボテンの工の下 / Under the cactus king")
 
 Begin on the southwest screen (first image) and proceed counter-clockwise.  
 On the south screen (second image) kill a Clay Golem with ![][icon_cloud] Cloud to reach **Lvl 11**.
