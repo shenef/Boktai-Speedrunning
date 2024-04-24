@@ -41,7 +41,7 @@ Use the default region selection.
 
 ## Dark Boy password
 
-<img class="center" src="./assets/images/dark_boy_pw.webp">
+<img class="center smoothImage" src="./assets/images/dark_boy_pw.webp">
 
 Use the characters to the right of the numbers!
 
