@@ -10,7 +10,7 @@ Directions for paths and exits will use ↖️, ↗️, ↙️ and ↘️.
 
 - RNG manip: Short for "Random Number Generator Manipulation". Used to influence the randomness within the game to make things happen that are normally reliant on chance.
 - Soft reset: Pressing A + B + Start & Select at the same time reboots the game. This is useful for RNG manips and is faster when loading a save after a death.
-- STRG and AGIL: Strength and Agility. The second and third status point options. They influence your physical damage, movement speed and defense.
+- STRG and AGIL: Strength and Agility. The third and fourth status point options. They influence your physical damage, movement speed and defense.
 
 ## Before starting
 
@@ -24,7 +24,7 @@ To unlock the Crossover option, go to the Link menu, then press the following bu
 - Set "Skip BIOS" and "RTC" to False in the GBA Settings.
 
 Setting "Skip BIOS" is mandatory as this creates parity with actual hardware.  
-Disabling RTC is optional but recommended since it simulates an empty cartridge battery.
+Disabling RTC simulates an empty cartridge battery which enables some of the strats in this guide.
 
 ![](./assets/images/emu_settings.webp)
 
@@ -41,7 +41,7 @@ Use the default region selection.
 Select new Game and enter the password for the "Dark Boy" title.  
 This title grants +2 STRG, +2 AGIL, a ![][icon_power_nut] Power Nut and a ![][icon_bearnut] Bearnut.
 
-Use the characters to the right of the numbers:
+Use the characters to the left of the numbers:
 
 <img class="center smoothImage" src="./assets/images/dark_boy_pw.webp">
 
@@ -110,7 +110,6 @@ After the Otenko dialog, put all stat points into STRG.
 ### <span class="trap">Skeletons Trap</span>
 
 - Use ![][icon_sol] Sol and hit the Skeletons from behind.
-- Stand on the third Skeleton's position as it dies in case you get a random drop.
 - You should reach **Lvl 5** after this fight.
 
 Put all stat points into STRG.  
