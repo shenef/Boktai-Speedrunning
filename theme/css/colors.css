@@ -49,6 +49,8 @@
  *
  * Used to highlight the type of section, such as "Trap:", "Boss:"
  */
+
+/* For Puzzle headers */
 .puzzle {
   text-decoration: underline solid var(--color-earth) 2px;
   &:hover {
@@ -56,6 +58,7 @@
   }
 }
 
+/* For Trap headers */
 .trap {
   text-decoration: underline solid var(--color-cloud) 2px;
   &:hover {
@@ -63,6 +66,7 @@
   }
 }
 
+/* For Boss fight headers */
 .boss {
   text-decoration: underline solid var(--color-dark) 3px;
   &:hover {
@@ -70,9 +74,27 @@
   }
 }
 
+/* For Purification headers */
 .purification {
   text-decoration: underline solid var(--color-sol) 2px;
   &:hover {
     color: var(--color-sol);
+  }
+}
+
+/* For Mission headers */
+.mission {
+  text-decoration: underline solid var(--color-frost) 2px;
+  &:hover {
+    color: var(--color-frost);
+  }
+}
+
+/* For safety strats, NOT intended for headers */
+.safety {
+  text-decoration: underline solid var(--color-luna) 1.5px;
+  font-weight: bold;
+  &:hover {
+    color: var(--color-luna);
   }
 }
