@@ -2,47 +2,59 @@
 
 ## About this guide
 
+This guide assumes you are playing on the japanese 1.0 release of Boktai 2.  
+It will likely work fine for other releases but some strategies like RNG manipulation will need different timings.  
 Directions for paths and exits will use ↖️, ↗️, ↙️ and ↘️.
+
+### Terminology
+
+- RNG manip: Short for "Random Number Generator Manipulation". Used to influence the randomness within the game to make things happen that are normally reliant on chance.
+- Soft reset: Pressing A + B + Start & Select at the same time reboots the game. This is useful for RNG manips and is faster when loading a save after a death.
+- STRG and AGIL: Strength and Agility. The third and fourth status point options. They influence your physical damage, movement speed and defense.
 
 ## Before starting
 
-If playing on original hardware with an existing save file, skip ahead to "Initial Game Settings".  
-If playing on BizHawk emulator, follow the remaining instructions in this section before starting a run.
+Make sure you have an existing save file and that the Crossover option is unlocked in the Link menu.  
+To unlock the Crossover option, go to the Link menu, then press the following buttons in order:  
+`L R L R L L R R R R L L Select Start Select Start`.
 
-Set Skip BIOS to FALSE and RTC to FALSE in the GBA Settings (Requires v2.6.3+):
-<img class="center" src="./assets/images/emu_settings.webp">
+### Emulator settings
 
-Start a new game and create a save file after killing the tutorial Zombie with the Sol de Vice.  
-Create a save file (This is required to access the Link menu) and soft-reset (A+B+Start+Select).
+- Requires BizHawk 2.6.3 or newer.
+- Set "Skip BIOS" and "RTC" to False in the GBA Settings.
+
+Setting "Skip BIOS" is mandatory as this creates parity with actual hardware.  
+Disabling RTC simulates an empty cartridge battery which enables some of the strats in this guide.
+
+![](./assets/images/emu_settings.webp)
 
 ## Initial Game Settings
 
-Ensure that no UV is reaching the solar sensor before confirming calibration settings (Not relevant for emulator play):
-<img class="center" src="./assets/images/calibration.webp">
+Ensure that no UV is reaching the solar sensor before confirming calibration settings (Not relevant for emulator play):  
+![](./assets/images/calibration.webp)
 
 Set the system time to August 1st 2004 at 11:55PM (2004/08/01 23:55):  
-<img class="center" src="./assets/images/system_time.webp">
+![](./assets/images/system_time.webp)
 
 Use the default region selection.
 
-## Setting up the Dark Boy password
+Select new Game and enter the password for the "Dark Boy" title.  
+This title grants +2 STRG, +2 AGIL, a ![][icon_power_nut] Power Nut and a ![][icon_bearnut] Bearnut.
 
-<img class="center" src="./assets/images/dark_boy_pw.webp">
-Use the characters to the left of the numbers!
+Use the characters to the left of the numbers:
 
-The Dark Boy title grants +2 STRG+AGIL and adds 1 ![][icon_power_nut] Power Nut+![][icon_bearnut] Bearnut to the inventory.  
-Use a single character for the player name (saves a few frames each time the name is displayed).
+<img class="center smoothImage" src="./assets/images/dark_boy_pw.webp">
 
-If playing on English, the Dark Boy password is:  
-  `h9bfvCgX +>@Hf3>-`  
-  `9Sm^0smm nCw86jmJ`
+Use a single character for the player name. This saves a few frames each time the name is typed out in cutscenes.
+
+Timing starts when confirming your settings.
 
 ## Tutorial
 
 After the intro, open the menu and change the text speed to Fast:  
 ![](./assets/images/text_speed.webp)
 
-### <span class="trap">Trap:</span> Skeleton
+### <span class="trap">Skeleton Trap</span>
 
 - Proceed through the ↘️ exit to obtain the ![][icon_gladius] Gladius.
 - Backtrack and hit the Skeleton from behind to reach **Lvl 2**.
@@ -50,7 +62,7 @@ After the intro, open the menu and change the text speed to Fast:
 Proceed through the ↖️ exit, then open the next green chest for a ![][icon_leather_armor] Leather Armor.  
 Unequip your current armor (less defense, faster walking speed).
 
-### <span class="trap">Trap:</span> Zombie
+### <span class="trap">Zombie Trap</span>
 
 - Hit the Zombie 3 times to trigger the cutscene, then hit it from the front twice.
 
@@ -68,7 +80,7 @@ Kill two Ghouls to reach **Lvl 3**, raise AGIL to 17 and put your remaining stat
 Push the blocks to progress and proceed through the ↗️ exit.  
 After the cutscene, proceed through the ↘️ exit.
 
-### <span class="puzzle">First Block Puzzle</span>
+### <span class="puzzle">Block Puzzle</span>
 
 ![](./assets/images/first_block_puzzle.webp)  
 Open the chest for a ![][icon_club] Club.
@@ -77,26 +89,28 @@ Backtrack, kill the Ghoul in the previous room for EXP.
 Destroy the first wooden block to push the 2 stone blocks, also open the chest for a ![][icon_power_nut] Power Nut.  
 Proceed through the ↘️ exit by destroying the wooden block.
 
-### <span class="puzzle">Graveyard Puzzle</span>
+### <span class="puzzle">Graveyard & Basement Puzzles</span>
+
+Proceed straight ahead to enter the Graveyard.
 
 - 1st row: Push the 2nd tombstone
 - 2nd row: Push 1st
 - 3rd row: Push 2nd
 
-Backtrack and take the stairs, kill all Ghouls as you proceed to reach **Lvl 4**.  
-In the 5th room, knock on the wall near the center of the room, then hug the right wall to avoid the Zombie.  
-Use ![][icon_flame] Flame to light the torches.
+Backtrack and take the stairs into the basement.  
+Kill all Ghouls until you reach the 5th room. You should now be **Lvl 4**.  
+In the 5th room, knock on the fifth wall block in the center of the room, then run along the right outside wall to avoid the Zombie.
 
-### <span class="puzzle">Lamp Puzzle</span>
+In the remaining basement rooms, use ![][icon_flame] Flame with ![][icon_gladius] Sword to light torches and ![][icon_club] Club to activate levers.
 
-![](./assets/images/basement_puzzle.webp)  
-Use ![][icon_flame] Flame to light the torches, and hammer on levers to proceed.  
-After the dialogs, put all stat points into STRG.
+Push the Blocks as shown here, then touch the lamp:  
+![](./assets/images/basement_puzzle.webp)
 
-### <span class="trap">Trap:</span> Skeletons
+After leaving the basement, put all stat points into STRG.
+
+### <span class="trap">Skeletons Trap</span>
 
 - Use ![][icon_sol] Sol and hit the Skeletons from behind.
-- Stand on the third Skeleton's position as it dies in case you get a random drop.
 - You should reach **Lvl 5** after this fight.
 
 Put all stat points into STRG.  
@@ -111,7 +125,7 @@ Backtrack to the trap room and kill a Ghoul, then proceed through the top ↘️
 The ![][icon_red_orb] Red Orb will be in a random skylight.  
 Check the spot directly next to the stairs, then take the stairs whether or not you found it.
 
-### <span class="trap">Trap:</span> Ghouls + Zombie & Short Sword RNG Manip
+### <span class="trap">Ghouls + Zombie Trap</span> & Short Sword RNG Manip
 
 - Follow the RNG manip method in the below video to get a ![][icon_short_sword] Short Sword:
 
@@ -179,9 +193,9 @@ Proceed through the ↖️ exit (Refill life on skylights if low).
 
 Light the torch with ![][icon_flame] Flame and place the ![][icon_blue_orb] Blue Orb.  
 Backtrack and proceed down the new stairs in the main room, refill energy on the Solar Station.  
-Equip the ![][icon_short_sword] Short Sword and ![][icon_leather_armor] Leather Armor, then put all stat points into STRG.  
+Equip the ![][icon_short_sword] Short Sword and ![][icon_leather_armor] Leather Armor, then put all stat points into STRG.
 
-### <span class="boss">Boss:</span> White Duneyrr
+### <span class="boss">White Duneyrr</span>
 
 - Light the torch in the center with spear and ![][icon_flame] Flame. With precise positioning you can hit all four candles with one attack.
 - Line up directly behind Duneyrr and use the ![][icon_short_sword] Short Sword and ![][icon_sol] Sol to attack Duneyrr twice per cycle.
@@ -199,7 +213,7 @@ Proceed through the middle ↖️ exit and open the blue chest (![][icon_circle_
 
 Drag the coffin back to town and into the piledriver screen.
 
-### Duneyrr Purification
+### <span class="purification">White Duneyrr Purification</span>
 
 Enable max sunlight for purifications, you cannot start a purification sequence without sunlight enabled.
 
@@ -217,7 +231,7 @@ Talk to Smith near the forging house, then proceed through the ↘️ exit and e
 
 In the main room with Clay Golems, proceed through the ↖️ exit, then take the stairs.
 
-### <span class="trap">Trap:</span> Vampire Bats
+### <span class="trap">Vampire Bats Trap</span>
 
 - If no armor is equipped, **be careful as you will die in 2 hits.**
 - Try to group them up and use ![][icon_sol] Sol.
@@ -242,7 +256,7 @@ Open the top chest for a ![][icon_power_nut] Power Nut.
 
 Use ![][icon_frost] Frost to make the floating block fall, then refill life/energy to 100% on the skylight.
 
-### <span class="trap">Traps:</span> Sword, Yellow Slimes, Clay Golems
+### <span class="trap">Sword, Yellow Slimes, Clay Golems Traps</span>
 
 - Sword: Use ![][icon_sol] Sol to deal more damage.
   - You should reach **Lvl 8** after this fight.
@@ -305,7 +319,7 @@ Push the block, refill energy on the Solar Station and proceed through the ↘�
 
 Open the ↗️ door and proceed.
 
-### <span class="trap">Trap:</span> Axe
+### <span class="trap">Axe Trap</span>
 
 - It’s an axe!!
 - Use ![][icon_sol] Sol to deal more damage.
@@ -322,7 +336,7 @@ Kill another Clay Golem with ![][icon_cloud] Cloud and proceed in the same direc
 Open this hidden chest for a ![][icon_warp_leaf] Warp Leaf, then open the door:  
 ![](./assets/images/remains_leaf_chest_1.webp)
 
-Skip getting water from the fountain, then proceed.  
+Skip getting water from the fountain, then proceed.
 
 ### <span class="puzzle">Desert Puzzle</span>
 
@@ -384,7 +398,7 @@ When you’re close enough, run ↗️ onto the switch.
 
 - 31 STRG (33 Attack) is enough for the fight, you want to save these stat points for later.
 
-### <span class="boss">Boss:</span> Vampire
+### <span class="boss">Vampire</span>
 
 - Stay away so that Sabata doesn’t get hit.
 - Position yourself so that the swords don’t go in Sabata’s direction.
@@ -402,7 +416,7 @@ When you’re close enough, run ↗️ onto the switch.
 
 Once you gain control of Sabata, use ![][icon_power_nut] Power Nuts to drag the coffin back to San Miguel.
 
-### Django Purification
+### <span class="purification">Django Purification</span>
 
 Enable max sunlight, activate the bottom two generators and begin the purification.
 
@@ -508,7 +522,7 @@ Backtrack and take the elevator, proceed through the ↙️ exit, then go ↘️
 Refill energy on the Solar Station and put all stat points into STRG.  
 Select the first option during the dialog.
 
-### <span class="boss">Boss:</span> Cheyenne
+### <span class="boss">Cheyenne</span>
 
 - Use ![][icon_dark] Dark, keep hitting him non-stop.
 - Try to aim in the correct direction so that hits counts as back hits for higher damage.
@@ -560,7 +574,7 @@ In the next room, use ![][icon_bat] Bat to go through the window on the left, th
 Do not push the block, just proceed through the ↗️ exit and continue downstairs.  
 Refill life/energy before entering the boss fight.
 
-### <span class="boss">Boss:</span> Red Durathror
+### <span class="boss">Red Durathror</span>
 
 - 1st phase:
   - Equip the ![][icon_katana] Katana as the Dark Roots are spawning to react to where the bulb appears.
@@ -593,7 +607,7 @@ Leave the piledriver screen through the same exit, save the game and soft reset 
 Set the system time to 2004/08/31 22:00.  
 The coffin is now in the piledriver screen.
 
-### Durathror Purification
+### <span class="purification">Red Durathror Purification</span>
 
 Activate one generator and start the purification.  
 Enable max sunlight during the cutscene.
@@ -723,7 +737,7 @@ Backtrack to the Aqueduct.
 
 Open the door, then proceed.
 
-### <span class="trap">Trap:</span> Purple Slimes
+### <span class="trap">Purple Slimes Trap</span>
 
 - Use Red Django, no element and sword.
 
@@ -731,11 +745,11 @@ Proceed, on the way open these hidden chests for items:
 ![](./assets/images/aqueduct_1.webp)
 ![](./assets/images/aqueduct_2.webp)
 
-### <span class="trap">Trap:</span> Octopi
+### <span class="trap">Octopi Trap</span>
 
 - Use ![][icon_flame] Flame, after the fight refill life/energy on the skylight.
 
-### <span class="trap">Trap:</span> Skeleton Fencers
+### <span class="trap">Skeleton Fencers Trap</span>
 
 - Put all stat points into STRG.
 - Equip ![][icon_leather_armor] Leather Armor.
@@ -744,7 +758,7 @@ Proceed, on the way open these hidden chests for items:
 
 Refill life/energy and put all stat points into STRG before entering the boss.
 
-### <span class="boss">Boss:</span> Blue Dvalinn
+### <span class="boss">Blue Dvalinn</span>
 
 - Use ![][icon_flame] Flame.
 - Refill life/energy on the skylight as needed.
@@ -762,7 +776,7 @@ Keep talking, then change the system time to 2004/09/30 22:xx.
 
 Proceed to the piledriver screen.
 
-### Dvalinn Purification
+### <span class="purification">Blue Dvalinn Purification</span>
 
 Activate all four generators and start the purification.  
 Replace ![][icon_flame] Flame with ![][icon_sol] Sol.  
@@ -792,7 +806,7 @@ In the first room with Cockatrices, replace ![][icon_sol] Sol with ![][icon_eart
 In the second room with Cockatrices, proceed through the ↘️ exit, then re-enter the room.  
 Knock on the upper pillar to attract all three Cockatrices, then kill them all with ![][icon_earth] Earth to reach **Lvl 24.**
 
-### <span class="trap">Trap:</span> Sword+
+### <span class="trap">Sword+ Trap</span>
 
 - Use Black Django and ![][icon_dark] Dark.
 - You should reach **Lvl 25** after this fight.
@@ -855,7 +869,7 @@ For instance, 北2 東4 means North 4, East 2, NOT North 2, East 4.
 <!-- Maybe this could be replaced with an image or could use icons for the letters -->
 **北 = North, 南 = South, 東 = East, 酉 = West.**
 
-### <span class="trap">Trap:</span> Axe+
+### <span class="trap">Axe+ Trap</span>
 
 - Use Black Django and ![][icon_dark] Dark.
 - You should reach **Lvl 26** after this fight.
@@ -891,7 +905,7 @@ Backtrack downstairs and proceed through the ↖️ exit to reach Django.
 
 During the dialog, choose the second dialog option to avoid a Game Over.
 
-### <span class="boss">Boss:</span> Black Dainn
+### <span class="boss">Black Dainn</span>
 
 - 1st phase:
   - Stay away so that Sabata doesn’t get hit.
@@ -918,7 +932,7 @@ Backtrack ↙️ to the piledriver screen, then leave through the same exit.
 Save the game and soft-reset.  
 Change the system time to 2004/10/29 22:xx.
 
-### Dainn Purification
+### <span class="purification">Black Dainn Purification</span>
 
 Activate all four generators and enable max sunlight.  
 Replace ![][icon_sol] Sol with ![][icon_transform] Transform and ![][icon_frost] Frost with ![][icon_dark] Dark.  
@@ -971,7 +985,7 @@ Push the block and get the key, then backtrack to the first elevator (↘️).
 
 Refill energy on the Solar Station and open the ↗️ door.
 
-### <span class="trap">Trap:</span> Sand Worm
+### <span class="trap">Sand Worm Trap</span>
 
 - Use ![][icon_cloud] Cloud except when it's doing the tail attack.
 - Attack the head to stun it.
@@ -993,12 +1007,12 @@ Have <=8 sunlight to enable the solar walkways in the next room.
 Use ![][icon_dynamite] Dynamite on the wall here in this room:  
 ![](./assets/images/garb_of_darkness_room.webp)
 
-Get the ![][icon_garb_of_darkness] Garb of Darkness armor, then equip it and ![][icon_magic_sword] Magic Sword.  
+Get the ![][icon_garb_of_darkness] Garb of Darkness armor, then equip it and ![][icon_magic_sword] Magic Sword.
 
 Break the wooden blocks and proceed through the ↗️ exit.  
 After the rooms with Skeletons, proceed up the stairs and refill energy on the Solar Station.
 
-### <span class="trap">Trap:</span> Lich
+### <span class="trap">Lich Trap</span>
 
 - Use ![][icon_earth] Earth and hit the Lich from behind.
 - You can destroy the lightning balls.
@@ -1025,7 +1039,7 @@ Proceed through the ↙️ gate, then use the plant to reach the next ↙️ exi
 
 Refill energy on the Solar Station and put all stat points into STRG before taking the platform.
 
-### <span class="trap">Trap:</span> Serpent
+### <span class="trap">Serpent Trap</span>
 
 - Use ![][icon_flame] Flame and spear.
 - **Use ![][icon_dynamite] Dynamite whilst the Serpent is underwater to force it to jump at you.**
@@ -1055,7 +1069,7 @@ Walk onto the switch.
 
 Backtrack and proceed through the ↗️↘️↘️ exits.
 
-Equip ![][icon_frost] Frost, ![][icon_dash] Dash, ![][icon_transform] Transform and ![][icon_sleep] Sleeping.  
+Equip ![][icon_frost] Frost, ![][icon_dash] Dash, ![][icon_transform] Transform and ![][icon_sleep] Sleeping.
 
 Do not walk onto the platform, instead stand at the corner edge and use spear and ![][icon_frost] Frost to extinguish the fire:  
 ![](./assets/images/undead_zone_5.webp)
@@ -1070,7 +1084,7 @@ Open this hidden chest on the way for a ![][icon_solar_nut] Solar Nut:
 Proceed through the ↘️↘️ exits, then take the stairs.  
 Proceed through the ↙️↘️↖️↖️ exits, then refill energy on the Solar Station.
 
-### <span class="trap">Trap:</span> Lich+
+### <span class="trap">Lich+ Trap</span>
 
 - Use ![][icon_frost] Frost and hit the Lich+ from behind.
 - Once it begins its rotating attack, damage boost on its back and immediately let go of directional input to land in the correct spot to avoid getting hit.
@@ -1086,7 +1100,7 @@ Raise STRG to 99, then you can put stat points into VIT if you want to be safer,
 You’ll need to enable a solar walkway at the end, so have <=8 sunlight.  
 Take the single exits, this map is linear.
 
-### <span class="boss">Final Boss:</span> Jormungandr
+### <span class="boss">Jormungandr</span>
 
 - You must have at least 1 sunlight during the entire fight.
 - Use Black Django and ![][icon_dark] Dark.

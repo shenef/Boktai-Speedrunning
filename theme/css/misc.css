@@ -23,3 +23,8 @@ img {
   border-radius: 2px;
   image-rendering: pixelated;
 }
+
+/* Re-enable image smoothing */
+.smoothImage {
+  image-rendering: unset;
+}
