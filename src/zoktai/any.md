@@ -10,6 +10,7 @@ Directions for paths and exits will use ↖️, ↗️, ↙️ and ↘️.
 
 - RNG manip: Short for "Random Number Generator Manipulation". Used to influence the randomness within the game to make things happen that are normally reliant on chance.
 - Soft reset: Pressing A + B + Start & Select at the same time reboots the game. This is useful for RNG manips and is faster when loading a save after a death.
+- STRG and AGIL: Strength and Agility. The second and third status point options. They influence your physical damage, movement speed and defense.
 
 ## Before starting
 
@@ -29,24 +30,24 @@ Disabling RTC is optional but recommended since it simulates an empty cartridge 
 
 ## Initial Game Settings
 
-Ensure that no UV is reaching the solar sensor before confirming calibration settings (Not relevant for emulator play):
+Ensure that no UV is reaching the solar sensor before confirming calibration settings (Not relevant for emulator play):  
+![](./assets/images/calibration.webp)
 
-<img class="center" src="./assets/images/calibration.webp">
-
-Set the system time to August 1st 2004 at 11:55PM (2004/08/01 23:55):
-
-<img class="center" src="./assets/images/system_time.webp">
+Set the system time to August 1st 2004 at 11:55PM (2004/08/01 23:55):  
+![](./assets/images/system_time.webp)
 
 Use the default region selection.
 
-## Dark Boy password
+Select new Game and enter the password for the "Dark Boy" title.  
+This title grants +2 STRG, +2 AGIL, a ![][icon_power_nut] Power Nut and a ![][icon_bearnut] Bearnut.
+
+Use the characters to the right of the numbers:
 
 <img class="center smoothImage" src="./assets/images/dark_boy_pw.webp">
 
-Use the characters to the right of the numbers!
+Use a single character for the player name. This saves a few frames each time the name is typed out in cutscenes.
 
-The Dark Boy title grants +2 STRG+AGIL and adds 1 ![][icon_power_nut] Power Nut+![][icon_bearnut] Bearnut to the inventory.  
-Use a single character for the player name (saves a few frames each time the name is displayed).
+Timing starts when confirming your settings.
 
 ## Tutorial
 
@@ -98,11 +99,13 @@ Backtrack and take the stairs, kill all Ghouls as you proceed to reach **Lvl 4**
 In the 5th room, knock on the wall near the center of the room, then hug the right wall to avoid the Zombie.  
 Use ![][icon_flame] Flame to light the torches.
 
-### <span class="puzzle">Lamp Puzzle</span>
+### <span class="puzzle">Torch Puzzles</span>
 
-![](./assets/images/basement_puzzle.webp)  
-Use ![][icon_flame] Flame to light the torches, and hammer on levers to proceed.  
-After the dialogs, put all stat points into STRG.
+Push the Blocks as shown here, then touch the lamp:  
+![](./assets/images/basement_puzzle.webp)
+
+In the next rooms, use ![][icon_flame] Flame with ![][icon_gladius] Sword to light torches and ![][icon_club] Club on levers to proceed.  
+After the Otenko dialog, put all stat points into STRG.
 
 ### <span class="trap">Skeletons Trap</span>
 
