@@ -12,6 +12,14 @@ Directions for paths and exits will use ↖️, ↗️, ↙️ and ↘️.
 - Soft reset: Pressing A + B + Start & Select at the same time reboots the game. This is useful for RNG manips and is faster when loading a save after a death.
 - STRG and AGIL: Strength and Agility. The third and fourth status point options. They influence your physical damage, movement speed and defense.
 
+## Exp table
+
+```admonish abstract collapsible=true title="Click to open"
+{{#include assets/tables/any_exp.html}}
+```
+
+Imported from [this spreadsheet](https://docs.google.com/spreadsheets/d/18cLbO9WR_D8VkX3yPcxh9rGGoT2BN-L0g_95ECNCRuM/edit?usp=sharing).
+
 ## Before starting
 
 Make sure you have an existing save file and that the Crossover option is unlocked in the Link menu.  
