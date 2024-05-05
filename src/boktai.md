@@ -7,4 +7,4 @@
 
 ## Resources
 
-- [Resources](./boktai/resources.md)
+- [Resources](./resources/boktai.md)

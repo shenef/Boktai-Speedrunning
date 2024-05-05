@@ -6,4 +6,4 @@
 
 ## Resources
 
-- [Resources](./zoktai/resources.md)
+- [Resources](./resources/zoktai.md)
