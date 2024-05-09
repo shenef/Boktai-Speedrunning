@@ -415,7 +415,7 @@ Dash in the ↙️ direction to trigger the next cutscene. Turn off the sunlight
 - After the cutscene use B and ![][icon_sol_trans] Sol Trans until the fight is over.  
 _Note: unlike Dark Trans, the timing when pressing B matters. Sol Trans has the possibility to attack faster than Dark Trans, however timing is strict and attacks does NOT stun enemies._
 
-## San Miguel (2)
+## San Miguel (3)
 
 ### Django's House
 
