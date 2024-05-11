@@ -428,6 +428,18 @@ _Note: unlike Dark Trans, the timing when pressing B matters. Sol Trans has the 
 
 ## White Forest
 
+After the dialog, proceed in the ↗️ & ↖️ directions.  
+Enter the cave andreach the end to get ![][icon_bomber_frame] Bomber Frame.
+
+Then go back, and after exiting the cave, take the ↘️ & ↗️ paths.
+
+### <span class="mission">Mission: Open the cave</span>
+
+- Equip ![][icon_rapier] Rapier.
+- Unequip ![][icon_fighter_frame] Fighter Frame
+- Equip ![][icon_bomber_frame] Bomber Frame.
+
+
 **REWRITING IN PROGRESS**
 
 <!-- markdownlint-disable MD053 -->
