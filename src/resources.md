@@ -2,7 +2,7 @@
 
 ## Game specific
 
-{{#include SUMMARY.md:16:20}}
+{{#include SUMMARY.md:17:20}}
 
 ## General
 
