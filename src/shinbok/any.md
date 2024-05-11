@@ -1,5 +1,10 @@
 # Boktai 3 Any% Route
 
+```admonish danger title="Work in Progress"
+This guide is currently being rewritten because of route improvements.  
+Feel free to contribute on Discord or on the GitHub repository.
+```
+
 ## About this guide
 
 Directions for paths and exits will use ↖️, ↗️, ↙️ and ↘️.
@@ -439,8 +444,7 @@ Then go back, and after exiting the cave, take the ↘️ & ↗️ paths.
 - Unequip ![][icon_fighter_frame] Fighter Frame
 - Equip ![][icon_bomber_frame] Bomber Frame.
 
-
-**REWRITING IN PROGRESS**
+## REWRITING IN PROGRESS
 
 <!-- markdownlint-disable MD053 -->
 <!-- Items -->
