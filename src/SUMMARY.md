@@ -10,6 +10,7 @@
 - [Boktai 2](./zoktai.md)
   - [Any%](./zoktai/any.md)
 - [Boktai 3](./shinbok.md)
+  - [Any%](./shinbok/any.md)
 - [Lunar Knights]() <!-- markdownlint-disable-line no-empty-links -->
 - [Kura5]()         <!-- markdownlint-disable-line no-empty-links -->
 - [Resources](./resources.md)
