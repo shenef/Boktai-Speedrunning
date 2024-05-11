@@ -9,4 +9,4 @@ If you want to contribute, feel free to join our [Discord](https://discord.gg/0d
 
 ## Index
 
-{{#include SUMMARY.md:5:}}
+{{#include SUMMARY.md:6:}}
