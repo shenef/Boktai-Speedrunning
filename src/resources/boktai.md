@@ -40,5 +40,5 @@ Enemies & Bosses (HP, Damage, Weaknesses, etc)
 Various savestates for practicing / checking stuff  
 <https://drive.google.com/drive/folders/1wFYBgWWnCDt0aHlwtN4hz76q-jXP-GAm>
 
-Boss Fight Times Leaderbard  
+Boss Fight Times Leaderboard  
 <https://docs.google.com/spreadsheets/d/1deyb5DFe7ALD-8-PNV14nNnPfWPeJAnva_vbZoatuAw/edit#gid=0>

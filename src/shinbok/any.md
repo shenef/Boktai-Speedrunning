@@ -114,7 +114,7 @@ On Map screens you can use the shoulder buttons navigate quickly.
 
 **Solar Bank | Dark Loans**
 
-- Widthdraw all the money from the Solar Bank _(500 solls)_.
+- Withdraw all the money from the Solar Bank _(500 solls)_.
 
 **Clock Tower**
 
@@ -378,7 +378,7 @@ Open the menu and:
 - Use a ![][icon_banana] Banana.
 
 Take the elevator and start going back to th entrance of the dungeon.  
-Use the grown plant ouside as a shortcut, then go back inside the tree and take the ↘️ path.  
+Use the grown plant outside as a shortcut, then go back inside the tree and take the ↘️ path.  
 Set sunlight to max, put the coffin on the first weight switch, then use ![][icon_dash] Dash to step on the other one.
 
 Grab the coffin and go through the ↗️ gate, use another ![][icon_banana] Banana after the current one runs out.
@@ -395,7 +395,7 @@ Go through the ↘️, ↗️ paths, then walk on the grown plant & the iron blo
 
 You can reach the moving platform without using another ![][icon_banana]banana, so wait until you've reached the other side before using another one.
 
-Then proceed in the ↖️ direction twice (watch out for the centripede), then ↙️ twice and ↖️ again to go outside.
+Then proceed in the ↖️ direction twice (watch out for the centipede), then ↙️ twice and ↖️ again to go outside.
 
 Use the grown plant as a shortcut, stay on the left to prevent the bulb from exploding.
 Take the ↘️ and ↗️ paths to go back inside the tree.
@@ -440,7 +440,7 @@ _Note: unlike Dark Trans, the timing when pressing B matters. Sol Trans has the 
 ## White Forest
 
 After the dialog, proceed in the ↗️ & ↖️ directions.  
-Enter the cave andreach the end to get ![][icon_bomber_frame] Bomber Frame.
+Enter the cave and reach the end to get ![][icon_bomber_frame] Bomber Frame.
 
 Then go back, and after exiting the cave, take the ↘️ & ↗️ paths.
 
