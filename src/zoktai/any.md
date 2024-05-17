@@ -2,14 +2,14 @@
 
 ## About this guide
 
-This guide assumes you are playing on the japanese 1.0 release of Boktai 2.  
+This guide assumes you are playing on the Japanese 1.0 release of Boktai 2.  
 It will likely work fine for other releases but some strategies like RNG manipulation will need different timings.  
 Directions for paths and exits will use ↖️, ↗️, ↙️ and ↘️.
 
 ### Terminology
 
 - RNG manip: Short for "Random Number Generator Manipulation". Used to influence the randomness within the game to make things happen that are normally reliant on chance.
-- Soft reset: Pressing A + B + Start & Select at the same time reboots the game. This is useful for RNG manips and is faster when loading a save after a death.
+- Soft reset: Pressing A + B + Start & Select at the same time reboots the game. This is useful for RNG manip and can be used to skip dragging coffins back to town.
 - STRG and AGIL: Strength and Agility. The third and fourth status point options. They influence your physical damage, movement speed and defense.
 
 ## Exp table
@@ -46,7 +46,7 @@ Set the system time to August 1st 2004 at 11:55PM (2004/08/01 23:55):
 
 Use the default region selection.
 
-Select new Game and enter the password for the "Dark Boy" title.  
+Select New Game and enter the password for the "Dark Boy" title.  
 This title grants +2 STRG, +2 AGIL, a ![][icon_power_nut] Power Nut and a ![][icon_bearnut] Bearnut.
 
 Use the characters to the left of the numbers:
@@ -59,8 +59,7 @@ Timing starts when confirming your settings.
 
 ## Tutorial
 
-After the intro, open the menu and change the text speed to Fast:  
-![](./assets/images/text_speed.webp)
+After the intro, progress through the linear route until you run into the trap.
 
 ### <span class="trap">Skeleton Trap</span>
 
@@ -68,6 +67,8 @@ After the intro, open the menu and change the text speed to Fast:
 - Backtrack and hit the Skeleton from behind to reach **Lvl 2**.
 
 Proceed through the ↖️ exit, then open the next green chest for a ![][icon_leather_armor] Leather Armor.  
+Open the menu and change the text speed to Fast:  
+![](./assets/images/text_speed.webp)  
 Unequip your current armor (less defense, faster walking speed).
 
 ### <span class="trap">Zombie Trap</span>
@@ -111,7 +112,7 @@ In the 5th room, knock on the fifth wall block in the center of the room, then r
 
 In the remaining basement rooms, use ![][icon_flame] Flame with ![][icon_gladius] Sword to light torches and ![][icon_club] Club to activate levers.
 
-Push the Blocks as shown here, then touch the lamp:  
+Push the blocks as shown here, then touch the lamp:  
 ![](./assets/images/basement_puzzle.webp)
 
 After leaving the basement, put all stat points into STRG.
@@ -126,7 +127,7 @@ Open the chest for the ![][icon_yellow_orb] Yellow Orb and proceed through the b
 
 Knock on the central wall to lure the Ghoul, then open the chest for a ![][icon_warp_leaf] Warp Leaf and proceed.  
 Break and move the wooden blocks to get the ![][icon_triangle_key] key, then light the torch and place the ![][icon_yellow_orb] Yellow Orb.  
-Refill life if under 50% and refill energy to at least 70% before leaving the room.
+Refill life if under 50% and refill energy to at least 80% before leaving the room.
 
 Backtrack to the trap room and kill a Ghoul, then proceed through the top ↘️ exit.
 
@@ -248,19 +249,19 @@ Unequip armor if you had it equipped for the trap.
 Put all stat points into STRG.
 
 Use no element to kill the Yellow Slimes, they have high elemental resistances.  
-Refill health to at least 80%.  
+Refill health on the Yellow Slime corpses as they die, so that you can pick up a ![][icon_power_nut] Power Nut if one drops.  
 Go ↖️ to push a block, then **TURN OFF SUNLIGHT** before proceeding through the ↗️ exit, or Solar Wind will kill you.
 
 Light the torch with ![][icon_flame] Flame and proceed.
 
 During the dialog, choose the first option.  
-Backtrack to go outside, then proceed down the stairs.
+Backtrack to go outside, then refill health before proceeding down the stairs.
 
 Extinguish the flame with ![][icon_frost] Frost to proceed.  
 Push the block, then proceed through the ↖️ exit.
 
 Use ![][icon_flame] Flame to melt the blocks.  
-Open the top chest for a ![][icon_power_nut] Power Nut.
+If you did not get a random drop from the Yellow Slimes, open the top chest for a ![][icon_power_nut] Power Nut.
 
 Use ![][icon_frost] Frost to make the floating block fall, then refill life/energy to 100% on the skylight.
 
@@ -294,10 +295,10 @@ In the next room, push the floating block with sword and ![][icon_cloud] Cloud �
 
 In the newly-unlocked room, destroy the stone block with ![][icon_cloud] Cloud to get the ![][icon_triangle_key] key.  
 Backtrack to the previous room and push the block on the left, proceed through the ↖️ exit.  
-Break the stone block on the way with ![][icon_cloud] Cloud, then select ![][icon_flame] Flame.
+Break the stone block on the way with ![][icon_cloud] Cloud, then select ![][icon_sol] Sol.
 
 Open the door and kill the Yellow Slime.  
-Refill to at least 60% energy (allows you to wait and see if the Yellow Slimes drop a ![][icon_power_nut] Power Nut).  
+Refill energy to >50% on the Yellow Slime corpses as they die, so that you can pick up a ![][icon_power_nut] Power Nut if one drops.  
 Proceed through the ↘️ exit and push the block.  
 Backtrack outside and take the stairs, then proceed through the ↘️ exit.
 
@@ -322,8 +323,8 @@ Proceed through the immediate ↙️ exit.
 In the room with the flame jet, use ![][icon_flame] Flame on the Mummy to activate the torch, then proceed up the stairs.  
 Avoid the Yellow Slimes and open the blue chest for a ![][icon_triangle_key] key.
 
-Backtrack downstairs and proceed through the ↙️ exit.  
-Push the block, refill energy on the Solar Station and proceed through the ↘️ exit.
+Backtrack downstairs and refill life/energy before proceeding through the ↙️ exit.  
+Push the block and proceed through the ↘️ exit.
 
 Open the ↗️ door and proceed.
 
@@ -337,9 +338,9 @@ Open all the chests for a ![][icon_circle_key] key, the ![][icon_dynamite] Dynam
 Use a ![][icon_solar_nut] Solar Nut.  
 Backtrack to the first room by proceeding through the ↙️ exits.
 
-Kill two Clay Golems with ![][icon_cloud] Cloud and proceed through the ↘️ exit.
+Kill all four Clay Golems with ![][icon_cloud] Cloud and proceed through the ↘️ exit.
 
-Kill another Clay Golem with ![][icon_cloud] Cloud and proceed in the same direction.
+Kill both Clay Golems with ![][icon_cloud] Cloud and proceed in the same direction.
 
 Open this hidden chest for a ![][icon_warp_leaf] Warp Leaf, then open the door:  
 ![](./assets/images/remains_leaf_chest_1.webp)
@@ -359,14 +360,15 @@ You must now find three ![][icon_stone_tablet] Stone Tablets that are in fixed s
 ![](./assets/images/desert_8.webp "サボテンの工の下 / Under the cactus king")
 
 Begin on the southwest screen (first image) and proceed counter-clockwise.  
-On the south screen (second image) kill a Clay Golem with ![][icon_cloud] Cloud to reach **Lvl 11**.
+On the south screen (second image) kill a Clay Golem with ![][icon_cloud] Cloud to reach **Lvl 11**.  
+If you already have two ![][icon_stone_tablet] Stone Tablets by this point, proceed ↗️ to the central screen and interact with the statue to check where the remaining tablet is.
 
 When you have all three tablets, proceed to the central screen and talk to the statue on the left:  
 ![](./assets/images/desert_end.webp)
 
 Proceed into Remains B.
 
-Open this hidden chest for a ![][icon_power_nut] Power Nut:  
+If you do not currently have two ![][icon_power_nut] Power Nuts in the inventory, open this hidden chest:  
 ![](./assets/images/remains_power_chest.webp)
 
 ### <span class="puzzle">Torch Puzzle</span>
@@ -447,54 +449,47 @@ Raise AGIL to 25.
 Buy the ![][icon_elefan] Elefan coffin (160 solls).  
 Proceed to the piledriver screen.
 
-Kill the two Dark Roots on the right with ![][icon_dark] Dark, then leave **through the way you came in.**  
-Backtrack to the piledriver screen and repeat this until you reach **Lvl 15**.
-
-- Use sword until your sword skill reaches 8, then switch to spear to farm the Dark Roots.
-
-Put all stat points into STRG.
+Kill the two Dark Roots on the right with spear and ![][icon_dark] Dark, then leave **through the way you came in.**  
+Backtrack to the piledriver screen and kill **thirty-four** more Dark Roots this way.  
+You should reach **Lvl 15** during this grind.
 
 Proceed through the ↘️ exit and break the two blocks to the south.  
-Kill the southern Dark Root with spear and ![][icon_dark] Dark, then proceed through the furthest ↗️ exit.
+Kill the southern Dark Root with sword and ![][icon_dark] Dark, then proceed through the furthest ↗️ exit.
 
 ## Dark City
 
 Open the first chest for a ![][icon_sunscreen] Sunscreen.  
+Put all stat points into STRG.  
 After leaving the room, proceed through the ↗️ exit, then go around and proceed through the ↘️ narrow passage.
 
 Proceed through the ↙️ exit, then the last exit at the bottom.  
 Proceed through the ↗️ exit, then again in the same direction.
 
-In the room with the Zombies, open this hidden chest:  
-![](./assets/images/city_chest_1.webp)
+In the room with the Zombies, proceed through the ↖️ exit.
 
 After the cutscene, refill life with moonbugs.  
-Go through the ↙️ narrow passage, break the wooden block, then push the iron block.  
-Backtrack through the narrow passage and proceed through the ↖️ exit.
+Proceed through the ↖️ exit.
 
 Proceed through the second door, use ![][icon_mouse] Mouse to proceed and activate the lever, then take the stairs.
 
-Attack the Green Slime in your way whilst facing ↙️ to push it against the wall and run past it.  
+Kill both Green Slimes with sword for EXP.   
 Proceed through the ↙️ exit, then take the stairs.  
 Use ![][icon_bat] Bat to go through the window.
 
-In the room with the three Gusts, fly into the center of the room before un-transforming.  
-Take a couple of steps to distract the Gusts and cluster them in the center of the room.  
-Kill them whilst using no element, **take great care on these packs as you will die very easily.**
+Un-transform immediately and proceed through the ↙️ exit.  
 
-Use ![][icon_mouse] Mouse on the elevator and proceed through the mousehole.  
+Use ![][icon_mouse] Mouse on the elevator and proceed through the ↗️ mousehole.  
 Attack the Green Slime to push it away from the wall, then proceed through the ↘️ exit and push the block.
 
 Backtrack, then take the elevator without being shapeshifted.  
 Use ![][icon_bat] Bat to go over the water and proceed through the ↖️ door.
 
-Knock on the central wall to distract the Gusts, then use ![][icon_bat] Bat to fly to the ![][icon_circle_key] key without taking footsteps.  
-Kill the Gusts using no element to reach **Lvl 16**.
+Open the blue chest for a ![][icon_circle_key] key, then leave the room.
 
 Backtrack and proceed through the ↘️ exit, then through the first ↗️ door.  
-Proceed upstairs and open the locked ↘️ door.
+Proceed upstairs, kill both Green Slimes with sword and open the locked ↘️ door.
 
-Kill the two Gusts, then proceed down the ↙️ stairs.  
+Kill the two Gusts with sword to reach **Lvl 16**, then proceed down the ↙️ stairs.  
 Once outside, proceed through the ↖️ exit nearby.  
 Use ![][icon_bat] Bat to go over the water, then proceed through the ↗️ door.
 
@@ -502,9 +497,6 @@ Refill energy on the Solar Station, then use ![][icon_bat] Bat on the elevator a
 Proceed through the first exit, then go downstairs and through the ↘️ door to push a block.
 
 Backtrack inside but do not take the stairs, proceed through the ↙️ exit instead.
-
-Open this hidden chest on the way:  
-![](./assets/images/city_chest_2.webp)
 
 Use ![][icon_bat] Bat to go over the water and switch trap, then open the chest for a ![][icon_circle_key] key.
 
@@ -517,12 +509,11 @@ Go left and proceed through the last exit.
 Un-transform immediately, then hug the left wall to go behind the Gust.  
 Knock on the wall after passing the first corner to distract the second Gust, then hug the left wall and knock on the wall inside the skylight to cluster all three.
 
-Get the ![][icon_circle_key] key and open this hidden chest:  
-![](./assets/images/dark_room_chest.webp)
+Open the blue chest for a ![][icon_circle_key] key.
 
-When all of the Gusts are in the skylight, enable 9 sunlight to deal 270 damage to them, then immediately disable sunlight.  
-Finish them off to reach **Lvl 17** before exiting through the window.  
-If something went wrong with your sunlight setup and the Gusts instantly died, you can farm on the Green Slime through the ↗️ exit to make up the missing EXP.
+When all of the Gusts are in the skylight, enable 9 sunlight to deal 270 damage to them, then immediately disable sunlight before using sword to finish them off.  
+Use ![][icon_bat] Bat to proceed through the ↖️ window.  
+If you accidentally killed the Gusts with sunlight, kill the Green Slime through the ↗️ exit **eight times** to make up the missing EXP.
 
 Proceed through the first exit, then go downstairs and through the ↘️ door to push another block.  
 Backtrack and take the elevator, proceed through the ↙️ exit, then go ↘️ and ↗️ to unlock the next door.
@@ -565,21 +556,21 @@ Get at least two GREATs to guarantee an SP weapon.
 If every hit is a GREAT, you will increase the frame window from 8 to 12.  
 If the start of forge was timed correctly, the resulting weapon will become a ![][icon_katana] Katana SP.
 
-Backtrack through the ↘️↗️↗️ exits to Dark City.
+Backtrack through the ↘️↗️↗️ exits to Dark City.  
+If the EXP route has been followed correctly, you will reach **Lvl 17** by this point.  
+
+**Do not proceed if you have not reached this level yet**, kill Dark Roots/Yellow Slimes to reach **Lvl 17** or you will be unable to equip the ![][icon_katana] Katana.
 
 ## Dark City (2)
 
-Take the magic circle and unlock the door, open this hidden chest:  
-![](./assets/images/city_chest_3.webp)
+Take the magic circle and unlock the ↗️ door.
 
 In the room with Gusts, take the stairs, then proceed through the ↘️ exit.
 
-Open this hidden chest:  
-![](./assets/images/city_chest_4.webp)
+In the next room, use ![][icon_bat] Bat to go through the window on the left, then keep using ![][icon_mouse] Mouse, go to the right (across the wood), then use ![][icon_bat] Bat to go through the last window.  
+**Push the wooden block to open the path before proceeding through the ↗️ door.**  
 
-In the next room, use ![][icon_bat] Bat to go through the window on the left, then keep using ![][icon_mouse] Mouse, go to the right (across the wood), then use ![][icon_bat] Bat to go through the last window.
-
-Do not push the block, just proceed through the ↗️ exit and continue downstairs.  
+Continue downstairs, ignore all enemies.  
 Refill life/energy before entering the boss fight.
 
 ### <span class="boss">Red Durathror</span>
@@ -593,26 +584,19 @@ Refill life/energy before entering the boss fight.
 - 3rd phase:
   - Hit once with no element, then once with ![][icon_dark] Dark to end each cycle quickly.
   - Hit her right as she spawns to cancel her attacks.
-- You should reach **Lvl 18** after this fight.
-
-Proceed through the ↗️ exit for a ![][icon_red_card] card if you need money.
 
 Drag the coffin and solve the puzzles.  
-After solving the puzzle with 2 wooden blocks, leave the coffin behind and proceed alone.
-
-Avoid the Bandits outdoors and proceed through the last ↖️ exit.  
-Attack the Green Slime to move it and bypass it safely, then proceed down the ↙️ staircase.  
-Damage boost through the Zombies to proceed through the next two rooms.  
-Stand on the platform and use Hammer to activate the lever.
+After solving the puzzle with 2 wooden blocks, leave the coffin behind and proceed up the ↗️ staircase.
 
 Use a ![][icon_warp_leaf] Warp Leaf to leave the dungeon.
 
 Proceed through the southern ↖️ exit to go to the piledriver screen.  
+You should reach **Lvl 18** by the time you reach this point.  
 **Do not enter the piledriver screen through the northern entrance or you will softlock the game.**
 
 Leave the piledriver screen through the same exit, save the game and soft reset (A+B+Start+Select).
 
-Set the system time to 2004/08/31 22:00.  
+Set the system time to 2004/08/31 19:00.  
 The coffin is now in the piledriver screen.
 
 ### <span class="purification">Red Durathror Purification</span>
@@ -628,11 +612,12 @@ Choose the second dialog option after the purification.
 
 Go to Lita’s shop:
 
-- Sell your ![][icon_red_card] ![][icon_green_card] cards and ![][icon_bearnut] Bearnut.
 - Buy:
-  - 1 ![][icon_warp_leaf] Warp Leaf
-  - 1 ![][icon_power_nut] Power Nut
   - 2 ![][icon_speed_nut] Speed Nuts
+  - 1 ![][icon_power_nut] Power Nut
+  - 2 ![][icon_warp_leaf] Warp Leaves
+- Sell your ![][icon_red_card] ![][icon_green_card] cards and ![][icon_bearnut] Bearnut.  
+  - **Do not sell ![][icon_blue_card] The Tower **(塔)** if it is in your inventory.**  
 
 Go to Cheyenne’s shop and talk to him to get the ![][icon_dash] Dash magic.  
 **Use this for movement whenever possible.**
@@ -640,7 +625,7 @@ Go to Cheyenne’s shop and talk to him to get the ![][icon_dash] Dash magic.
 Equip ![][icon_dash] Dash, ![][icon_transform] Transform, ![][icon_sol] Sol and ![][icon_dark] Dark.  
 Go outside and talk to Violet to trigger Nero, then follow him.
 
-Open this hidden chest for a fourth ![][icon_warp_leaf] Warp Leaf:  
+Open this hidden chest for a fifth ![][icon_warp_leaf] Warp Leaf:  
 ![](./assets/images/san_miguel_chest.webp)
 
 Follow Nero through the ↖️ exit.  
@@ -673,9 +658,10 @@ Backtrack to Dark City, go through the piledriver screen on the way and kill all
 
 Pick up the ![][icon_sunscreen] Sunscreen in the first main room.
 
-Proceed through the ↗️ exit, go past the iron block, then proceed through the door and take the platform.
+Take the magic circle and proceed through the ↗️ door.
 
-After the rooms with Zombies, proceed through the ↗️ exit.  
+Proceed back to where you fought Durathror, then backtrack along the route you took the coffin through.
+
 Once outside, proceed through the first entrance.
 
 ### <span class="puzzle">Element Puzzle</span>
@@ -709,8 +695,8 @@ Now use ![][icon_cloud] Cloud on the other block:
 
 Use spear and ![][icon_frost] Frost to lower both blocks at once.
 
-Equip ![][icon_sol] Sol, ![][icon_mouse] Mouse, ![][icon_transform] Transform and ![][icon_dash] Dash.  
-Use both of your ![][icon_solar_nut] Solar Nuts to refill energy, then proceed up the stairs.
+Use both of your ![][icon_solar_nut] Solar Nuts to refill energy.  
+Equip ![][icon_sol] Sol, ![][icon_mouse] Mouse, ![][icon_transform] Transform and ![][icon_dash] Dash, then proceed up the stairs.
 
 Use ![][icon_sol] Sol to kill the Gusts as shown in the below video, whilst using ![][icon_mouse] Mouse to go through the ↗️ mousehole.  
 Open the chest for a ![][icon_black_card] Tarot Card.  
@@ -749,10 +735,6 @@ Open the door, then proceed.
 
 - Use Red Django, no element and sword.
 
-Proceed, on the way open these hidden chests for items:  
-![](./assets/images/aqueduct_1.webp)
-![](./assets/images/aqueduct_2.webp)
-
 ### <span class="trap">Octopi Trap</span>
 
 - Use ![][icon_flame] Flame, after the fight refill life/energy on the skylight.
@@ -763,6 +745,7 @@ Proceed, on the way open these hidden chests for items:
 - Equip ![][icon_leather_armor] Leather Armor.
 - Use Black Django and ![][icon_dark] Dark.
 - Walk into the center of the room to cluster them, then kill all three at the same time.
+- You should reach **Lvl 22** after this fight.
 
 Refill life/energy and put all stat points into STRG before entering the boss.
 
@@ -773,14 +756,14 @@ Refill life/energy and put all stat points into STRG before entering the boss.
 - When she charges you, time your hit so that it cancels her attack.
 - You can hit the oil bullets with ![][icon_flame] Flame to destroy them before they land.
 - If she’s at 1 HP and far away, shoot her with ![][icon_elefan] Elefan coffin (Black Django and ![][icon_sleep] Sleeping).
-- You should reach **Lvl 22** after this fight.
+- You should reach **Lvl 23** after this fight.
 
-After the boss fight, use a ![][icon_warp_leaf] Warp Leaf to leave.
+Use a ![][icon_warp_leaf] Warp Leaf to leave, then backtrack to San Miguel.
 
 ## San Miguel (5)
 
 Go into the clockhouse and talk to the NPC.  
-Keep talking, then change the system time to 2004/09/30 22:xx.
+Keep talking, then change the system time to 2004/09/30.
 
 Proceed to the piledriver screen.
 
@@ -809,10 +792,12 @@ On the way, step on the switch to open a gate for Django, then proceed.
 Step on the switch outside, then use the magic circle to switch back to Django.
 
 Upon gaining control of Django, hold Right on the D-pad WITHOUT using ![][icon_dash] Dash, with the ![][icon_leather_armor] Leather Armor equipped you will consistently dodge the Black Slime.  
-Proceed upstairs to go outside, step on the switch and take the elevator.  
-In the first room with Cockatrices, replace ![][icon_sol] Sol with ![][icon_earth] Earth, then use it to kill both of them and open the chest on the south end of the room for a ![][icon_warp_leaf] Warp Leaf.  
+Proceed upstairs twice.  
+In the first room with Cockatrices, replace ![][icon_sol] Sol with ![][icon_earth] Earth, then use it to kill both of them for EXP.  
 In the second room with Cockatrices, proceed through the ↘️ exit, then re-enter the room.  
-Knock on the upper pillar to attract all three Cockatrices, then kill them all with ![][icon_earth] Earth to reach **Lvl 24.**
+Knock on the upper pillar to attract all three Cockatrices, then kill them all with ![][icon_earth] Earth to reach **Lvl 24.**  
+Proceed through the ↘️ exit and step on the switch to activate the elevator.  
+Put all stat points into STRG and take the elevator.
 
 ### <span class="trap">Sword+ Trap</span>
 
@@ -823,11 +808,11 @@ Possible change: use card manip on the chest to get ![][icon_blue_card] The Towe
 
 Proceed through the ↖️ exit.  
 If you have ![][icon_blue_card] The Tower **(塔)** in your inventory, use ![][icon_mouse] Mouse to go through the ↗️ mousehole and pick up a ![][icon_bearnut] Bearnut.  
-Once outside, take the stairs.
+Once outside, take the stairs and proceed ↗️ indoors.
 
 Put all stat points into STRG.  
 Replace ![][icon_earth] Earth with ![][icon_sol] Sol and use it to kill the first Leys once you get indoors.  
-Avoid the Stone Golems and proceed through the ↘️ exit, then activate the lever and switch to Sabata.
+Avoid the Stone Golems and proceed through the ↘️ exit, then activate the lever with spear and switch to Sabata.
 
 Use a ![][icon_speed_nut] Speed Nut as soon as you gain control.  
 Take the elevator, then proceed upstairs at the bottom of the room.  
@@ -836,19 +821,16 @@ Kill the Ghoul to get a key and open the door.
 **Before going outside, make sure you have some energy.**  
 Once outside, shoot the lever and use the magic circle to switch back to Django.
 
-As Django, take the elevator, then proceed through the ↘️ exit.
+As Django, refill energy whilst taking the elevator, then proceed through the ↘️ exit.
 
 Activate levers and switch characters during this puzzle to activate the brown lever.  
 During Sabata's segments, use a charge attack to hit the closest grey lever and minimise movement.
 
-Push the block and backtrack inside, then activate the lever to free Sabata.
+Push the block and backtrack inside, then activate the lever to free Sabata.  
+Proceed through the ↖️ exit, then replace ![][icon_sol] Sol with ![][icon_rising_sun] Rising Sun and use it to skip the bomb puzzle. (Your energy must be at 100% to use this)
 
-### <span class="puzzle">Bomb Puzzle</span>
-
-Activate the first switch when the Mummy is near its spot, then activate the other switches in order after the first bomb detonates:  
-![](./assets/images/mummy_switches.webp)
-
-Open the door to proceed, take the stairs, then proceed through the ↘️ exit to go outside.  
+Open the blue chest for a key, then proceed through the ↘️ door.  
+Take the stairs, then proceed through the ↘️ exit to go outside.  
 Use ![][icon_bat] Bat to avoid falling off the platform and activate the switch.  
 **If no armor is equipped, the flame jets will easily kill you.**  
 Backtrack inside and proceed upstairs.
@@ -882,18 +864,17 @@ For instance, 北2 東4 means North 4, East 2, NOT North 2, East 4.
 - Use Black Django and ![][icon_dark] Dark.
 - You should reach **Lvl 26** after this fight.
 
-Open the chest afterwards for a random card.  
 Backtrack inside and proceed upstairs until you take an elevator.  
 The outdoors screen has solar wind that will push you if using sunlight.  
-Use the solar walkway to go straight to the next elevator if you don't need the following items.
+Use the solar walkway with <=8 Sunlight to go straight to the next elevator if you don't need the following items.
 
 If you do, open these chests for items (![][icon_jerky] ![][icon_solar_nut] ![][icon_warp_leaf] ![][icon_tasty_meat]) before taking the elevator at the north side of the room:  
 ![](./assets/images/spiral_chests_1.webp)
 ![](./assets/images/spiral_chests_2.webp)
 
 Equip ![][icon_dash] Dash, ![][icon_sol] Sol, ![][icon_frost] Frost and ![][icon_cloud] Cloud.  
-Use ![][icon_sol] Sol to kill the Leys, activate the lever, then kill the Leys again.  
-Push the block and farm Leys for EXP if you did not already reach **Lvl 27.**  
+Use ![][icon_sol] Sol to kill the Leys, activate the lever, then kill the Leys again to reach **Lvl 27.**  
+Push the block and farm Leys for EXP if you did not reach this level.  
 Proceed downstairs, put all stat points into STRG, then use a ![][icon_power_nut] Power Nut to do the puzzle.
 
 Push the left block ↘️, then the other block ↙️↘️ so that they’re next to each other:  
@@ -931,7 +912,6 @@ Push the floating block with ![][icon_cloud] Cloud, then open the last chest for
 ![](./assets/images/magic_sword_block.webp)
 ![](./assets/images/magic_sword_chest.webp)
 
-Kill the Mimic directly next to you.  
 Put all stat points into STRG.  
 Use a ![][icon_warp_leaf] Warp Leaf to leave.
 
@@ -960,8 +940,7 @@ Go to Lita’s shop, sell all items except for one ![][icon_sunscreen] Sunscreen
 
 Go to Cheyenne’s shop and buy a ![][icon_bardiche] Bardiche, then equip it.
 
-Equip ![][icon_dynamite] Dynamite, ![][icon_cloud] Cloud, ![][icon_dash] Dash and ![][icon_frost] Frost.  
-Put all stat points into STRG.  
+Equip ![][icon_dynamite] Dynamite, ![][icon_cloud] Cloud, ![][icon_dash] Dash and ![][icon_frost] Frost.   
 Backtrack ↗️ to Spiral Tower.
 
 ## Undead Zone B1
@@ -1007,12 +986,15 @@ Open the blue chest for a ![][icon_circle_key] key, use it on the other door to 
 
 Equip ![][icon_dash] Dash, ![][icon_flame] Flame, ![][icon_earth] Earth and ![][icon_dynamite] Dynamite.  
 Put all stat points into STRG.  
-Proceed through the ↘️ exit, light all the torches to open the gate.
+Proceed through the ↘️ exit.  
+
+Use ![][icon_dynamite] Dynamite by the first torch.  
+Knock on the central wall to lure the Skeleton Fencer, then use ![][icon_flame] Flame to light the other torches to open the gate.
 
 In the third dark room, light the torches on the moving platforms with spear and ![][icon_flame] Flame.  
 Have <=8 sunlight to enable the solar walkways in the next room.
 
-Use ![][icon_dynamite] Dynamite on the wall here in this room:  
+Use ![][icon_dynamite] Dynamite on the wall here in this room and proceed through the new ↖️ exit:  
 ![](./assets/images/garb_of_darkness_room.webp)
 
 Get the ![][icon_garb_of_darkness] Garb of Darkness armor, then equip it and ![][icon_magic_sword] Magic Sword.
@@ -1061,7 +1043,7 @@ Open the blue chest for a ![][icon_circle_key] key, then take the new platform a
 
 ## Undead Zone B4
 
-Refill energy on the Solar Station, then in the next room proceed through the ↘️ exit.
+Refill energy on the Solar Station, then proceed through the ↗️↘️ exits.
 
 ### <span class="puzzle">B4 Block Puzzle</span>
 
@@ -1154,6 +1136,7 @@ Time ends when Jormungandr's life bar reaches zero during this final charge.
 [icon_dash]: ./assets/images/icons/icon_dash.webp
 [icon_dynamite]: ./assets/images/icons/icon_dynamite.webp
 [icon_grow]: ./assets/images/icons/icon_grow.webp
+[icon_rising_sun]: ./assets/images/icons/icon_rising_sun.png
 [icon_transform]: ./assets/images/icons/icon_transform.webp
 [icon_bat]: ./assets/images/icons/icon_bat.webp
 [icon_mouse]: ./assets/images/icons/icon_mouse.webp
