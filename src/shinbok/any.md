@@ -86,42 +86,45 @@ Set the sunlight to 0.
 
 ## San Miguel
 
-### Django's House
+**Django's House**
 
-- Talk to Violet & choose the first option for less text.
+- Talk to Violet & choose the first option.
 - <span class="safety">Safety strat:</span> Get the ![][icon_luna_lens] Luna Lens near the doll on the left.</span>
 
-### Solar Smith
+Leave the house and visit the following places.  
+On Map screens you can use the shoulder buttons navigate quickly.
+
+**Solar Smith**
 
 - Talk to the first panel on the left.
 - Talk to Smith.
 
-### Weapon Shop
+**Weapon Shop**
 
 - Talk to Cheyenne to get ![][icon_dash] Dash magic.
 - Buy ![][icon_estoc] Estoc & ![][icon_rapier] Rapier.
 
-### Library
+**Library**
 
 - Talk to Lady.
 
-### Inn
+**Inn**
 
 - Talk to Zazie twice to get the ![][icon_dark_loans_card] Dark Card.
 
-### Solar Bank | Dark Loans
+**Solar Bank | Dark Loans**
 
 - Widthdraw all the money from the Solar Bank _(500 solls)_.
 
-### Clock Tower
+**Clock Tower**
 
 - Talk to Eliot (old man with glasses).
 
-### Garage
+**arage**
 
 - Talk to the guy in the back.
 
-### Item Shop
+**Item Shop**
 
 - Talk to Lita, then open all chests to get 2 ![][icon_earthly_nut] Earthly Nuts & 2 ![][icon_healer] Healers.
 - Sell the following items for money:
@@ -133,10 +136,13 @@ Set the sunlight to 0.
   - 1 ![][icon_tasty_meat] Tasty Meat
 - Buy 3 ![][icon_banana] Bananas & sort your inventory before closing the shop menu and leaving.
 
-### Accessory Shop
+**Accessory Shop**
 
 - Buy ![][icon_iron_clogs] Iron Clogs & ![][icon_crest_of_diamonds] Crest of Diamonds.
-- Before leaving open the chest to get the ![][icon_leather_armor] Leather Armor.
+- Before leaving, open the chest to get the ![][icon_leather_armor] Leather Armor.
+
+Now exit to the World Map and head to Lifeless Town.  
+You can check the Boktai 3 resource list for help with the Bike race.
 
 ## Lifeless Town
 
