@@ -30,6 +30,9 @@ MD033: false
 MD035:
   style: ---
 
+# no-emphasis-as-heading
+MD036: false
+
 # no-alt-text
 MD045: false
 
