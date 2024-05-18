@@ -450,7 +450,7 @@ Buy the ![][icon_elefan] Elefan coffin (160 solls).
 Proceed to the piledriver screen.
 
 Kill the two Dark Roots on the right with spear and ![][icon_dark] Dark, then leave **through the way you came in.**  
-Backtrack to the piledriver screen and kill **thirty-four** more Dark Roots this way.  
+Backtrack to the piledriver screen and kill **thirty-four** (34) more Dark Roots this way.  
 You should reach **Lvl 15** during this grind.
 
 Proceed through the ↘️ exit and break the two blocks to the south.  
@@ -472,11 +472,11 @@ Proceed through the ↖️ exit.
 
 Proceed through the second door, use ![][icon_mouse] Mouse to proceed and activate the lever, then take the stairs.
 
-Kill both Green Slimes with sword for EXP.   
+Kill both Green Slimes with sword for EXP.  
 Proceed through the ↙️ exit, then take the stairs.  
 Use ![][icon_bat] Bat to go through the window.
 
-Un-transform immediately and proceed through the ↙️ exit.  
+Un-transform immediately and proceed through the ↙️ exit.
 
 Use ![][icon_mouse] Mouse on the elevator and proceed through the ↗️ mousehole.  
 Attack the Green Slime to push it away from the wall, then proceed through the ↘️ exit and push the block.
@@ -557,7 +557,7 @@ If every hit is a GREAT, you will increase the frame window from 8 to 12.
 If the start of forge was timed correctly, the resulting weapon will become a ![][icon_katana] Katana SP.
 
 Backtrack through the ↘️↗️↗️ exits to Dark City.  
-If the EXP route has been followed correctly, you will reach **Lvl 17** by this point.  
+If the EXP route has been followed correctly, you will reach **Lvl 17** by this point.
 
 **Do not proceed if you have not reached this level yet**, kill Dark Roots/Yellow Slimes to reach **Lvl 17** or you will be unable to equip the ![][icon_katana] Katana.
 
@@ -568,7 +568,7 @@ Take the magic circle and unlock the ↗️ door.
 In the room with Gusts, take the stairs, then proceed through the ↘️ exit.
 
 In the next room, use ![][icon_bat] Bat to go through the window on the left, then keep using ![][icon_mouse] Mouse, go to the right (across the wood), then use ![][icon_bat] Bat to go through the last window.  
-**Push the wooden block to open the path before proceeding through the ↗️ door.**  
+**Push the wooden block to open the path before proceeding through the ↗️ door.**
 
 Continue downstairs, ignore all enemies.  
 Refill life/energy before entering the boss fight.
@@ -616,8 +616,8 @@ Go to Lita’s shop:
   - 2 ![][icon_speed_nut] Speed Nuts
   - 1 ![][icon_power_nut] Power Nut
   - 2 ![][icon_warp_leaf] Warp Leaves
-- Sell your ![][icon_red_card] ![][icon_green_card] cards and ![][icon_bearnut] Bearnut.  
-  - **Do not sell ![][icon_blue_card] The Tower **(塔)** if it is in your inventory.**  
+- Sell your ![][icon_red_card] ![][icon_green_card] cards and ![][icon_bearnut] Bearnut.
+  - **Do not sell ![][icon_blue_card] The Tower **(塔)** if it is in your inventory.**
 
 Go to Cheyenne’s shop and talk to him to get the ![][icon_dash] Dash magic.  
 **Use this for movement whenever possible.**
@@ -940,7 +940,7 @@ Go to Lita’s shop, sell all items except for one ![][icon_sunscreen] Sunscreen
 
 Go to Cheyenne’s shop and buy a ![][icon_bardiche] Bardiche, then equip it.
 
-Equip ![][icon_dynamite] Dynamite, ![][icon_cloud] Cloud, ![][icon_dash] Dash and ![][icon_frost] Frost.   
+Equip ![][icon_dynamite] Dynamite, ![][icon_cloud] Cloud, ![][icon_dash] Dash and ![][icon_frost] Frost.  
 Backtrack ↗️ to Spiral Tower.
 
 ## Undead Zone B1
@@ -986,7 +986,7 @@ Open the blue chest for a ![][icon_circle_key] key, use it on the other door to 
 
 Equip ![][icon_dash] Dash, ![][icon_flame] Flame, ![][icon_earth] Earth and ![][icon_dynamite] Dynamite.  
 Put all stat points into STRG.  
-Proceed through the ↘️ exit.  
+Proceed through the ↘️ exit.
 
 Use ![][icon_dynamite] Dynamite by the first torch.  
 Knock on the central wall to lure the Skeleton Fencer, then use ![][icon_flame] Flame to light the other torches to open the gate.
