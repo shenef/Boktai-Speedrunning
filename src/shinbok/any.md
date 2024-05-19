@@ -15,13 +15,13 @@ If playing on BizHawk, set Skip BIOS to FALSE and RTC to FALSE in the GBA Settin
 ![](./assets/images/emu_settings.webp)
 
 Set the system time to July 21st 2005 at 8PM (2005/08/21 20:00):  
-![](./assets/images/igt.png)
+![](./assets/images/igt.webp)
 
 ## Setting up the Grand Master password
 
 When making a new file, select the left option, then input the password.
 
-<img class="center smoothImage" src="./assets/images/grand_master_pw.png">
+<img class="center smoothImage" src="./assets/images/grand_master_pw.webp">
 
 Use the characters to the **right** of the numbers!
 
@@ -46,7 +46,7 @@ The prologue lasts a fixed amount of time, all you need to do is not die as Saba
 After the dialogs, open the chest next to the stairs to get a ![][icon_solar_nut] Solar Nut.
 
 Open the menu, change text speed to Fast and set markers to Off (press right once on the 2nd & 3rd options):  
-![](./assets/images/options_menu.png)
+![](./assets/images/options_menu.webp)
 
 Then go into the inventory, use a ![][icon_solar_nut] Solar Nut and a ![][icon_speed_nut] Speed Nut and proceed in the ↗️ direction.
 
@@ -68,7 +68,7 @@ Keep going until you reach the **"+-shaped room"**, take the ↘️ path and ste
 In the next room, break the first block with the ![][icon_gradius] Gradius and fall to reach the ↖️ path.
 
 Then instead of getting close to the lever, switch to ![][icon_wizard_frame] Wizard Frame and shoot to hit the lever from far away and skip an extra dialog, then proceed in the ↗️ direction.  
-![](./assets/images/sealed_dungeon_lever_dialog_skip.png)
+![](./assets/images/sealed_dungeon_lever_dialog_skip.webp)
 
 Keep going, and when you reach the room with klorofoluns, get the hidden ![][icon_speed_nut] Speed Nut on the side of the stairs before proceeding in the ↗️ direction.
 
@@ -79,7 +79,7 @@ Keep going, and when you reach the room with klorofoluns, get the hidden ![][ico
 - Go on the skylight on the right.
 - Aim up, and when the armor is aligned, keep shooting in rhythm to stunlock & prevent it from raising its shield until the trap is over. (approx time ~16.84s)
 - You are now **Lvl 4** _(12 => 136 EXP)_.  
-![](./assets/images/sealed_dungeon_armor_strat.png)
+![](./assets/images/sealed_dungeon_armor_strat.webp)
 
 After the trap proceed in the ↗️ direction to leave the dungeon.  
 Set the sunlight to 0.
@@ -166,7 +166,7 @@ Equip ![][icon_flame_lens] Flame Lens and shoot at the torch.
 
 <span class="safety">Safety strat:</span> Get the ![][icon_tasty_meat] Tasty Meat from Trinity.  
 <span class="safety">Safety strat:</span> Get the hidden ![][icon_jerky] Jerky in the ↘️ room, then go back to the previous room (Jerky doesn't perish over time and this one can be kept for endgame).  
-![](./assets/images/lifeless_town_hidden_jerky.png)
+![](./assets/images/lifeless_town_hidden_jerky.webp)
 
 Proceed in the ↗️ direction.
 
@@ -179,7 +179,7 @@ Proceed in the ↘️ direction.
 
 Take the upper-↖️ path and take the elevator on the left.  
 Open the green chest for the **Knuckle Guard** bike part.  
-![](./assets/images/lifeless_town_knuckle_guard_bike_part.png)
+![](./assets/images/lifeless_town_knuckle_guard_bike_part.webp)
 
 Leave the room and fall onto the spikes to reach the ↗️ room.  
 After the dialogs, open both chests to get a ![][icon_red_card] +4 stat card (400 solls) & the ![][icon_circle_key] Circle Key.
@@ -197,7 +197,7 @@ Take go through the ↘️ path & open the door to proceed in the ↗️ directi
 Keep going in the ↗️ direction.  
 In the room with mummies, proceed in the ↗️ direction, then ↖️ twice.  
 Open the green chest to get the ![][icon_hoop_frame] Hoop Frame.  
-![](./assets/images/lifeless_town_hoop_frame.png)
+![](./assets/images/lifeless_town_hoop_frame.webp)
 
 Go back and proceed in the ↘️ direction.  
 Lure the ghoul on the weight switch, go through the ↗️ gate, then ↖️.
@@ -210,7 +210,7 @@ Lure the ghoul on the weight switch, go through the ↗️ gate, then ↖️.
 Go through the yellow door, then take the ↘️ path.  
 After Otenko's dialogs, take the ↗️ path, then ↖️ twice.  
 Open the green chest to get the **Tire Trail** bike part.  
-![](./assets/images/lifeless_town_tire_trail_bike_part.png)
+![](./assets/images/lifeless_town_tire_trail_bike_part.webp)
 
 Go back once and proceed in the ↗️ direction to reach the boss room.
 
@@ -237,7 +237,7 @@ Once you get past the room where you fought the Armor (brown door), take the ↖
 
 - Go at the bottom of the piledriver and use ![][icon_wizard_frame] Wizard Frame to activate all of them in one shot. During the shot, walk and activate the piledriver as soon as all 4 of them have been hit to skip dialogs.
 - Start the purification and use ![][icon_hoop_frame] Hoop Frame until the end.  
-![](./assets/images/lifeless_town_purification_example.png)
+![](./assets/images/lifeless_town_purification_example.webp)
 - _(662 => 743 EXP)_
 
 ## San Miguel (2)
@@ -278,7 +278,7 @@ Go back, equip ![][icon_earth_lens] Earth Lens.
 Grow the first plan, then alternate between the other 2 plans. Start with the left one because the right one will end the mission once fully grown.
 
 Open the green chest on the left to get ![][icon_dragoon_frame] Dragoon Frame, then proceed in the ↗️ direction.  
-![](./assets/images/ancient_tree_dragoon_frame.png)
+![](./assets/images/ancient_tree_dragoon_frame.webp)
 
 Push the blocks on the weight switches and take the elevator to reach **3F** (if you were fast enough, the banana will still be effective).
 
@@ -341,7 +341,7 @@ Grow the plants to take the ↖️ path, then proceed through the ↙️ and ↖
 - In the next room, light the 5 torches (only ![][icon_fighter_frame] Fighter Frame allows you to light all 5 in one trip because of the delay between shots and the lack of recoil, you can also shoot the first torch by aiming to the left while on the platform).
 - Continue in the ↘️ direction twice.
 - Open the hidden blue chest to get the ![][icon_circle_key] Circle Key, then go back and open the door.  
-![](./assets/images/ancient_tree_hidden_circle_key.png)
+![](./assets/images/ancient_tree_hidden_circle_key.webp)
 
 After opening the door, proceed in the ↗️ direction.
 
@@ -413,7 +413,7 @@ _The banana effect should stop are the dialog begins._
 
 - Go at the bottom of the piledriver and use ![][icon_wizard_frame] Wizard Frame to activate all of them in one shot. During the shot, walk and activate the piledriver as soon as all 4 of them have been hit to skip dialogs.
 - Start the purification and use ![][icon_hoop_frame] Hoop Frame until the end.  
-![](./assets/images/lifeless_town_purification_example.png)
+![](./assets/images/lifeless_town_purification_example.webp)
 - During the purification do NOT avoid attacks & take damage on purpose, ideally you want to be at least in orange (40% Life).
 - _(1747 => 1879 EXP)_
 
@@ -454,57 +454,57 @@ Then go back, and after exiting the cave, take the ↘️ & ↗️ paths.
 
 <!-- markdownlint-disable MD053 -->
 <!-- Items -->
-[icon_earthly_nut]: ./assets/images/icons/icon_earthly_nut.png
-[icon_solar_nut]: ./assets/images/icons/icon_solar_nut.png
-[icon_speed_nut]: ./assets/images/icons/icon_speed_nut.png
-[icon_banana]: ./assets/images/icons/icon_banana.png
-[icon_tiptoe_nut]: ./assets/images/icons/icon_tiptoe_nut.png
-[icon_see_all_nut]: ./assets/images/icons/icon_see_all_nut.png
-[icon_tasty_meat]: ./assets/images/icons/icon_tasty_meat.png
-[icon_jerky]: ./assets/images/icons/icon_jerky.png
-[icon_healer]: ./assets/images/icons/icon_healer.png
-[icon_green_card]: ./assets/images/icons/icon_green_card.png
-[icon_red_card]: ./assets/images/icons/icon_red_card.png
+[icon_earthly_nut]: ./assets/images/icons/icon_earthly_nut.webp
+[icon_solar_nut]: ./assets/images/icons/icon_solar_nut.webp
+[icon_speed_nut]: ./assets/images/icons/icon_speed_nut.webp
+[icon_banana]: ./assets/images/icons/icon_banana.webp
+[icon_tiptoe_nut]: ./assets/images/icons/icon_tiptoe_nut.webp
+[icon_see_all_nut]: ./assets/images/icons/icon_see_all_nut.webp
+[icon_tasty_meat]: ./assets/images/icons/icon_tasty_meat.webp
+[icon_jerky]: ./assets/images/icons/icon_jerky.webp
+[icon_healer]: ./assets/images/icons/icon_healer.webp
+[icon_green_card]: ./assets/images/icons/icon_green_card.webp
+[icon_red_card]: ./assets/images/icons/icon_red_card.webp
 
 <!-- Magic -->
-[icon_dash]: ./assets/images/icons/icon_dash.png
-[icon_sol_trans]: ./assets/images/icons/icon_sol_trans.png
-[icon_dark_trans]: ./assets/images/icons/icon_dark_trans.png
+[icon_dash]: ./assets/images/icons/icon_dash.webp
+[icon_sol_trans]: ./assets/images/icons/icon_sol_trans.webp
+[icon_dark_trans]: ./assets/images/icons/icon_dark_trans.webp
 
 <!-- Equips / Accessories -->
-[icon_leather_armor]: ./assets/images/icons/icon_leather_armor.png
-[icon_iron_clogs]: ./assets/images/icons/icon_iron_clogs.png
-[icon_crest_of_diamonds]: ./assets/images/icons/icon_crest_of_diamonds.png
-[icon_plate_mail]: ./assets/images/icons/icon_plate_mail.png
+[icon_leather_armor]: ./assets/images/icons/icon_leather_armor.webp
+[icon_iron_clogs]: ./assets/images/icons/icon_iron_clogs.webp
+[icon_crest_of_diamonds]: ./assets/images/icons/icon_crest_of_diamonds.webp
+[icon_plate_mail]: ./assets/images/icons/icon_plate_mail.webp
 [icon_bracelet]: ./assets/images/icons/icon_bracelet.webp
 [icon_proof_of_shinobi]: ./assets/images/icons/icon_proof_of_shinobi.webp
 [icon_burning_headband]: ./assets/images/icons/icon_burning_headband.webp
 
 <!-- Swords -->
-[icon_gradius]: ./assets/images/icons/icon_gradius.png
-[icon_estoc]: ./assets/images/icons/icon_estoc.png
-[icon_rapier]: ./assets/images/icons/icon_rapier.png
-[icon_epee]: ./assets/images/icons/icon_epee.png
+[icon_gradius]: ./assets/images/icons/icon_gradius.webp
+[icon_estoc]: ./assets/images/icons/icon_estoc.webp
+[icon_rapier]: ./assets/images/icons/icon_rapier.webp
+[icon_epee]: ./assets/images/icons/icon_epee.webp
 
 <!-- Gun frames -->
-[icon_fighter_frame]: ./assets/images/icons/icon_fighter_frame.png
-[icon_wizard_frame]: ./assets/images/icons/icon_wizard_frame.png
-[icon_hoop_frame]: ./assets/images/icons/icon_hoop_frame.png
-[icon_bomber_frame]: ./assets/images/icons/icon_bomber_frame.png
-[icon_dragoon_frame]: ./assets/images/icons/icon_dragoon_frame.png
+[icon_fighter_frame]: ./assets/images/icons/icon_fighter_frame.webp
+[icon_wizard_frame]: ./assets/images/icons/icon_wizard_frame.webp
+[icon_hoop_frame]: ./assets/images/icons/icon_hoop_frame.webp
+[icon_bomber_frame]: ./assets/images/icons/icon_bomber_frame.webp
+[icon_dragoon_frame]: ./assets/images/icons/icon_dragoon_frame.webp
 
 <!-- Gun lenses -->
-[icon_sol_lens]: ./assets/images/icons/icon_sol_lens.png
-[icon_luna_lens]: ./assets/images/icons/icon_luna_lens.png
-[icon_flame_lens]: ./assets/images/icons/icon_flame_lens.png
-[icon_earth_lens]: ./assets/images/icons/icon_earth_lens.png
-[icon_frost_lens]: ./assets/images/icons/icon_frost_lens.png
-[icon_cloud_lens]: ./assets/images/icons/icon_cloud_lens.png
+[icon_sol_lens]: ./assets/images/icons/icon_sol_lens.webp
+[icon_luna_lens]: ./assets/images/icons/icon_luna_lens.webp
+[icon_flame_lens]: ./assets/images/icons/icon_flame_lens.webp
+[icon_earth_lens]: ./assets/images/icons/icon_earth_lens.webp
+[icon_frost_lens]: ./assets/images/icons/icon_frost_lens.webp
+[icon_cloud_lens]: ./assets/images/icons/icon_cloud_lens.webp
 
 <!-- Key items -->
-[icon_dark_loans_card]: ./assets/images/icons/icon_dark_loans_card.png
-[icon_solar_bike]: ./assets/images/icons/icon_solar_bike.png
-[icon_circle_key]: ./assets/images/icons/icon_circle_key.png
-[icon_triangle_key]: ./assets/images/icons/icon_triangle_key.png
-[icon_square_key]: ./assets/images/icons/icon_square_key.png
-[icon_cross_key]: ./assets/images/icons/icon_cross_key.png
+[icon_dark_loans_card]: ./assets/images/icons/icon_dark_loans_card.webp
+[icon_solar_bike]: ./assets/images/icons/icon_solar_bike.webp
+[icon_circle_key]: ./assets/images/icons/icon_circle_key.webp
+[icon_triangle_key]: ./assets/images/icons/icon_triangle_key.webp
+[icon_square_key]: ./assets/images/icons/icon_square_key.webp
+[icon_cross_key]: ./assets/images/icons/icon_cross_key.webp
