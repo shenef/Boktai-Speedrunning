@@ -1136,7 +1136,7 @@ Time ends when Jormungandr's life bar reaches zero during this final charge.
 [icon_dash]: ./assets/images/icons/icon_dash.webp
 [icon_dynamite]: ./assets/images/icons/icon_dynamite.webp
 [icon_grow]: ./assets/images/icons/icon_grow.webp
-[icon_rising_sun]: ./assets/images/icons/icon_rising_sun.png
+[icon_rising_sun]: ./assets/images/icons/icon_rising_sun.webp
 [icon_transform]: ./assets/images/icons/icon_transform.webp
 [icon_bat]: ./assets/images/icons/icon_bat.webp
 [icon_mouse]: ./assets/images/icons/icon_mouse.webp
