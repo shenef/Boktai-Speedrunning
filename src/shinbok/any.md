@@ -89,7 +89,7 @@ Set the sunlight to 0.
 **Django's House**
 
 - Talk to Violet & choose the first option.
-- <span class="safety">Safety strat:</span> Get the ![][icon_luna_lens] Luna Lens near the doll on the left.</span>
+- <span class="safety">Safety strat:</span> Get the ![][icon_luna_lens] Luna Lens near the doll on the left.
 
 Leave the house and visit the following places.  
 On Map screens you can use the shoulder buttons navigate quickly.
@@ -120,7 +120,7 @@ On Map screens you can use the shoulder buttons navigate quickly.
 
 - Talk to Eliot (old man with glasses).
 
-**arage**
+**Garage**
 
 - Talk to the guy in the back.
 
