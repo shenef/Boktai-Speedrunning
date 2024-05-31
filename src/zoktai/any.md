@@ -610,23 +610,16 @@ Choose the second dialog option after the purification.
 
 ## San Miguel (4)
 
-Go to Lita’s shop:
-
-- Buy:
-  - 2 ![][icon_speed_nut] Speed Nuts
-  - 1 ![][icon_power_nut] Power Nut
-  - 2 ![][icon_warp_leaf] Warp Leaves
-- Sell your ![][icon_red_card] ![][icon_green_card] cards and ![][icon_bearnut] Bearnut.
-  - **Do not sell ![][icon_blue_card] The Tower **(塔)** if it is in your inventory.**
-
 Go to Cheyenne’s shop and talk to him to get the ![][icon_dash] Dash magic.  
 **Use this for movement whenever possible.**
 
 Equip ![][icon_dash] Dash, ![][icon_transform] Transform, ![][icon_sol] Sol and ![][icon_dark] Dark.  
 Go outside and talk to Violet to trigger Nero, then follow him.
 
-Open this hidden chest for a fifth ![][icon_warp_leaf] Warp Leaf:  
+Open this hidden chest for a ![][icon_warp_leaf] Warp Leaf:  
 ![](./assets/images/san_miguel_chest.webp)
+
+You should now have three (3) ![][icon_warp_leaf] Warp Leaves.
 
 Follow Nero through the ↖️ exit.  
 Use ![][icon_dark] Dark to destroy the Dark Root in front of the Treasury, then follow Nero and proceed through the ↖️ exit to the Aqueduct.
@@ -725,6 +718,21 @@ Kill the Dark Root with ![][icon_dark] Dark and open the chest for the last ![][
 
 Use a ![][icon_warp_leaf] Warp Leaf to leave.
 
+Backtrack to San Miguel.
+
+## San Miguel (5)
+
+Go to Lita’s shop:
+
+- Sell your entire inventory except for the two ![][icon_sunscreen] Sunscreens and ![][icon_blue_card] The Tower **(塔)** if you have it
+- Buy:
+  - 2 ![][icon_speed_nut] Speed Nuts
+  - 2 ![][icon_power_nut] Power Nuts
+  - 2 ![][icon_warp_leaf] Warp Leaves
+  - 6 ![][icon_solar_nut] Solar Nuts
+  - Fill the remaining inventory slots with ![][icon_earthly_nut] Earthly Nuts
+  - If you have ![][icon_blue_card] The Tower **(塔)** in your inventory, leave one slot free for a ![][icon_bearnut] Bearnut in Spiral Tower
+
 Backtrack to the Aqueduct.
 
 ## Aqueduct (2)
@@ -760,7 +768,7 @@ Refill life/energy and put all stat points into STRG before entering the boss.
 
 Use a ![][icon_warp_leaf] Warp Leaf to leave, then backtrack to San Miguel.
 
-## San Miguel (5)
+## San Miguel (6)
 
 Go into the clockhouse and talk to the NPC.  
 Keep talking, then change the system time to 2004/09/30.
@@ -905,13 +913,6 @@ During the dialog, choose the second dialog option to avoid a Game Over.
   - Use ![][icon_sol] Sol and avoid Dainn's attacks at all cost.
 - You should reach **Lvl 28** after this fight.
 
-Open the chest for a ![][icon_red_card] card.  
-Leave the coffin, backtrack ↘️ to Sabata's side of the tower, then proceed downstairs.
-
-Push the floating block with ![][icon_cloud] Cloud, then open the last chest for a ![][icon_magic_sword] Magic Sword:  
-![](./assets/images/magic_sword_block.webp)
-![](./assets/images/magic_sword_chest.webp)
-
 Put all stat points into STRG.  
 Use a ![][icon_warp_leaf] Warp Leaf to leave.
 
@@ -930,15 +931,6 @@ After starting the purification, use ![][icon_sunscreen] Sunscreen to avoid taki
 Black Django will not take lethal damage from the dark orbs, but they should not be ignored during downtime.
 
 Skip the chest after finishing the purification.
-
-## San Miguel (6)
-
-Go to Lita’s shop, sell all items except for one ![][icon_sunscreen] Sunscreen and fill the inventory with:
-
-- 6 ![][icon_solar_nut] Solar Nuts.
-- Other slots with ![][icon_earthly_nut] Earthly Nuts or better healing items.
-
-Go to Cheyenne’s shop and buy a ![][icon_bardiche] Bardiche, then equip it.
 
 Equip ![][icon_dynamite] Dynamite, ![][icon_cloud] Cloud, ![][icon_dash] Dash and ![][icon_frost] Frost.  
 Backtrack ↗️ to Spiral Tower.
@@ -997,7 +989,7 @@ Have <=8 sunlight to enable the solar walkways in the next room.
 Use ![][icon_dynamite] Dynamite on the wall here in this room and proceed through the new ↖️ exit:  
 ![](./assets/images/garb_of_darkness_room.webp)
 
-Get the ![][icon_garb_of_darkness] Garb of Darkness armor, then equip it and ![][icon_magic_sword] Magic Sword.
+Get the ![][icon_garb_of_darkness] Garb of Darkness armor, then equip it.
 
 Break the wooden blocks and proceed through the ↗️ exit.  
 After the rooms with Skeletons, proceed up the stairs and refill energy on the Solar Station.
@@ -1031,7 +1023,7 @@ Refill energy on the Solar Station and put all stat points into STRG before taki
 
 ### <span class="trap">Serpent Trap</span>
 
-- Use ![][icon_flame] Flame and spear.
+- Use ![][icon_flame] Flame and sword, you can hit the tail with precise hits.
 - **Use ![][icon_dynamite] Dynamite whilst the Serpent is underwater to force it to jump at you.**
 - Only aim for the head and tail.
 - Break the bubbles to force it to jump at you.
@@ -1097,7 +1089,7 @@ Take the single exits, this map is linear.
 - Use ![][icon_sunscreen] Sunscreen to avoid taking damage from sunlight.
 - Aim for the eyes until the tongue is out.
 - When the tongue is out, hit it 4 times, then hit the body several times to do more damage.
-- During the black breath attack, stand at range and use spear to hit both the eyes and the body at once.
+- During the black breath attack, charge some energy and aim to hit the eyes close to the body to get a chance at hitting the tongue and body at the same time.
 
 During the cutscenes, enable max sunlight.  
 After the cutscenes, charge energy.  
