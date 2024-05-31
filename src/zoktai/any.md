@@ -317,7 +317,7 @@ Use a ![][icon_power_nut] Power Nut, then push the blocks like this (start with 
 Kill the two Mummies with ![][icon_sol] Sol and proceed up the stairs.
 
 Proceed to the bottom of the next room, then kill the Clay Golem with ![][icon_cloud] Cloud.  
-Before exiting, wait for the Clay Golem's death animation before switching to  ![][icon_flame] Flame (allows you to wait and see if the Clay Golem drops a weapon).  
+Before exiting, wait for the Clay Golem's death animation before switching to ![][icon_flame] Flame (allows you to wait and see if the Clay Golem drops a weapon).  
 Proceed through the immediate ↙️ exit.
 
 In the room with the flame jet, use ![][icon_flame] Flame on the Mummy to activate the torch, then proceed up the stairs.  
@@ -330,7 +330,7 @@ Open the ↗️ door and proceed.
 
 ### <span class="trap">Axe Trap</span>
 
-- It’s an axe!!
+- It's an axe!!
 - Use ![][icon_sol] Sol to deal more damage.
 - You should reach **Lvl 10** after this fight.
 
@@ -402,7 +402,7 @@ Equip sword and ![][icon_sol] Sol before leaving the room.
 
 Proceed to the final puzzle room on the bottom-right:  
 Activate the first lever with the sword, then run ↙️.  
-When you’re close enough, run ↗️ onto the switch.
+When you're close enough, run ↗️ onto the switch.
 
 **Do not assign stat points before the boss fight.**
 
@@ -410,8 +410,8 @@ When you’re close enough, run ↗️ onto the switch.
 
 ### <span class="boss">Vampire</span>
 
-- Stay away so that Sabata doesn’t get hit.
-- Position yourself so that the swords don’t go in Sabata’s direction.
+- Stay away so that Sabata doesn't get hit.
+- Position yourself so that the swords don't go in Sabata's direction.
 - Only hit the Vampire when the black hole is active.
 - Face in the same direction as the Vampire to push him into the black hole faster.
 - When the Vampire is stuck in the black hole, use ![][icon_sol] Sol.
@@ -610,7 +610,7 @@ Choose the second dialog option after the purification.
 
 ## San Miguel (4)
 
-Go to Cheyenne’s shop and talk to him to get the ![][icon_dash] Dash magic.  
+Go to Cheyenne's shop and talk to him to get the ![][icon_dash] Dash magic.  
 **Use this for movement whenever possible.**
 
 Equip ![][icon_dash] Dash, ![][icon_transform] Transform, ![][icon_sol] Sol and ![][icon_dark] Dark.  
@@ -722,7 +722,7 @@ Backtrack to San Miguel.
 
 ## San Miguel (5)
 
-Go to Lita’s shop:
+Go to Lita's shop:
 
 - Sell your entire inventory except for the two ![][icon_sunscreen] Sunscreens and ![][icon_blue_card] The Tower **(塔)** if you have it
 - Buy:
@@ -763,7 +763,7 @@ Refill life/energy and put all stat points into STRG before entering the boss.
 - Refill life/energy on the skylight as needed.
 - When she charges you, time your hit so that it cancels her attack.
 - You can hit the oil bullets with ![][icon_flame] Flame to destroy them before they land.
-- If she’s at 1 HP and far away, shoot her with ![][icon_elefan] Elefan coffin (Black Django and ![][icon_sleep] Sleeping).
+- If she's at 1 HP and far away, shoot her with ![][icon_elefan] Elefan coffin (Black Django and ![][icon_sleep] Sleeping).
 - You should reach **Lvl 23** after this fight.
 
 Use a ![][icon_warp_leaf] Warp Leaf to leave, then backtrack to San Miguel.
@@ -885,7 +885,7 @@ Use ![][icon_sol] Sol to kill the Leys, activate the lever, then kill the Leys a
 Push the block and farm Leys for EXP if you did not reach this level.  
 Proceed downstairs, put all stat points into STRG, then use a ![][icon_power_nut] Power Nut to do the puzzle.
 
-Push the left block ↘️, then the other block ↙️↘️ so that they’re next to each other:  
+Push the left block ↘️, then the other block ↙️↘️ so that they're next to each other:  
 ![](./assets/images/spiral_cloud_puzzle_1.webp)
 
 Push the floating block with spear and ![][icon_cloud] Cloud ↗️.  
@@ -905,9 +905,9 @@ During the dialog, choose the second dialog option to avoid a Game Over.
 ### <span class="boss">Black Dainn</span>
 
 - 1st phase:
-  - Stay away so that Sabata doesn’t get hit.
+  - Stay away so that Sabata doesn't get hit.
   - When Dainn spawns dark orbs, destroy them with ![][icon_sol] Sol.
-  - Don’t attack Dainn, instead, focus on good positions to avoid swords easily.
+  - Don't attack Dainn, instead, focus on good positions to avoid swords easily.
   - When Dainn is stuck in the black hole, use ![][icon_sol] Sol.
 - 2nd phase:
   - Use ![][icon_sol] Sol and avoid Dainn's attacks at all cost.
@@ -953,7 +953,7 @@ After the stairs, run in the ↘️ direction to avoid being seen.
 ![](./assets/images/undead_zone_3.webp)
 
 In the next room, use <=8 sunlight to enable the solar walkway and proceed through the ↖️ exit.  
-Hit the Skeletons from behind and ![][icon_dash] Dash during their damage animation so that they don’t see you.
+Hit the Skeletons from behind and ![][icon_dash] Dash during their damage animation so that they don't see you.
 
 Replace ![][icon_frost] Frost with ![][icon_transform] Transform and ![][icon_dynamite] Dynamite with ![][icon_bat] Bat.  
 Use Black Django and ![][icon_bat] Bat to fly over the traps and get the key, then proceed through the door.  
@@ -1079,7 +1079,7 @@ Proceed through the ↖️ exit, then take the elevator.
 
 Replace ![][icon_sleep] Sleeping with ![][icon_dark] Dark.  
 Raise STRG to 99, then you can put stat points into VIT if you want to be safer, but this is not faster.  
-You’ll need to enable a solar walkway at the end, so have <=8 sunlight.  
+You'll need to enable a solar walkway at the end, so have <=8 sunlight.  
 Take the single exits, this map is linear.
 
 ### <span class="boss">Jormungandr</span>

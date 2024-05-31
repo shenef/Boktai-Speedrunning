@@ -13,7 +13,7 @@ Credits go to the entire [Taiyoh Network Community](https://discord.gg/0dUb9OmJr
 ### Videos
 
 Some sections have videos attached that show that section being played. Watch those videos for chests, pathing and enemies that need to be killed as that will be omitted from the text description. If a section has no video, there will be no chests you need and every enemy is a mandatory kill.  
-The strategies shown in the videos are ideal scenarios, don’t worry if a trap or boss fight doesn’t work out exactly as shown.  
+The strategies shown in the videos are ideal scenarios, don't worry if a trap or boss fight doesn't work out exactly as shown.  
 When there are route updates, there can be small differences like inventory item order or amount that may not be worth updating a video.  
 Generally, if you pick up the same chests and kill the same enemies, you should be fine.
 
@@ -69,7 +69,7 @@ Inputs needed to change the text speed and disable the markers:
 
 - <kbd>start</kbd>, <kbd>↓</kbd>, <kbd>↓</kbd>, <kbd>A</kbd>, <kbd>↓</kbd>, <kbd>→</kbd>, <kbd>↓</kbd>, <kbd>→</kbd>, <kbd>A</kbd>, <kbd>B</kbd>
 
-Text speed saves about 3-4 seconds, for markers we don’t have data.
+Text speed saves about 3-4 seconds, for markers we don't have data.
 
 ### Fog Castle &nbsp; ![](./assets/images/1.webp)
 
