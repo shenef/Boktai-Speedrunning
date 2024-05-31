@@ -640,7 +640,8 @@ Proceed through the ↗️ exit and backtrack to the Cathedral.
 
 Proceed through the ↗️ exit.
 
-On the way, open the chest for a ![][icon_power_nut] Power Nut, then proceed through the ↖️ exit.  
+On the way, open the chest for a ![][icon_power_nut] Power Nut, then proceed through the ↗️ exit.  
+Open the red chest near the main entrance for a ![][icon_warp_leaf] Warp Leaf, then use ![][icon_grow] Grow on the lily pads to proceed through the ↖️ exit.  
 Use ![][icon_grow] Grow on the lily pads to reach a chest and get a ![][icon_black_card] Tarot Card.
 
 Use a ![][icon_warp_leaf] Warp Leaf to leave.
@@ -718,21 +719,6 @@ Kill the Dark Root with ![][icon_dark] Dark and open the chest for the last ![][
 
 Use a ![][icon_warp_leaf] Warp Leaf to leave.
 
-Backtrack to San Miguel.
-
-## San Miguel (5)
-
-Go to Lita's shop:
-
-- Sell your entire inventory except for the two ![][icon_sunscreen] Sunscreens and ![][icon_blue_card] The Tower **(塔)** if you have it
-- Buy:
-  - 2 ![][icon_speed_nut] Speed Nuts
-  - 2 ![][icon_power_nut] Power Nuts
-  - 2 ![][icon_warp_leaf] Warp Leaves
-  - 6 ![][icon_solar_nut] Solar Nuts
-  - Fill the remaining inventory slots with ![][icon_earthly_nut] Earthly Nuts
-  - If you have ![][icon_blue_card] The Tower **(塔)** in your inventory, leave one slot free for a ![][icon_bearnut] Bearnut in Spiral Tower
-
 Backtrack to the Aqueduct.
 
 ## Aqueduct (2)
@@ -768,10 +754,21 @@ Refill life/energy and put all stat points into STRG before entering the boss.
 
 Use a ![][icon_warp_leaf] Warp Leaf to leave, then backtrack to San Miguel.
 
-## San Miguel (6)
+## San Miguel (5)
 
 Go into the clockhouse and talk to the NPC.  
 Keep talking, then change the system time to 2004/09/30.
+
+Go to Lita's shop:
+
+- Sell your entire inventory except for the two ![][icon_sunscreen] Sunscreens and ![][icon_blue_card] The Tower **(塔)** if you have it
+- Buy:
+  - 2 ![][icon_speed_nut] Speed Nuts
+  - 2 ![][icon_power_nut] Power Nuts
+  - 2 ![][icon_warp_leaf] Warp Leaves
+  - 6 ![][icon_solar_nut] Solar Nuts
+  - Fill the remaining inventory slots with ![][icon_earthly_nut] Earthly Nuts
+  - If you have ![][icon_blue_card] The Tower **(塔)** in your inventory, leave one slot free for a ![][icon_bearnut] Bearnut in Spiral Tower
 
 Proceed to the piledriver screen.
 
