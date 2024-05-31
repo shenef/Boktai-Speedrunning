@@ -1107,7 +1107,6 @@ Time ends when Jormungandr's life bar reaches zero during this final charge.
 [icon_sunscreen]: ./assets/images/icons/icon_sunscreen.webp
 [icon_triangle_key]: ./assets/images/icons/icon_triangle_key.webp
 [icon_circle_key]: ./assets/images/icons/icon_circle_key.webp
-[icon_red_card]: ./assets/images/icons/icon_red_card.webp
 [icon_blue_card]: ./assets/images/icons/icon_blue_card.webp
 [icon_green_card]: ./assets/images/icons/icon_green_card.webp
 [icon_black_card]: ./assets/images/icons/icon_black_card.webp
@@ -1141,9 +1140,7 @@ Time ends when Jormungandr's life bar reaches zero during this final charge.
 [icon_broad_sword]: ./assets/images/icons/icon_broad_sword.webp
 [icon_long_sword]: ./assets/images/icons/icon_long_sword.webp
 [icon_katana]: ./assets/images/icons/icon_katana.webp
-[icon_magic_sword]: ./assets/images/icons/icon_magic_sword.webp
 [icon_spear]: ./assets/images/icons/icon_spear.webp
-[icon_bardiche]: ./assets/images/icons/icon_bardiche.webp
 [icon_club]: ./assets/images/icons/icon_club.webp
 [icon_leather_armor]: ./assets/images/icons/icon_leather_armor.webp
 [icon_garb_of_darkness]: ./assets/images/icons/icon_garb_of_darkness.webp
