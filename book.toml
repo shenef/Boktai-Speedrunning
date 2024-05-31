@@ -1,5 +1,5 @@
 [book]
-authors = []
+authors = ["Taiyoh Network"]
 language = "en"
 multilingual = false
 src = "src"
@@ -13,16 +13,16 @@ git-repository-icon = "fa-github"
 # CSS and JS files are imported in the order they are listed here!
 # pagetoc.css, pagetoc.js and index.hbs by https://github.com/JorelAli/mdBook-pagetoc
 additional-css = [
-    "theme/css/colors.css",
-    "theme/css/tables.css",
-    "theme/css/misc.css",
-    "theme/css/pagetoc.css",
-    "theme/css/mdbook-admonish.css",
+    "./theme/css/colors.css",
+    "./theme/css/tables.css",
+    "./theme/css/misc.css",
+    "./theme/css/pagetoc.css",
+    "./theme/css/mdbook-admonish.css",
 ]
 
 additional-js = [
-    "theme/js/papaparse.min.js",
-    "theme/js/pagetoc.js",
+    "./theme/js/papaparse.min.js",
+    "./theme/js/pagetoc.js",
 ]
 
 [output.html.fold]
@@ -31,7 +31,7 @@ level = 1      # when to start folding
 
 [preprocessor.admonish]
 command = "mdbook-admonish"
-assets_version = "3.0.2"    # do not edit: managed by `mdbook-admonish install`
+assets_version = "3.0.2" # do not edit: managed by `mdbook-admonish install`
 
 [output.linkcheck]
 optional = true
