@@ -764,7 +764,7 @@ Go to Lita's shop:
   - 2 ![][icon_power_nut] Power Nuts
   - 1 ![][icon_warp_leaf] Warp Leaf
   - 8 ![][icon_solar_nut] Solar Nuts
-  - 1 Tomato Juice
+  - 1 ![][icon_tomato_juice] Tomato Juice
   - Fill the remaining inventory slots with ![][icon_earthly_nut] Earthly Nuts
   - If you have ![][icon_blue_card] The Tower **(塔)** in your inventory, leave one slot free for a ![][icon_bearnut] Bearnut in Spiral Tower
 
@@ -1088,7 +1088,7 @@ Take the single exits, this map is linear.
 
 - You must have at least 1 sunlight during the entire fight.
 - Use Black Django and ![][icon_dark] Dark.
-- Use the Tomato Juice, then ![][icon_sunscreen] Sunscreen to avoid taking damage from sunlight.
+- Use the ![][icon_tomato_juice] Tomato Juice, then ![][icon_sunscreen] Sunscreen to avoid taking damage from sunlight.
 - Aim for the eyes until the tongue is out.
 - When the tongue is out, hit it 4 times, then hit the body several times to do more damage.
 - During the black breath attack, charge some energy and aim to hit the eyes close to the body to get a chance at hitting the tongue and body at the same time.
@@ -1107,6 +1107,7 @@ Time ends when Jormungandr's life bar reaches zero during this final charge.
 [icon_tasty_meat]: ./assets/images/icons/icon_tasty_meat.webp
 [icon_jerky]: ./assets/images/icons/icon_jerky.webp
 [icon_sunscreen]: ./assets/images/icons/icon_sunscreen.webp
+[icon_tomato_juice]: ./assets/images/icons/icon_tomato_juice.webp
 [icon_triangle_key]: ./assets/images/icons/icon_triangle_key.webp
 [icon_circle_key]: ./assets/images/icons/icon_circle_key.webp
 [icon_blue_card]: ./assets/images/icons/icon_blue_card.webp
