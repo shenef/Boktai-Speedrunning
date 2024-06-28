@@ -638,9 +638,8 @@ Proceed through the ↗️ exit and backtrack to the Cathedral.
 
 ## Cathedral (2)
 
-Proceed through the ↗️ exit.
+Proceed through the ↗️ exits.
 
-On the way, open the chest for a ![][icon_power_nut] Power Nut, then proceed through the ↗️ exit.  
 Open the red chest near the main entrance for a ![][icon_warp_leaf] Warp Leaf, then use ![][icon_grow] Grow on the lily pads to proceed through the ↖️ exit.  
 Use ![][icon_grow] Grow on the lily pads to reach a chest and get a ![][icon_black_card] Tarot Card.
 
@@ -649,8 +648,6 @@ Use a ![][icon_warp_leaf] Warp Leaf to leave.
 Backtrack to Dark City, go through the piledriver screen on the way and kill all four Dark Roots with ![][icon_dark] Dark to disable their respawns.
 
 ## Dark City (3)
-
-Pick up the ![][icon_sunscreen] Sunscreen in the first main room.
 
 Take the magic circle and proceed through the ↗️ door.
 
@@ -761,12 +758,13 @@ Keep talking, then change the system time to 2004/09/30.
 
 Go to Lita's shop:
 
-- Sell your entire inventory except for the two ![][icon_sunscreen] Sunscreens and ![][icon_blue_card] The Tower **(塔)** if you have it
+- Sell your entire inventory except for the ![][icon_sunscreen] Sunscreen and ![][icon_blue_card] The Tower **(塔)** if you have it
 - Buy:
   - 2 ![][icon_speed_nut] Speed Nuts
   - 2 ![][icon_power_nut] Power Nuts
-  - 2 ![][icon_warp_leaf] Warp Leaves
-  - 6 ![][icon_solar_nut] Solar Nuts
+  - 1 ![][icon_warp_leaf] Warp Leaf
+  - 8 ![][icon_solar_nut] Solar Nuts
+  - 1 Tomato Juice
   - Fill the remaining inventory slots with ![][icon_earthly_nut] Earthly Nuts
   - If you have ![][icon_blue_card] The Tower **(塔)** in your inventory, leave one slot free for a ![][icon_bearnut] Bearnut in Spiral Tower
 
@@ -832,8 +830,8 @@ Activate levers and switch characters during this puzzle to activate the brown l
 During Sabata's segments, use a charge attack to hit the closest grey lever and minimise movement.
 
 Push the block and backtrack inside, then activate the lever to free Sabata.  
-Proceed through the ↖️ exit, then replace ![][icon_sol] Sol with ![][icon_rising_sun] Rising Sun and use it to skip the bomb puzzle. (Your energy must be at 100% to use this)
-
+Proceed through the ↖️ exit.  
+Replace ![][icon_sol] Sol with ![][icon_rising_sun] Rising Sun and use it to skip the bomb puzzle. (Your energy must be at 100% to use this)  
 Open the blue chest for a key, then proceed through the ↘️ door.  
 Take the stairs, then proceed through the ↘️ exit to go outside.  
 Use ![][icon_bat] Bat to avoid falling off the platform and activate the switch.  
@@ -890,6 +888,7 @@ Break the top stone block so that you can push the bottom one to cross and reach
 ![](./assets/images/spiral_cloud_puzzle_2.webp)
 
 Push the floating block onto the switch with spear and ![][icon_cloud] Cloud, then use ![][icon_frost] Frost.  
+Replace ![][icon_frost] Frost with ![][icon_rising_sun] Rising Sun.  
 Proceed through the ↘️ exit.
 
 As Sabata, proceed upstairs.  
@@ -902,14 +901,23 @@ During the dialog, choose the second dialog option to avoid a Game Over.
 ### <span class="boss">Black Dainn</span>
 
 - 1st phase:
+  - Use ![][icon_rising_sun] Rising Sun for a massive hit, then use two ![][icon_solar_nut] Solar Nuts to restore energy.
   - Stay away so that Sabata doesn't get hit.
   - When Dainn spawns dark orbs, destroy them with ![][icon_sol] Sol.
   - Don't attack Dainn, instead, focus on good positions to avoid swords easily.
   - When Dainn is stuck in the black hole, use ![][icon_sol] Sol.
 - 2nd phase:
-  - Use ![][icon_sol] Sol and avoid Dainn's attacks at all cost.
+  - Use ![][icon_sol] Sol to hit Dainn three times, then stand in this precise position to avoid his dark energy attack and keep attacking:
+  <iframe
+  style="aspect-ratio: 16/9"
+  src="https://youtu.be/lDip-LU0vf4?si=aZ7NEPzXCkYvKreh&t=70"
+  title="Boktai 2: Black Dainn quick kill by 山吹 米寿 (beige)"
+  allowfullscreen
+></iframe>
+- Attack constantly to kill him before he goes underground.
 - You should reach **Lvl 28** after this fight.
 
+Replace ![][icon_rising_sun] Rising Sun with ![][icon_frost] Frost.  
 Put all stat points into STRG.  
 Use a ![][icon_warp_leaf] Warp Leaf to leave.
 
@@ -920,12 +928,11 @@ Change the system time to 2004/10/29 22:xx.
 
 ### <span class="purification">Black Dainn Purification</span>
 
-Activate all four generators and enable max sunlight.  
-Replace ![][icon_sol] Sol with ![][icon_transform] Transform and ![][icon_frost] Frost with ![][icon_dark] Dark.  
-![][icon_transform] Transform into Black Django and begin the purification.
-
-After starting the purification, use ![][icon_sunscreen] Sunscreen to avoid taking damage from the sunlight.  
-Black Django will not take lethal damage from the dark orbs, but they should not be ignored during downtime.
+Activate all four generators with ![][icon_sol] Sol and enable max sunlight.  
+ 
+Use Red Django and ![][icon_sol] Sol.  
+Do not get hit by the dark orbs, they will one-shot you.  
+You will destroy them in two hits, so slash them down during downtime.
 
 Skip the chest after finishing the purification.
 
@@ -1026,8 +1033,6 @@ Refill energy on the Solar Station and put all stat points into STRG before taki
 - Break the bubbles to force it to jump at you.
 - You should reach **Lvl 34** after this fight.
 
-Possible change: use ![][icon_blue_card] The Tower **(塔)** and ![][icon_bearnut] Bearnut to instantly kill it.
-
 Open the blue chest for a ![][icon_circle_key] key, then take the new platform and backtrack to the first room to open the ↘️ door.
 
 ## Undead Zone B4
@@ -1083,7 +1088,7 @@ Take the single exits, this map is linear.
 
 - You must have at least 1 sunlight during the entire fight.
 - Use Black Django and ![][icon_dark] Dark.
-- Use ![][icon_sunscreen] Sunscreen to avoid taking damage from sunlight.
+- Use the Tomato Juice, then ![][icon_sunscreen] Sunscreen to avoid taking damage from sunlight.
 - Aim for the eyes until the tongue is out.
 - When the tongue is out, hit it 4 times, then hit the body several times to do more damage.
 - During the black breath attack, charge some energy and aim to hit the eyes close to the body to get a chance at hitting the tongue and body at the same time.
