@@ -49,7 +49,7 @@ Use the default region selection.
 Select New Game and enter the password for the "Dark Boy" title.  
 This title grants +2 STRG, +2 AGIL, a ![][icon_power_nut] Power Nut and a ![][icon_bearnut] Bearnut.
 
-Use the characters to the right of the numbers:
+Use the characters to the left of the numbers:
 
 <img class="center smoothImage" src="./assets/images/dark_boy_pw.webp">
 
