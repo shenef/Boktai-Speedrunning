@@ -66,14 +66,16 @@ After the intro, progress through the linear route until you run into the trap.
 - Proceed through the ↘️ exit to obtain the ![][icon_gladius] Gladius.
 - Backtrack and hit the Skeleton from behind to reach **Lvl 2**.
 
-Proceed through the ↖️ exit, then open the next green chest for a ![][icon_leather_armor] Leather Armor.  
-Open the menu and change the text speed to Fast:  
-![](./assets/images/text_speed.webp)  
-Unequip your current armor (less defense, faster walking speed).
+Proceed through the ↖️ exit, then through the ↗️ exit twice.  
+
 
 ### <span class="trap">Zombie Trap</span>
 
-- Hit the Zombie 3 times to trigger the cutscene, then hit it from the front twice.
+- Hit the Zombie 3 times to trigger the cutscene.
+- Open the menu and change the text speed to Fast:  
+![](./assets/images/text_speed.webp)  
+- Unequip your current armor (less defense, faster walking speed).
+- Hit the Zombie from the front twice.
 
 ## San Miguel
 
@@ -733,7 +735,7 @@ Open the door, then proceed.
 ### <span class="trap">Skeleton Fencers Trap</span>
 
 - Put all stat points into STRG.
-- Equip ![][icon_leather_armor] Leather Armor.
+- Equip ![][icon_cloth_armor] Cloth Armor.
 - Use Black Django and ![][icon_dark] Dark.
 - Walk into the center of the room to cluster them, then kill all three at the same time.
 - You should reach **Lvl 22** after this fight.
@@ -928,8 +930,8 @@ Change the system time to 2004/10/29 22:xx.
 
 ### <span class="purification">Black Dainn Purification</span>
 
-Activate all four generators with ![][icon_sol] Sol and enable max sunlight.  
- 
+Activate all four generators with ![][icon_sol] Sol and enable max sunlight.
+
 Use Red Django and ![][icon_sol] Sol.  
 Do not get hit by the dark orbs, they will one-shot you.  
 You will destroy them in two hits, so slash them down during downtime.
@@ -989,11 +991,6 @@ Knock on the central wall to lure the Skeleton Fencer, then use ![][icon_flame] 
 
 In the third dark room, light the torches on the moving platforms with spear and ![][icon_flame] Flame.  
 Have <=8 sunlight to enable the solar walkways in the next room.
-
-Use ![][icon_dynamite] Dynamite on the wall here in this room and proceed through the new ↖️ exit:  
-![](./assets/images/garb_of_darkness_room.webp)
-
-Get the ![][icon_garb_of_darkness] Garb of Darkness armor, then equip it.
 
 Break the wooden blocks and proceed through the ↗️ exit.  
 After the rooms with Skeletons, proceed up the stairs and refill energy on the Solar Station.
