@@ -204,7 +204,7 @@ Proceed through the ↖️ exit (Refill life on skylights if low).
 
 Light the torch with ![][icon_flame] Flame and place the ![][icon_blue_orb] Blue Orb.  
 Backtrack and proceed down the new stairs in the main room, refill energy on the Solar Station.  
-Equip the ![][icon_short_sword] Short Sword and ![][icon_leather_armor] Leather Armor, then put all stat points into STRG.
+Equip the ![][icon_short_sword] Short Sword, then put all stat points into STRG.
 
 ### <span class="boss">White Duneyrr</span>
 
@@ -796,7 +796,7 @@ Proceed upstairs, using ![][icon_zero_shift] Zero Shift to run through enemies.
 On the way, step on the switch to open a gate for Django, then proceed.  
 Step on the switch outside, then use the magic circle to switch back to Django.
 
-Upon gaining control of Django, hold Right on the D-pad WITHOUT using ![][icon_dash] Dash, with the ![][icon_leather_armor] Leather Armor equipped you will consistently dodge the Black Slime.  
+Upon gaining control of Django, hold Right on the D-pad WITHOUT using ![][icon_dash] Dash, with the ![][icon_cloth_armor] Cloth Armor equipped you will consistently dodge the Black Slime.  
 Proceed upstairs twice.  
 In the first room with Cockatrices, replace ![][icon_sol] Sol with ![][icon_earth] Earth, then use it to kill both of them for EXP.  
 In the second room with Cockatrices, proceed through the ↘️ exit, then re-enter the room.  
