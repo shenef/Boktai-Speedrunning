@@ -66,14 +66,13 @@ After the intro, progress through the linear route until you run into the trap.
 - Proceed through the ↘️ exit to obtain the ![][icon_gladius] Gladius.
 - Backtrack and hit the Skeleton from behind to reach **Lvl 2**.
 
-Proceed through the ↖️ exit, then through the ↗️ exit twice.  
-
+Proceed through the ↖️ exit, then through the ↗️ exit twice.
 
 ### <span class="trap">Zombie Trap</span>
 
 - Hit the Zombie 3 times to trigger the cutscene.
 - Open the menu and change the text speed to Fast:  
-![](./assets/images/text_speed.webp)  
+![](./assets/images/text_speed.webp)
 - Unequip your current armor (less defense, faster walking speed).
 - Hit the Zombie from the front twice.
 
@@ -911,11 +910,11 @@ During the dialog, choose the second dialog option to avoid a Game Over.
 - 2nd phase:
   - Use ![][icon_sol] Sol to hit Dainn three times, then stand in this precise position to avoid his dark energy attack and keep attacking:
   <iframe
-  style="aspect-ratio: 16/9"
-  src="https://youtu.be/lDip-LU0vf4?si=aZ7NEPzXCkYvKreh&t=70"
-  title="Boktai 2: Black Dainn quick kill by 山吹 米寿 (beige)"
-  allowfullscreen
-></iframe>
+    style="aspect-ratio: 16/9"
+    src="https://www.youtube.com/embed/lDip-LU0vf4?si=aZ7NEPzXCkYvKreh&t=70"
+    title="Boktai 2: Black Dainn quick kill by 山吹 米寿 (beige)"
+    allowfullscreen
+  ></iframe>
 - Attack constantly to kill him before he goes underground.
 - You should reach **Lvl 28** after this fight.
 
@@ -1142,5 +1141,4 @@ Time ends when Jormungandr's life bar reaches zero during this final charge.
 [icon_katana]: ./assets/images/icons/icon_katana.webp
 [icon_spear]: ./assets/images/icons/icon_spear.webp
 [icon_club]: ./assets/images/icons/icon_club.webp
-[icon_leather_armor]: ./assets/images/icons/icon_leather_armor.webp
-[icon_garb_of_darkness]: ./assets/images/icons/icon_garb_of_darkness.webp
+[icon_cloth_armor]: ./assets/images/icons/icon_cloth_armor.webp
