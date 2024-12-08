@@ -330,7 +330,7 @@ Proceed in the ↘️ direction.
 Proceed in the ↙️ twice.
 
 Replenish life and energy, then set sunlight between 1 and 8 to make the solar platform appear.  
-Use it to reach the green chest and get the ![][icon_plate_mail] Plate Mail, then go back inside the tree.
+Use it to reach the green chest and get the ![][icon_chain_mail] Chain Mail, then go back inside the tree.
 
 Grow the plants to take the ↖️ path, then proceed through the ↙️ and ↖️ paths.
 
@@ -475,6 +475,7 @@ Then go back, and after exiting the cave, take the ↘️ & ↗️ paths.
 [icon_leather_armor]: ./assets/images/icons/icon_leather_armor.webp
 [icon_iron_clogs]: ./assets/images/icons/icon_iron_clogs.webp
 [icon_crest_of_diamonds]: ./assets/images/icons/icon_crest_of_diamonds.webp
+[icon_chain_mail]: ./assets/images/icons/icon_chain_mail.webp
 [icon_plate_mail]: ./assets/images/icons/icon_plate_mail.webp
 [icon_bracelet]: ./assets/images/icons/icon_bracelet.webp
 [icon_proof_of_shinobi]: ./assets/images/icons/icon_proof_of_shinobi.webp
