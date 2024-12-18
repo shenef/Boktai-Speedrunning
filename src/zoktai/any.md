@@ -220,7 +220,7 @@ After picking up the coffin, put all stat points into STRG and use a ![][icon_po
 Proceed through the top ↖️ exit in the main room.  
 Activate the 3 weight switches by using the coffin and pushing the block.  
 Proceed through the middle ↖️ exit and open the blue chest (![][icon_circle_key] key) and the chest to the left (![][icon_power_nut] Power Nut).  
-Use a second ![][icon_power_nut] Power Nut when your buff expires.  
+Use a second ![][icon_power_nut] Power Nut when your buff expires.
 
 Drag the coffin back to town and into the piledriver screen.
 
@@ -342,7 +342,7 @@ Backtrack to the first room by proceeding through the ↙️ exits.
 Kill all four Clay Golems with ![][icon_cloud] Cloud and proceed through the ↘️ exit.
 
 Kill both Clay Golems with ![][icon_cloud] Cloud and proceed in the same direction.  
-You should now be **Lvl 11**.  
+You should now be **Lvl 11**.
 
 Open this hidden chest for a ![][icon_warp_leaf] Warp Leaf, then open the door:  
 ![](./assets/images/remains_leaf_chest_1.webp)
@@ -428,7 +428,7 @@ When you're close enough, run ↗️ onto the switch.
 
 Once you gain control of Sabata, pick up the coffin and leave the room through the ↙️ exit.  
 Take two full steps, then use a ![][icon_power_nut] Power Nut to drag the coffin back to San Miguel.  
-Use a second ![][icon_power_nut] Power Nut when your buff expires.  
+Use a second ![][icon_power_nut] Power Nut when your buff expires.
 
 ### <span class="purification">Django Purification</span>
 
@@ -497,7 +497,7 @@ Open the blue chest for a ![][icon_circle_key] key, then leave the room.
 
 Backtrack and proceed through the ↘️ exit, then through the first ↗️ door.  
 Proceed upstairs, kill both Green Slimes with sword and open the locked ↘️ door.  
-You should now be **Lvl 16.**  
+You should now be **Lvl 16.**
 
 Kill the two Gusts with sword for EXP, then proceed down the ↙️ stairs.  
 Once outside, proceed through the ↖️ exit nearby.  
@@ -691,6 +691,7 @@ Now use ![][icon_cloud] Cloud on the other block:
 - ↖️ (spear)
 
 Now use ![][icon_cloud] Cloud on both blocks:
+
 - ↗️ (spear)
 
 Use spear and ![][icon_frost] Frost to lower both blocks at once.
@@ -702,7 +703,7 @@ Use ![][icon_sol] Sol to kill the Gusts before proceeding through the ↙️ exi
 Go outside, then back into the room where you killed the Gusts (Required to enable spawns on a later screen).  
 Proceed back outside through the ↙️ exit, then proceed through the ↖️ exit after the narrow path.  
 Use ![][icon_sol] Sol to kill the Gusts before using ![][icon_mouse] Mouse to go through the ↗️ mousehole.  
-Open the chest to get ![][icon_black_card] The Hermit.  
+Open the chest to get ![][icon_black_card] The Hermit.
 
 During the cutscene, choose the first option:
 
@@ -717,7 +718,7 @@ In the Clay Golem room, proceed through the ↗️ exit, then the second ↖️ 
 Proceed through the ↗️ exit (do not take the stairs).
 
 Use ![][icon_dynamite] Dynamite on the wall next to the Zombie on the top-left, then proceed.  
-Kill the Dark Root with ![][icon_dark] Dark and open the chest to get ![][icon_black_card] The Heirophant.  
+Kill the Dark Root with ![][icon_dark] Dark and open the chest to get ![][icon_black_card] The Hierophant.  
 Replace ![][icon_dynamite] Dynamite with ![][icon_sol] Sol, then use a ![][icon_warp_leaf] Warp Leaf to leave.
 
 Backtrack to San Miguel, then disable sunlight before proceeding through the ↖️ exit.  
@@ -736,7 +737,7 @@ Open the door, then proceed.
 ### <span class="trap">Octopi Trap</span>
 
 - Equip Equip ![][icon_cloth_armor] Cloth Armor.
-- Put all stat points into STRG. 
+- Put all stat points into STRG.
 - Replace ![][icon_sol] Sol with ![][icon_flame] Flame.
 - Use ![][icon_flame] Flame, after the fight refill life/energy on the skylight.
 
@@ -808,14 +809,15 @@ Kill the first Cockatrice with ![][icon_earth] Earth, then proceed upstairs.
 Proceed through the ↘️ exit, then re-enter the room.  
 Knock on the upper pillar to attract all three Cockatrices, then kill them all with ![][icon_earth] Earth to reach **Lvl 23.**  
 Proceed through the ↘️ exit and step on the switch to activate the elevator.  
-Stand on the elevator, then before it leaves the room:  
+Stand on the elevator, then before it leaves the room:
+
 - ![][icon_transform] Transform into Black Django and select ![][icon_dark] Dark.
 - Replace ![][icon_earth] Earth with ![][icon_sol] Sol.
 - Put all stat points into STRG.
 
 ### <span class="trap">Sword+ Trap</span>
 
-- Use Black Django and ![][icon_dark] Dark.  
+- Use Black Django and ![][icon_dark] Dark.
   - Killing the Sword+ before it teleports is very difficult, but possible with accurate play.
   - Use ![][icon_transform] Transform immediately after getting the kill to switch to Red Django before the door opens.
 - You should reach **Lvl 24** after this fight.
@@ -826,7 +828,7 @@ Once outside, take the stairs and proceed ↗️ indoors.
 
 Use ![][icon_sol] Sol to kill the first Leys once you get indoors.  
 Avoid the Stone Golems and proceed through the ↘️ exit, then activate the lever with spear and switch to Sabata.
- 
+
 Take the elevator, then use a ![][icon_speed_nut] Speed Nut before leaving the elevator.  
 Proceed upstairs at the bottom of the room.  
 Shoot the enemy outside (where Django is), then backtrack and take the other stairs.  
@@ -840,16 +842,16 @@ Refill energy whilst taking the elevator, then proceed through the ↘️ exit.
 Activate levers and switch characters during this puzzle to activate the brown lever.  
 During Sabata's segments, fire a shot ↘️ from the magic circle to hit the lever and avoid movement.  
 Ensure that the floor has changed before switching back to Django after doing this.
-As Django, hit the rusty lever with hammer, then push the block and backtrack inside.  
+As Django, hit the rusty lever with hammer, then push the block and backtrack inside.
 
 Activate the lever to free Sabata.  
-Proceed through the ↖️ exit.  
+Proceed through the ↖️ exit.
 
 Put all stat points into STRG, then replace ![][icon_sol] Sol with ![][icon_rising_sun] Rising Sun and use it to skip the bomb puzzle.  
 Open the blue chest for a key, then proceed through the ↘️ door.  
-Take the stairs, then proceed through the ↘️ exit to go outside.  
+Take the stairs, then proceed through the ↘️ exit to go outside.
 
-Taking the floating platform as Red Django is fastest, but is *extremely dangerous,* and a minor error will kill you.  
+Taking the floating platform as Red Django is fastest, but is _extremely dangerous_, and a minor error will kill you.  
 Use ![][icon_bat] Bat to avoid falling off the platform if not confident. **If no armor is equipped, the flame jets will easily kill you.**  
 Activate the switch, then backtrack inside and proceed upstairs.
 
@@ -911,7 +913,7 @@ As Sabata, proceed upstairs.
 Shoot in the ↗️ direction to activate the final lever.  
 Backtrack downstairs and proceed through the ↖️ exit to reach Django.
 
-If Django's final puzzle was solved correctly, you should have at least 100 energy. *Do not enter the boss fight without having at least this much.*
+If Django's final puzzle was solved correctly, you should have at least 100 energy. _Do not enter the boss fight without having at least this much._
 
 During the dialog, choose the second dialog option to avoid a Game Over.
 
@@ -933,7 +935,7 @@ During the dialog, choose the second dialog option to avoid a Game Over.
   ></iframe>
 - Attack constantly to kill him before he goes underground.
 - You should reach **Lvl 27** after this fight.
- 
+
 Use a ![][icon_warp_leaf] Warp Leaf to leave.
 
 Save the game and soft-reset.  
@@ -1086,7 +1088,7 @@ Backtrack and proceed through the ↙️ exit.
 Open this hidden chest on the way for a ![][icon_solar_nut] Solar Nut:  
 ![](./assets/images/undead_zone_6.webp)
 
-If life/energy are both low, this room is ideal for refilling by attacking the solar bamboo. Avoid absorbing dark bugs.  
+If life/energy are both low, this room is ideal for refilling by attacking the solar bamboo. Avoid absorbing dark bugs.
 
 Proceed through the ↘️↘️ exits, then take the stairs.  
 Proceed through the ↙️↘️exits.  
@@ -1135,10 +1137,7 @@ Time ends when Jormungandr's life bar reaches zero during this final charge.
 [icon_power_nut]: ./assets/images/icons/icon_power_nut.webp
 [icon_bearnut]: ./assets/images/icons/icon_bearnut.webp
 [icon_warp_leaf]: ./assets/images/icons/icon_warp_leaf.webp
-[icon_tasty_meat]: ./assets/images/icons/icon_tasty_meat.webp
-[icon_jerky]: ./assets/images/icons/icon_jerky.webp
 [icon_sunscreen]: ./assets/images/icons/icon_sunscreen.webp
-[icon_tomato_juice]: ./assets/images/icons/icon_tomato_juice.webp
 [icon_triangle_key]: ./assets/images/icons/icon_triangle_key.webp
 [icon_circle_key]: ./assets/images/icons/icon_circle_key.webp
 [icon_blue_card]: ./assets/images/icons/icon_blue_card.webp
