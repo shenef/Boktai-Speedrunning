@@ -20,7 +20,19 @@ Generally, if you pick up the same chests and kill the same enemies, you should 
 ### Solar Gauge
 
 A recommendation on which sun strength to use for that dungeon to prevent overheat and ensure you reach the required dungeon rank where necessary.  
-For purifications you can ignore that recommendation and always go for max.
+For purifications always use the highest possible solar gauge level.
+
+### Terminology
+
+- **Stun**: Shooting an enemy in the back with a sufficiently strong frame will cause it to be stunned for several seconds. Stunned enemies have no hitbox, and can't see you.
+- **Detection**: An enemy detects you if a **red** exclamation mark appears above the enemy. Being detected increases the "being found" counter on the dungeon's result screen, which reduces your dungeon rank and therefore the reward(s) you receive after completing the dungeon. White or blue exclamation marks do not count as detections. Enemies in traps never detect you. 
+
+### General instructions
+
+- Ignore every enemy unless the guide instructs you to do otherwise. The guide will tell you if there is a limit on how often you can get detected in a dungeon.
+- Pick up every item marked on the maps. Many of these will be in invisible chests. You can open invisible chests by pressing A, just like normal chests.
+- While picking up healing items (like apples) is optional, skip them at your own peril.
+- Use healing items as necessary.
 
 ## Before the run
 
@@ -59,29 +71,79 @@ To start a new run
 - keep the default difficulty (Normal 2),
 - start the timer when confirming on the Summary Screen.
 
-## Route
-
-### Intro
+## Intro
 
 Once you gain control, pause the game and set the text speed to “Fast”.  
-Optionally you can also turn off markers which can slightly reduce lag.  
-Inputs needed to change the text speed and disable the markers:
+Inputs needed to change the text speed:
 
-- <kbd>start</kbd>, <kbd>↓</kbd>, <kbd>↓</kbd>, <kbd>A</kbd>, <kbd>↓</kbd>, <kbd>→</kbd>, <kbd>↓</kbd>, <kbd>→</kbd>, <kbd>A</kbd>, <kbd>B</kbd>
+- <kbd>start</kbd>, <kbd>↓</kbd>, <kbd>↓</kbd>, <kbd>A</kbd>, <kbd>↓</kbd>, <kbd>→</kbd>, <kbd>A</kbd>, <kbd>B</kbd>
 
-Text speed saves about 3-4 seconds, for markers we don't have data.
+Text speed saves about 3-4 seconds.
 
-### Fog Castle &nbsp; ![](./assets/images/1.webp)
+## Fog Castle &nbsp; ![](./assets/images/4.webp)
 
-Do not run out of Energy in the bat room or the chest will not spawn.
+| Resource     | Start with | Get   | Consume | End with
+|--------------|------------|-------|---------|----------
+| Sol Lens EXP | 0          | +106  |         | 106
+| Speed Nut    | 0          | +5    | -1      | 4
+
+Follow the only path through this dungeon. Pick up the **Knight Frame** from the green chest on the way, and equip it immediately. Kill the Bok in the next room by hitting it with 3 ticks of your gun's spread.
+
+Kill all bats in the coffin room (use Solar Nuts from your inventory if you run out of energy). This spawns a chest containing ![](./assets/images/icons/icon_speed_nut.webp) 5 Speed Nuts. Then drag the coffin back out.
+
+<img class="smoothImage" src="./assets/images/any_fog_castle_1.webp">
+
+When the coffin starts shaking in this hallway, drop the coffin, kill the stationary Bok near the skylight (+3 EXP), and knock on the wall behind the skylight. The second Bok will move into the skylight and die, allowing you to drag the coffin out unimpeded:
+
+![](./assets/images/any_fog_castle_2.webp)
+
+First, charge the left tower of the pile driver. Then charge the right tower by standing on the pile driver activation spot. After charging that tower, press A immediately to start the purification, skipping a text box:
+
+![](./assets/images/any_fog_castle_3.webp)
+
+Use a ![](./assets/images/icons/icon_speed_nut.webp) Speed Nut just before completing the purification (+100 EXP).
 
 ### Small Cave &nbsp; ![](./assets/images/8.webp)
 
-Need S-Rank, you cannot be seen more than once.
+| Resource     | Start with | Get   | Consume | End with
+|--------------|------------|-------|---------|----------
+| Sol Lens EXP | 106        | +3    |         | 109
+| Speed Nut    | 4          | +3    | -1      | 6
+| Banana       | 0          | +1    |         | 1
 
-### Gate of the Dead &nbsp; ![](./assets/images/8.webp)
+You *must* get an S-rank in this dungeon. This requires at most one detection, and ideally your one detection is from the last Bok just before the door to the trap.
 
-TODO
+<img class="smoothImage" src="./assets/images/any_small_cave_1.webp">
+
+Before getting the key, stun the enemy to the north. Do this by entering the door to the key while holding right, and immediately firing a shot once you emerge in the big room. Then get the ![](./assets/images/icons/icon_key_triangle.webp) Triangle Key from the chest and go to the trap, while avoiding detections by the Boks.
+
+You should charge you energy to full on the skylight while waiting for the Bok on the right to turn away.
+
+<img class="smoothImage" src="./assets/images/any_small_cave_2.webp">
+
+Clear the trap. If you S-ranked this dungeon, you will receive a reward chest with ![](./assets/images/icons/icon_speed_nut.webp) 3 Speed Nuts. Use a ![](./assets/images/icons/icon_speed_nut.webp) Speed Nut before leaving the dungeon.
+
+## Gate of the Dead &nbsp; ![](./assets/images/8.webp)
+
+| Resource     | Start with | Get   | Consume | End with
+|--------------|------------|-------|---------|----------
+| Sol Lens EXP | 109        | +30   |         | 139
+| Speed Nut    | 6          |       | -1      | 5
+| Banana       | 1          | +3    |         | 4
+
+You *must* get an S-rank in this dungeon. You *cannot* be detected at all. In the first room, stun the right By firing 9 shots at it from the bottom of the room. Because you're out of its vision range here, it will not see you:
+
+![](./assets/images/any_gate_of_the_dead_1.webp)
+
+The other enemies in this dungeon require no interaction. Their vision range is too short to detect you:
+
+<img class="smoothImage" src="./assets/images/any_gate_of_the_dead_2.webp">
+
+### Trap
+
+Use your gun's spread to defeat the Sword. Try to reflect the small swords back into the big sword to speed up the fight. To conserve energy don't fire the spread continuously, but let go of the B button while the sword is invincible between your attacks.
+
+Clear the trap (+30 EXP), open the reward chest containing ![](./assets/images/icons/icon_banana.webp) 3 Bananas, and use a ![](./assets/images/icons/icon_speed_nut.webp) Speed Nut before leaving the dungeon.
 
 ### Ancient Forest &nbsp; ![](./assets/images/0.webp)
 
