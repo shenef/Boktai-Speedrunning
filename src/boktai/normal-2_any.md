@@ -7,7 +7,7 @@ Credits go to the entire [Taiyoh Network Community](https://discord.gg/0dUb9OmJr
 
 ## Map
 
-[![Map depicting the Any% path](./assets/images/any_map_small.webp)](./assets/images/any_map.webp)
+<a href="./assets/images/any_map.webp"><img class="smoothImage" src="././assets/images/any_map_small.webp"></a>
 [Click for full size <i class="fa fa-arrows-alt" aria-hidden="true"></i>](./assets/images/any_map.webp)
 
 ### Videos
@@ -25,7 +25,7 @@ For purifications always use the highest possible solar gauge level.
 ### Terminology
 
 - **Stun**: Shooting an enemy in the back with a sufficiently strong frame will cause it to be stunned for several seconds. Stunned enemies have no hitbox, and can't see you.
-- **Detection**: An enemy detects you if a **red** exclamation mark appears above the enemy. Being detected increases the "being found" counter on the dungeon's result screen, which reduces your dungeon rank and therefore the reward(s) you receive after completing the dungeon. White or blue exclamation marks do not count as detections. Enemies in traps never detect you. 
+- **Detection**: An enemy detects you if a **red** exclamation mark appears above the enemy. Being detected increases the "being found" counter on the dungeons result screen, which reduces your dungeon rank and therefore the reward(s) you receive after completing the dungeon. White or blue exclamation marks do not count as detections. Enemies in traps never detect you.
 
 ### General instructions
 
@@ -42,9 +42,9 @@ If you want to play on an emulator, currently only mGBA and BizHawk are allowed.
 In the case of BizHawk, you should use _at least_ version 2.6.3 since that adds the ability to emulate an empty cartridge battery.
 
 - BizHawk: GBA > Settings > Sync Settings:
-  - Set “Skip BIOS” to “False”
-  - Set “RTC use Real Time” to “False”
-  - Set “RTC” to “False”
+  - Set "Skip BIOS" to "False"
+  - Set "RTC use Real Time" to "False"
+  - Set "RTC" to "False"
 - mGBA:
   - TODO: instructions on how to set up empty battery
 
@@ -73,7 +73,7 @@ To start a new run
 
 ## Intro
 
-Once you gain control, pause the game and set the text speed to “Fast”.  
+Once you gain control, pause the game and set the text speed to "Fast".  
 Inputs needed to change the text speed:
 
 - <kbd>start</kbd>, <kbd>↓</kbd>, <kbd>↓</kbd>, <kbd>A</kbd>, <kbd>↓</kbd>, <kbd>→</kbd>, <kbd>A</kbd>, <kbd>B</kbd>
@@ -87,9 +87,9 @@ Text speed saves about 3-4 seconds.
 | Sol Lens EXP | 0          | +106  |         | 106
 | Speed Nut    | 0          | +5    | -1      | 4
 
-Follow the only path through this dungeon. Pick up the **Knight Frame** from the green chest on the way, and equip it immediately. Kill the Bok in the next room by hitting it with 3 ticks of your gun's spread.
+Follow the only path through this dungeon. Pick up the **Knight Frame** from the green chest on the way, and equip it immediately. Kill the Bok in the next room by hitting it with 3 ticks of your guns spread.
 
-Kill all bats in the coffin room (use Solar Nuts from your inventory if you run out of energy). This spawns a chest containing ![](./assets/images/icons/icon_speed_nut.webp) 5 Speed Nuts. Then drag the coffin back out.
+Kill all bats in the coffin room without running out of energy. This spawns a chest containing ![][icon_speed_nut] 5 Speed Nuts. Then drag the coffin back out.
 
 <img class="smoothImage" src="./assets/images/any_fog_castle_1.webp">
 
@@ -101,7 +101,7 @@ First, charge the left tower of the pile driver. Then charge the right tower by 
 
 ![](./assets/images/any_fog_castle_3.webp)
 
-Use a ![](./assets/images/icons/icon_speed_nut.webp) Speed Nut just before completing the purification (+100 EXP).
+Use a ![][icon_speed_nut] Speed Nut just before completing the purification (+100 EXP).
 
 ### Small Cave &nbsp; ![](./assets/images/8.webp)
 
@@ -111,17 +111,17 @@ Use a ![](./assets/images/icons/icon_speed_nut.webp) Speed Nut just before compl
 | Speed Nut    | 4          | +3    | -1      | 6
 | Banana       | 0          | +1    |         | 1
 
-You *must* get an S-rank in this dungeon. This requires at most one detection, and ideally your one detection is from the last Bok just before the door to the trap.
+You _must_ get an S-rank in this dungeon. This requires at most one detection, and ideally your one detection is from the last Bok just before the door to the trap.
 
 <img class="smoothImage" src="./assets/images/any_small_cave_1.webp">
 
-Before getting the key, stun the enemy to the north. Do this by entering the door to the key while holding right, and immediately firing a shot once you emerge in the big room. Then get the ![](./assets/images/icons/icon_key_triangle.webp) Triangle Key from the chest and go to the trap, while avoiding detections by the Boks.
+Before getting the key, stun the enemy to the north. Do this by entering the door to the key while holding right, and immediately firing a shot once you emerge in the big room. Then get the ![][icon_key_triangle] Triangle Key from the chest and go to the trap, while avoiding detections by the Boks.
 
-You should charge you energy to full on the skylight while waiting for the Bok on the right to turn away.
+You should charge your energy to full on the skylight while waiting for the Bok on the right to turn away.
 
 <img class="smoothImage" src="./assets/images/any_small_cave_2.webp">
 
-Clear the trap. If you S-ranked this dungeon, you will receive a reward chest with ![](./assets/images/icons/icon_speed_nut.webp) 3 Speed Nuts. Use a ![](./assets/images/icons/icon_speed_nut.webp) Speed Nut before leaving the dungeon.
+Clear the trap. If you S-ranked this dungeon, you will receive a reward chest with ![][icon_speed_nut] 3 Speed Nuts. Use a ![][icon_speed_nut] Speed Nut before leaving the dungeon.
 
 ## Gate of the Dead &nbsp; ![](./assets/images/8.webp)
 
@@ -131,7 +131,7 @@ Clear the trap. If you S-ranked this dungeon, you will receive a reward chest wi
 | Speed Nut    | 6          |       | -1      | 5
 | Banana       | 1          | +3    |         | 4
 
-You *must* get an S-rank in this dungeon. You *cannot* be detected at all. In the first room, stun the right By firing 9 shots at it from the bottom of the room. Because you're out of its vision range here, it will not see you:
+You _must_ get an S-rank in this dungeon. You _cannot_ be detected at all. In the first room, stun the right Bok by firing 9 shots at it from the bottom of the room. Because you're out of its vision range here, it will not see you:
 
 ![](./assets/images/any_gate_of_the_dead_1.webp)
 
@@ -141,9 +141,9 @@ The other enemies in this dungeon require no interaction. Their vision range is 
 
 ### Trap
 
-Use your gun's spread to defeat the Sword. Try to reflect the small swords back into the big sword to speed up the fight. To conserve energy don't fire the spread continuously, but let go of the B button while the sword is invincible between your attacks.
+Use your guns spread to defeat the Sword. Try to reflect the small swords back into the big sword to speed up the fight. To conserve energy don't fire the spread continuously, but let go of the B button while the sword is invincible between your attacks.
 
-Clear the trap (+30 EXP), open the reward chest containing ![](./assets/images/icons/icon_banana.webp) 3 Bananas, and use a ![](./assets/images/icons/icon_speed_nut.webp) Speed Nut before leaving the dungeon.
+Clear the trap (+30 EXP), open the reward chest containing ![][icon_banana] 3 Bananas, and use a ![][icon_speed_nut] Speed Nut before leaving the dungeon.
 
 ### Ancient Forest &nbsp; ![](./assets/images/0.webp)
 
@@ -191,7 +191,7 @@ TODO
 
 ### Sol City
 
-Chicken Trap has 5 Speednuts and 5 Bananas
+Chicken Trap has ![][icon_speed_nut] 5 Speed Nuts and ![][icon_banana] 5 Bananas
 
 ### Crusader Frame
 
@@ -240,3 +240,8 @@ TODO
 ## Lens Exp Routing
 
 {{#include assets/tables/normal-2_any_lens-exp.html}}
+
+<!-- Items -->
+[icon_speed_nut]: ./assets/images/icons/icon_speed_nut.webp
+[icon_banana]: ./assets/images/icons/icon_banana.webp
+[icon_key_triangle]: ./assets/images/icons/icon_key_triangle.webp
