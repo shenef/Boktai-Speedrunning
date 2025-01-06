@@ -171,7 +171,7 @@ Walk over the puddle and back as indicated to attract the Golems. Once they are 
 <img class="smoothImage" src="./assets/images/any_ancient_forest_4.webp">
 <img class="smoothImage" src="./assets/images/any_ancient_forest_5.webp">
 
-Do not let the golems kill each other. If they do, you'll be short 5 EXP for every Golem that didn't die from your gun. In that case, you'll need to kill extra enemies later in the run (before Sabata in Dark Castle) to make up the missing EXP. Any Golem, Mummy, and Cockatrice-type enemy will give at least 5 EXP, as will any Bok *except* for the green ones.
+Do not let the golems kill each other. If they do, you'll be short 5 EXP for every Golem that didn't die from your gun. In that case, you'll need to kill extra enemies later in the run (before Sabata in Dark Castle) to make up the missing EXP. Any Golem, Mummy, and Cockatrice-type enemy will give at least 5 EXP, as will any Bok _except_ for the green ones.
 
 Clear the trap (+40 EXP), skip the reward chest, and use a ![](./assets/images/icons/icon_speed_nut.webp) Speed Nut before leaving the dungeon.
 
@@ -259,7 +259,7 @@ TODO
 
 TODO
 
-# Lens Exp Routing (Outdated)
+## Lens Exp Routing (Outdated)
 
 {{#include assets/tables/normal-2_any_lens-exp.html}}
 
