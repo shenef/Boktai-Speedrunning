@@ -103,7 +103,7 @@ First, charge the left tower of the pile driver. Then charge the right tower by 
 
 Use a ![][icon_speed_nut] Speed Nut just before completing the purification (+100 EXP).
 
-### Small Cave &nbsp; ![](./assets/images/8.webp)
+## Small Cave &nbsp; ![](./assets/images/8.webp)
 
 | Resource     | Start with | Get   | Consume | End with
 |--------------|------------|-------|---------|----------
@@ -145,9 +145,32 @@ Use your guns spread to defeat the Sword. Try to reflect the small swords back i
 
 Clear the trap (+30 EXP), open the reward chest containing ![][icon_banana] 3 Bananas, and use a ![][icon_speed_nut] Speed Nut before leaving the dungeon.
 
-### Ancient Forest &nbsp; ![](./assets/images/0.webp)
+## Ancient Forest &nbsp; ![](./assets/images/0.webp)
 
-Trap: Do not let the Golems kill each other!
+| Resource     | Start with | Get   | Consume | End with
+|--------------|------------|-------|---------|----------
+| Sol Lens EXP | 139        | +40   |         | 179
+| Speed Nut    | 5          |       | -1      | 4
+
+There is no required rank in this dungeon, so there's no limit on how often you can be detected.
+
+<img class="smoothImage" src="./assets/images/any_ancient_forest_1.webp">
+
+The only item you have to pick up is the **Spear Frame** from the green chest. Equip it before entering the trap. Ignore all other chests.
+
+<img class="smoothImage" src="./assets/images/any_ancient_forest_2.webp">
+
+### Trap
+
+Walk over the puddle and back as indicated to attract the Golems. Once they are in your line of fire, knock them away with the Spear Frame. By doing this, all Golems will be stunned and bunched up at the same spot, and you can kill them at the same time:
+
+<img class="smoothImage" src="./assets/images/any_ancient_forest_3.webp">
+<img class="smoothImage" src="./assets/images/any_ancient_forest_4.webp">
+<img class="smoothImage" src="./assets/images/any_ancient_forest_5.webp">
+
+Do not let the golems kill each other. If they do, you'll be short 5 EXP for every Golem that didn't die from your gun. In that case, you'll need to kill extra enemies later in the run (before Sabata in Dark Castle) to make up the missing EXP. Any Golem, Mummy, and Cockatrice-type enemy will give at least 5 EXP, as will any Bok *except* for the green ones.
+
+Clear the trap (+40 EXP), skip the reward chest, and use a ![](./assets/images/icons/icon_speed_nut.webp) Speed Nut before leaving the dungeon.
 
 ### Bloodrust Mansion &nbsp; ![](./assets/images/1.webp)
 
