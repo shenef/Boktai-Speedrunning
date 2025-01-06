@@ -7,5 +7,6 @@ Any% route (unfinished)
 
 ## Other
 
-Lunar Knights Action Replay Code Generator  
+Lunar Knights Action Replay Code Generator.  
+Made by "Darth Nemesis", currently hosted by shenef.  
 <https://boktai.shenef.one/LKAR.html>

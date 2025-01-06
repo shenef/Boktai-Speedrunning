@@ -1,10 +1,22 @@
-# Editing Playground
+# How to write Guides
 
-## Custom <span class="cloud">colors</span> and <span class="mission">markers</span>
+These guides are written in [Markdown](https://en.wikipedia.org/wiki/Markdown) using [mdBook](https://rust-lang.github.io/mdBook/).  
+There are a couple good tutorials available such as [markdowntutorial.com](https://www.markdowntutorial.com/).
 
-### Elemental colors
+If you want to contribute directly, you can visit the repository on GitHub and submit changes by editing the files there and then submitting a Pull request.
 
-Legible on the Navy theme but on the Light theme they are not exactly great.
+Because of how mdBook works and the adjustments we made, many markdown previews won't display correctly. But if you are following good practices and the examples here, it should display just fine on the final site.
+
+If you run into any issues, don't hesitate to ask in our [Discord](https://discord.gg/0dUb9OmJrIrRPFGf).
+
+Below are a couple of examples on how to use the adjustments we made to mdBook for writing Boktai guides specifically.
+
+## Examples
+
+### <span class="sol">Elemental</span> <span class="cloud">colors</span>
+
+Used to mark the use of elements. For example on recommended Lenses or Enchantments.  
+Legible on the Dark themes but on the Light themes they are not exactly great.
 
 - <span class="sol">Sol</span>  
   `<span class="sol">Sol</span>`
@@ -21,7 +33,7 @@ Legible on the Navy theme but on the Light theme they are not exactly great.
 - <span class="cloud">Cloud</span>  
   `<span class="cloud">Cloud</span>`
 
-### Markers
+### <span class="boss">Markers</span>
 
 Used to mark headers and strategies. Font color changes on hover.
 
@@ -38,11 +50,19 @@ Used to mark headers and strategies. Font color changes on hover.
 - <span class="puzzle">Puzzle</span>  
   `<span class="puzzle">Puzzle</span>`
 
-## Video embeds
+### Video embeds
 
-Make sure you use the `/embed/` URL.  
+Make sure the URL is formatted like this:
+
+- <https://www.youtube.com/embed/uHMaErqqU_E>
+- <https://player.twitch.tv/?video=2328442079&parent=shenef.github.io&autoplay=false>
+
 Set `aspect-ratio` to the aspect ratio of your video. Usually `16/9` but direct GBA exports are `3/2`.  
-Title is not important but it helps to identify the video when you don't have a markdown preview.
+Title is not mandatory but it helps to identify the video when you don't have a markdown preview.
+
+Sadly the embed system of Twitch is terrible and the video won't load if the "parent" parameter in the URL is set <span class="boss">and</span> matches the page it's embedded into.
+
+YouTube:
 
 ```html
 <iframe
@@ -60,7 +80,25 @@ Title is not important but it helps to identify the video when you don't have a 
   allowfullscreen
 ></iframe>
 
-## Interactive elements
+Twitch:
+
+```html
+<iframe
+  style="aspect-ratio: 16/9"
+  src="https://player.twitch.tv/?video=2328442079&parent=shenef.github.io&autoplay=false"
+  title="Boktai 1: Any% Normal 2 speedrun in 1:30:06"
+  allowfullscreen
+></iframe>
+```
+
+<iframe
+  style="aspect-ratio: 16/9"
+  src="https://player.twitch.tv/?video=2328442079&parent=shenef.github.io&autoplay=false"
+  title="Boktai 1: Any% Normal 2 speedrun in 1:30:06"
+  allowfullscreen
+></iframe>
+
+### Interactive elements
 
 You can use javascript within a book, which allows for some interactivity.  
 Below is a simple example but theoretically that allows for
@@ -79,7 +117,7 @@ Then press this
 </button>
 to show it as a popup.
 
-## Admonishments
+### Admonishments
 
 These are styled messages that can have an icon, a color, a title and can be collapsible.  
 Documentation: <https://tommilligan.github.io/mdbook-admonish/>  
@@ -122,13 +160,9 @@ Collapsible with no title:
 Collapsible and no title
 ```
 
-## Table of Contents
+### Table of Contents
 
 The table of contents doesn't work correctly for level 5+ headers, so please avoid those.
-
-### ToC Level 3
-
-Lorem ipsum dolor sit amet
 
 #### ToC Level 4
 
@@ -136,8 +170,4 @@ Lorem ipsum dolor sit amet
 
 ##### ToC Level 5
 
-The header is now smaller than the text + RIP ToC
-
-###### ToC Level 6
-
-The header is now smaller than the text + RIP ToC
+The header is now smaller than the text and breaks the sidebar on the right.

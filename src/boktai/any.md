@@ -1,14 +1,17 @@
-# Boktai 1 Normal 2 Any%
+# Boktai 1 Any% (Normal 2)
 
-## About this Guide
-
-This Guide is intended for the Japanese version of Boktai: The Sun is in your Hands and the Normal 2 Any% Category. It should work exactly the same for other languages but JP is significantly faster.  
-Credits go to the entire [Taiyoh Network Community](https://discord.gg/0dUb9OmJrIrRPFGf) and many casual players that discovered strategies on accident.
-
-## Map
+```admonish danger title="Work in Progress"
+This guide is currently being rewritten because of route improvements.  
+Feel free to contribute on Discord or on the GitHub repository.
+```
 
 <a href="./assets/images/any_map.webp"><img class="smoothImage" src="././assets/images/any_map_small.webp"></a>
 [Click for full size <i class="fa fa-arrows-alt" aria-hidden="true"></i>](./assets/images/any_map.webp)
+
+## About this Guide
+
+This Guide is intended for the Japanese version of Boktai: The Sun is in your Hands and the Any% Category at the Normal 2 difficulty. It should work exactly the same for other languages but JP is significantly faster.  
+Credits go to the entire [Taiyoh Network Community](https://discord.gg/0dUb9OmJrIrRPFGf) and the many casual players that found strategies we use today.
 
 ### Videos
 
@@ -139,7 +142,7 @@ The other enemies in this dungeon require no interaction. Their vision range is 
 
 <img class="smoothImage" src="./assets/images/any_gate_of_the_dead_2.webp">
 
-### Trap
+### <span class="trap">Trap</span>
 
 Use your guns spread to defeat the Sword. Try to reflect the small swords back into the big sword to speed up the fight. To conserve energy don't fire the spread continuously, but let go of the B button while the sword is invincible between your attacks.
 
@@ -160,7 +163,7 @@ The only item you have to pick up is the **Spear Frame** from the green chest. E
 
 <img class="smoothImage" src="./assets/images/any_ancient_forest_2.webp">
 
-### Trap
+### <span class="trap">Trap</span>
 
 Walk over the puddle and back as indicated to attract the Golems. Once they are in your line of fire, knock them away with the Spear Frame. By doing this, all Golems will be stunned and bunched up at the same spot, and you can kill them at the same time:
 
@@ -172,95 +175,91 @@ Do not let the golems kill each other. If they do, you'll be short 5 EXP for eve
 
 Clear the trap (+40 EXP), skip the reward chest, and use a ![](./assets/images/icons/icon_speed_nut.webp) Speed Nut before leaving the dungeon.
 
-### Bloodrust Mansion &nbsp; ![](./assets/images/1.webp)
+## Bloodrust Mansion &nbsp; ![](./assets/images/1.webp)
 
 For the Count fight increase Sun to 8, then keep it at 8 to ensure S-Rank.
 
 - Garden puzzle numbers: 3 > 9 > 8 > 6 > 5 (best to worst)
 - Time Puzzle: 7, 9, 10, 1, 3, 5, 8
 
-### Solar Tree &nbsp; ![](./assets/images/0.webp)
+## Solar Tree &nbsp; ![](./assets/images/0.webp)
 
 Talk to Lita, plant a single Green Apple (A, start, A).  
 Alternative, not properly tested, strategy: Plant a Gold Apple. The idea is that if you have very good Sunlight management, you will never get the "plant is grown" message.
 
-### Deserted Arsenal 1
+## Deserted Arsenal
 
 TODO
 
-### Deserted Arsenal 2
+## Crumbling Mine
 
 TODO
 
-### Crumbling Mine
+## Firetop Mountain
 
 TODO
 
-### Firetop Mountain
+## Permafrost
 
 TODO
 
-### Permafrost
+## Remaining Tower 1
 
 TODO
 
-### Remaining Tower 1
+## Delusion Forest
 
 TODO
 
-### Delusion Forest
-
-TODO
-
-### Sol City
+## Sol City
 
 Chicken Trap has ![][icon_speed_nut] 5 Speed Nuts and ![][icon_banana] 5 Bananas
 
-### Crusader Frame
+## Crusader Frame
 
 TODO
 
-### Flame Tower
+## Flame Tower
 
 TODO
 
-### Earth Tower
+## Earth Tower
 
 TODO
 
-### Frost Tower
+## Frost Tower
 
 TODO
 
-### Cloud Tower
+## Cloud Tower
 
 TODO
 
-### Central Tower
+## Central Tower
 
 TODO
 
-### Sabata
+## Sabata
 
-#### Phase 1
-
-TODO
-
-#### Phase 2
+### Phase 1
 
 TODO
 
-### Hel
-
-#### Phase 1
+### Phase 2
 
 TODO
 
-#### Phase 2
+## Hel
+
+### Phase 1
 
 TODO
 
-## Lens Exp Routing
+### Phase 2
+
+TODO
+
+# Lens Exp Routing (Outdated)
 
 {{#include assets/tables/normal-2_any_lens-exp.html}}
 

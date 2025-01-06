@@ -1,4 +1,4 @@
-# 28 Dungeons
+# Boktai 1 28 Dungeons
 
 ## Map
 
