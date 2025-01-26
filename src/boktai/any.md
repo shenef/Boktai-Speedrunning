@@ -177,10 +177,107 @@ Clear the trap (+40 EXP), skip the reward chest, and use a ![](./assets/images/i
 
 ## Bloodrust Mansion &nbsp; ![](./assets/images/1.webp)
 
-For the Count fight increase Sun to 8, then keep it at 8 to ensure S-Rank.
+| Resource     | Start with | Get   | Consume | End with
+|--------------|------------|-------|---------|----------
+| Sol Lens EXP | 179        | +109  |         | 288
+| Speed Nut    | 4          | +5    | -3      | 6
+| Banana       | 4          | +2    | -6      | 0
+| Bomb         | 0          | +4    | -3      | 1
+| Evil Banana  | 0          | +3    |         | 3
 
-- Garden puzzle numbers: 3 > 9 > 8 > 6 > 5 (best to worst)
-- Time Puzzle: 7, 9, 10, 1, 3, 5, 8
+Avoid getting seen, because you must S-rank this dungeon.
+
+<img class="smoothImage" src="./assets/images/any_bloodrust_1.webp">
+
+Get the circle key by pushing the top-most block left:
+
+<img class="smoothImage" src="./assets/images/any_bloodrust_2.webp">
+
+After your Speed Nut expires, use a ![](./assets/images/icons/icon_banana.webp) Banana for the box push puzzle, then use 2 ![](./assets/images/icons/icon_speed_nut.webp) Speed Nuts.
+
+<img class="smoothImage" src="./assets/images/any_bloodrust_3.webp">
+
+Make sure to pick up the Double Battery from the green chest, but don't equip it yet. The spiders in the next room are unable to detect you, and only the red spiders have a hitbox at all.
+
+<img class="smoothImage" src="./assets/images/any_bloodrust_4.webp">
+
+<img class="smoothImage" src="./assets/images/any_bloodrust_5.webp">
+
+In the next room, step on these pressure plates in order to open the staircase, and go downstairs:  
+7, 9, 10, 1, 3, 5, 8
+
+<img class="smoothImage" src="./assets/images/any_bloodrust_6.webp">
+
+Use a ![](./assets/images/icons/icon_banana.webp) Banana to solve the next box push puzzle, then use one more ![](./assets/images/icons/icon_speed_nut.webp) Speed Nut.
+
+<img class="smoothImage" src="./assets/images/any_bloodrust_7.webp">
+
+You can push the Bok onto the pressure plate by setting up a back attack. Use the floor tiles as a visual reference:
+1. Position Django on the light floor tile
+1. Wait until the Bok steps onto the 3rd row of floor tiles
+1. Fire a shot at the Bok, this will knock it onto the pressure plate:
+
+(Backup strat: Use Knight Frame + Luna Lens)
+
+<img class="smoothImage" src="./assets/images/any_bloodrust_8.webp">
+
+In the room with the Vaniboks, it's OK to get detected once on each visit.
+
+<img class="smoothImage" src="./assets/images/any_bloodrust_9.webp">
+
+Flip the lever and go back to enter the next puzzle where you must place two Boks onto the pressure plates at the same time to unlock the exit. To solve this puzzle quickly:
+1. Knock on the pillar near the entrance to attract both Boks.
+1. Sneak up behind the lower Bok and follow it.
+1. Once that Bok turns right, fire a shot to stun it and knock it onto the pressure plate simultaneously.
+1. Stand on the upper pressure plate and knock on the pillar to attract the upper Bok.
+1. Hide and wait for the door to open.
+
+([Video](https://www.twitch.tv/a_raphi/clip/InspiringFunnyAsteriskTinyFace-YN1PtDHDSxqtVwdO))
+
+This requires some practice, if you're not fast enough then the upper Bok will spot you. The strategy works without a speed nut active.
+(Backup strat: Use Knight Frame + Sol Lens to stun the Boks, and Luna Lens to knock them around)
+
+![](./assets/images/any_bloodrust_10.webp)
+![](./assets/images/any_bloodrust_11.webp)
+![](./assets/images/any_bloodrust_12.webp)
+![](./assets/images/any_bloodrust_13.webp)
+![](./assets/images/any_bloodrust_14.webp)
+
+![](./assets/images/any_bloodrust_15.webp)
+
+For the Count fight increase Sun to ![](./assets/images/8.webp) 8, then keep it at 8 for the remainder of the dungeon to ensure S-Rank. Equip the bombs, and ensure you have the Sol Lens and Spear Frame equipped.
+
+### The Count
+
+1. Start the fight by mashing L until you have thrown 3 bombs.
+1. Wait for the count to start moving, then position yourself on the stone floor to the south of the center window.
+1. Wait for the count to throw a sword at you, and shoot to knock it back at him (you can shoot the sword as soon as it starts spinning).
+1. Wait for the count to start moving, run to the north of the skylight (taking contact damage from one of the swords if necessary), and knock another sword back at the count.
+1. Wait for the count to start moving again, and run to the south of the skylight.
+1. Wait for the count to start his dash attack, and run to the north of the skylight again. If done correctly, the count will dash into the skylight and die (+50 EXP).
+
+([Video](https://www.twitch.tv/a_raphi/clip/SleepyBumblingLapwingJKanStyle-wTso6E4Db9UkDj9V))
+
+![](./assets/images/any_bloodrust_16.webp)
+![](./assets/images/any_bloodrust_17.webp)
+![](./assets/images/any_bloodrust_18.webp)
+![](./assets/images/any_bloodrust_19.webp)
+![](./assets/images/any_bloodrust_20.webp)
+![](./assets/images/any_bloodrust_21.webp)
+
+### Purification
+
+Equip the Knight Frame, and use all 4 remaining ![](./assets/images/icons/icon_banana.webp) Bananas to drag the coffin back to the pile driver. Go back the way you came undetected:
+
+* *In the room with the two Boks and two pressure plates*: Stun the upper Bok to leave the room undetected.
+* *In the room with the Vaniboks*: Leave the coffin at the entrance, pull the lever, and start dragging the coffin again.
+* *After the garden*: Go south at the intersection and push the box out of the way. Alternate between pushing the box and dragging the coffin:
+
+![](./assets/images/any_bloodrust_22.webp)
+
+At the pile driver, activate two generators simultaneously using your gun's spread.
+
+Complete the purification (+50 EXP), which should give you an S-rank. Open the two chests on the right (3 ![](./assets/images/icons/icon_evil_banana.webp) Evil Bananas, 2 ![](./assets/images/icons/icon_banana.webp) Speed Nuts) and walk to the Solar Tree.
 
 ## Solar Tree &nbsp; ![](./assets/images/0.webp)
 
