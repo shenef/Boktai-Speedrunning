@@ -182,7 +182,7 @@ Walk over the puddle and back as indicated to attract the Golems. Once they are 
 
 Do not let the golems kill each other. If they do, you'll be short 5 EXP for every Golem that didn't die from your gun. In that case, you'll need to kill extra enemies later in the run (before Sabata in Dark Castle) to make up the missing EXP. Any Golem, Mummy, and Cockatrice-type enemy will give at least 5 EXP, as will any Bok _except_ for the green ones.
 
-Clear the trap (+40 EXP), skip the reward chest, and use a ![](./assets/images/icons/icon_speed_nut.webp) Speed Nut before leaving the dungeon.
+Clear the trap (+40 EXP), skip the reward chest, and use a ![][icon_speed_nut] Speed Nut before leaving the dungeon.
 
 ## Bloodrust Mansion &nbsp; ![](./assets/images/1.webp)
 
@@ -202,7 +202,7 @@ Get the circle key by pushing the top-most block left:
 
 <img class="smoothImage" src="./assets/images/any_bloodrust_2.webp">
 
-After your Speed Nut expires, use a ![](./assets/images/icons/icon_banana.webp) Banana for the box push puzzle, then use 2 ![](./assets/images/icons/icon_speed_nut.webp) Speed Nuts.
+After your Speed Nut expires, use a ![][icon_banana] Banana for the box push puzzle, then use 2 ![][icon_speed_nut] Speed Nuts.
 
 <img class="smoothImage" src="./assets/images/any_bloodrust_3.webp">
 
@@ -217,7 +217,7 @@ In the next room, step on these pressure plates in order to open the staircase, 
 
 <img class="smoothImage" src="./assets/images/any_bloodrust_6.webp">
 
-Use a ![](./assets/images/icons/icon_banana.webp) Banana to solve the next box push puzzle, then use one more ![](./assets/images/icons/icon_speed_nut.webp) Speed Nut.
+Use a ![][icon_banana] Banana to solve the next box push puzzle, then use one more ![][icon_speed_nut] Speed Nut.
 
 <img class="smoothImage" src="./assets/images/any_bloodrust_7.webp">
 
@@ -245,7 +245,7 @@ Flip the lever and go back to enter the next puzzle where you must place two Bok
 
 ([Video](https://www.twitch.tv/a_raphi/clip/InspiringFunnyAsteriskTinyFace-YN1PtDHDSxqtVwdO))
 
-This requires some practice, if you're not fast enough then the upper Bok will spot you. The strategy works without a speed nut active.
+This requires some practice, if you're not fast enough then the upper Bok will spot you. The strategy works without a Speed Nut active.  
 (Backup strat: Use Knight Frame + Sol Lens to stun the Boks, and Luna Lens to knock them around)
 
 ![](./assets/images/any_bloodrust_10.webp)
@@ -278,7 +278,7 @@ For the Count fight increase Sun to ![](./assets/images/8.webp) 8, then keep it 
 
 ### Purification
 
-Equip the Knight Frame, and use all 4 remaining ![](./assets/images/icons/icon_banana.webp) Bananas to drag the coffin back to the pile driver. Go back the way you came undetected:
+Equip the Knight Frame, and use all 4 remaining ![][icon_banana] Bananas to drag the coffin back to the pile driver. Go back the way you came undetected:
 
 - _In the room with the two Boks and two pressure plates_: Stun the upper Bok to leave the room undetected.
 - _In the room with the Vaniboks_: Leave the coffin at the entrance, pull the lever, and start dragging the coffin again.
@@ -288,7 +288,7 @@ Equip the Knight Frame, and use all 4 remaining ![](./assets/images/icons/icon_b
 
 At the pile driver, activate two generators simultaneously using your gun's spread.
 
-Complete the purification (+50 EXP), which should give you an S-rank. Open the two chests on the right (3 ![](./assets/images/icons/icon_evil_banana.webp) Evil Bananas, 2 ![](./assets/images/icons/icon_banana.webp) Speed Nuts) and walk to the Solar Tree.
+Complete the purification (+50 EXP), which should give you an S-rank. Open the two chests on the right (3 ![][icon_evil_banana] Evil Bananas, 2 ![][icon_speed_nut] Speed Nuts) and walk to the Solar Tree.
 
 ## Solar Tree &nbsp; ![](./assets/images/0.webp)
 
@@ -298,7 +298,7 @@ Talk to Lita, then plant a single Green Apple (A, start, A).
 If you have gotten a random Gold Apple drop, you can instead plant a Gold Apple + either a Green or a Red Apple. This skips a "The solar tree is calling..." text box after Firetop Mountain.
 ```
 
-## Deserted Arsenal ![](./assets/images/0.webp)
+## Deserted Arsenal &nbsp; ![](./assets/images/0.webp)
 
 | Resource     | Start with | Get   | Consume | End with
 |--------------|------------|-------|---------|----------
@@ -307,8 +307,8 @@ If you have gotten a random Gold Apple drop, you can instead plant a Gold Apple 
 | Speed Nut    | 6          | +6    | -1      | 11
 | Bomb         | 1          | +1    |         | 2
 
-Use an ![](./assets/images/icons/icon_evil_banana.webp) Evil Banana to solve the box push puzzle.
-Get the Fencer Frame from the green chest, then equip it and use a ![](./assets/images/icons/icon_speed_nut.webp) Speed Nut. Avoid detection by the Steps and the Boks in the final room to ensure S-rank.
+Use an ![][icon_evil_banana] Evil Banana to solve the box push puzzle.
+Get the Fencer Frame from the green chest, then equip it and use a ![][icon_speed_nut] Speed Nut. Avoid detection by the Steps and the Boks in the final room to ensure S-rank.
 
 <img class="smoothImage" src="./assets/images/any_deserted_arsenal_1.webp">
 
@@ -318,9 +318,9 @@ You can open the chest containing the Bomb from the staircase, this avoids havin
 
 ### Trap
 
-Defeat the Sword with the Fencer Frame by holding B, and alternate pressing Right and Down on the D-pad to create a spread. With the Fencer Frame, the spread created by changing direction deals the most damage. Do not hold two directions on the D-pad at the same time. After clearing the trap (+70 EXP), open the reward chest for 6 ![](./assets/images/icons/icon_speed_nut.webp) Speed Nuts.
+Defeat the Sword with the Fencer Frame by holding B, and alternate pressing Right and Down on the D-pad to create a spread. With the Fencer Frame, the spread created by changing direction deals the most damage. Do not hold two directions on the D-pad at the same time. After clearing the trap (+70 EXP), open the reward chest for 6 ![][icon_speed_nut] Speed Nuts.
 
-## Crumbling Mine ![](./assets/images/0.webp)
+## Crumbling Mine &nbsp; ![](./assets/images/0.webp)
 
 | Resource     | Start with | Get   | Consume | End with
 |--------------|------------|-------|---------|----------
@@ -348,7 +348,7 @@ Start by equipping the Double Battery and the Spear Frame, then kill the Mummies
 ![](./assets/images/any_crumbling_mine_4.webp)
 ![](./assets/images/any_crumbling_mine_5.webp)
 
-After clearing the trap (+80 EXP), open the reward chests for 2 ![](./assets/images/icons/icon_banana.webp) Bananas and the ![](./assets/images/icons/icon_key_triangle.webp) Triangle Key. Use a ![](./assets/images/icons/icon_speed_nut.webp) Speed Nut and leave the dungeon:
+After clearing the trap (+80 EXP), open the reward chests for 2 ![][icon_banana] Bananas and the ![][icon_key_triangle] Triangle Key. Use a ![][icon_speed_nut] Speed Nut and leave the dungeon:
 
 <img class="smoothImage" src="./assets/images/any_crumbling_mine_6.webp">
 
@@ -423,4 +423,5 @@ TODO
 <!-- Items -->
 [icon_speed_nut]: ./assets/images/icons/icon_speed_nut.webp
 [icon_banana]: ./assets/images/icons/icon_banana.webp
+[icon_evil_banana]: ./assets/images/icons/icon_evil_banana.webp
 [icon_key_triangle]: ./assets/images/icons/icon_key_triangle.webp
