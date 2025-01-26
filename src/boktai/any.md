@@ -316,9 +316,37 @@ You can open the chest containing the Bomb from the staircase, this avoids havin
 
 Defeat the Sword with the Fencer Frame by holding B, and alternate pressing Right and Down on the D-pad to create a spread. With the Fencer Frame, the spread created by changing direction deals the most damage. Do not hold two directions on the D-pad at the same time. After clearing the trap (+70 EXP), open the reward chest for 6 ![](./assets/images/icons/icon_speed_nut.webp) Speed Nuts.
 
-## Crumbling Mine
+## Crumbling Mine ![](./assets/images/0.webp)
 
-TODO
+| Resource     | Start with | Get   | Consume | End with
+|--------------|------------|-------|---------|----------
+| Sol Lens EXP | 358        | +80   |         | 438
+| Banana       | 0          | +2    |         | 2
+| Speed Nut    | 11         |       | -1      | 10
+
+The target rank for this dungeon is A. You can ignore all enemies in this dungeon: You will get detected 3 times, but this will still be enough to get an A rank.
+
+<img class="smoothImage" src="./assets/images/any_crumbling_mine_1.webp">
+
+## Trap
+
+Start by equipping the Double Battery and the Spear Frame, then kill the Mummies by bunching them up against a wall:
+
+1. Knock on the center rock.
+1. Hug the wall directly to the south, and wait for the Mummies to be bunched up.
+1. Use the Spear Frame to push them towards the north rock.
+1. Now you just shoot them until they all die. Stay close to the mummies because the damage output of the Spear Frame decreases with distance.
+
+([Video](https://www.twitch.tv/a_raphi/clip/RudeEvilPieBatChest-zneuvExvIdxp6Ox6))
+
+![](./assets/images/any_crumbling_mine_2.webp)
+![](./assets/images/any_crumbling_mine_3.webp)
+![](./assets/images/any_crumbling_mine_4.webp)
+![](./assets/images/any_crumbling_mine_5.webp)
+
+After clearing the trap (+80 EXP), open the reward chests for 2 ![](./assets/images/icons/icon_banana.webp) Bananas and the ![](./assets/images/icons/icon_key_triangle.webp) Triangle Key. Use a ![](./assets/images/icons/icon_speed_nut.webp) Speed Nut and leave the dungeon:
+
+<img class="smoothImage" src="./assets/images/any_crumbling_mine_6.webp">
 
 ## Firetop Mountain
 
