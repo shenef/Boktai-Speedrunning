@@ -36,6 +36,8 @@ For purifications always use the highest possible solar gauge level.
 - Pick up every item marked on the maps. Many of these will be in invisible chests. You can open invisible chests by pressing A, just like normal chests.
 - While picking up healing items (like apples) is optional, skip them at your own peril.
 - Use healing items as necessary.
+- Hold B to clear text boxes optimally. Mash A/B to clear undead dungeon intros. Mash A/Start to clear immortal dungeon intros. Mash A/B to clear dungeon result screens.
+- You can (and should) cut corners on every staircase, both at the top and at the bottom. This saves time, and allows you to sneak past some enemies.
 
 ## Before the run
 
@@ -104,7 +106,12 @@ First, charge the left tower of the pile driver. Then charge the right tower by 
 
 ![](./assets/images/any_fog_castle_3.webp)
 
-Use a ![][icon_speed_nut] Speed Nut just before completing the purification (+100 EXP).
+The basic strategy for purifications is:
+1. Evade the immortal's attacks (there won't be any attacks during *this* purification).
+1. If one of the Solar Piles is not at full power (= the ray is partially dark), spread at the corresponding generator until it's back at full power. Not having all piles at full power significantly increases the time required for purification.
+1. Otherwise, spread at the coffin.
+
+Use a ![][icon_speed_nut] Speed Nut just before completing the purification (+100 EXP). When the screen with the Boktai logo appears, mash A/B to clear it.
 
 ## Small Cave &nbsp; ![](./assets/images/8.webp)
 
