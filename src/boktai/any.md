@@ -36,6 +36,8 @@ For purifications always use the highest possible solar gauge level.
 - Pick up every item marked on the maps. Many of these will be in invisible chests. You can open invisible chests by pressing A, just like normal chests.
 - While picking up healing items (like apples) is optional, skip them at your own peril.
 - Use healing items as necessary.
+- Hold B to clear text boxes optimally. Mash A/B to clear undead dungeon intros. Mash A/Start to clear immortal dungeon intros. Mash A/B to clear dungeon result screens.
+- You can (and should) cut corners on every staircase, both at the top and at the bottom. This saves time, and allows you to sneak past some enemies.
 
 ## Before the run
 
@@ -51,11 +53,12 @@ In the case of BizHawk, you should use _at least_ version 2.6.3 since that adds 
 - mGBA:
   - TODO: instructions on how to set up empty battery
 
-<img class="right" src="./assets/images/initial_time.webp"></img>
 Then in-game, set the Date and Time to
 
 - 2003 年 07 月 17 日
 - 午前 04 時 05 分
+
+<img class="right" src="./assets/images/initial_time.webp"></img>
 
 With this starting time you will
 
@@ -104,7 +107,13 @@ First, charge the left tower of the pile driver. Then charge the right tower by 
 
 ![](./assets/images/any_fog_castle_3.webp)
 
-Use a ![][icon_speed_nut] Speed Nut just before completing the purification (+100 EXP).
+The basic strategy for purifications is:
+
+1. Evade the immortal's attacks (there won't be any attacks during _this_ purification).
+2. If one of the Solar Piles is not at full power (= the ray is partially dark), spread at the corresponding generator until it's back at full power. Not having all piles at full power significantly increases the time required for purification.
+3. Otherwise, spread at the coffin.
+
+Use a ![][icon_speed_nut] Speed Nut just before completing the purification (+100 EXP). When the screen with the Boktai logo appears, mash A/B to clear it.
 
 ## Small Cave &nbsp; ![](./assets/images/8.webp)
 
@@ -177,23 +186,171 @@ Clear the trap (+40 EXP), skip the reward chest, and use a ![](./assets/images/i
 
 ## Bloodrust Mansion &nbsp; ![](./assets/images/1.webp)
 
-For the Count fight increase Sun to 8, then keep it at 8 to ensure S-Rank.
+| Resource     | Start with | Get   | Consume | End with
+|--------------|------------|-------|---------|----------
+| Sol Lens EXP | 179        | +109  |         | 288
+| Speed Nut    | 4          | +5    | -3      | 6
+| Banana       | 4          | +2    | -6      | 0
+| Bomb         | 0          | +4    | -3      | 1
+| Evil Banana  | 0          | +3    |         | 3
 
-- Garden puzzle numbers: 3 > 9 > 8 > 6 > 5 (best to worst)
-- Time Puzzle: 7, 9, 10, 1, 3, 5, 8
+Avoid getting seen, because you must S-rank this dungeon.
+
+<img class="smoothImage" src="./assets/images/any_bloodrust_1.webp">
+
+Get the circle key by pushing the top-most block left:
+
+<img class="smoothImage" src="./assets/images/any_bloodrust_2.webp">
+
+After your Speed Nut expires, use a ![](./assets/images/icons/icon_banana.webp) Banana for the box push puzzle, then use 2 ![](./assets/images/icons/icon_speed_nut.webp) Speed Nuts.
+
+<img class="smoothImage" src="./assets/images/any_bloodrust_3.webp">
+
+Make sure to pick up the Double Battery from the green chest, but don't equip it yet. The spiders in the next room are unable to detect you, and only the red spiders have a hitbox at all.
+
+<img class="smoothImage" src="./assets/images/any_bloodrust_4.webp">
+
+<img class="smoothImage" src="./assets/images/any_bloodrust_5.webp">
+
+In the next room, step on these pressure plates in order to open the staircase, and go downstairs:  
+7, 9, 10, 1, 3, 5, 8
+
+<img class="smoothImage" src="./assets/images/any_bloodrust_6.webp">
+
+Use a ![](./assets/images/icons/icon_banana.webp) Banana to solve the next box push puzzle, then use one more ![](./assets/images/icons/icon_speed_nut.webp) Speed Nut.
+
+<img class="smoothImage" src="./assets/images/any_bloodrust_7.webp">
+
+You can push the Bok onto the pressure plate by setting up a back attack. Use the floor tiles as a visual reference:
+
+1. Position Django on the light floor tile
+2. Wait until the Bok steps onto the 3rd row of floor tiles
+3. Fire a shot at the Bok, this will knock it onto the pressure plate:
+
+(Backup strat: Use Knight Frame + Luna Lens)
+
+<img class="smoothImage" src="./assets/images/any_bloodrust_8.webp">
+
+In the room with the Vaniboks, it's OK to get detected once on each visit.
+
+<img class="smoothImage" src="./assets/images/any_bloodrust_9.webp">
+
+Flip the lever and go back to enter the next puzzle where you must place two Boks onto the pressure plates at the same time to unlock the exit. To solve this puzzle quickly:
+
+1. Knock on the pillar near the entrance to attract both Boks.
+2. Sneak up behind the lower Bok and follow it.
+3. Once that Bok turns right, fire a shot to stun it and knock it onto the pressure plate simultaneously.
+4. Stand on the upper pressure plate and knock on the pillar to attract the upper Bok.
+5. Hide and wait for the door to open.
+
+([Video](https://www.twitch.tv/a_raphi/clip/InspiringFunnyAsteriskTinyFace-YN1PtDHDSxqtVwdO))
+
+This requires some practice, if you're not fast enough then the upper Bok will spot you. The strategy works without a speed nut active.
+(Backup strat: Use Knight Frame + Sol Lens to stun the Boks, and Luna Lens to knock them around)
+
+![](./assets/images/any_bloodrust_10.webp)
+![](./assets/images/any_bloodrust_11.webp)
+![](./assets/images/any_bloodrust_12.webp)
+![](./assets/images/any_bloodrust_13.webp)
+![](./assets/images/any_bloodrust_14.webp)
+
+![](./assets/images/any_bloodrust_15.webp)
+
+For the Count fight increase Sun to ![](./assets/images/8.webp) 8, then keep it at 8 for the remainder of the dungeon to ensure S-Rank. Equip the bombs, and ensure you have the Sol Lens and Spear Frame equipped.
+
+### The Count
+
+1. Start the fight by mashing L until you have thrown 3 bombs.
+2. Wait for the count to start moving, then position yourself on the stone floor to the south of the center window.
+3. Wait for the count to throw a sword at you, and shoot to knock it back at him (you can shoot the sword as soon as it starts spinning).
+4. Wait for the count to start moving, run to the north of the skylight (taking contact damage from one of the swords if necessary), and knock another sword back at the count.
+5. Wait for the count to start moving again, and run to the south of the skylight.
+6. Wait for the count to start his dash attack, and run to the north of the skylight again. If done correctly, the count will dash into the skylight and die (+50 EXP).
+
+([Video](https://www.twitch.tv/a_raphi/clip/SleepyBumblingLapwingJKanStyle-wTso6E4Db9UkDj9V))
+
+![](./assets/images/any_bloodrust_16.webp)
+![](./assets/images/any_bloodrust_17.webp)
+![](./assets/images/any_bloodrust_18.webp)
+![](./assets/images/any_bloodrust_19.webp)
+![](./assets/images/any_bloodrust_20.webp)
+![](./assets/images/any_bloodrust_21.webp)
+
+### Purification
+
+Equip the Knight Frame, and use all 4 remaining ![](./assets/images/icons/icon_banana.webp) Bananas to drag the coffin back to the pile driver. Go back the way you came undetected:
+
+- _In the room with the two Boks and two pressure plates_: Stun the upper Bok to leave the room undetected.
+- _In the room with the Vaniboks_: Leave the coffin at the entrance, pull the lever, and start dragging the coffin again.
+- _After the garden_: Go south at the intersection and push the box out of the way. Alternate between pushing the box and dragging the coffin:
+
+![](./assets/images/any_bloodrust_22.webp)
+
+At the pile driver, activate two generators simultaneously using your gun's spread.
+
+Complete the purification (+50 EXP), which should give you an S-rank. Open the two chests on the right (3 ![](./assets/images/icons/icon_evil_banana.webp) Evil Bananas, 2 ![](./assets/images/icons/icon_banana.webp) Speed Nuts) and walk to the Solar Tree.
 
 ## Solar Tree &nbsp; ![](./assets/images/0.webp)
 
-Talk to Lita, plant a single Green Apple (A, start, A).  
-Alternative, not properly tested, strategy: Plant a Gold Apple. The idea is that if you have very good Sunlight management, you will never get the "plant is grown" message.
+Talk to Lita, then plant a single Green Apple (A, start, A).
 
-## Deserted Arsenal
+```admonish info
+If you have gotten a random Gold Apple drop, you can instead plant a Gold Apple + either a Green or a Red Apple. This skips a "The solar tree is calling..." text box after Firetop Mountain.
+```
 
-TODO
+## Deserted Arsenal ![](./assets/images/0.webp)
 
-## Crumbling Mine
+| Resource     | Start with | Get   | Consume | End with
+|--------------|------------|-------|---------|----------
+| Sol Lens EXP | 288        | +70   |         | 358
+| Evil Banana  | 3          |       | -1      | 2
+| Speed Nut    | 6          | +6    | -1      | 11
+| Bomb         | 1          | +1    |         | 2
 
-TODO
+Use an ![](./assets/images/icons/icon_evil_banana.webp) Evil Banana to solve the box push puzzle.
+Get the Fencer Frame from the green chest, then equip it and use a ![](./assets/images/icons/icon_speed_nut.webp) Speed Nut. Avoid detection by the Steps and the Boks in the final room to ensure S-rank.
+
+<img class="smoothImage" src="./assets/images/any_deserted_arsenal_1.webp">
+
+You can open the chest containing the Bomb from the staircase, this avoids having to stun the Bok below:
+
+![](./assets/images/any_deserted_arsenal_2.webp)
+
+### Trap
+
+Defeat the Sword with the Fencer Frame by holding B, and alternate pressing Right and Down on the D-pad to create a spread. With the Fencer Frame, the spread created by changing direction deals the most damage. Do not hold two directions on the D-pad at the same time. After clearing the trap (+70 EXP), open the reward chest for 6 ![](./assets/images/icons/icon_speed_nut.webp) Speed Nuts.
+
+## Crumbling Mine ![](./assets/images/0.webp)
+
+| Resource     | Start with | Get   | Consume | End with
+|--------------|------------|-------|---------|----------
+| Sol Lens EXP | 358        | +80   |         | 438
+| Banana       | 0          | +2    |         | 2
+| Speed Nut    | 11         |       | -1      | 10
+
+The target rank for this dungeon is A. You can ignore all enemies in this dungeon: You will get detected 3 times, but this will still be enough to get an A rank.
+
+<img class="smoothImage" src="./assets/images/any_crumbling_mine_1.webp">
+
+## Trap
+
+Start by equipping the Double Battery and the Spear Frame, then kill the Mummies by bunching them up against a wall:
+
+1. Knock on the center rock.
+2. Hug the wall directly to the south, and wait for the Mummies to be bunched up.
+3. Use the Spear Frame to push them towards the north rock.
+4. Now you just shoot them until they all die. Stay close to the mummies because the damage output of the Spear Frame decreases with distance.
+
+([Video](https://www.twitch.tv/a_raphi/clip/RudeEvilPieBatChest-zneuvExvIdxp6Ox6))
+
+![](./assets/images/any_crumbling_mine_2.webp)
+![](./assets/images/any_crumbling_mine_3.webp)
+![](./assets/images/any_crumbling_mine_4.webp)
+![](./assets/images/any_crumbling_mine_5.webp)
+
+After clearing the trap (+80 EXP), open the reward chests for 2 ![](./assets/images/icons/icon_banana.webp) Bananas and the ![](./assets/images/icons/icon_key_triangle.webp) Triangle Key. Use a ![](./assets/images/icons/icon_speed_nut.webp) Speed Nut and leave the dungeon:
+
+<img class="smoothImage" src="./assets/images/any_crumbling_mine_6.webp">
 
 ## Firetop Mountain
 
