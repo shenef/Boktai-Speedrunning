@@ -281,10 +281,13 @@ Complete the purification (+50 EXP), which should give you an S-rank. Open the t
 
 ## Solar Tree &nbsp; ![](./assets/images/0.webp)
 
-Talk to Lita, plant a single Green Apple (A, start, A).  
-Alternative, not properly tested, strategy: Plant a Gold Apple. The idea is that if you have very good Sunlight management, you will never get the "plant is grown" message.
+Talk to Lita, then plant a single Green Apple (A, start, A).
 
-## Deserted Arsenal
+```admonish info
+If you have gotten a random Gold Apple drop, you can instead plant a Gold Apple + either a Green or a Red Apple. This skips a "The solar tree is calling..." text box after Firetop Mountain.
+```
+
+## Deserted Arsenal ![](./assets/images/0.webp)
 
 TODO
 
