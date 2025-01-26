@@ -296,7 +296,25 @@ If you have gotten a random Gold Apple drop, you can instead plant a Gold Apple 
 
 ## Deserted Arsenal ![](./assets/images/0.webp)
 
-TODO
+| Resource     | Start with | Get   | Consume | End with
+|--------------|------------|-------|---------|----------
+| Sol Lens EXP | 288        | +70   |         | 358
+| Evil Banana  | 3          |       | -1      | 2
+| Speed Nut    | 6          | +6    | -1      | 11
+| Bomb         | 1          | +1    |         | 2
+
+Use an ![](./assets/images/icons/icon_evil_banana.webp) Evil Banana to solve the box push puzzle.
+Get the Fencer Frame from the green chest, then equip it and use a ![](./assets/images/icons/icon_speed_nut.webp) Speed Nut. Avoid detection by the Steps and the Boks in the final room to ensure S-rank.
+
+<img class="smoothImage" src="./assets/images/any_deserted_arsenal_1.webp">
+
+You can open the chest containing the Bomb from the staircase, this avoids having to stun the Bok below:
+
+![](./assets/images/any_deserted_arsenal_2.webp)
+
+### Trap
+
+Defeat the Sword with the Fencer Frame by holding B, and alternate pressing Right and Down on the D-pad to create a spread. With the Fencer Frame, the spread created by changing direction deals the most damage. Do not hold two directions on the D-pad at the same time. After clearing the trap (+70 EXP), open the reward chest for 6 ![](./assets/images/icons/icon_speed_nut.webp) Speed Nuts.
 
 ## Crumbling Mine
 
