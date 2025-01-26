@@ -53,12 +53,12 @@ In the case of BizHawk, you should use _at least_ version 2.6.3 since that adds 
 - mGBA:
   - TODO: instructions on how to set up empty battery
 
+<img class="right" src="./assets/images/initial_time.webp"></img>
+
 Then in-game, set the Date and Time to
 
 - 2003 年 07 月 17 日
 - 午前 04 時 05 分
-
-<img class="right" src="./assets/images/initial_time.webp"></img>
 
 With this starting time you will
 
