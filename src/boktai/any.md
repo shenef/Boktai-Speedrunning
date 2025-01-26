@@ -103,6 +103,8 @@ When the coffin starts shaking in this hallway, drop the coffin, kill the statio
 
 ![](./assets/images/any_fog_castle_2.webp)
 
+### <span class="purification">Purification</span>
+
 First, charge the left tower of the pile driver. Then charge the right tower by standing on the pile driver activation spot. After charging that tower, press A immediately to start the purification, skipping a text box:
 
 ![](./assets/images/any_fog_castle_3.webp)
@@ -227,7 +229,7 @@ You can push the Bok onto the pressure plate by setting up a back attack. Use th
 2. Wait until the Bok steps onto the 3rd row of floor tiles
 3. Fire a shot at the Bok, this will knock it onto the pressure plate:
 
-(Backup strat: Use Knight Frame + Luna Lens)
+<span class="safety">Backup strat:</span> Use Knight Frame + <span class="luna">Luna</span> Lens.
 
 <img class="smoothImage" src="./assets/images/any_bloodrust_8.webp">
 
@@ -246,7 +248,7 @@ Flip the lever and go back to enter the next puzzle where you must place two Bok
 ([Video](https://www.twitch.tv/a_raphi/clip/InspiringFunnyAsteriskTinyFace-YN1PtDHDSxqtVwdO))
 
 This requires some practice, if you're not fast enough then the upper Bok will spot you. The strategy works without a Speed Nut active.  
-(Backup strat: Use Knight Frame + Sol Lens to stun the Boks, and Luna Lens to knock them around)
+<span class="safety">Backup strat:</span> Use Knight Frame + <span class="sol">Sol</span> Lens to stun the Boks, and <span class="luna">Luna</span> Lens to knock them around.
 
 ![](./assets/images/any_bloodrust_10.webp)
 ![](./assets/images/any_bloodrust_11.webp)
@@ -256,9 +258,9 @@ This requires some practice, if you're not fast enough then the upper Bok will s
 
 ![](./assets/images/any_bloodrust_15.webp)
 
-For the Count fight increase Sun to ![](./assets/images/8.webp) 8, then keep it at 8 for the remainder of the dungeon to ensure S-Rank. Equip the bombs, and ensure you have the Sol Lens and Spear Frame equipped.
+For the Count fight increase Sun to ![](./assets/images/8.webp) 8, then keep it at 8 for the remainder of the dungeon to ensure S-Rank. Equip the bombs, and ensure you have the <span class="sol">Sol</span> Lens and Spear Frame equipped.
 
-### The Count
+### <span class="boss">The Count</span>
 
 1. Start the fight by mashing L until you have thrown 3 bombs.
 2. Wait for the count to start moving, then position yourself on the stone floor to the south of the center window.
@@ -276,7 +278,7 @@ For the Count fight increase Sun to ![](./assets/images/8.webp) 8, then keep it 
 ![](./assets/images/any_bloodrust_20.webp)
 ![](./assets/images/any_bloodrust_21.webp)
 
-### Purification
+### <span class="purification">Purification</span>
 
 Equip the Knight Frame, and use all 4 remaining ![][icon_banana] Bananas to drag the coffin back to the pile driver. Go back the way you came undetected:
 
@@ -316,7 +318,7 @@ You can open the chest containing the Bomb from the staircase, this avoids havin
 
 ![](./assets/images/any_deserted_arsenal_2.webp)
 
-### Trap
+### <span class="trap">Trap</span>
 
 Defeat the Sword with the Fencer Frame by holding B, and alternate pressing Right and Down on the D-pad to create a spread. With the Fencer Frame, the spread created by changing direction deals the most damage. Do not hold two directions on the D-pad at the same time. After clearing the trap (+70 EXP), open the reward chest for 6 ![][icon_speed_nut] Speed Nuts.
 
@@ -332,7 +334,7 @@ The target rank for this dungeon is A. You can ignore all enemies in this dungeo
 
 <img class="smoothImage" src="./assets/images/any_crumbling_mine_1.webp">
 
-## Trap
+## <span class="trap">Trap</span>
 
 Start by equipping the Double Battery and the Spear Frame, then kill the Mummies by bunching them up against a wall:
 
