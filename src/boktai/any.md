@@ -53,11 +53,12 @@ In the case of BizHawk, you should use _at least_ version 2.6.3 since that adds 
 - mGBA:
   - TODO: instructions on how to set up empty battery
 
-<img class="right" src="./assets/images/initial_time.webp"></img>
 Then in-game, set the Date and Time to
 
 - 2003 年 07 月 17 日
 - 午前 04 時 05 分
+
+<img class="right" src="./assets/images/initial_time.webp"></img>
 
 With this starting time you will
 
@@ -107,9 +108,10 @@ First, charge the left tower of the pile driver. Then charge the right tower by 
 ![](./assets/images/any_fog_castle_3.webp)
 
 The basic strategy for purifications is:
-1. Evade the immortal's attacks (there won't be any attacks during *this* purification).
-1. If one of the Solar Piles is not at full power (= the ray is partially dark), spread at the corresponding generator until it's back at full power. Not having all piles at full power significantly increases the time required for purification.
-1. Otherwise, spread at the coffin.
+
+1. Evade the immortal's attacks (there won't be any attacks during _this_ purification).
+2. If one of the Solar Piles is not at full power (= the ray is partially dark), spread at the corresponding generator until it's back at full power. Not having all piles at full power significantly increases the time required for purification.
+3. Otherwise, spread at the coffin.
 
 Use a ![][icon_speed_nut] Speed Nut just before completing the purification (+100 EXP). When the screen with the Boktai logo appears, mash A/B to clear it.
 
@@ -220,9 +222,10 @@ Use a ![](./assets/images/icons/icon_banana.webp) Banana to solve the next box p
 <img class="smoothImage" src="./assets/images/any_bloodrust_7.webp">
 
 You can push the Bok onto the pressure plate by setting up a back attack. Use the floor tiles as a visual reference:
+
 1. Position Django on the light floor tile
-1. Wait until the Bok steps onto the 3rd row of floor tiles
-1. Fire a shot at the Bok, this will knock it onto the pressure plate:
+2. Wait until the Bok steps onto the 3rd row of floor tiles
+3. Fire a shot at the Bok, this will knock it onto the pressure plate:
 
 (Backup strat: Use Knight Frame + Luna Lens)
 
@@ -233,11 +236,12 @@ In the room with the Vaniboks, it's OK to get detected once on each visit.
 <img class="smoothImage" src="./assets/images/any_bloodrust_9.webp">
 
 Flip the lever and go back to enter the next puzzle where you must place two Boks onto the pressure plates at the same time to unlock the exit. To solve this puzzle quickly:
+
 1. Knock on the pillar near the entrance to attract both Boks.
-1. Sneak up behind the lower Bok and follow it.
-1. Once that Bok turns right, fire a shot to stun it and knock it onto the pressure plate simultaneously.
-1. Stand on the upper pressure plate and knock on the pillar to attract the upper Bok.
-1. Hide and wait for the door to open.
+2. Sneak up behind the lower Bok and follow it.
+3. Once that Bok turns right, fire a shot to stun it and knock it onto the pressure plate simultaneously.
+4. Stand on the upper pressure plate and knock on the pillar to attract the upper Bok.
+5. Hide and wait for the door to open.
 
 ([Video](https://www.twitch.tv/a_raphi/clip/InspiringFunnyAsteriskTinyFace-YN1PtDHDSxqtVwdO))
 
@@ -257,11 +261,11 @@ For the Count fight increase Sun to ![](./assets/images/8.webp) 8, then keep it 
 ### The Count
 
 1. Start the fight by mashing L until you have thrown 3 bombs.
-1. Wait for the count to start moving, then position yourself on the stone floor to the south of the center window.
-1. Wait for the count to throw a sword at you, and shoot to knock it back at him (you can shoot the sword as soon as it starts spinning).
-1. Wait for the count to start moving, run to the north of the skylight (taking contact damage from one of the swords if necessary), and knock another sword back at the count.
-1. Wait for the count to start moving again, and run to the south of the skylight.
-1. Wait for the count to start his dash attack, and run to the north of the skylight again. If done correctly, the count will dash into the skylight and die (+50 EXP).
+2. Wait for the count to start moving, then position yourself on the stone floor to the south of the center window.
+3. Wait for the count to throw a sword at you, and shoot to knock it back at him (you can shoot the sword as soon as it starts spinning).
+4. Wait for the count to start moving, run to the north of the skylight (taking contact damage from one of the swords if necessary), and knock another sword back at the count.
+5. Wait for the count to start moving again, and run to the south of the skylight.
+6. Wait for the count to start his dash attack, and run to the north of the skylight again. If done correctly, the count will dash into the skylight and die (+50 EXP).
 
 ([Video](https://www.twitch.tv/a_raphi/clip/SleepyBumblingLapwingJKanStyle-wTso6E4Db9UkDj9V))
 
@@ -276,9 +280,9 @@ For the Count fight increase Sun to ![](./assets/images/8.webp) 8, then keep it 
 
 Equip the Knight Frame, and use all 4 remaining ![](./assets/images/icons/icon_banana.webp) Bananas to drag the coffin back to the pile driver. Go back the way you came undetected:
 
-* *In the room with the two Boks and two pressure plates*: Stun the upper Bok to leave the room undetected.
-* *In the room with the Vaniboks*: Leave the coffin at the entrance, pull the lever, and start dragging the coffin again.
-* *After the garden*: Go south at the intersection and push the box out of the way. Alternate between pushing the box and dragging the coffin:
+- _In the room with the two Boks and two pressure plates_: Stun the upper Bok to leave the room undetected.
+- _In the room with the Vaniboks_: Leave the coffin at the entrance, pull the lever, and start dragging the coffin again.
+- _After the garden_: Go south at the intersection and push the box out of the way. Alternate between pushing the box and dragging the coffin:
 
 ![](./assets/images/any_bloodrust_22.webp)
 
@@ -333,9 +337,9 @@ The target rank for this dungeon is A. You can ignore all enemies in this dungeo
 Start by equipping the Double Battery and the Spear Frame, then kill the Mummies by bunching them up against a wall:
 
 1. Knock on the center rock.
-1. Hug the wall directly to the south, and wait for the Mummies to be bunched up.
-1. Use the Spear Frame to push them towards the north rock.
-1. Now you just shoot them until they all die. Stay close to the mummies because the damage output of the Spear Frame decreases with distance.
+2. Hug the wall directly to the south, and wait for the Mummies to be bunched up.
+3. Use the Spear Frame to push them towards the north rock.
+4. Now you just shoot them until they all die. Stay close to the mummies because the damage output of the Spear Frame decreases with distance.
 
 ([Video](https://www.twitch.tv/a_raphi/clip/RudeEvilPieBatChest-zneuvExvIdxp6Ox6))
 
