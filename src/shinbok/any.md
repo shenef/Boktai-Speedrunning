@@ -1,4 +1,6 @@
-# Boktai 3 Any% Route
+# Boktai 3: Any% Route
+
+{{#title Boktai 3: Any% Route}}
 
 ```admonish danger title="Work in Progress"
 This guide is currently being rewritten because of route improvements.  
@@ -11,10 +13,10 @@ Directions for paths and exits will use ↖️, ↗️, ↙️ and ↘️.
 
 ## Before starting
 
-If playing on BizHawk, set Skip BIOS to FALSE and RTC to FALSE in the GBA Settings(Requires v2.6.3+):  
+If playing on BizHawk, set Skip BIOS to FALSE and RTC to FALSE in the GBA Settings (Requires v2.6.3+):  
 ![](./assets/images/emu_settings.webp)
 
-Set the system time to July 21st 2005 at 8PM (2005/08/21 20:00):  
+Set the system time to July 21st 2005 at 8PM (2005/07/21 20:00):  
 ![](./assets/images/igt.webp)
 
 ## Setting up the Grand Master password
@@ -134,7 +136,7 @@ On Map screens you can use the shoulder buttons navigate quickly.
   - 4 ![icon][earthly_nut] Earthly Nuts
   - 2 ![icon][healer] Healers
   - 1 ![icon][tasty_meat] Tasty Meat
-- Buy 3 ![icon][banana] Bananas & sort your inventory before closing the shop menu and leaving.
+- Buy 3 ![icon][power_nut] Power Nuts & sort your inventory before closing the shop menu and leaving.
 
 **Accessory Shop**
 
@@ -225,7 +227,7 @@ Open the menu, put all your stats into STR, equip ![icon][hoop_frame] Hoop Frame
 ### Coffin
 
 - Set sunlight to 0.
-- Use a ![icon][banana] Banana and start going back.
+- Use a ![icon][power_nut] Power Nut and start going back.
 
 In the room where Otenko summons a solar circle, take the ↙️ path.  
 Push the wooden block on the weight switch, then go through the ↖️ path.  
@@ -249,7 +251,7 @@ Once you get past the room where you fought the Armor (brown door), take the ↖
 ### Item Shop
 
 - Sell both ![icon][red_card] cards.
-- Buy 7 ![icon][banana] bananas.
+- Buy 7 ![icon][power_nut] Power Nuts.
 
 ## Ancient Tree
 
@@ -270,7 +272,7 @@ Proceed in the ↖️ direction, then ↗️ twice (you can pass from the left s
 
 #### <span class="puzzle">Puzzle</span>
 
-- Use a ![icon][banana] Banana.
+- Use a ![icon][power_nut] Power Nut.
 - Push the first block once in ↗️ & ↖️ directions.
 - Push the second block ↗️ once & open the green chest to get the ![icon][earth_lens] Earth Lens.
 
@@ -280,7 +282,7 @@ Grow the first plan, then alternate between the other 2 plans. Start with the le
 Open the green chest on the left to get ![icon][dragoon_frame] Dragoon Frame, then proceed in the ↗️ direction.  
 ![](./assets/images/ancient_tree_dragoon_frame.webp)
 
-Push the blocks on the weight switches and take the elevator to reach **3F** (if you were fast enough, the banana will still be effective).
+Push the blocks on the weight switches and take the elevator to reach **3F** (if you are fast enough, the Power Nut will still be active).
 
 Proceed in the ↙️ twice, then ↖️ and ↙️ once each.
 
@@ -347,7 +349,7 @@ After opening the door, proceed in the ↗️ direction.
 
 ### <span class="puzzle">Puzzle</span>
 
-- Use a ![icon][banana] Banana.
+- Use a ![icon][power_nut] Power Nut.
 - Take the elevator to reach **5F**.
 
 Take the ↘️ path, then ↗️ twice.
@@ -375,13 +377,13 @@ Open the menu and:
 - Turn off the sunlight.
 - Put all points into STR.
 - Unequip ![icon][iron_clogs] Iron Clogs.
-- Use a ![icon][banana] Banana.
+- Use a ![icon][power_nut] Power Nut.
 
 Take the elevator and start going back to th entrance of the dungeon.  
 Use the grown plant outside as a shortcut, then go back inside the tree and take the ↘️ path.  
 Set sunlight to max, put the coffin on the first weight switch, then use ![icon][dash] Dash to step on the other one.
 
-Grab the coffin and go through the ↗️ gate, use another ![icon][banana] Banana after the current one runs out.
+Grab the coffin and go through the ↗️ gate, use another ![icon][power_nut] Power Nut after the current one runs out.
 
 Then take the elevator to go back to **4F**.
 
@@ -393,7 +395,7 @@ Turn off the sunlight during the elevator.
 
 Go through the ↘️, ↗️ paths, then walk on the grown plant & the iron block to proceed in the ↖️ direction.
 
-You can reach the moving platform without using another ![icon][banana]banana, so wait until you've reached the other side before using another one.
+You can reach the moving platform without using another ![icon][power_nut] Power Nut, so wait until you've reached the other side before using another one.
 
 Then proceed in the ↖️ direction twice (watch out for the centipede), then ↙️ twice and ↖️ again to go outside.
 
@@ -407,7 +409,7 @@ Go through the ↙️ and ↘️ paths, then go towards the ↗️ path, be care
 Take the elevator to go back to **1F**.
 
 Proceed in the ↖️ direction, then ↙️, ↘️ and ↙️ twice to reach the purification area.
-_The banana effect should stop are the dialog begins._
+_The Power Nut effect should stop where the dialog begins._
 
 ### <span class="purification">Hresvelgr Purification</span>
 
@@ -435,7 +437,7 @@ _Note: unlike Dark Trans, the timing when pressing B matters. Sol Trans has the 
 ### Item Shop
 
 - Sell ![icon][red_card] card.
-- Buy 4 ![icon][banana] bananas.
+- Buy 4 ![icon][power_nut] Power Nuts.
 
 ## White Forest
 
@@ -457,7 +459,7 @@ Then go back, and after exiting the cave, take the ↘️ & ↗️ paths.
 [earthly_nut]: ./assets/images/icons/icon_earthly_nut.webp
 [solar_nut]: ./assets/images/icons/icon_solar_nut.webp
 [speed_nut]: ./assets/images/icons/icon_speed_nut.webp
-[banana]: ./assets/images/icons/icon_banana.webp
+[power_nut]: ./assets/images/icons/icon_power_nut.webp
 [tiptoe_nut]: ./assets/images/icons/icon_tiptoe_nut.webp
 [see_all_nut]: ./assets/images/icons/icon_see_all_nut.webp
 [tasty_meat]: ./assets/images/icons/icon_tasty_meat.webp

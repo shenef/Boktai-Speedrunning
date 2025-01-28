@@ -1,4 +1,6 @@
-# Boktai 2 (JP) Any% Route
+# Boktai 2: Any% Route
+
+{{#title Boktai 2: Any% Route}}
 
 ## About this guide
 

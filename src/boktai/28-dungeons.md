@@ -1,9 +1,20 @@
-# Boktai 1 28 Dungeons
+# Boktai 1: 28 Dungeons Route
 
-## Map
+{{#title Boktai 1: 28 Dungeons Route}}
 
-[![Map depicting the 28 Dungeons path](./assets/images/28D_map_small.webp)](./assets/images/28D_map.webp)
-[Click for full size <i class="fa fa-arrows-alt" aria-hidden="true"></i>](./assets/images/28D_map.webp)
+## About this Guide
+
+While the current WR follows this route, it is far from optimized. So far only the Empty Gourds are properly routed; Speed Nuts, Bananas and Grenades have a lot more potential and the WR still picks up a good amount of items that are not necessary.
+
+Please suggest improvements!
+
+Some of the images are kinda rough, initially these were just my (shenef) personal notes and are now slowly being expanded. For now, if a dungeon just has "...", there is either nothing noteworthy to do or it's still directly from my notes.
+
+The icons on the map indicate how you are expected to leave that dungeon.  
+Some dungeons simply take longer to leave on foot.
+
+<a href="./assets/images/28D_map.webp"><img src="././assets/images/28D_map_small.webp">
+Click for full size <i class="fa fa-arrows-alt" aria-hidden="true"></i></a>
 
 ## Run video
 
@@ -24,6 +35,8 @@
 
 ### Gate of the Dead
 
+...
+
 ### Ancient Forest
 
 - Get Empty Gourd in first room
@@ -39,18 +52,23 @@
 
 ### Solar Tree
 
-- plant 2 Speednuts
+- plant 2 Speed Nuts
 
-### 3x Deserted Arsenal
+### Deserted Arsenal
 
-- Gains a total of +18 Speednuts and +3 Bombs
+Finish this Dungeon three times. This gains you a total of +18 Speed Nuts and +3 Bombs.
+
+Note: Any% recently switched from two completions back to one completion.  
+It's likely that, even in 28 Dungeons, good item routing could reduce it from three completions to two or even one.
 
 ### Stairs of Trial
 
-- Don't use a Speednut after the puzzle
+- Don't use a Speed Nut after the puzzle
 - ![Stairs of Trial](./assets/images/28D_stairs-of-trial.webp)
 
 ### Ruined Cemetery
+
+...
 
 ### Firetop Mountain
 
@@ -62,7 +80,11 @@
 
 ### Death Cliff
 
+...
+
 ### Crumbling Mine
+
+...
 
 ### Suffering House
 
@@ -94,9 +116,9 @@
 
 ### Abyss
 
-- Use Banana for puzzles, 1 speednut after first puzzle
+- Use Banana for puzzles, 1 Speed Nut after first puzzle
 - ![Abyss](./assets/images/28D_abyss.webp)
-- +1 Speednut on light bridge
+- +1 Speed Nut on light bridge
 - Get Javelin
 
 ### Delusion Forest
@@ -113,7 +135,7 @@
 
 - ![Sol City](./assets/images/28D_sol-city.webp)
 - Don't pick up the grenades after Sabata until after Carmilla
-- Two speednuts in north trap
+- Two Speed Nuts in north trap
 - Carmilla: use 15+1 Grenades
 
 ```admonish info
@@ -146,16 +168,20 @@ If you have 3, you can gourd out of Water Demon's Cage.
 
 ### Frost Tower
 
-- Use banana after mini
+- Use Banana after Red Shroom
 
 ### Cloud Tower
 
-- Block puzzle: `=`, `+`, `/`
+- Block puzzle solution:
+  - <kbd>=</kbd> <kbd>+</kbd> <kbd>/</kbd>
 
 ### Dark Castle Core
 
-- Don't need anything after the tentacle trap.
+- Tentacle Trap Rewards:  
+(Not required but could be useful)
   - Top: 10 Golden Apples
   - Middle: 10 Solar Nuts
-  - Bottom: 5 Speednuts
-- 53 / 254
+  - Bottom: 5 Speed Nuts
+- Color Puzzle solutions:
+  - 53
+  - 254

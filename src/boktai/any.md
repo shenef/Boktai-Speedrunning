@@ -1,12 +1,14 @@
-# Boktai 1 Any% (Normal 2)
+# Boktai 1: Any% Route
+
+{{#title Boktai 1: Any% Route}}
 
 ```admonish danger title="Work in Progress"
 This guide is currently being rewritten because of route improvements.  
 Feel free to contribute on Discord or on the GitHub repository.
 ```
 
-<a href="./assets/images/any_map.webp"><img src="././assets/images/any_map_small.webp"></a>
-[Click for full size <i class="fa fa-arrows-alt" aria-hidden="true"></i>](./assets/images/any_map.webp)
+<a href="./assets/images/any_map.webp"><img src="././assets/images/any_map_small.webp">
+Click for full size <i class="fa fa-arrows-alt" aria-hidden="true"></i></a>
 
 ## About this Guide
 
@@ -245,7 +247,14 @@ Flip the lever and go back to enter the next puzzle where you must place two Bok
 4. Stand on the upper pressure plate and knock on the pillar to attract the upper Bok.
 5. Hide and wait for the door to open.
 
-([Video](https://www.twitch.tv/a_raphi/clip/InspiringFunnyAsteriskTinyFace-YN1PtDHDSxqtVwdO))
+```admonish info title="Video" collapsible=true
+<iframe
+  style="aspect-ratio: 16/9"
+  src="https://clips.twitch.tv/embed?clip=InspiringFunnyAsteriskTinyFace-YN1PtDHDSxqtVwdO&parent=shenef.github.io&autoplay=false"
+  title="Boktai 1 Bloodrust Mansion Pressure Plate Trap"
+  allowfullscreen
+></iframe>
+```
 
 This requires some practice, if you're not fast enough then the upper Bok will spot you. The strategy works without a Speed Nut active.  
 <span class="safety">Backup strat:</span> Use Knight Frame + <span class="sol">Sol</span> Lens to stun the Boks, and <span class="luna">Luna</span> Lens to knock them around.
@@ -269,7 +278,14 @@ For the Count fight increase Sun to ![](./assets/images/8.webp) 8, then keep it 
 5. Wait for the count to start moving again, and run to the south of the skylight.
 6. Wait for the count to start his dash attack, and run to the north of the skylight again. If done correctly, the count will dash into the skylight and die (+50 EXP).
 
-([Video](https://www.twitch.tv/a_raphi/clip/SleepyBumblingLapwingJKanStyle-wTso6E4Db9UkDj9V))
+```admonish info title="Video" collapsible=true
+<iframe
+  style="aspect-ratio: 16/9"
+  src="https://clips.twitch.tv/embed?clip=SleepyBumblingLapwingJKanStyle-wTso6E4Db9UkDj9V&parent=shenef.github.io&autoplay=false"
+  title="Boktai 1 Bloodrust Mansion Count Fight"
+  allowfullscreen
+></iframe>
+```
 
 ![](./assets/images/any_bloodrust_16.webp)
 ![](./assets/images/any_bloodrust_17.webp)
@@ -294,7 +310,7 @@ Complete the purification (+50 EXP), which should give you an S-rank. Open the t
 
 ## Solar Tree &nbsp; ![](./assets/images/0.webp)
 
-Talk to Lita, then plant a single Green Apple (A, start, A).
+Talk to Lita, then plant a single Green Apple (<kbd>A</kbd>, <kbd>start</kbd>, <kbd>A</kbd>).
 
 ```admonish info
 If you have gotten a random Gold Apple drop, you can instead plant a Gold Apple + either a Green or a Red Apple. This skips a "The solar tree is calling..." text box after Firetop Mountain.
@@ -343,7 +359,14 @@ Start by equipping the Double Battery and the Spear Frame, then kill the Mummies
 3. Use the Spear Frame to push them towards the north rock.
 4. Now you just shoot them until they all die. Stay close to the mummies because the damage output of the Spear Frame decreases with distance.
 
-([Video](https://www.twitch.tv/a_raphi/clip/RudeEvilPieBatChest-zneuvExvIdxp6Ox6))
+```admonish info title="Video" collapsible=true
+<iframe
+  style="aspect-ratio: 16/9"
+  src="https://clips.twitch.tv/embed?clip=RudeEvilPieBatChest-zneuvExvIdxp6Ox6&parent=shenef.github.io&autoplay=false"
+  title="Boktai 1 Crumbling Mine Trap"
+  allowfullscreen
+></iframe>
+```
 
 ![](./assets/images/any_crumbling_mine_2.webp)
 ![](./assets/images/any_crumbling_mine_3.webp)
