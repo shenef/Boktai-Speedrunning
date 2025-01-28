@@ -60,7 +60,7 @@ Make sure the URL is formatted like this:
 Set `aspect-ratio` to the aspect ratio of your video. Usually `16/9` but direct GBA exports are `3/2`.  
 Title is not mandatory but it helps to identify the video when you don't have a markdown preview.
 
-Sadly the embed system of Twitch is terrible and the video won't load if the "parent" parameter in the URL is set <span class="boss">and</span> matches the page it's embedded into.
+Sadly the embed system of Twitch is terrible and the video will only load if the "parent" parameter in the URL is set <span class="boss">and</span> matches the page it's embedded into. For local testing you'll have to set that "parent" parameter to `localhost`.
 
 YouTube:
 
