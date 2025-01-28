@@ -21,10 +21,10 @@ iframe {
 
 img {
   border-radius: 2px;
-  image-rendering: pixelated;
 }
 
-/* Re-enable image smoothing */
-.smoothImage {
-  image-rendering: unset;
+/* Target only images with "icon" in their alt text*/
+img[alt*="icon"] {
+  image-rendering: pixelated;
+  vertical-align: middle;
 }

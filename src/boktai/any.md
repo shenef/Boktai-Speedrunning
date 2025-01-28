@@ -5,7 +5,7 @@ This guide is currently being rewritten because of route improvements.
 Feel free to contribute on Discord or on the GitHub repository.
 ```
 
-<a href="./assets/images/any_map.webp"><img class="smoothImage" src="././assets/images/any_map_small.webp"></a>
+<a href="./assets/images/any_map.webp"><img src="././assets/images/any_map_small.webp"></a>
 [Click for full size <i class="fa fa-arrows-alt" aria-hidden="true"></i>](./assets/images/any_map.webp)
 
 ## About this Guide
@@ -95,9 +95,9 @@ Text speed saves about 3-4 seconds.
 
 Follow the only path through this dungeon. Pick up the **Knight Frame** from the green chest on the way, and equip it immediately. Kill the Bok in the next room by hitting it with 3 ticks of your guns spread.
 
-Kill all bats in the coffin room without running out of energy. This spawns a chest containing ![][icon_speed_nut] 5 Speed Nuts. Then drag the coffin back out.
+Kill all bats in the coffin room without running out of energy. This spawns a chest containing ![icon][speed_nut] 5 Speed Nuts. Then drag the coffin back out.
 
-<img class="smoothImage" src="./assets/images/any_fog_castle_1.webp">
+![](./assets/images/any_fog_castle_1.webp)
 
 When the coffin starts shaking in this hallway, drop the coffin, kill the stationary Bok near the skylight (+3 EXP), and knock on the wall behind the skylight. The second Bok will move into the skylight and die, allowing you to drag the coffin out unimpeded:
 
@@ -115,7 +115,7 @@ The basic strategy for purifications is:
 2. If one of the Solar Piles is not at full power (= the ray is partially dark), spread at the corresponding generator until it's back at full power. Not having all piles at full power significantly increases the time required for purification.
 3. Otherwise, spread at the coffin.
 
-Use a ![][icon_speed_nut] Speed Nut just before completing the purification (+100 EXP). When the screen with the Boktai logo appears, mash A/B to clear it.
+Use a ![icon][speed_nut] Speed Nut just before completing the purification (+100 EXP). When the screen with the Boktai logo appears, mash A/B to clear it.
 
 ## Small Cave &nbsp; ![](./assets/images/8.webp)
 
@@ -127,15 +127,15 @@ Use a ![][icon_speed_nut] Speed Nut just before completing the purification (+10
 
 You _must_ get an S-rank in this dungeon. This requires at most one detection, and ideally your one detection is from the last Bok just before the door to the trap.
 
-<img class="smoothImage" src="./assets/images/any_small_cave_1.webp">
+![](./assets/images/any_small_cave_1.webp)
 
-Before getting the key, stun the enemy to the north. Do this by entering the door to the key while holding right, and immediately firing a shot once you emerge in the big room. Then get the ![][icon_key_triangle] Triangle Key from the chest and go to the trap, while avoiding detections by the Boks.
+Before getting the key, stun the enemy to the north. Do this by entering the door to the key while holding right, and immediately firing a shot once you emerge in the big room. Then get the ![icon][key_triangle] Triangle Key from the chest and go to the trap, while avoiding detections by the Boks.
 
 You should charge your energy to full on the skylight while waiting for the Bok on the right to turn away.
 
-<img class="smoothImage" src="./assets/images/any_small_cave_2.webp">
+![](./assets/images/any_small_cave_2.webp)
 
-Clear the trap. If you S-ranked this dungeon, you will receive a reward chest with ![][icon_speed_nut] 3 Speed Nuts. Use a ![][icon_speed_nut] Speed Nut before leaving the dungeon.
+Clear the trap. If you S-ranked this dungeon, you will receive a reward chest with ![icon][speed_nut] 3 Speed Nuts. Use a ![icon][speed_nut] Speed Nut before leaving the dungeon.
 
 ## Gate of the Dead &nbsp; ![](./assets/images/8.webp)
 
@@ -151,13 +151,13 @@ You _must_ get an S-rank in this dungeon. You _cannot_ be detected at all. In th
 
 The other enemies in this dungeon require no interaction. Their vision range is too short to detect you:
 
-<img class="smoothImage" src="./assets/images/any_gate_of_the_dead_2.webp">
+![](./assets/images/any_gate_of_the_dead_2.webp)
 
 ### <span class="trap">Trap</span>
 
 Use your guns spread to defeat the Sword. Try to reflect the small swords back into the big sword to speed up the fight. To conserve energy don't fire the spread continuously, but let go of the B button while the sword is invincible between your attacks.
 
-Clear the trap (+30 EXP), open the reward chest containing ![][icon_banana] 3 Bananas, and use a ![][icon_speed_nut] Speed Nut before leaving the dungeon.
+Clear the trap (+30 EXP), open the reward chest containing ![icon][banana] 3 Bananas, and use a ![icon][speed_nut] Speed Nut before leaving the dungeon.
 
 ## Ancient Forest &nbsp; ![](./assets/images/0.webp)
 
@@ -168,23 +168,23 @@ Clear the trap (+30 EXP), open the reward chest containing ![][icon_banana] 3 Ba
 
 There is no required rank in this dungeon, so there's no limit on how often you can be detected.
 
-<img class="smoothImage" src="./assets/images/any_ancient_forest_1.webp">
+![](./assets/images/any_ancient_forest_1.webp)
 
 The only item you have to pick up is the **Spear Frame** from the green chest. Equip it before entering the trap. Ignore all other chests.
 
-<img class="smoothImage" src="./assets/images/any_ancient_forest_2.webp">
+![](./assets/images/any_ancient_forest_2.webp)
 
 ### <span class="trap">Trap</span>
 
 Walk over the puddle and back as indicated to attract the Golems. Once they are in your line of fire, knock them away with the Spear Frame. By doing this, all Golems will be stunned and bunched up at the same spot, and you can kill them at the same time:
 
-<img class="smoothImage" src="./assets/images/any_ancient_forest_3.webp">
-<img class="smoothImage" src="./assets/images/any_ancient_forest_4.webp">
-<img class="smoothImage" src="./assets/images/any_ancient_forest_5.webp">
+![](./assets/images/any_ancient_forest_3.webp)
+![](./assets/images/any_ancient_forest_4.webp)
+![](./assets/images/any_ancient_forest_5.webp)
 
 Do not let the golems kill each other. If they do, you'll be short 5 EXP for every Golem that didn't die from your gun. In that case, you'll need to kill extra enemies later in the run (before Sabata in Dark Castle) to make up the missing EXP. Any Golem, Mummy, and Cockatrice-type enemy will give at least 5 EXP, as will any Bok _except_ for the green ones.
 
-Clear the trap (+40 EXP), skip the reward chest, and use a ![][icon_speed_nut] Speed Nut before leaving the dungeon.
+Clear the trap (+40 EXP), skip the reward chest, and use a ![icon][speed_nut] Speed Nut before leaving the dungeon.
 
 ## Bloodrust Mansion &nbsp; ![](./assets/images/1.webp)
 
@@ -198,30 +198,30 @@ Clear the trap (+40 EXP), skip the reward chest, and use a ![][icon_speed_nut] S
 
 Avoid getting seen, because you must S-rank this dungeon.
 
-<img class="smoothImage" src="./assets/images/any_bloodrust_1.webp">
+![](./assets/images/any_bloodrust_1.webp)
 
 Get the circle key by pushing the top-most block left:
 
-<img class="smoothImage" src="./assets/images/any_bloodrust_2.webp">
+![](./assets/images/any_bloodrust_2.webp)
 
-After your Speed Nut expires, use a ![][icon_banana] Banana for the box push puzzle, then use 2 ![][icon_speed_nut] Speed Nuts.
+After your Speed Nut expires, use a ![icon][banana] Banana for the box push puzzle, then use 2 ![icon][speed_nut] Speed Nuts.
 
-<img class="smoothImage" src="./assets/images/any_bloodrust_3.webp">
+![](./assets/images/any_bloodrust_3.webp)
 
 Make sure to pick up the Double Battery from the green chest, but don't equip it yet. The spiders in the next room are unable to detect you, and only the red spiders have a hitbox at all.
 
-<img class="smoothImage" src="./assets/images/any_bloodrust_4.webp">
+![](./assets/images/any_bloodrust_4.webp)
 
-<img class="smoothImage" src="./assets/images/any_bloodrust_5.webp">
+![](./assets/images/any_bloodrust_5.webp)
 
 In the next room, step on these pressure plates in order to open the staircase, and go downstairs:  
 7, 9, 10, 1, 3, 5, 8
 
-<img class="smoothImage" src="./assets/images/any_bloodrust_6.webp">
+![](./assets/images/any_bloodrust_6.webp)
 
-Use a ![][icon_banana] Banana to solve the next box push puzzle, then use one more ![][icon_speed_nut] Speed Nut.
+Use a ![icon][banana] Banana to solve the next box push puzzle, then use one more ![icon][speed_nut] Speed Nut.
 
-<img class="smoothImage" src="./assets/images/any_bloodrust_7.webp">
+![](./assets/images/any_bloodrust_7.webp)
 
 You can push the Bok onto the pressure plate by setting up a back attack. Use the floor tiles as a visual reference:
 
@@ -231,11 +231,11 @@ You can push the Bok onto the pressure plate by setting up a back attack. Use th
 
 <span class="safety">Backup strat:</span> Use Knight Frame + <span class="luna">Luna</span> Lens.
 
-<img class="smoothImage" src="./assets/images/any_bloodrust_8.webp">
+![](./assets/images/any_bloodrust_8.webp)
 
 In the room with the Vaniboks, it's OK to get detected once on each visit.
 
-<img class="smoothImage" src="./assets/images/any_bloodrust_9.webp">
+![](./assets/images/any_bloodrust_9.webp)
 
 Flip the lever and go back to enter the next puzzle where you must place two Boks onto the pressure plates at the same time to unlock the exit. To solve this puzzle quickly:
 
@@ -280,7 +280,7 @@ For the Count fight increase Sun to ![](./assets/images/8.webp) 8, then keep it 
 
 ### <span class="purification">Purification</span>
 
-Equip the Knight Frame, and use all 4 remaining ![][icon_banana] Bananas to drag the coffin back to the pile driver. Go back the way you came undetected:
+Equip the Knight Frame, and use all 4 remaining ![icon][banana] Bananas to drag the coffin back to the pile driver. Go back the way you came undetected:
 
 - _In the room with the two Boks and two pressure plates_: Stun the upper Bok to leave the room undetected.
 - _In the room with the Vaniboks_: Leave the coffin at the entrance, pull the lever, and start dragging the coffin again.
@@ -290,7 +290,7 @@ Equip the Knight Frame, and use all 4 remaining ![][icon_banana] Bananas to drag
 
 At the pile driver, activate two generators simultaneously using your gun's spread.
 
-Complete the purification (+50 EXP), which should give you an S-rank. Open the two chests on the right (3 ![][icon_evil_banana] Evil Bananas, 2 ![][icon_speed_nut] Speed Nuts) and walk to the Solar Tree.
+Complete the purification (+50 EXP), which should give you an S-rank. Open the two chests on the right (3 ![icon][evil_banana] Evil Bananas, 2 ![icon][speed_nut] Speed Nuts) and walk to the Solar Tree.
 
 ## Solar Tree &nbsp; ![](./assets/images/0.webp)
 
@@ -309,10 +309,10 @@ If you have gotten a random Gold Apple drop, you can instead plant a Gold Apple 
 | Speed Nut    | 6          | +6    | -1      | 11
 | Bomb         | 1          | +1    |         | 2
 
-Use an ![][icon_evil_banana] Evil Banana to solve the box push puzzle.
-Get the Fencer Frame from the green chest, then equip it and use a ![][icon_speed_nut] Speed Nut. Avoid detection by the Steps and the Boks in the final room to ensure S-rank.
+Use an ![icon][evil_banana] Evil Banana to solve the box push puzzle.
+Get the Fencer Frame from the green chest, then equip it and use a ![icon][speed_nut] Speed Nut. Avoid detection by the Steps and the Boks in the final room to ensure S-rank.
 
-<img class="smoothImage" src="./assets/images/any_deserted_arsenal_1.webp">
+![](./assets/images/any_deserted_arsenal_1.webp)
 
 You can open the chest containing the Bomb from the staircase, this avoids having to stun the Bok below:
 
@@ -320,7 +320,7 @@ You can open the chest containing the Bomb from the staircase, this avoids havin
 
 ### <span class="trap">Trap</span>
 
-Defeat the Sword with the Fencer Frame by holding B, and alternate pressing Right and Down on the D-pad to create a spread. With the Fencer Frame, the spread created by changing direction deals the most damage. Do not hold two directions on the D-pad at the same time. After clearing the trap (+70 EXP), open the reward chest for 6 ![][icon_speed_nut] Speed Nuts.
+Defeat the Sword with the Fencer Frame by holding B, and alternate pressing Right and Down on the D-pad to create a spread. With the Fencer Frame, the spread created by changing direction deals the most damage. Do not hold two directions on the D-pad at the same time. After clearing the trap (+70 EXP), open the reward chest for 6 ![icon][speed_nut] Speed Nuts.
 
 ## Crumbling Mine &nbsp; ![](./assets/images/0.webp)
 
@@ -332,7 +332,7 @@ Defeat the Sword with the Fencer Frame by holding B, and alternate pressing Righ
 
 The target rank for this dungeon is A. You can ignore all enemies in this dungeon: You will get detected 3 times, but this will still be enough to get an A rank.
 
-<img class="smoothImage" src="./assets/images/any_crumbling_mine_1.webp">
+![](./assets/images/any_crumbling_mine_1.webp)
 
 ## <span class="trap">Trap</span>
 
@@ -350,9 +350,9 @@ Start by equipping the Double Battery and the Spear Frame, then kill the Mummies
 ![](./assets/images/any_crumbling_mine_4.webp)
 ![](./assets/images/any_crumbling_mine_5.webp)
 
-After clearing the trap (+80 EXP), open the reward chests for 2 ![][icon_banana] Bananas and the ![][icon_key_triangle] Triangle Key. Use a ![][icon_speed_nut] Speed Nut and leave the dungeon:
+After clearing the trap (+80 EXP), open the reward chests for 2 ![icon][banana] Bananas and the ![icon][key_triangle] Triangle Key. Use a ![icon][speed_nut] Speed Nut and leave the dungeon:
 
-<img class="smoothImage" src="./assets/images/any_crumbling_mine_6.webp">
+![](./assets/images/any_crumbling_mine_6.webp)
 
 ## Firetop Mountain
 
@@ -372,7 +372,7 @@ TODO
 
 ## Sol City
 
-Chicken Trap has ![][icon_speed_nut] 5 Speed Nuts and ![][icon_banana] 5 Bananas
+Chicken Trap has ![icon][speed_nut] 5 Speed Nuts and ![icon][banana] 5 Bananas
 
 ## Crusader Frame
 
@@ -423,7 +423,7 @@ TODO
 {{#include assets/tables/normal-2_any_lens-exp.html}}
 
 <!-- Items -->
-[icon_speed_nut]: ./assets/images/icons/icon_speed_nut.webp
-[icon_banana]: ./assets/images/icons/icon_banana.webp
-[icon_evil_banana]: ./assets/images/icons/icon_evil_banana.webp
-[icon_key_triangle]: ./assets/images/icons/icon_key_triangle.webp
+[speed_nut]: ./assets/images/icons/icon_speed_nut.webp
+[banana]: ./assets/images/icons/icon_banana.webp
+[evil_banana]: ./assets/images/icons/icon_evil_banana.webp
+[key_triangle]: ./assets/images/icons/icon_key_triangle.webp
