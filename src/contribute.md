@@ -50,7 +50,32 @@ Used to mark headers and strategies. Font color changes on hover.
 - <span class="puzzle">Puzzle</span>  
   `<span class="puzzle">Puzzle</span>`
 
-### Video embeds
+### Embedded video files
+
+```admonish info title="Video file hosted on GitHub" collapsible=true
+<video controls muted>
+  <source src="./boktai/assets/video/test.webm" type="video/webm" />
+</video>
+```
+
+Encoded using:
+
+```powershell
+ffmpeg -i "input.mkv" -vf "scale=2*iw:2*ih:flags=neighbor" -c:v libvpx-vp9 -b:v 0 -crf 35 -row-mt 1 -deadline best -pix_fmt yuv420p -pass 1 -an -f null NUL &&
+ffmpeg -i "input.mkv" -vf "scale=2*iw:2*ih:flags=neighbor" -c:v libvpx-vp9 -b:v 0 -crf 35 -row-mt 1 -deadline best -pix_fmt yuv420p -pass 2 -c:a libopus -b:a 96k "output.webm"
+```
+
+Unreasonably slow and higher quality than needed but for now it's just for testing and videos are never going to be long anyway.
+
+Embedded using:
+
+```html
+<video controls muted>
+  <source src="./boktai/assets/video/test.webm" type="video/webm" />
+</video>
+```
+
+### YouTube, Twitch embeds
 
 Make sure the URL is formatted like this:
 
