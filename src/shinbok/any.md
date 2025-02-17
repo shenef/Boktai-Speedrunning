@@ -379,7 +379,7 @@ Open the menu and:
 - Unequip ![icon][iron_clogs] Iron Clogs.
 - Use a ![icon][power_nut] Power Nut.
 
-Take the elevator and start going back to th entrance of the dungeon.  
+Take the elevator and start going back to the entrance of the dungeon.  
 Use the grown plant outside as a shortcut, then go back inside the tree and take the ↘️ path.  
 Set sunlight to max, put the coffin on the first weight switch, then use ![icon][dash] Dash to step on the other one.
 
@@ -449,7 +449,8 @@ Then go back, and after exiting the cave, take the ↘️ & ↗️ paths.
 ### <span class="mission">Mission: Open the cave</span>
 
 - Equip ![icon][rapier] Rapier.
-- Unequip ![icon][fighter_frame] Fighter Frame
+- Unequip ![icon][estoc] Estoc.
+- Unequip ![icon][fighter_frame] Fighter Frame.
 - Equip ![icon][bomber_frame] Bomber Frame.
 
 ## REWRITING IN PROGRESS
