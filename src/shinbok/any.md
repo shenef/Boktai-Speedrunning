@@ -511,7 +511,7 @@ Go back to the puzzle room, then take the ↘️ path once & ↗️ path twice.
 
 - Replenish life.
 - Equip ![icon][rapier] Rapier.
-- Put all stat points in STR._
+- Put all stat points in STR.
 
 ### <span class="boss">Sabata</span>
 
