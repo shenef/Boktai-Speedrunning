@@ -123,6 +123,11 @@ On Map screens you can use the shoulder buttons navigate quickly.
 
 - Buy 3 ![icon][power_nut] Power Nuts & sort your inventory before closing the shop menu and leaving.
 
+**Accessory Shop**
+
+- Buy ![icon][iron_clogs] Iron Clogs & ![icon][crest_of_diamonds] Crest of Diamonds.
+- Before leaving, open the chest to get the ![icon][leather_armor] Leather Armor.
+
 **Solar Smith**
 
 - Talk to Smith.
@@ -140,11 +145,6 @@ On Map screens you can use the shoulder buttons navigate quickly.
 **Inn**
 
 - Talk to Zazie twice to get the ![icon][dark_loans_card] Dark Card.
-
-**Accessory Shop**
-
-- Buy ![icon][iron_clogs] Iron Clogs & ![icon][crest_of_diamonds] Crest of Diamonds.
-- Before leaving, open the chest to get the ![icon][leather_armor] Leather Armor.
 
 Now exit to the World Map and head to Lifeless Town.  
 You can check the Boktai 3 resource list for help with the Bike race.
