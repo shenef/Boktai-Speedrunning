@@ -112,7 +112,7 @@ On Map screens you can use the shoulder buttons navigate quickly.
 **Clock Tower**
 
 - Talk to Eliot (old man with glasses).
-- Talk to Eliot again and changed the time to July 21st 2005 20:00 (2005/07/21 20:00)
+- Talk to Eliot again and changed the time to July 21st 2005 20:00 (2005/07/21 20:00)  
 ![](./assets/images/clock_tower_igt.webp)
 
 **Garage**
