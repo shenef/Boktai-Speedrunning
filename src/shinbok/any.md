@@ -20,23 +20,20 @@ If playing on BizHawk, set Skip BIOS to FALSE and RTC to FALSE in the GBA Settin
 Set the system time to July 28th 2002 23:55 (2002/07/28 23:55):  
 ![](./assets/images/starting_igt.webp)
 
-## Setting up the Grand Master password
+## Setting up the Boktai 2 password
 
 When making a new file, select the left option, then input the password.
 
-<img class="center" src="./assets/images/grand_master_pw.webp">
+<img class="center" src="./assets/images/any_pw.webp">
 
 Use the characters to the **right** of the numbers!
 
-The Grand Master title grants +2 VIT, +2 SPR, +2 STRG and adds the following items in the inventory (in order from left to right):
+This password grants +2 VIT, +2 SPR, +2 STRG and adds the following items in the inventory (in order from left to right):
 
 - 2 ![icon][earthly_nut] Earthly Nuts
+- 1 ![icon][green_card] "The Moon" Card (recovers all ENE)
 - 1 ![icon][speed_nut] Speed Nut
 - 1 ![icon][green_card] "The Sun" Card (recovers all HP)
-- 1 ![icon][tiptoe_nut] Tiptoe Nut
-- 1 ![icon][see_all_nut] See-All Nut
-- 1 ![icon][tasty_meat] Tasty Meat
-- 1 ![icon][green_card] "The Moon" Card (recovers all ENE)
 
 Use a single character for the player name (saves a few frames each time the name is displayed).
 
@@ -99,23 +96,21 @@ On Map screens you can use the shoulder buttons navigate quickly.
 - Talk to Lita
 - Use a ![icon][speed_nut] Speed Nut, then open all chests to get 2 ![icon][earthly_nut] Earthly Nuts & 2 ![icon][healer] Healers.
 - Sell the following items for money:
-  - 1 ![icon][see_all_nut] See-All Nut
-  - 1 ![icon][tiptoe_nut] Tiptoe Nut
   - 4 ![icon][earthly_nut] Earthly Nuts
   - 2 ![icon][healer] Healers
-  - 1 ![icon][tasty_meat] Tasty Meat
-  - 1 ![icon][green_card] "The Moon" Card
-  - 1 ![icon][green_card] "The Sun" Card
+  <!-- - 1 ![icon][green_card] "The Moon" Card
+  - 1 ![icon][green_card] "The Sun" Card -->
 
 **Solar Bank | Dark Loans**
 
-- Withdraw all the money from the Solar Bank _(500+ solls)_.
+- Transfer all Solls from the Solar Station to the Solar Bank (~500).
 
 **Clock Tower**
 
 - Talk to Eliot (old man with glasses).
 - Talk to Eliot again and change the time to July 21st 2005 20:00 (2005/07/21 20:00)  
 ![](./assets/images/clock_tower_igt.webp)
+- _Ideally you should now have around 4248 Solls, the essential items for the route costs about 2950._
 
 **Garage**
 
