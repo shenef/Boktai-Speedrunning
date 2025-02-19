@@ -104,6 +104,8 @@ On Map screens you can use the shoulder buttons navigate quickly.
   - 4 ![icon][earthly_nut] Earthly Nuts
   - 2 ![icon][healer] Healers
   - 1 ![icon][tasty_meat] Tasty Meat
+  - 1 ![icon][green_card] "The Moon" Card
+  - 1 ![icon][green_card] "The Sun" Card
 
 **Solar Bank | Dark Loans**
 
@@ -221,7 +223,7 @@ Open the menu, put all your stat points into STR, equip ![icon][hoop_frame] Hoop
 
 ### <span class="boss">The Count</span>
 
-- Use ![icon][hoop_frame] Hoop Frame on the count. Do not bother with the windows.
+- Use ![icon][hoop_frame] Hoop Frame on the Count. Do not bother with the windows.
 - You are now **Lvl 7** _(413 => 662 EXP)_.
 
 ### Coffin
