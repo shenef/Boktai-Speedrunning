@@ -114,7 +114,7 @@ On Map screens you can use the shoulder buttons navigate quickly.
 **Clock Tower**
 
 - Talk to Eliot (old man with glasses).
-- Talk to Eliot again and changed the time to July 21st 2005 20:00 (2005/07/21 20:00)  
+- Talk to Eliot again and change the time to July 21st 2005 20:00 (2005/07/21 20:00)  
 ![](./assets/images/clock_tower_igt.webp)
 
 **Garage**
@@ -175,7 +175,7 @@ Proceed in the ↗️ direction.
 Proceed in the ↘️ direction.
 
 Take the upper-↖️ path and take the elevator on the left.  
-Open the green chest for the **Knuckle Guard** bike part.  
+Enter the ↖️ room and open the green chest for the **Knuckle Guard** bike part.  
 ![](./assets/images/lifeless_town_knuckle_guard_bike_part.webp)
 
 ### <span class="manip">Stat card manip</span>
