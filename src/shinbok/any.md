@@ -173,17 +173,11 @@ Take the upper-↖️ path and take the elevator on the left.
 Enter the ↖️ room and open the green chest for the **Knuckle Guard** bike part.  
 ![](./assets/images/lifeless_town_knuckle_guard_bike_part.webp)
 
-### <span class="manip">Stat card manip</span>
+Leave the room and fall on the spikes to reach the ↗️ entrance.  
+After the cutscene with Trinity, open the green chest to get a ![icon][red_card] +4 Stat card (400 solls) & then open the blue chest to get the ![icon][circle_key] Circle Key.  
+_Do NOT use the Card yet._
 
-- Leave the room. _You should now be in the room with spikes on the floor._
-- Save & Soft-reset (A + B + Start + Select).
-- Set the time to July 21st 2005 20:00 (2005/07/21 20:00) :  
-![](./assets/images/clock_tower_igt.webp)
-- Fall onto the spikes to reach the ↗️ room.
-- After the dialogs, open the green chest to get a ![icon][red_card] +4 Stat card (400 solls) & then open the blue chest to get the ![icon][circle_key] Circle Key.
-- Use the +4 Stat card to get +4 STR.
-
-Leave the room and take the closest elevator to go back down.  
+Leave the room and take the elevator on the right to go back down.  
 Take go through the ↘️ path & open the door to proceed in the ↗️ direction.
 
 ### <span class="trap">Armor Trap</span>
@@ -388,13 +382,15 @@ Then take the elevator to go back to **4F**.
 Take the ↙️ path, walk on the weight switch to go through the ↘️ gate.  
 Then take the ↗️ path to reach the elevator and go back to **3F**.
 
-Go through the ↘️, ↗️ paths, then walk on the grown plant & the iron block to proceed in the ↖️ direction.
+Go through the ↘️ gate.
+Kill the green slime with ![icon][estoc] Estoc, use ![icon][dash] Dash and open the green chest for a ![icon][red_card] +4 Stat card (400 solls) (1747 => 1765 EXP).  
+_Do NOT use the Card yet._
 
+Then take the ↗️ path, walk on the grown plant & the iron block to continue in the ↖️ direction.  
 You can reach the moving platform without using another ![icon][power_nut] Power Nut, so wait until you've reached the other side before using another one.
 
-Then proceed in the ↖️ direction twice (watch out for the centipede), then ↙️ twice and ↖️ again to go outside.
-
-Use the grown plant as a shortcut, stay on the left to prevent the bulb from exploding.
+Then proceed in the ↖️ direction twice (watch out for the centipede), then ↙️ twice and ↖️ again to go outside.  
+Use the grown plant as a shortcut, stay on the left to prevent the bulb from exploding.  
 Take the ↘️ and ↗️ paths to go back inside the tree.
 
 Proceed in the ↘️ direction (watch out for the golems), then ↗️ twice to take the elevator to go back to **2F**.
@@ -412,7 +408,7 @@ _The Power Nut effect should stop where the dialog begins._
 - Start the purification and use ![icon][hoop_frame] Hoop Frame until the end.  
 ![](./assets/images/lifeless_town_purification_example.webp)
 - During the purification do NOT avoid attacks & take damage on purpose, ideally you want to be at least in orange (40% Life).
-- _(1747 => 1861 EXP)_
+- _(1765 => 1879 EXP)_
 
 Dash in the ↙️ direction to trigger the next cutscene. Turn off the sunlight when it begins.
 
@@ -438,7 +434,22 @@ _Note: unlike Dark Trans, the timing when pressing B matters. Sol Trans has the 
 After the dialog, proceed in the ↗️ & ↖️ directions.  
 Enter the cave and reach the end to get ![icon][bomber_frame] Bomber Frame.
 
-Then go back, and after exiting the cave, take the ↘️ & ↗️ paths.
+Then go back, and after exiting the cave, take the ↘️ twice, then ↗️ twice to enter a cave.
+
+### <span class="manip">Stat cards & Burning Headband manip</span>
+<!--Source : https://x.com/beige006956/status/1892260575658529216 -->
+
+- Once inside, save & do a soft-reset (A + B + Start + Select).
+- Set the time to July 21st 2005 20:00 (2005/07/21 20:00) :  
+![](./assets/images/clock_tower_igt.webp)
+- Walk in the ↗️ direction, against the blocks and shoot at the Red Slime with ![icon][sol_lens] Sol Lens & ![icon][bomber_frame] Bomber Frame twice to kill it. _(1879 => 1905 EXP)_
+- Walk to the green chest next to where the red slime was : you should have gotten a ![icon][burning_headband] Burning Headband drop from the red slime.
+- Open the green chest to get a ![icon][red_card] +4 Stat card.
+- Use that specific Stat card you just obtained to get +4 STR.
+- Leave the cave.
+- Use the other 2 Stat card you obtained from Lifeless Town & Ancient Tree to get +8 STR.
+
+Now proceed in the ↖️ direction to trigger the cutscene with Trinity.
 
 ### <span class="mission">Mission: Open the cave</span>
 
@@ -452,7 +463,7 @@ After the mission take the ↖️ entrance, then ↗️ & ↘️, ↗️ & ↘�
 ### <span class="trap">Hotdog & Vamp Trap</span>
 
 - Use ![icon][Rapier] Rapier.
-- You are now **Lvl 12** _(1861 => 2045 EXP)_
+- You are now **Lvl 12** _(1905 => 2089 EXP)_
 - Open the green chest for ![icon][frost_lens] Frost Lens.
 
 Go back to the entrance of the cave, where the Centipede is.
@@ -472,7 +483,7 @@ After the cutscene go back in the ↙️, ↘️ & ↗️ directions & keep goin
 - Shoot once to make the armor raise its shield & prevent it from moving.
 - Use ![icon][sol_trans] Sol Trans to finish it.
 - Try moving towards the exit while attacking.
-- You are now **Lvl 13** _(2045 => 2572 EXP)_
+- You are now **Lvl 13** _(2089 => 2616 EXP)_
 
 After the cutscene with Carmilla, take the ↖️ exit, then ↗️ 4 times.
 You should now be in a room where a mummy explodes : proceed in the ↖️ direction.
