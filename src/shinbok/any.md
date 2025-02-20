@@ -439,7 +439,7 @@ Open the menu and :
 - Unequip ![icon][estoc] Estoc.
 - Put all points in STRG.
 
-Then go back, and after exiting the cave, take the ↘️ twice, then ↗️ twice to enter a cave.
+Then go back, and after exiting the cave, take the ↘️ direction twice, then ↗️ twice to enter a cave.
 
 ### <span class="manip">Stat cards & Burning Headband manip</span>
 <!--Source : https://x.com/beige006956/status/1892260575658529216 -->
