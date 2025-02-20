@@ -306,11 +306,11 @@ _This isn't about getting EXP, but rather an extra TRC block for later._
 
 After the last platform, take the ↘️ path, then ↙️.  
 Grow the plan near the end of the room, then leave through the ↙️ path.  
+_If you don't have enough energy, you can use ![icon][green_card] "The Moon" Card (it'll be the one in the first row of your inventory).  
+
 After the cutscene about the beehive, go in the ↖️ direction and push the elemental blocks to activate the elevator.
 
-Take the elevator to reach **4F**.
-
-Proceed in the ↘️ direction.
+Take the elevator to reach **4F** & proceed in the ↘️ direction.
 
 ### <span class="trap">Spiders & Golem Trap</span>
 
