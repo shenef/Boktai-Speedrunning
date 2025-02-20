@@ -108,7 +108,7 @@ On Map screens you can use the shoulder buttons navigate quickly.
 - Talk to Eliot (old man with glasses).
 - Talk to Eliot again and change the time to July 21st 2005 10PM (2005/07/21 22:XX). Seconds aren't important so you can keep these.  
 ![](./assets/images/clock_tower_igt.webp)
-- _Ideally you should now have around 4248 Solls, the essential items for the route costs about 2950._
+- _Ideally you should now have around 3452 Solls, the essential items for the route costs about 2950._
 
 **Garage**
 
