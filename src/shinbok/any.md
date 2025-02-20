@@ -98,8 +98,6 @@ On Map screens you can use the shoulder buttons navigate quickly.
 - Sell the following items for money:
   - 4 ![icon][earthly_nut] Earthly Nuts
   - 2 ![icon][healer] Healers
-  <!-- - 1 ![icon][green_card] "The Moon" Card
-  - 1 ![icon][green_card] "The Sun" Card -->
 
 **Solar Bank | Dark Loans**
 
@@ -108,7 +106,7 @@ On Map screens you can use the shoulder buttons navigate quickly.
 **Clock Tower**
 
 - Talk to Eliot (old man with glasses).
-- Talk to Eliot again and change the time to July 21st 2005 20:00 (2005/07/21 20:00)  
+- Talk to Eliot again and change the time to July 21st 2005 10PM (2005/07/21 22:XX). Seconds aren't important so you can keep these.  
 ![](./assets/images/clock_tower_igt.webp)
 - _Ideally you should now have around 4248 Solls, the essential items for the route costs about 2950._
 
@@ -159,7 +157,7 @@ Take the stairs in the upper-↖️ direction.
 Open the green chest to get ![icon][flame_lens] Flame Lens.
 
 Go back and go in front of the gate.  
-Equip ![icon][flame_lens] Flame Lens and shoot at the torch.  
+Equip ![icon][flame_lens] Flame Lens & ![icon][wizard_frame] Wizard Frame to shoot at the torch.  
 Proceed in the ↗️ direction.
 
 ### <span class="trap">Skeletons Trap</span>
@@ -183,7 +181,7 @@ Take go through the ↘️ path & open the door to proceed in the ↗️ directi
 ### <span class="trap">Armor Trap</span>
 
 - Shoot once with ![icon][wizard_frame] Wizard Frame to force it to shield.
-- Get closer and use ![icon][gradius] Gradius while aiming UP until the cutscene triggers. (approx time until cutscene: ~15.85s)
+- Get closer and use ![icon][gradius] Gradius while aiming Up until the cutscene triggers. (approx time until cutscene: ~15.85s)
 - After the cutscene, spam B as Black Django.
 - You are now **Lvl 6** _(224 => 413 EXP)_.
 
@@ -286,7 +284,7 @@ Replenish your energy and re-enter the tree from the ↘️ path, then:
 - Equip ![icon][crest_of_diamonds] Crest of Diamonds.
 - Unequip ![icon][gradius] Gradius.
 - Equip ![icon][estoc] Estoc.
-- Put all stat points in STR.
+- Put all stat points in STRG.
 
 ### <span class="trap">Earth Armor Trap</span>
 
@@ -316,12 +314,12 @@ Proceed in the ↘️ direction.
 
 ### <span class="trap">Spiders & Golem Trap</span>
 
-- Open the menu and put all your points into STR.
+- Open the menu and put all your points into STRG.
 - Use ![icon][estoc] Estoc.
 - Start with the golem, then the spiders. They should be more or less grouped together after killing the golem.
 - _(1165 => 1247 EXP)_
 
-Proceed in the ↙️ twice.
+Proceed in the ↙️ direction twice.
 
 Replenish life and energy, then set sunlight between 1 and 8 to make the solar platform appear.  
 Use it to reach the green chest and get the ![icon][chain_mail] Chain Mail, then go back inside the tree.
@@ -347,9 +345,8 @@ After opening the door, proceed in the ↗️ direction.
 Take the ↘️ path, then ↗️ twice.
 You should be in a room with ghouls, proceed in the ↖️ direction, then ↙️ 3 times.
 
-Then take the ↖️ path to go outside.
-Equip ![icon][iron_clogs] Iron Clogs, then go through the room, make sure to grow the plant before taking the ↘️ path.
-
+Then take the ↖️ path to go outside.  
+Equip ![icon][iron_clogs] Iron Clogs, then go through the room, make sure to grow the plant before taking the ↘️ path.  
 Proceed through the ↗️ entry, and take the elevator to reach the boss.
 
 ### <span class="boss">Hresvelgr</span>
@@ -364,10 +361,10 @@ During the dialog, just hold B and choose the first option.
 
 ### Coffin
 
-Open the menu and:
+Open the menu and :
 
 - Turn off the sunlight.
-- Put all points into STR.
+- Put all points into STRG.
 - Unequip ![icon][iron_clogs] Iron Clogs.
 - Use a ![icon][power_nut] Power Nut.
 
@@ -382,7 +379,7 @@ Then take the elevator to go back to **4F**.
 Take the ↙️ path, walk on the weight switch to go through the ↘️ gate.  
 Then take the ↗️ path to reach the elevator and go back to **3F**.
 
-Go through the ↘️ gate.
+Go through the ↘️ gate.  
 Kill the green slime with ![icon][estoc] Estoc, use ![icon][dash] Dash and open the green chest for a ![icon][red_card] +4 Stat card (400 solls) (1747 => 1765 EXP).  
 _Do NOT use the Card yet._
 
@@ -414,16 +411,16 @@ Dash in the ↙️ direction to trigger the next cutscene. Turn off the sunlight
 
 ### <span class="boss">The Count</span>
 
-- The Count will do 2 bat attacks: get hit on purpose until you reach critical (red) Life.
+- The Count will do 2 bat attacks : get hit on purpose until you reach critical (red) Life.
 - The Count will now use Blood Rain and trigger the cutscene (by already being in critical state you won't have to wait as long).
 - After the cutscene use B and ![icon][sol_trans] Sol Trans until the fight is over.  
-_Note: unlike Dark Trans, the timing when pressing B matters. Sol Trans has the possibility to attack faster than Dark Trans, however timing is strict and attacks does NOT stun enemies._
+_Note: unlike Dark Trans, the timing when pressing B matters. Sol Trans has the possibility to attack faster than Dark Trans, however timing is more strict and attacks does NOT stun enemies._
 
 ## San Miguel (3)
 
 ### Django's House
 
-- Equip **Einherjar** & bike part (lower acceleration, higher speed).
+- Equip **Einherjar** bike part (lower acceleration, higher speed).
 
 ### Item Shop
 
@@ -434,31 +431,39 @@ _Note: unlike Dark Trans, the timing when pressing B matters. Sol Trans has the 
 After the dialog, proceed in the ↗️ & ↖️ directions.  
 Enter the cave and reach the end to get ![icon][bomber_frame] Bomber Frame.
 
+Open the menu and :
+
+- Unequip ![icon][fighter_frame] Fighter Frame.
+- Equip ![icon][bomber_frame] Bomber Frame.
+- Equip ![icon][rapier] Rapier.
+- Unequip ![icon][estoc] Estoc.
+- Put all points in STRG.
+
 Then go back, and after exiting the cave, take the ↘️ twice, then ↗️ twice to enter a cave.
 
 ### <span class="manip">Stat cards & Burning Headband manip</span>
 <!--Source : https://x.com/beige006956/status/1892260575658529216 -->
 
 - Once inside, save & do a soft-reset (A + B + Start + Select).
-- Set the time to July 21st 2005 20:00 (2005/07/21 20:00) :  
+- Set the time to July 21st 2005 10PM (2005/07/21 22:00) :  
 ![](./assets/images/clock_tower_igt.webp)
-- Walk in the ↗️ direction, against the blocks and shoot at the Red Slime with ![icon][sol_lens] Sol Lens & ![icon][bomber_frame] Bomber Frame twice to kill it. _(1879 => 1905 EXP)_
-- Walk to the green chest next to where the red slime was : you should have gotten a ![icon][burning_headband] Burning Headband drop from the red slime.
+- Walk in the ↗️ direction, against the blocks and shoot at the Red Slime with ![icon][sol_lens] Sol Lens & ![icon][bomber_frame] Bomber Frame twice to kill it after it splits. _(1879 => 1905 EXP)_
+- **You must hit the Red Slime before it starting its jiggling animation. Once it splits into 2 you must kill both at the same time.**
+- Walk to the green chest next to where the Red Slime was : you should have gotten a ![icon][burning_headband] Burning Headband drop from the Red Slime.
 - Open the green chest to get a ![icon][red_card] +4 Stat card.
-- Use that specific Stat card you just obtained to get +4 STR.
+- Use that specific Stat card you just obtained to get +4 STRG. _It will be the last one in the inventory._
 - Leave the cave.
-- Use the other 2 Stat card you obtained from Lifeless Town & Ancient Tree to get +8 STR.
+- Use the other 2 Stat card you obtained from Lifeless Town & Ancient Tree to get +8 STRG. _Start by using the first one in your inventory, then the second._
+
+**Every step during this manip is important because it will affect the RNG index, which in turns affects the drops & cards.**
 
 Now proceed in the ↖️ direction to trigger the cutscene with Trinity.
 
 ### <span class="mission">Mission: Open the cave</span>
 
-- Equip ![icon][rapier] Rapier.
-- Unequip ![icon][estoc] Estoc.
-- Unequip ![icon][fighter_frame] Fighter Frame.
-- Equip ![icon][bomber_frame] Bomber Frame.
+- Use ![icon][bomber_frame] Bomber Frame to open the entrance.
 
-After the mission take the ↖️ entrance, then ↗️ & ↘️, ↗️ & ↘️.
+Then enter the cave via the ↖️ entrance, then the ↗️ & ↘️, ↗️ & ↘️ directions.
 
 ### <span class="trap">Hotdog & Vamp Trap</span>
 
@@ -517,14 +522,29 @@ Go down the stairs & take the ↖️ exit.
 Proceed in the ↗️ direction & use ![icon][frost_lens] Frost Lens to extinguish the candle.
 Go back to the puzzle room, then take the ↘️ path once & ↗️ path twice.
 
-- Replenish life.
 - Equip ![icon][rapier] Rapier.
-- Put all stat points in STR.
+- Put all stat points in STRG.
+- Replenish life.
 
 ### <span class="boss">Sabata</span>
 
-- _Expected to have a total of 40 STR_
-- _Expected 3rd hit from a sword pattern attack is 55 (compared to 51 in Any% WR) during the 1st phase_
+#### 1st phase
+
+- Lure Sabata by knocking on the block next to you.
+- Attack with ![icon][rapier] Rapier to force him to do his spinning attack.
+- Evade with ![icon][dash] Dash, then hit the dark spread with ![icon][rapier] Rapier to stun him.
+- Hit Sabata with a 3-hits combo using ![icon][rapier] Rapier.
+- Repeat until phase 2.
+
+#### 2st phase
+
+- Move the camera to keep track of Sabata.
+- When he stops moving, go to him and attack with ![icon][rapier] Rapier.
+
+#### 3rd phase
+
+- At the start you can hit the dark spread to stun him.
+- Then use ![icon][dark_trans] Dark Trans to finish him.
 
 ## REWRITING IN PROGRESS
 
