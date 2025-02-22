@@ -1,11 +1,10 @@
 # Boktai 3: Any% Route
 
-{{#title Boktai 3: Alternate Any% Route (Clock Tower + Solar Bank interests)}}
+{{#title Boktai 3: Any% Route}}
 
 ```admonish danger title="Work in Progress"
-This guide focuses on a potential new route involving a new money route that uses the Clock Tower and Solar Bank interests to get Solls.
-
-Many cards are skipped, as they were either used for money or are considered to be not worth getting (time cost too high compared to benefits from using the card).
+This guide is currently being rewritten because of route improvements.  
+Feel free to contribute on Discord or on the GitHub repository.
 ```
 
 ## About this guide
@@ -14,38 +13,45 @@ Directions for paths and exits will use ↖️, ↗️, ↙️ and ↘️.
 
 ## Before starting
 
-If playing on BizHawk, set Skip BIOS to FALSE and RTC to FALSE in the GBA Settings (Requires v2.6.3+):  
-![](./assets/images/emu_settings.webp)
+<img class="right" src="./assets/images/emu_settings.webp"></img>
 
-Set the system time to July 28th 2002 23:55 (2002/07/28 23:55):  
+When playing on BizHawk, load a ROM, go to GBA > Settings and make sure "Skip BIOS" and "RTC" are set to "False".  
+This requires at least BizHawk v2.6.3 and makes sure that Emulator runs are comparable to console and that you can properly set the time in-game.
+
+Set the system time to July 28th 2002 at 23:55
+
+- 2002 年 07 月 28 日
+- 23 時 55 分
+
 ![](./assets/images/starting_igt.webp)
 
 ## Setting up the Boktai 2 password
 
-When making a new file, select the left option, then input the password.
+Create a new file, select the left option, then enter this password:
 
 <img class="center" src="./assets/images/any_pw.webp">
 
-Use the characters to the **right** of the numbers!
+<!-- Inputs: 2x A, Up, 13x A, 2x Left, 2x Down, A, 4x Right, A, 2x Down, Left, 6x A, Up, A, Start, A -->
 
-This password grants +2 VIT, +2 SPR, +2 STRG and adds the following items in the inventory (in order from left to right):
+This password grants +2 VIT, +2 SPR, +2 STRG and the following items:
 
-- 2 ![icon][earthly_nut] Earthly Nuts
-- 1 ![icon][green_card] "The Moon" Card (recovers all ENE)
+- 1 ![icon][green_card] "The Sun" Card (recovers all ENE)
 - 1 ![icon][speed_nut] Speed Nut
-- 1 ![icon][green_card] "The Sun" Card (recovers all HP)
+- 1 ![icon][green_card] "The Moon" Card (recovers all HP)
 
 Use a single character for the player name (saves a few frames each time the name is displayed).
 
 ## Prologue
 
-The prologue lasts a fixed amount of time, all you need to do is not die as Sabata.
+The Sabata gameplay segment always lasts 30 seconds and no inputs are needed to survive.
 
 ## Sealed Dungeon
 
 After the dialogs, open the chest next to the stairs to get a ![icon][solar_nut] Solar Nut.
 
-Open the menu, change text speed to Fast and set markers to Off (inputs : A, Down, Right, Down, Right):  
+Open the menu, change text speed to Fast (A, Down, Right, A):
+<!-- Removed disabling markers as there currently is no evidence that it saves time in RTA. Inputs: A, Down, Right, Down, Right, A -->
+
 ![](./assets/images/options_menu.webp)
 
 Then go into the inventory, use a ![icon][solar_nut] Solar Nut and a ![icon][speed_nut] Speed Nut and proceed in the ↗️ direction.
@@ -105,10 +111,10 @@ On Map screens you can use the shoulder buttons navigate quickly.
 
 **Clock Tower**
 
-- Talk to Eliot (old man with glasses).
-- Talk to Eliot again and change the time to July 21st 2005 10PM (2005/07/21 22:XX). Seconds aren't important so you can keep these.  
+- Talk to Ennio (old man with glasses).
+- Talk to Ennio again and change the time to July 21st 2005 10PM (2005/07/21 22:XX). Seconds aren't important so you can keep these.  
 ![](./assets/images/clock_tower_igt.webp)
-- _Ideally you should now have around 3452 Solls, the essential items for the route costs about 2950._
+- _Ideally you should now have around 3452 Solls, the essential items for the route cost about 2950._
 
 **Garage**
 
@@ -172,7 +178,7 @@ Enter the ↖️ room and open the green chest for the **Knuckle Guard** bike pa
 ![](./assets/images/lifeless_town_knuckle_guard_bike_part.webp)
 
 Leave the room and fall on the spikes to reach the ↗️ entrance.  
-After the cutscene with Trinity, open the green chest to get a ![icon][red_card] +4 Stat card (400 solls) & then open the blue chest to get the ![icon][circle_key] Circle Key.  
+After the cutscene with Trinity, open the green chest for a ![icon][red_card] +4 Stat card and open the blue chest to get the ![icon][circle_key] Circle Key.  
 _Do NOT use the Card yet._
 
 Leave the room and take the elevator on the right to go back down.  
@@ -200,7 +206,7 @@ Lure the ghoul on the weight switch, go through the ↗️ gate, then ↖️.
 
 Go through the yellow door, then take the ↘️ path.  
 After Otenko's dialogs, take the ↗️ path, then ↖️ twice.  
-Open the green chest to get the **Tire Trail** bike part.  
+Open the green chest to get the **Trial** Tire bike part.  
 ![](./assets/images/lifeless_town_tire_trail_bike_part.webp)
 
 Go back once and proceed in the ↗️ direction to reach the boss room.
@@ -235,7 +241,7 @@ Once you get past the room where you fought the Armor (brown door), take the ↖
 
 ### Django's House
 
-- Equip **Tire Trail** & **Knuckle Guard** bike parts to get more HP & be able to drive on mud during bike races.
+- Equip the **Trial** Tire and **Knuckle Guard** bike parts to get more HP & be able to drive on mud during bike races.
 
 ### Item Shop
 
@@ -306,7 +312,7 @@ _This isn't about getting EXP, but rather an extra TRC block for later._
 
 After the last platform, take the ↘️ path, then ↙️.  
 Grow the plan near the end of the room, then leave through the ↙️ path.  
-_If you don't have enough energy, you can use ![icon][green_card] "The Moon" Card (it'll be the one in the first row of your inventory).  
+_If you don't have enough energy, you can use ![icon][green_card] "The Moon" Card (it'll be the one in the first row of your inventory).
 
 After the cutscene about the beehive, go in the ↖️ direction and push the elemental blocks to activate the elevator.
 
@@ -361,7 +367,7 @@ During the dialog, just hold B and choose the first option.
 
 ### Coffin
 
-Open the menu and :
+Open the menu and:
 
 - Turn off the sunlight.
 - Put all points into STRG.
@@ -380,7 +386,7 @@ Take the ↙️ path, walk on the weight switch to go through the ↘️ gate.
 Then take the ↗️ path to reach the elevator and go back to **3F**.
 
 Go through the ↘️ gate.  
-Kill the green slime with ![icon][estoc] Estoc, use ![icon][dash] Dash and open the green chest for a ![icon][red_card] +4 Stat card (400 solls) (1747 => 1765 EXP).  
+Kill the green slime with ![icon][estoc] Estoc, use ![icon][dash] Dash and open the green chest for a ![icon][red_card] +4 Stat card (1747 => 1765 EXP).  
 _Do NOT use the Card yet._
 
 Then take the ↗️ path, walk on the grown plant & the iron block to continue in the ↖️ direction.  
@@ -411,7 +417,7 @@ Dash in the ↙️ direction to trigger the next cutscene. Turn off the sunlight
 
 ### <span class="boss">The Count</span>
 
-- The Count will do 2 bat attacks : get hit on purpose until you reach critical (red) Life.
+- The Count will do 2 bat attacks: get hit on purpose until you reach critical (red) Life.
 - The Count will now use Blood Rain and trigger the cutscene (by already being in critical state you won't have to wait as long).
 - After the cutscene use B and ![icon][sol_trans] Sol Trans until the fight is over.  
 _Note: unlike Dark Trans, the timing when pressing B matters. Sol Trans has the possibility to attack faster than Dark Trans, however timing is more strict and attacks does NOT stun enemies._
@@ -431,7 +437,7 @@ _Note: unlike Dark Trans, the timing when pressing B matters. Sol Trans has the 
 After the dialog, proceed in the ↗️ & ↖️ directions.  
 Enter the cave and reach the end to get ![icon][bomber_frame] Bomber Frame.
 
-Open the menu and :
+Open the menu and:
 
 - Unequip ![icon][fighter_frame] Fighter Frame.
 - Equip ![icon][bomber_frame] Bomber Frame.
@@ -442,14 +448,14 @@ Open the menu and :
 Then go back, and after exiting the cave, take the ↘️ direction twice, then ↗️ twice to enter a cave.
 
 ### <span class="manip">Stat cards & Burning Headband manip</span>
-<!--Source : https://x.com/beige006956/status/1892260575658529216 -->
+<!--Source: https://x.com/beige006956/status/1892260575658529216 -->
 
 - Once inside, save & do a soft-reset (A + B + Start + Select).
-- Set the time to July 21st 2005 10PM (2005/07/21 22:00) :  
+- Set the time to July 21st 2005 10PM (2005/07/21 22:00):  
 ![](./assets/images/clock_tower_igt.webp)
 - Walk in the ↗️ direction, against the blocks and shoot at the Red Slime with ![icon][sol_lens] Sol Lens & ![icon][bomber_frame] Bomber Frame twice to kill it after it splits. _(1879 => 1905 EXP)_
 - **You must hit the Red Slime before it starting its jiggling animation. Once it splits into 2 you must kill both at the same time.**
-- Walk to the green chest next to where the Red Slime was : you should have gotten a ![icon][burning_headband] Burning Headband drop from the Red Slime.
+- Walk to the green chest next to where the Red Slime was: you should have gotten a ![icon][burning_headband] Burning Headband drop from the Red Slime.
 - Open the green chest to get a ![icon][red_card] +4 Stat card.
 - Use that specific Stat card you just obtained to get +4 STRG. _It will be the last one in the inventory._
 - Leave the cave.
@@ -467,7 +473,7 @@ Then enter the cave via the ↖️ entrance, then the ↗️ & ↘️, ↗️ & 
 
 ### <span class="trap">Hotdog & Vamp Trap</span>
 
-- Use ![icon][Rapier] Rapier.
+- Use ![icon][rapier] Rapier.
 - You are now **Lvl 12** _(1905 => 2089 EXP)_
 - Open the green chest for ![icon][frost_lens] Frost Lens.
 
@@ -491,7 +497,7 @@ After the cutscene go back in the ↙️, ↘️ & ↗️ directions & keep goin
 - You are now **Lvl 13** _(2089 => 2616 EXP)_
 
 After the cutscene with Carmilla, take the ↖️ exit, then ↗️ 4 times.
-You should now be in a room where a mummy explodes : proceed in the ↖️ direction.
+You should now be in a room where a mummy explodes: proceed in the ↖️ direction.
 
 After the cutscene, slide on the ice to proceed in this ↗️ direction.
 
@@ -513,7 +519,7 @@ Go down the stairs & take the ↖️ exit.
 ### <span class="puzzle">Puzzle</span>
 
 - Use a ![icon][power_nut] Power Nut.
-- Push the block in front of you in the ↙️ direction like this :  
+- Push the block in front of you in the ↙️ direction like this:  
 ![](./assets/images/white_forest_wodden_puzzle_ref_1.webp)
 - Walk on the weight switch & push the block at the top on it.
 - Walk around & push the 1st bottom block on the weight switch behind it.
