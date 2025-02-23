@@ -453,12 +453,14 @@ Then go back, and after exiting the cave, take the ↘️ direction twice, then 
 - Once inside, save & do a soft-reset (A + B + Start + Select).
 - Set the time to July 21st 2005 10PM (2005/07/21 22:00):  
 ![](./assets/images/clock_tower_igt.webp)
-- Walk in the ↗️ direction, against the blocks and shoot at the Red Slime with ![icon][sol_lens] Sol Lens & ![icon][bomber_frame] Bomber Frame twice to kill it after it splits. _(1879 => 1905 EXP)_
+- Walk in the ↗️ direction, next to the blocks, past the chest.
+- Shoot at the Red Slime with ![icon][sol_lens] Sol Lens & ![icon][bomber_frame] Bomber Frame twice to kill it after it splits. _(1879 => 1905 EXP)_
 - **You must hit the Red Slime before it starting its jiggling animation. Once it splits into 2 you must kill both at the same time.**
 - Walk to the green chest next to where the Red Slime was: you should have gotten a ![icon][burning_headband] Burning Headband drop from the Red Slime.
 - Open the green chest to get a ![icon][red_card] +4 Stat card.
 - Use that specific Stat card you just obtained to get +4 STRG. _It will be the last one in the inventory._
-- Leave the cave.
+- Leave the cave. Mash start to open the menu as soon as possible.
+- **You have half a second to open the menu before RNG changes due to enemies behaviors.**
 - Use the other 2 Stat card you obtained from Lifeless Town & Ancient Tree to get +8 STRG. _Start by using the first one in your inventory, then the second._
 
 **Every step during this manip is important because it will affect the RNG index, which in turns affects the drops & cards.**
