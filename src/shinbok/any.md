@@ -466,6 +466,12 @@ Then go back, and after exiting the cave, take the ↘️ direction twice, then 
 
 **Every step during this manip is important because it will affect the RNG index, which in turns affects the drops & cards.**
 
+```admonish info title="Video" collapsible=true
+<video controls muted>
+  <source src="./assets/video/white_forest_manip.webm" type="video/webm" />
+</video>
+```
+
 Now proceed in the ↖️ direction to trigger the cutscene with Trinity.
 
 ### <span class="mission">Mission: Open the cave</span>
