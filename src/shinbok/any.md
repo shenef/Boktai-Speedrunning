@@ -112,7 +112,7 @@ On Map screens you can use the shoulder buttons navigate quickly.
 **Clock Tower**
 
 - Talk to Ennio (old man with glasses).
-- Talk to Ennio again and change the time to July 21st 2005 10PM (2005/07/21 22:XX). Seconds aren't important so you can keep these.  
+- Talk to Ennio again and change the time to July 21st 2005 10PM (2005/07/21 22:XX). Minutes aren't important so you can keep these.  
 ![](./assets/images/clock_tower_igt.webp)
 - _Ideally you should now have around 3452 Solls, the essential items for the route cost about 2950._
 
@@ -312,7 +312,7 @@ _This isn't about getting EXP, but rather an extra TRC block for later._
 
 After the last platform, take the ↘️ path, then ↙️.  
 Grow the plan near the end of the room, then leave through the ↙️ path.  
-_If you don't have enough energy, you can use ![icon][green_card] "The Moon" Card (it'll be the one in the first row of your inventory).
+If you don't have enough energy, you can use ![icon][green_card] "The Moon" Card (it'll be the one in the first row of your inventory).
 
 After the cutscene about the beehive, go in the ↖️ direction and push the elemental blocks to activate the elevator.
 
@@ -447,30 +447,32 @@ Open the menu and:
 
 Then go back, and after exiting the cave, take the ↘️ direction twice, then ↗️ twice to enter a cave.
 
-### <span class="manip">Stat cards & Burning Headband manip</span>
+### <span class="manip">RNG manip</span>
 <!--Source: https://x.com/beige006956/status/1892260575658529216 -->
 
-- Once inside, save & do a soft-reset (A + B + Start + Select).
-- Set the time to July 21st 2005 10PM (2005/07/21 22:00):  
-![](./assets/images/clock_tower_igt.webp)
-- Walk in the ↗️ direction, next to the blocks, past the chest.
-- Shoot at the Red Slime with ![icon][sol_lens] Sol Lens & ![icon][bomber_frame] Bomber Frame twice to kill it after it splits. _(1879 => 1905 EXP)_
-- **You must hit the Red Slime before it starting its jiggling animation. Once it splits into 2 you must kill both at the same time.**
-- Walk to the green chest next to where the Red Slime was: you should have gotten a ![icon][burning_headband] Burning Headband drop from the Red Slime.
-- Open the green chest to get a ![icon][red_card] +4 Stat card.
-- Use that specific Stat card you just obtained to get +4 STRG. _It will be the last one in the inventory._
-- Leave the cave. Make sure to have sunlight to prevent snow. _Snow affects the RNG._
-- Mash start to open the menu as soon as possible.
-- **You have half a second to open the menu before RNG changes due to enemies behaviors.**
-- Use the other 2 Stat card you obtained from Lifeless Town & Ancient Tree to get +8 STRG. _Start by using the first one in your inventory, then the second._
-
-**Every step during this manip is important because it will affect the RNG index, which in turns affects the drops & cards.**
+The goal of this RNG manip is to get a ![icon][burning_headband] Burning Headband and a total of +12 Strength from cards that would otherwise give points to a random stat.
 
 ```admonish info title="Video" collapsible=true
-<video controls muted>
+<video class="center" controls muted>
   <source src="./assets/video/white_forest_manip.webm" type="video/webm" />
 </video>
 ```
+
+**Many steps during this manip are time sensitive because of how RNG works!**  
+If you struggle with the manip or have further questions, please contact us and we'll help you!
+
+- Once inside the cave, save and do a soft-reset (Press <kbd>A</kbd>, <kbd>B</kbd>, <kbd>Start</kbd> and <kbd>Select</kbd> at the same time. You can buffer that input while it's still saving).<img class="right" style="padding: 10px 0px 10px 10px; width: 206px; height: 78px; object-fit: none; object-position: 50% 60%" src="./assets/images/clock_tower_igt.webp"></img>
+- Set the time to July 21st 2005 10PM (2005/07/21 22:00):
+- Buffer the up + right input to start walking as soon as possible. Keep walking in the ↗️ direction until you are past the chest and very close to the wall.
+- With the ![icon][sol_lens] Sol Lens, shoot at the Red Slime two times. _(1879 => 1905 EXP)_
+  - **You must attack the Red Slime as soon as you arrive at the target location. Once it has split, both halves must die at the same time.**
+- If your timing was right, the Red Slime will have dropped a ![icon][burning_headband] Burning Headband.
+- Get the drop and open the green chest for a ![icon][red_card] +4 Stat card.
+- Use any of the ![icon][red_card] three red stat cards you have picked up so far. It should give you +4 STRG.
+- Make sure to have sunlight and leave the cave. (Without sunlight it will be snowing outside which changes the RNG)
+- Mash <kbd>Start</kbd> to open the menu as soon as possible.
+  - **You have about 0.5 seconds to open the menu!** Otherwise the RNG will change because the sunlight killed the enemies outside.
+- Now use the two remaining ![icon][red_card] +4 Stat cards to get +8 STRG.
 
 Now proceed in the ↖️ direction to trigger the cutscene with Trinity.
 
