@@ -459,7 +459,8 @@ Then go back, and after exiting the cave, take the ↘️ direction twice, then 
 - Walk to the green chest next to where the Red Slime was: you should have gotten a ![icon][burning_headband] Burning Headband drop from the Red Slime.
 - Open the green chest to get a ![icon][red_card] +4 Stat card.
 - Use that specific Stat card you just obtained to get +4 STRG. _It will be the last one in the inventory._
-- Leave the cave. Mash start to open the menu as soon as possible.
+- Leave the cave. Make sure to have sunlight to prevent snow. _Snow affects the RNG._
+- Mash start to open the menu as soon as possible.
 - **You have half a second to open the menu before RNG changes due to enemies behaviors.**
 - Use the other 2 Stat card you obtained from Lifeless Town & Ancient Tree to get +8 STRG. _Start by using the first one in your inventory, then the second._
 
