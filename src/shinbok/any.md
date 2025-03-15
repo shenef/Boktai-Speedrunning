@@ -173,9 +173,8 @@ Proceed in the ↗️ direction.
 
 Proceed in the ↘️ direction.
 
-Take the upper-↖️ path and take the elevator on the left.  
-Enter the ↖️ room and open the green chest for the **Knuckle Guard** bike part.  
-![](./assets/images/lifeless_town_knuckle_guard_bike_part.webp)
+Take the upper-↖️ path and take the elevator on the right.  
+After the elevator go through the ↗️ entrance.
 
 Leave the room and fall on the spikes to reach the ↗️ entrance.  
 After the cutscene with Trinity, open the green chest for a ![icon][red_card] +4 Stat card and open the blue chest to get the ![icon][circle_key] Circle Key.  
@@ -238,10 +237,6 @@ Once you get past the room where you fought the Armor (brown door), take the ↖
 - _(662 => 743 EXP)_
 
 ## San Miguel (2)
-
-### Django's House
-
-- Equip the **Trial** Tire and **Knuckle Guard** bike parts to get more HP & be able to drive on mud during bike races.
 
 ### Item Shop
 
@@ -426,6 +421,9 @@ _Note: unlike Dark Trans, the timing when pressing B matters. Sol Trans has the 
 
 ### Django's House
 
+### Django's House
+
+- Equip the **Trial** Tire bike part to be able to drive on mud during bike races.
 - Equip **Einherjar** bike part (lower acceleration, higher speed).
 
 ### Item Shop
