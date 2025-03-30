@@ -421,8 +421,6 @@ _Note: unlike Dark Trans, the timing when pressing B matters. Sol Trans has the 
 
 ### Django's House
 
-### Django's House
-
 - Equip the **Trial** Tire bike part to be able to drive on mud during bike races.
 - Equip **Einherjar** bike part (lower acceleration, higher speed).
 
