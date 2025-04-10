@@ -113,7 +113,9 @@ On Map screens you can use the shoulder buttons to navigate quickly.
 **Clock Tower**
 
 - Talk to Ennio (old man with glasses).
-- Talk to Ennio again and change the time to July 21st 2005 10PM (2005/07/21 22:XX). Minutes aren't important so you can keep these.  
+- Talk to Ennio again and change the time to July 21st 2005 10PM. Minutes aren't important so you can keep these.  
+  - 2005 年 07 月 21 日
+  - 22 時 XX 分  
 ![](./assets/images/clock_tower_igt.webp)
 - _Ideally you should now have at least 2950 Solls (the cost necessary for the essential items for the route)._
 
