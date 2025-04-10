@@ -95,7 +95,7 @@ Set the sunlight to 0.
 - <span class="safety">Safety strat:</span> Get the ![icon][luna_lens] Luna Lens near the doll on the left.
 
 Leave the house and visit the following places.  
-On Map screens you can use the shoulder buttons navigate quickly.
+On Map screens you can use the shoulder buttons to navigate quickly.
 
 **Lita - Item Shop**
 
@@ -104,6 +104,7 @@ On Map screens you can use the shoulder buttons navigate quickly.
 - Sell the following items for money:
   - 4 ![icon][earthly_nut] Earthly Nuts
   - 2 ![icon][healer] Healers
+  - 1 ![icon][green_card] "The Moon" Card (it'll be the one in the 2nd row of your inventory).
 
 **Solar Bank | Dark Loans**
 
@@ -112,9 +113,11 @@ On Map screens you can use the shoulder buttons navigate quickly.
 **Clock Tower**
 
 - Talk to Ennio (old man with glasses).
-- Talk to Ennio again and change the time to July 21st 2005 10PM (2005/07/21 22:XX). Minutes aren't important so you can keep these.  
+- Talk to Ennio again and change the time to July 21st 2005 10PM. Minutes aren't important so you can keep these.  
+  - 2005 年 07 月 21 日
+  - 22 時 XX 分  
 ![](./assets/images/clock_tower_igt.webp)
-- _Ideally you should now have around 3452 Solls, the essential items for the route cost about 2950._
+- _Ideally you should now have at least 2950 Solls (the cost necessary for the essential items for the route)._
 
 **Garage**
 
@@ -173,9 +176,8 @@ Proceed in the ↗️ direction.
 
 Proceed in the ↘️ direction.
 
-Take the upper-↖️ path and take the elevator on the left.  
-Enter the ↖️ room and open the green chest for the **Knuckle Guard** bike part.  
-![](./assets/images/lifeless_town_knuckle_guard_bike_part.webp)
+Take the upper-↖️ path and take the elevator on the right.  
+After the elevator go through the ↗️ entrance.
 
 Leave the room and fall on the spikes to reach the ↗️ entrance.  
 After the cutscene with Trinity, open the green chest for a ![icon][red_card] +4 Stat card and open the blue chest to get the ![icon][circle_key] Circle Key.  
@@ -238,10 +240,6 @@ Once you get past the room where you fought the Armor (brown door), take the ↖
 - _(662 => 743 EXP)_
 
 ## San Miguel (2)
-
-### Django's House
-
-- Equip the **Trial** Tire and **Knuckle Guard** bike parts to get more HP & be able to drive on mud during bike races.
 
 ### Item Shop
 
@@ -312,7 +310,7 @@ _This isn't about getting EXP, but rather an extra TRC block for later._
 
 After the last platform, take the ↘️ path, then ↙️.  
 Grow the plan near the end of the room, then leave through the ↙️ path.  
-If you don't have enough energy, you can use ![icon][green_card] "The Moon" Card (it'll be the one in the first row of your inventory).
+If you don't have enough energy, you can use ![icon][green_card] "The Sun" Card (it'll be the one in the first row of your inventory).
 
 After the cutscene about the beehive, go in the ↖️ direction and push the elemental blocks to activate the elevator.
 
@@ -426,6 +424,7 @@ _Note: unlike Dark Trans, the timing when pressing B matters. Sol Trans has the 
 
 ### Django's House
 
+- Equip the **Trial** Tire bike part to be able to drive on mud during bike races.
 - Equip **Einherjar** bike part (lower acceleration, higher speed).
 
 ### Item Shop
