@@ -104,6 +104,7 @@ On Map screens you can use the shoulder buttons to navigate quickly.
 - Sell the following items for money:
   - 4 ![icon][earthly_nut] Earthly Nuts
   - 2 ![icon][healer] Healers
+  - 1 ![icon][green_card] "The Moon" Card (it'll be the one in the 2nd row of your inventory).
 
 **Solar Bank | Dark Loans**
 
@@ -114,7 +115,7 @@ On Map screens you can use the shoulder buttons to navigate quickly.
 - Talk to Ennio (old man with glasses).
 - Talk to Ennio again and change the time to July 21st 2005 10PM (2005/07/21 22:XX). Minutes aren't important so you can keep these.  
 ![](./assets/images/clock_tower_igt.webp)
-- _Ideally you should now have around 3452 Solls, the essential items for the route cost about 2950._
+- _Ideally you should now have at least 2950 Solls (the cost necessary for the essential items for the route)._
 
 **Garage**
 
