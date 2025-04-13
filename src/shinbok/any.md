@@ -269,7 +269,7 @@ Proceed in the ↖️ direction, then ↗️ twice (you can pass from the left s
 - Push the first block once in ↗️ & ↖️ directions.
 - Push the second block ↗️ once & open the green chest to get the ![icon][earth_lens] Earth Lens.
 
-Go back, equip ![icon][earth_lens] Earth Lens.  
+Go back, equip ![icon][earth_lens] Earth Lens & ![icon][fighter_frame] Fighter Frame.  
 Grow the first plan, then alternate between the other 2 plans. Start with the left one because the right one will end the mission once fully grown.
 
 Open the green chest on the left to get ![icon][dragoon_frame] Dragoon Frame, then proceed in the ↗️ direction.  
@@ -294,7 +294,6 @@ Replenish your energy and re-enter the tree from the ↘️ path, then:
 ### <span class="trap">Earth Armor Trap</span>
 
 - Dash once to go under the skylight.
-- Use ![icon][hoop_frame] Hoop Frame to shoot once.
 - Use ![icon][estoc] Estoc to stunlock. You can prevent it from raising its shield if your position is good enough.
 - When the shield breaks, move away because the Armor will spin, then go back to stunlocking with ![icon][estoc] Estoc.
 - You are now **Lvl 9** _(847 => 1152 EXP)_.
@@ -438,11 +437,11 @@ Enter the cave and reach the end to get ![icon][bomber_frame] Bomber Frame.
 
 Open the menu and:
 
-- Unequip ![icon][fighter_frame] Fighter Frame.
-- Equip ![icon][bomber_frame] Bomber Frame.
+- Put all points in STRG.
 - Equip ![icon][rapier] Rapier.
 - Unequip ![icon][estoc] Estoc.
-- Put all points in STRG.
+- Unequip ![icon][fighter_frame] Fighter Frame.
+- Equip ![icon][bomber_frame] Bomber Frame.
 
 Then go back, and after exiting the cave, take the ↘️ direction twice, then ↗️ twice to enter a cave.
 
