@@ -458,10 +458,10 @@ The goal of this RNG manip is to get a ![icon][burning_headband] Burning Headban
 **Many steps during this manip are time sensitive because of how RNG works!**  
 If you struggle with the manip or have further questions, please contact us and we'll help you!
 
-- Once inside the cave, save and do a soft-reset (Press <kbd>A</kbd>, <kbd>B</kbd>, <kbd>Start</kbd> and <kbd>Select</kbd> at the same time. You can buffer that input while it's still saving).<img class="right" style="padding: 10px 0px 10px 10px; width: 206px; height: 78px; object-fit: none; object-position: 50% 60%" src="./assets/images/clock_tower_igt.webp"></img>
-- Set the time to July 21st 2005 10PM (2005/07/21 22:00):
+- Once inside the cave, save and do a soft-reset (Press <kbd>A</kbd>, <kbd>B</kbd>, <kbd>Start</kbd> and <kbd>Select</kbd> at the same time. You can buffer that input while it's still saving).<img class="right" style="padding: 10px 0px 10px 10px; width: 206px; height: 78px; object-fit: none; object-position: 50% 60%" src="./assets/images/white_forest_rng_manip_igt.webp"></img>
+- Set the time to July 11st 2006 10PM (2006/07/11 22:00):
 - Buffer the up + right input to start walking as soon as possible. Keep walking in the ↗️ direction until you are past the chest and very close to the wall.
-- With the ![icon][sol_lens] Sol Lens, shoot at the Red Slime two times. _(1879 => 1905 EXP)_
+- With ![icon][bomber_frame] Bomber Frame & ![icon][sol_lens] Sol Lens, shoot at the Red Slime two times. _(1879 => 1905 EXP)_
   - **You must attack the Red Slime as soon as you arrive at the target location. Once it has split, both halves must die at the same time.**
 - If your timing was right, the Red Slime will have dropped a ![icon][burning_headband] Burning Headband.
 - Get the drop and open the green chest for a ![icon][red_card] +4 Stat card.
