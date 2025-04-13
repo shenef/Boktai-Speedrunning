@@ -104,7 +104,8 @@ On Map screens you can use the shoulder buttons to navigate quickly.
 - Sell the following items for money:
   - 4 ![icon][earthly_nut] Earthly Nuts
   - 2 ![icon][healer] Healers
-  - 1 ![icon][green_card] "The Moon" Card (it'll be the one in the 2nd row of your inventory).
+  - 1 ![icon][green_card] "The Sun" Card.
+  - 1 ![icon][green_card] "The Moon" Card.
 
 **Solar Bank | Dark Loans**
 
@@ -113,7 +114,7 @@ On Map screens you can use the shoulder buttons to navigate quickly.
 **Clock Tower**
 
 - Talk to Ennio (old man with glasses).
-- Talk to Ennio again and change the time to July 21st 2005 10PM. Minutes aren't important so you can keep these.  
+- Talk to Ennio again and change the time to July 21st 2005 10PM. Minutes aren't important so you can keep these.
   - 2005 年 07 月 21 日
   - 22 時 XX 分  
 ![](./assets/images/clock_tower_igt.webp)
@@ -313,7 +314,6 @@ Grow the plan near the end of the room, then leave through the ↙️ path.
 If you don't have enough energy, you can use ![icon][green_card] "The Sun" Card (it'll be the one in the first row of your inventory).
 
 After the cutscene about the beehive, go in the ↖️ direction and push the elemental blocks to activate the elevator.
-
 Take the elevator to reach **4F** & proceed in the ↘️ direction.
 
 ### <span class="trap">Spiders & Golem Trap</span>
@@ -384,7 +384,7 @@ Take the ↙️ path, walk on the weight switch to go through the ↘️ gate.
 Then take the ↗️ path to reach the elevator and go back to **3F**.
 
 Go through the ↘️ gate.  
-Kill the green slime with ![icon][estoc] Estoc, use ![icon][dash] Dash and open the green chest for a ![icon][red_card] +4 Stat card (1747 => 1765 EXP).  
+Kill the green slime with ![icon][estoc] Estoc, use ![icon][dash] Dash and open the green chest for a ![icon][red_card] +4 Stat card _(1747 => 1765 EXP)_.  
 _Do NOT use the Card yet._
 
 Then take the ↗️ path, walk on the grown plant & the iron block to continue in the ↖️ direction.  
