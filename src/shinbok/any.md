@@ -298,8 +298,7 @@ Replenish your energy and re-enter the tree from the ↘️ path, then:
 - When the shield breaks, move away because the Armor will spin, then go back to stunlocking with ![icon][estoc] Estoc.
 - You are now **Lvl 9** _(847 => 1152 EXP)_.
 
-Open the green chest to get the **Einherjar** bike part, then proceed in the ↗️ direction.  
-After the cutscene, take the ↘️ path twice.
+Proceed in the ↗️ direction, then take the ↘️ path twice after the cutscene.
 
 As soon as you enter the room, dash towards the nearest platform to take the ↘️ path.  
 Push the iron block, then go back and take the other platform.  
@@ -388,7 +387,9 @@ _Do NOT use the Card yet._
 Then take the ↗️ path, walk on the grown plant & the iron block to continue in the ↖️ direction.  
 You can reach the moving platform without using another ![icon][power_nut] Power Nut, so wait until you've reached the other side before using another one.
 
-Then proceed in the ↖️ direction twice (watch out for the centipede), then ↙️ twice and ↖️ again to go outside.  
+Then proceed in the ↖️ direction twice (watch out for the centipede), then ↙️.  
+In the Earth Armor room open the green chest to get the **Einherjar** bike part, then take the ↙️ and ↖️ paths to go outside.  
+
 Use the grown plant as a shortcut, stay on the left to prevent the bulb from exploding.  
 Take the ↘️ and ↗️ paths to go back inside the tree.
 
