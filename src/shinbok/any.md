@@ -516,7 +516,8 @@ After the cutscene, slide on the ice to proceed in this ↗️ direction.
 ### <span class="puzzle">Puzzle</span>
 
 - Push the block on the left towards the ↖️ direction.
-- Melt the first block on the right with ![icon][flame_lens] Flame Lens.
+- Move in front of the first block on the right.
+- Melt it in one shot with ![icon][flame_lens] Flame Lens & ![icon][wizard_frame] Wizard Frame.
 - Push the second block on the right in the ↖️ direction.
 - Step on the weight switch on the right.
 - Open the chest to get the ![icon][circle_key] Circle Key.
