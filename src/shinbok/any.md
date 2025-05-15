@@ -116,8 +116,8 @@ On Map screens you can use the shoulder buttons to navigate quickly.
 - Talk to Ennio (old man with glasses).
 - Talk to Ennio again and change the time to July 21st 2005 10PM. Minutes aren't important so you can keep these.
   - 2005 年 07 月 21 日
-  - 22 時 XX 分  
-![](./assets/images/clock_tower_igt.webp)
+  - 22 時 XX 分
+<img class="right" style="padding: 10px 0px 10px 10px; width: 206px; height: 78px; object-fit: none; object-position: 50% 60%" src="./assets/images/clock_tower_igt_san_miguel_1.webp"></img>
 - _Ideally you should now have at least 2950 Solls (the cost necessary for the essential items for the route)._
 
 **Garage**
@@ -155,8 +155,6 @@ Now exit to the World Map and head to Lifeless Town.
 You can check the Boktai 3 resource list for help with the Bike race.
 
 ## Lifeless Town
-
-Open the menu:
 
 Heal with moon bugs & proceed in the ↗️ direction.  
 When you reach the room with 2 skeletons, take the ↗️ path.
@@ -460,7 +458,9 @@ The goal of this RNG manip is to get a ![icon][burning_headband] Burning Headban
 If you struggle with the manip or have further questions, please contact us and we'll help you!
 
 - Once inside the cave, save and do a soft-reset (Press <kbd>A</kbd>, <kbd>B</kbd>, <kbd>Start</kbd> and <kbd>Select</kbd> at the same time. You can buffer that input while it's still saving).<img class="right" style="padding: 10px 0px 10px 10px; width: 206px; height: 78px; object-fit: none; object-position: 50% 60%" src="./assets/images/white_forest_rng_manip_igt.webp"></img>
-- Set the time to July 11st 2006 10PM (2006/07/11 22:00):
+- Set the time to July 11st 2006 11:55PM (2006/07/11 23:55).
+  - **This date will allow you to keep using moon bugs at least until the end of the Sabata fight.**
+  - **Solar Bank interests will increase your Solls while going back with the coffin.**
 - Buffer the up + right input to start walking as soon as possible. Keep walking in the ↗️ direction until you are past the chest and very close to the wall.
 - With ![icon][bomber_frame] Bomber Frame & ![icon][sol_lens] Sol Lens, shoot at the Red Slime two times. _(1879 => 1905 EXP)_
   - **You must attack the Red Slime as soon as you arrive at the target location. Once it has split, both halves must die at the same time.**
@@ -561,6 +561,13 @@ Go back to the puzzle room, then take the ↘️ path once & ↗️ path twice.
 
 - At the start you can hit the dark spread to stun him.
 - Then use ![icon][dark_trans] Dark Trans to finish him.
+
+## San Miguel 3
+
+**Clock Tower**
+
+- Set the time to August 9nd 2006 10PM (2006/08/09 22:00) to get more Solls via the Solar Bank interests
+<img class="right" style="padding: 10px 0px 10px 10px; width: 206px; height: 78px; object-fit: none; object-position: 50% 60%" src="./assets/images/clock_tower_igt_san_miguel_3.webp"></img>
 
 ## REWRITING IN PROGRESS
 
