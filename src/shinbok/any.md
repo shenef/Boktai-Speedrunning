@@ -205,15 +205,18 @@ Lure the ghoul on the weight switch, go through the ↗️ gate, then ↖️.
 - Go up the stairs and dash above the traps to reach the last room.
 - Open the left chest first to get a ![icon][jerky] Jerky, then open the blue chest to get the ![icon][triangle_key] Triangle Key and trigger the cutscene.
 
-Go through the yellow door, then take the ↘️ path.  
-After Otenko's dialogs, take the ↗️ path, then ↖️ twice.  
+Go through the yellow door, then take the ↗️ path to get a ![icon][red_card] +2 STRG card.  
+![](./assets/images/lifeless_town_str_card.webp)
+
+Go back and take the S ↘️ path. After Otenko's dialogs, take the ↗️ path, then ↖️ twice.
+
 Open the green chest to get the **Trial** Tire bike part.  
 ![](./assets/images/lifeless_town_tire_trail_bike_part.webp)
 
 Go back once and proceed in the ↗️ direction to reach the boss room.
 
 During dialog, spam A (the 2nd option is faster by a few frame, only worth menuing for TAS).  
-Open the menu, put all your stat points into STR, equip ![icon][hoop_frame] Hoop Frame & ![icon][sol_lens] Sol Lens, then go through the door.
+Open the menu, put all your stat points into STRG, equip ![icon][hoop_frame] Hoop Frame & ![icon][sol_lens] Sol Lens, then go through the door.
 
 ### <span class="boss">The Count</span>
 
@@ -386,7 +389,7 @@ Then take the ↗️ path, walk on the grown plant & the iron block to continue 
 You can reach the moving platform without using another ![icon][power_nut] Power Nut, so wait until you've reached the other side before using another one.
 
 Then proceed in the ↖️ direction twice (watch out for the centipede), then ↙️.  
-In the Earth Armor room open the green chest to get the **Einherjar** bike part, then take the ↙️ and ↖️ paths to go outside.  
+In the Earth Armor room open the green chest to get the **Einherjar** bike part, then take the ↙️ and ↖️ paths to go outside.
 
 Use the grown plant as a shortcut, stay on the left to prevent the bulb from exploding.  
 Take the ↘️ and ↗️ paths to go back inside the tree.
@@ -500,15 +503,17 @@ After the cutscene go back in the ↙️, ↘️ & ↗️ directions & keep goin
 
 ### <span class="trap">Frost Armor Trap</span>
 
-- Shoot once to make the armor raise its shield & prevent it from moving.
-- Use ![icon][sol_trans] Sol Trans to finish it.
-- Try moving towards the exit while attacking.
+- Move towards the center of the room.
+- Use ![icon][sol_trans] Sol Trans.
 - You are now **Lvl 13** _(2089 => 2616 EXP)_
 
-After the cutscene with Carmilla, take the ↖️ exit, then ↗️ 4 times.
-You should now be in a room where a mummy explodes: proceed in the ↖️ direction.
+After the cutscene with Carmilla, take the ↖️ exit, then ↗️ 3 times.
+You should now be in a room with a dog: proceed in the ↖️ & ↙️ directions.
 
-After the cutscene, slide on the ice to proceed in this ↗️ direction.
+Open the green chest near the blue slime to get a ![icon][red_card] +2 STRG card.  
+![](./assets/images/white_forest_str_card.webp)
+
+Then take the ↗️ exit 2 times. After the cutscene, slide on the ice to proceed in this ↗️ direction.
 
 ### <span class="mission">Mission: Open the door!</span>
 
@@ -568,6 +573,10 @@ Go back to the puzzle room, then take the ↘️ path once & ↗️ path twice.
 
 - Set the time to August 9nd 2006 10PM (2006/08/09 22:00) to get more Solls via the Solar Bank interests
 <img class="right" style="padding: 10px 0px 10px 10px; width: 206px; height: 78px; object-fit: none; object-position: 50% 60%" src="./assets/images/clock_tower_igt_san_miguel_3.webp"></img>
+
+<!-- **Pirate Island**
+
+- Get the ![icon][red_card] +2 STRG card. -->
 
 ## REWRITING IN PROGRESS
 
