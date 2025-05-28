@@ -220,7 +220,7 @@ Lure the ghoul on the weight switch, go through the ↗️ gate, then ↖️.
 Go through the yellow door, then take the ↗️ path to get a ![icon][red_card] +2 STRG card.  
 ![](./assets/images/lifeless_town_str_card.webp)
 
-Go back and take the S ↘️ path. After Otenko's dialogs, take the ↗️ path, then ↖️ twice.
+Go back and take the ↘️ path. After Otenko's dialogs, take the ↗️ path, then ↖️ twice.
 
 Open the green chest to get the **Trial** Tire bike part.  
 ![](./assets/images/lifeless_town_tire_trail_bike_part.webp)
