@@ -114,15 +114,27 @@ On Map screens you can use the shoulder buttons to navigate quickly.
 **Clock Tower**
 
 - Talk to Ennio (old man with glasses).
-- Talk to Ennio again and change the time to July 21st 2005 10PM. Minutes aren't important so you can keep these.
+
+### <span class="manip">IGT & Solar Bank interests exploits</span>
+
+The goal of these exploits is to get a big amount of Solls in order to be able to buy every item needed to finish the game.
+
+- Talk to Ennio again and change the time to July 21st 2005. Hours and minutes aren't important so you can keep these _(for reference at this point IGT should be past midnight)_.
   - 2005 年 07 月 21 日
-  - 22 時 XX 分
+  - XX 時 XX 分
 <img class="right" style="padding: 10px 0px 10px 10px; width: 206px; height: 78px; object-fit: none; object-position: 50% 60%" src="./assets/images/clock_tower_igt_san_miguel_1.webp"></img>
-- _Ideally you should now have at least 2950 Solls (the cost necessary for the essential items for the route)._
+- Leave the Clock Tower and go to the garage.
 
 **Garage**
 
-- Talk to the guy in the back.
+- Save and do a soft-reset (Press <kbd>A</kbd>, <kbd>B</kbd>, <kbd>Start</kbd> and <kbd>Select</kbd> at the same time. You can buffer that input while it's still saving).
+- Set the time to July 11st 2006 10PM.
+  - 2006 年 07 月 11 日
+  - 22 時 00 分
+<img class="right" style="padding: 10px 0px 10px 10px; width: 206px; height: 78px; object-fit: none; object-position: 50% 60%" src="./assets/images/clock_tower_igt_san_miguel_2.webp"></img>
+
+- _You should now have over 3900 Solls and be able to buy all the necessary items to finish the game._
+- Talk to guy in the back.
 
 **Lita - Item Shop 2**
 
@@ -461,9 +473,8 @@ The goal of this RNG manip is to get a ![icon][burning_headband] Burning Headban
 If you struggle with the manip or have further questions, please contact us and we'll help you!
 
 - Once inside the cave, save and do a soft-reset (Press <kbd>A</kbd>, <kbd>B</kbd>, <kbd>Start</kbd> and <kbd>Select</kbd> at the same time. You can buffer that input while it's still saving).<img class="right" style="padding: 10px 0px 10px 10px; width: 206px; height: 78px; object-fit: none; object-position: 50% 60%" src="./assets/images/white_forest_rng_manip_igt.webp"></img>
-- Set the time to July 11st 2006 11:55PM (2006/07/11 23:55).
-  - **This date will allow you to keep using moon bugs at least until the end of the Sabata fight.**
-  - **Solar Bank interests will increase your Solls while going back with the coffin.**
+- Set the time to August 9nd 2006 10PM (2006/08/09 22:00) to get extra Solls via the Solar Bank interests.
+  - _At this point you shouldn't need more Solls, but this is a free occasion to get more so you may as well do it._
 - Buffer the up + right input to start walking as soon as possible. Keep walking in the ↗️ direction until you are past the chest and very close to the wall.
 - With ![icon][bomber_frame] Bomber Frame & ![icon][sol_lens] Sol Lens, shoot at the Red Slime two times. _(1879 => 1905 EXP)_
   - **You must attack the Red Slime as soon as you arrive at the target location. Once it has split, both halves must die at the same time.**
@@ -567,12 +578,7 @@ Go back to the puzzle room, then take the ↘️ path once & ↗️ path twice.
 - At the start you can hit the dark spread to stun him.
 - Then use ![icon][dark_trans] Dark Trans to finish him.
 
-## San Miguel 3
-
-**Clock Tower**
-
-- Set the time to August 9nd 2006 10PM (2006/08/09 22:00) to get more Solls via the Solar Bank interests
-<img class="right" style="padding: 10px 0px 10px 10px; width: 206px; height: 78px; object-fit: none; object-position: 50% 60%" src="./assets/images/clock_tower_igt_san_miguel_3.webp"></img>
+<!-- ## San Miguel 3 -->
 
 <!-- **Pirate Island**
 
