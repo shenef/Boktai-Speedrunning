@@ -176,9 +176,15 @@ When you reach the room with 2 skeletons, take the ↗️ path.
 Take the stairs in the upper-↖️ direction.
 Open the green chest to get ![icon][flame_lens] Flame Lens.
 
-Go back and go in front of the gate.  
-Equip ![icon][flame_lens] Flame Lens & ![icon][wizard_frame] Wizard Frame to shoot at the torch.  
-Proceed in the ↗️ direction.
+Go back and go in front of the gate.
+
+Open the menu and:
+
+- Equip ![icon][flame_lens] Flame Lens & ![icon][wizard_frame] Wizard Frame.
+- Equip ![icon][crest_of_diamonds] Crest of Diamonds & ![icon][leather_armor] Leather Armor.
+- Put all points into STRG
+
+Shoot at the torch and proceed in the ↗️ direction.
 
 ### <span class="trap">Skeletons Trap</span>
 
@@ -228,7 +234,13 @@ Open the green chest to get the **Trial** Tire bike part.
 Go back once and proceed in the ↗️ direction to reach the boss room.
 
 During dialog, spam A (the 2nd option is faster by a few frame, only worth menuing for TAS).  
-Open the menu, put all your stat points into STRG, equip ![icon][hoop_frame] Hoop Frame & ![icon][sol_lens] Sol Lens, then go through the door.
+Open the menu:
+
+- Equip ![icon][hoop_frame] Hoop Frame & ![icon][sol_lens] Sol Lens.
+- Use the ![icon][red_card] +2 STRG card (it's the one on the last row).
+- Put all your stat points into STRG.
+
+Then go through the door.
 
 ### <span class="boss">The Count</span>
 
@@ -297,8 +309,6 @@ On the way, grow the plan to create a shortcut. Hug the left side when dashing t
 Replenish your energy and re-enter the tree from the ↘️ path, then:
 
 - Unequip ![icon][iron_clogs] Iron Clogs.
-- Equip ![icon][leather_armor] Leather Armor.
-- Equip ![icon][crest_of_diamonds] Crest of Diamonds.
 - Unequip ![icon][gradius] Gradius.
 - Equip ![icon][estoc] Estoc.
 - Put all stat points in STRG.
