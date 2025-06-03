@@ -241,8 +241,13 @@ Open the menu, put all your stat points into STRG, equip ![icon][hoop_frame] Hoo
 - Use a ![icon][power_nut] Power Nut and start going back.
 
 In the room where Otenko summons a solar circle, take the ↙️ path.  
-Push the wooden block on the weight switch, then go through the ↖️ path.  
-Push the iron block and take the ↙️ path.
+Push the wooden block on the weight switch, then go up the stairs (↗️).
+
+- Talk to Snake.
+- Buy a ![icon][redshroom] Redshroom.
+
+Go back and take the ↖️ path.  
+Then push the iron block and take the ↙️ path.
 
 Once you get past the room where you fought the Armor (brown door), take the ↖️ path and keep going towards the entrance of the dungeon (the other path is for a sidequest and takes longer to go through because of puzzles).
 
@@ -588,6 +593,7 @@ Go back to the puzzle room, then take the ↘️ path once & ↗️ path twice.
 [power_nut]: ./assets/images/icons/icon_power_nut.webp
 [tiptoe_nut]: ./assets/images/icons/icon_tiptoe_nut.webp
 [see_all_nut]: ./assets/images/icons/icon_see_all_nut.webp
+[redshroom]: ./assets/images/icons/redshroom.webp
 [tasty_meat]: ./assets/images/icons/icon_tasty_meat.webp
 [jerky]: ./assets/images/icons/icon_jerky.webp
 [healer]: ./assets/images/icons/icon_healer.webp
