@@ -100,7 +100,7 @@ On Map screens you can use the shoulder buttons to navigate quickly.
 **Lita - Item Shop**
 
 - Talk to Lita
-- Use a ![icon][speed_nut] Speed Nut, then open all chests to get 2 ![icon][earthly_nut] Earthly Nuts & 2 ![icon][healer] Healers.
+- Open all chests to get 2 ![icon][earthly_nut] Earthly Nuts & 2 ![icon][healer] Healers.
 - Sell the following items for money:
   - 4 ![icon][earthly_nut] Earthly Nuts
   - 2 ![icon][healer] Healers
@@ -134,11 +134,11 @@ The goal of these exploits is to get a big amount of Solls in order to be able t
 <img class="right" style="padding: 10px 0px 10px 10px; width: 206px; height: 78px; object-fit: none; object-position: 50% 60%" src="./assets/images/clock_tower_igt_san_miguel_2.webp"></img>
 
 - _You should now have over 3900 Solls and be able to buy all the necessary items to finish the game._
-- Talk to guy in the back.
+- Use a ![icon][speed_nut] Speed Nut, then talk to the guy in the back.
 
 **Lita - Item Shop 2**
 
-- Buy 3 ![icon][power_nut] Power Nuts & sort your inventory before closing the shop menu and leaving.
+- Buy 10 ![icon][power_nut] Power Nuts & sort your inventory before closing the shop menu and leaving (3 for Lifeless Town, 7 for Ancient Tree).
 
 **Accessory Shop**
 
@@ -252,12 +252,6 @@ Once you get past the room where you fought the Armor (brown door), take the ↖
 - Start the purification and use ![icon][hoop_frame] Hoop Frame until the end.  
 ![](./assets/images/lifeless_town_purification_example.webp)
 - _(662 => 743 EXP)_
-
-## San Miguel (2)
-
-### Item Shop
-
-- Buy 7 ![icon][power_nut] Power Nuts.
 
 ## Ancient Tree
 
@@ -432,7 +426,7 @@ Dash in the ↙️ direction to trigger the next cutscene. Turn off the sunlight
 - After the cutscene use B and ![icon][sol_trans] Sol Trans until the fight is over.  
 _Note: unlike Dark Trans, the timing when pressing B matters. Sol Trans has the possibility to attack faster than Dark Trans, however timing is more strict and attacks does NOT stun enemies._
 
-## San Miguel (3)
+## San Miguel (2)
 
 ### Django's House
 
