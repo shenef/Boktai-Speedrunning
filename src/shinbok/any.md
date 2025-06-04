@@ -375,8 +375,8 @@ Proceed through the ↗️ entry, and take the elevator to reach the boss.
 ### <span class="boss">Hresvelgr</span>
 
 - _You are expected to be missing 2 TRC blocks at the start of this fight._
-- Use use ![icon][hoop_frame] Hoop Frame until the TRC gauge is full.
-- You can ![icon][dark_trans] Dark Trans and spam B right away, however the boss will get invulnerable and begin his wind attack.
+- Use ![icon][hoop_frame] Hoop Frame until the TRC gauge is full.
+- You can use ![icon][dark_trans] Dark Trans and spam B right away, however the boss will get invulnerable and begin his wind attack.
 - After the dialog, ignore Trinity and spam B with ![icon][dark_trans] Dark Trans until the fight is over.
 - You are now **Lvl 11** _(1247 => 1747 EXP)_.
 
