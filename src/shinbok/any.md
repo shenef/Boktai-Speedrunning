@@ -92,7 +92,7 @@ Set the sunlight to 0.
 **Django's House**
 
 - Talk to Violet & choose the first option.
-- <span class="safety">Safety strat:</span> Get the ![icon][luna_lens] Luna Lens near the doll on the left.
+- Get the ![icon][luna_lens] Luna Lens near the doll on the left.
 
 Leave the house and visit the following places.  
 On Map screens you can use the shoulder buttons to navigate quickly.
@@ -100,11 +100,12 @@ On Map screens you can use the shoulder buttons to navigate quickly.
 **Lita - Item Shop**
 
 - Talk to Lita
-- Use a ![icon][speed_nut] Speed Nut, then open all chests to get 2 ![icon][earthly_nut] Earthly Nuts & 2 ![icon][healer] Healers.
+- Open all chests to get 2 ![icon][earthly_nut] Earthly Nuts & 2 ![icon][healer] Healers.
 - Sell the following items for money:
   - 4 ![icon][earthly_nut] Earthly Nuts
   - 2 ![icon][healer] Healers
-  - 1 ![icon][green_card] "The Moon" Card (it'll be the one in the 2nd row of your inventory).
+  - 1 ![icon][green_card] "The Sun" Card.
+  - 1 ![icon][green_card] "The Moon" Card.
 
 **Solar Bank | Dark Loans**
 
@@ -113,19 +114,31 @@ On Map screens you can use the shoulder buttons to navigate quickly.
 **Clock Tower**
 
 - Talk to Ennio (old man with glasses).
-- Talk to Ennio again and change the time to July 21st 2005 10PM. Minutes aren't important so you can keep these.  
+
+### <span class="manip">IGT & Solar Bank interests exploits</span>
+
+The goal of these exploits is to get a big amount of Solls in order to be able to buy every item needed to finish the game.
+
+- Talk to Ennio again and change the time to July 21st 2005. Hours and minutes aren't important so you can keep these _(for reference at this point IGT should be past midnight)_.
   - 2005 年 07 月 21 日
-  - 22 時 XX 分  
-![](./assets/images/clock_tower_igt.webp)
-- _Ideally you should now have at least 2950 Solls (the cost necessary for the essential items for the route)._
+  - XX 時 XX 分
+<img class="right" style="padding: 10px 0px 10px 10px; width: 206px; height: 78px; object-fit: none; object-position: 50% 60%" src="./assets/images/clock_tower_igt_san_miguel_1.webp"></img>
+- Leave the Clock Tower and go to the garage.
 
 **Garage**
 
-- Talk to the guy in the back.
+- Save and do a soft-reset (Press <kbd>A</kbd>, <kbd>B</kbd>, <kbd>Start</kbd> and <kbd>Select</kbd> at the same time. You can buffer that input while it's still saving).
+- Set the time to July 11st 2006 10PM.
+  - 2006 年 07 月 11 日
+  - 22 時 00 分
+<img class="right" style="padding: 10px 0px 10px 10px; width: 206px; height: 78px; object-fit: none; object-position: 50% 60%" src="./assets/images/clock_tower_igt_san_miguel_2.webp"></img>
+
+- _You should now have over 3900 Solls and be able to buy all the necessary items to finish the game._
+- Use a ![icon][speed_nut] Speed Nut, then talk to the guy in the back.
 
 **Lita - Item Shop 2**
 
-- Buy 3 ![icon][power_nut] Power Nuts & sort your inventory before closing the shop menu and leaving.
+- Buy 10 ![icon][power_nut] Power Nuts & sort your inventory before closing the shop menu and leaving (3 for Lifeless Town, 7 for Ancient Tree).
 
 **Accessory Shop**
 
@@ -155,8 +168,6 @@ You can check the Boktai 3 resource list for help with the Bike race.
 
 ## Lifeless Town
 
-Open the menu:
-
 Heal with moon bugs & proceed in the ↗️ direction.  
 When you reach the room with 2 skeletons, take the ↗️ path.
 
@@ -165,9 +176,15 @@ When you reach the room with 2 skeletons, take the ↗️ path.
 Take the stairs in the upper-↖️ direction.
 Open the green chest to get ![icon][flame_lens] Flame Lens.
 
-Go back and go in front of the gate.  
-Equip ![icon][flame_lens] Flame Lens & ![icon][wizard_frame] Wizard Frame to shoot at the torch.  
-Proceed in the ↗️ direction.
+Go back and go in front of the gate.
+
+Open the menu and:
+
+- Equip ![icon][flame_lens] Flame Lens & ![icon][wizard_frame] Wizard Frame.
+- Equip ![icon][crest_of_diamonds] Crest of Diamonds & ![icon][leather_armor] Leather Armor.
+- Put all points into STRG
+
+Shoot at the torch and proceed in the ↗️ direction.
 
 ### <span class="trap">Skeletons Trap</span>
 
@@ -206,15 +223,24 @@ Lure the ghoul on the weight switch, go through the ↗️ gate, then ↖️.
 - Go up the stairs and dash above the traps to reach the last room.
 - Open the left chest first to get a ![icon][jerky] Jerky, then open the blue chest to get the ![icon][triangle_key] Triangle Key and trigger the cutscene.
 
-Go through the yellow door, then take the ↘️ path.  
-After Otenko's dialogs, take the ↗️ path, then ↖️ twice.  
+Go through the yellow door, then take the ↗️ path to get a ![icon][red_card] +2 STRG card.  
+![](./assets/images/lifeless_town_str_card.webp)
+
+Go back and take the ↘️ path. After Otenko's dialogs, take the ↗️ path, then ↖️ twice.
+
 Open the green chest to get the **Trial** Tire bike part.  
 ![](./assets/images/lifeless_town_tire_trail_bike_part.webp)
 
 Go back once and proceed in the ↗️ direction to reach the boss room.
 
 During dialog, spam A (the 2nd option is faster by a few frame, only worth menuing for TAS).  
-Open the menu, put all your stat points into STR, equip ![icon][hoop_frame] Hoop Frame & ![icon][sol_lens] Sol Lens, then go through the door.
+Open the menu:
+
+- Equip ![icon][hoop_frame] Hoop Frame & ![icon][sol_lens] Sol Lens.
+- Use the ![icon][red_card] +2 STRG card (it's the one on the last row).
+- Put all your stat points into STRG.
+
+Then go through the door.
 
 ### <span class="boss">The Count</span>
 
@@ -227,8 +253,13 @@ Open the menu, put all your stat points into STR, equip ![icon][hoop_frame] Hoop
 - Use a ![icon][power_nut] Power Nut and start going back.
 
 In the room where Otenko summons a solar circle, take the ↙️ path.  
-Push the wooden block on the weight switch, then go through the ↖️ path.  
-Push the iron block and take the ↙️ path.
+Push the wooden block on the weight switch, then go up the stairs (↗️).
+
+- Talk to Snake.
+- Buy a ![icon][redshroom] Redshroom.
+
+Go back and take the ↖️ path.  
+Then push the iron block and take the ↙️ path.
 
 Once you get past the room where you fought the Armor (brown door), take the ↖️ path and keep going towards the entrance of the dungeon (the other path is for a sidequest and takes longer to go through because of puzzles).
 
@@ -238,12 +269,6 @@ Once you get past the room where you fought the Armor (brown door), take the ↖
 - Start the purification and use ![icon][hoop_frame] Hoop Frame until the end.  
 ![](./assets/images/lifeless_town_purification_example.webp)
 - _(662 => 743 EXP)_
-
-## San Miguel (2)
-
-### Item Shop
-
-- Buy 7 ![icon][power_nut] Power Nuts.
 
 ## Ancient Tree
 
@@ -268,7 +293,7 @@ Proceed in the ↖️ direction, then ↗️ twice (you can pass from the left s
 - Push the first block once in ↗️ & ↖️ directions.
 - Push the second block ↗️ once & open the green chest to get the ![icon][earth_lens] Earth Lens.
 
-Go back, equip ![icon][earth_lens] Earth Lens.  
+Go back, equip ![icon][earth_lens] Earth Lens & ![icon][fighter_frame] Fighter Frame.  
 Grow the first plan, then alternate between the other 2 plans. Start with the left one because the right one will end the mission once fully grown.
 
 Open the green chest on the left to get ![icon][dragoon_frame] Dragoon Frame, then proceed in the ↗️ direction.  
@@ -284,8 +309,6 @@ On the way, grow the plan to create a shortcut. Hug the left side when dashing t
 Replenish your energy and re-enter the tree from the ↘️ path, then:
 
 - Unequip ![icon][iron_clogs] Iron Clogs.
-- Equip ![icon][leather_armor] Leather Armor.
-- Equip ![icon][crest_of_diamonds] Crest of Diamonds.
 - Unequip ![icon][gradius] Gradius.
 - Equip ![icon][estoc] Estoc.
 - Put all stat points in STRG.
@@ -293,13 +316,11 @@ Replenish your energy and re-enter the tree from the ↘️ path, then:
 ### <span class="trap">Earth Armor Trap</span>
 
 - Dash once to go under the skylight.
-- Use ![icon][hoop_frame] Hoop Frame to shoot once.
 - Use ![icon][estoc] Estoc to stunlock. You can prevent it from raising its shield if your position is good enough.
 - When the shield breaks, move away because the Armor will spin, then go back to stunlocking with ![icon][estoc] Estoc.
 - You are now **Lvl 9** _(847 => 1152 EXP)_.
 
-Open the green chest to get the **Einherjar** bike part, then proceed in the ↗️ direction.  
-After the cutscene, take the ↘️ path twice.
+Proceed in the ↗️ direction, then take the ↘️ path twice after the cutscene.
 
 As soon as you enter the room, dash towards the nearest platform to take the ↘️ path.  
 Push the iron block, then go back and take the other platform.  
@@ -309,11 +330,9 @@ Kill the 3 klorofoluns that hovers above the last moving platform with ![icon][h
 _This isn't about getting EXP, but rather an extra TRC block for later._
 
 After the last platform, take the ↘️ path, then ↙️.  
-Grow the plan near the end of the room, then leave through the ↙️ path.  
-If you don't have enough energy, you can use ![icon][green_card] "The Sun" Card (it'll be the one in the first row of your inventory).
+Grow the plan near the end of the room, then leave through the ↙️ path.
 
 After the cutscene about the beehive, go in the ↖️ direction and push the elemental blocks to activate the elevator.
-
 Take the elevator to reach **4F** & proceed in the ↘️ direction.
 
 ### <span class="trap">Spiders & Golem Trap</span>
@@ -356,8 +375,8 @@ Proceed through the ↗️ entry, and take the elevator to reach the boss.
 ### <span class="boss">Hresvelgr</span>
 
 - _You are expected to be missing 2 TRC blocks at the start of this fight._
-- Use use ![icon][hoop_frame] Hoop Frame until the TRC gauge is full.
-- You can ![icon][dark_trans] Dark Trans and spam B right away, however the boss will get invulnerable and begin his wind attack.
+- Use ![icon][hoop_frame] Hoop Frame until the TRC gauge is full.
+- You can use ![icon][dark_trans] Dark Trans and spam B right away, however the boss will get invulnerable and begin his wind attack.
 - After the dialog, ignore Trinity and spam B with ![icon][dark_trans] Dark Trans until the fight is over.
 - You are now **Lvl 11** _(1247 => 1747 EXP)_.
 
@@ -384,13 +403,15 @@ Take the ↙️ path, walk on the weight switch to go through the ↘️ gate.
 Then take the ↗️ path to reach the elevator and go back to **3F**.
 
 Go through the ↘️ gate.  
-Kill the green slime with ![icon][estoc] Estoc, use ![icon][dash] Dash and open the green chest for a ![icon][red_card] +4 Stat card (1747 => 1765 EXP).  
+Kill the green slime with ![icon][estoc] Estoc, use ![icon][dash] Dash and open the green chest for a ![icon][red_card] +4 Stat card _(1747 => 1765 EXP)_.  
 _Do NOT use the Card yet._
 
 Then take the ↗️ path, walk on the grown plant & the iron block to continue in the ↖️ direction.  
 You can reach the moving platform without using another ![icon][power_nut] Power Nut, so wait until you've reached the other side before using another one.
 
-Then proceed in the ↖️ direction twice (watch out for the centipede), then ↙️ twice and ↖️ again to go outside.  
+Then proceed in the ↖️ direction twice (watch out for the centipede), then ↙️.  
+In the Earth Armor room open the green chest to get the **Einherjar** bike part, then take the ↙️ and ↖️ paths to go outside.
+
 Use the grown plant as a shortcut, stay on the left to prevent the bulb from exploding.  
 Take the ↘️ and ↗️ paths to go back inside the tree.
 
@@ -420,7 +441,7 @@ Dash in the ↙️ direction to trigger the next cutscene. Turn off the sunlight
 - After the cutscene use B and ![icon][sol_trans] Sol Trans until the fight is over.  
 _Note: unlike Dark Trans, the timing when pressing B matters. Sol Trans has the possibility to attack faster than Dark Trans, however timing is more strict and attacks does NOT stun enemies._
 
-## San Miguel (3)
+## San Miguel (2)
 
 ### Django's House
 
@@ -438,11 +459,11 @@ Enter the cave and reach the end to get ![icon][bomber_frame] Bomber Frame.
 
 Open the menu and:
 
-- Unequip ![icon][fighter_frame] Fighter Frame.
-- Equip ![icon][bomber_frame] Bomber Frame.
+- Put all points in STRG.
 - Equip ![icon][rapier] Rapier.
 - Unequip ![icon][estoc] Estoc.
-- Put all points in STRG.
+- Unequip ![icon][fighter_frame] Fighter Frame.
+- Equip ![icon][bomber_frame] Bomber Frame.
 
 Then go back, and after exiting the cave, take the ↘️ direction twice, then ↗️ twice to enter a cave.
 
@@ -460,10 +481,11 @@ The goal of this RNG manip is to get a ![icon][burning_headband] Burning Headban
 **Many steps during this manip are time sensitive because of how RNG works!**  
 If you struggle with the manip or have further questions, please contact us and we'll help you!
 
-- Once inside the cave, save and do a soft-reset (Press <kbd>A</kbd>, <kbd>B</kbd>, <kbd>Start</kbd> and <kbd>Select</kbd> at the same time. You can buffer that input while it's still saving).<img class="right" style="padding: 10px 0px 10px 10px; width: 206px; height: 78px; object-fit: none; object-position: 50% 60%" src="./assets/images/clock_tower_igt.webp"></img>
-- Set the time to July 21st 2005 10PM (2005/07/21 22:00):
+- Once inside the cave, save and do a soft-reset (Press <kbd>A</kbd>, <kbd>B</kbd>, <kbd>Start</kbd> and <kbd>Select</kbd> at the same time. You can buffer that input while it's still saving).<img class="right" style="padding: 10px 0px 10px 10px; width: 206px; height: 78px; object-fit: none; object-position: 50% 60%" src="./assets/images/white_forest_rng_manip_igt.webp"></img>
+- Set the time to August 9nd 2006 10PM (2006/08/09 22:00) to get extra Solls via the Solar Bank interests.
+  - _At this point you shouldn't need more Solls, but this is a free occasion to get more so you may as well do it._
 - Buffer the up + right input to start walking as soon as possible. Keep walking in the ↗️ direction until you are past the chest and very close to the wall.
-- With the ![icon][sol_lens] Sol Lens, shoot at the Red Slime two times. _(1879 => 1905 EXP)_
+- With ![icon][bomber_frame] Bomber Frame & ![icon][sol_lens] Sol Lens, shoot at the Red Slime two times. _(1879 => 1905 EXP)_
   - **You must attack the Red Slime as soon as you arrive at the target location. Once it has split, both halves must die at the same time.**
 - If your timing was right, the Red Slime will have dropped a ![icon][burning_headband] Burning Headband.
 - Get the drop and open the green chest for a ![icon][red_card] +4 Stat card.
@@ -501,15 +523,17 @@ After the cutscene go back in the ↙️, ↘️ & ↗️ directions & keep goin
 
 ### <span class="trap">Frost Armor Trap</span>
 
-- Shoot once to make the armor raise its shield & prevent it from moving.
-- Use ![icon][sol_trans] Sol Trans to finish it.
-- Try moving towards the exit while attacking.
+- Move towards the center of the room.
+- Use ![icon][sol_trans] Sol Trans.
 - You are now **Lvl 13** _(2089 => 2616 EXP)_
 
-After the cutscene with Carmilla, take the ↖️ exit, then ↗️ 4 times.
-You should now be in a room where a mummy explodes: proceed in the ↖️ direction.
+After the cutscene with Carmilla, take the ↖️ exit, then ↗️ 3 times.
+You should now be in a room with a dog: proceed in the ↖️ & ↙️ directions.
 
-After the cutscene, slide on the ice to proceed in this ↗️ direction.
+Open the green chest near the blue slime to get a ![icon][red_card] +2 STRG card.  
+![](./assets/images/white_forest_str_card.webp)
+
+Then take the ↗️ exit 2 times. After the cutscene, slide on the ice to proceed in this ↗️ direction.
 
 ### <span class="mission">Mission: Open the door!</span>
 
@@ -518,7 +542,8 @@ After the cutscene, slide on the ice to proceed in this ↗️ direction.
 ### <span class="puzzle">Puzzle</span>
 
 - Push the block on the left towards the ↖️ direction.
-- Melt the first block on the right with ![icon][flame_lens] Flame Lens.
+- Move in front of the first block on the right.
+- Melt it in one shot with ![icon][flame_lens] Flame Lens & ![icon][wizard_frame] Wizard Frame.
 - Push the second block on the right in the ↖️ direction.
 - Step on the weight switch on the right.
 - Open the chest to get the ![icon][circle_key] Circle Key.
@@ -562,6 +587,12 @@ Go back to the puzzle room, then take the ↘️ path once & ↗️ path twice.
 - At the start you can hit the dark spread to stun him.
 - Then use ![icon][dark_trans] Dark Trans to finish him.
 
+<!-- ## San Miguel 3 -->
+
+<!-- **Pirate Island**
+
+- Get the ![icon][red_card] +2 STRG card. -->
+
 ## REWRITING IN PROGRESS
 
 <!-- markdownlint-disable MD053 -->
@@ -572,6 +603,7 @@ Go back to the puzzle room, then take the ↘️ path once & ↗️ path twice.
 [power_nut]: ./assets/images/icons/icon_power_nut.webp
 [tiptoe_nut]: ./assets/images/icons/icon_tiptoe_nut.webp
 [see_all_nut]: ./assets/images/icons/icon_see_all_nut.webp
+[redshroom]: ./assets/images/icons/redshroom.webp
 [tasty_meat]: ./assets/images/icons/icon_tasty_meat.webp
 [jerky]: ./assets/images/icons/icon_jerky.webp
 [healer]: ./assets/images/icons/icon_healer.webp
