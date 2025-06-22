@@ -15,6 +15,6 @@ Put the executable in the same folder as this readme and run `./mdbook.exe serve
 If the mdbook.exe is not enough for your usage, you can install the full setup like this:
 
 - install Rust via [rustup](https://rustup.rs/)
-- run `cargo install mdbook mdbook-linkcheck`.
+- run `cargo install mdbook mdbook-linkcheck mdbook-admonish`.
 
 Now you can run `mdbook serve --open` to get the live preview.
