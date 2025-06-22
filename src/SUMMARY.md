@@ -7,6 +7,7 @@
 - [Boktai 1](./boktai.md)
   - [Any%](./boktai/any.md)
   - [28 Dungeons](./boktai/28-dungeons.md)
+  - [NG+ Hard](./boktai/ng+hard.md)
 - [Boktai 2](./zoktai.md)
   - [Any%](./zoktai/any.md)
 - [Boktai 3](./shinbok.md)
