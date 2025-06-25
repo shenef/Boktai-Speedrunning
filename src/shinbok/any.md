@@ -250,6 +250,9 @@ Then go through the door.
 ### Coffin
 
 - Set sunlight to 0.
+- Equip ![icon][estoc] Estoc.
+- Unequip ![icon][gradius] Gradius.
+- Put all points into STRG.
 - Use a ![icon][power_nut] Power Nut and start going back.
 
 In the room where Otenko summons a solar circle, take the ↙️ path.  
@@ -276,8 +279,7 @@ Enter the tree, then take the ↖️ & ↗️ paths.
 
 ### <span class="trap">Ghouls & Bats Trap</span>
 
-- Use ![icon][hoop_frame] Hoop Frame & ![icon][sol_lens] Sol Lens on Ghouls
-- Use ![icon][gradius] Gradius on Bats.
+- Use ![icon][estoc] Estoc.
 - You are now **Lvl 8** _(743 => 847 EXP)_.
 
 Proceed through the ↘️ gate & take the elevator to reach **2F**.  
@@ -285,7 +287,8 @@ After the elevator, take the ↙️ and ↖️ paths.
 
 ### <span class="mission">Mission: Make the Solar Roots grow!</span>
 
-Proceed in the ↖️ direction, then ↗️ twice (you can pass from the left side in the room with purple slimes).
+Proceed in the ↖️ direction, then ↗️ twice.  
+On the way kill the 2 purple slimes on the right with ![icon][estoc] Estoc _(847 => 880 EXP)_.
 
 #### <span class="puzzle">Puzzle</span>
 
@@ -293,8 +296,11 @@ Proceed in the ↖️ direction, then ↗️ twice (you can pass from the left s
 - Push the first block once in ↗️ & ↖️ directions.
 - Push the second block ↗️ once & open the green chest to get the ![icon][earth_lens] Earth Lens.
 
-Go back, equip ![icon][earth_lens] Earth Lens & ![icon][fighter_frame] Fighter Frame.  
-Grow the first plan, then alternate between the other 2 plans. Start with the left one because the right one will end the mission once fully grown.
+Go back, kill the 2 purple slimes on the right with ![icon][estoc] Estoc again _(880 => 913 EXP)_.  
+_Killing both slimes twice gives enough EXP to reach lvl 10 earlier but most importantly it also gives TRC which will help for the Hresvelgr quick kill._
+
+Equip ![icon][earth_lens] Earth Lens & ![icon][fighter_frame] Fighter Frame.  
+Once back to the first room, grow the first plant, then alternate between the other 2 plans. Start with the left one because the right one will end the mission once fully grown.
 
 Open the green chest on the left to get ![icon][dragoon_frame] Dragoon Frame, then proceed in the ↗️ direction.  
 ![](./assets/images/ancient_tree_dragoon_frame.webp)
@@ -302,23 +308,20 @@ Open the green chest on the left to get ![icon][dragoon_frame] Dragoon Frame, th
 Push the blocks on the weight switches and take the elevator to reach **3F** (if you are fast enough, the Power Nut will still be active).
 
 Proceed in the ↙️ twice, then ↖️ and ↙️ once each.
-
 Equip ![icon][iron_clogs] Iron Clogs to negate the solar wind.
 
 On the way, grow the plan to create a shortcut. Hug the left side when dashing towards it to prevent the bulb from exploding.
-Replenish your energy and re-enter the tree from the ↘️ path, then:
+Replenish your energy and re-enter the tree from the ↘️ path, then before going through the ↗️ exit:
 
 - Unequip ![icon][iron_clogs] Iron Clogs.
-- Unequip ![icon][gradius] Gradius.
 - Equip ![icon][estoc] Estoc.
 - Put all stat points in STRG.
 
 ### <span class="trap">Earth Armor Trap</span>
 
-- Dash once to go under the skylight.
 - Use ![icon][estoc] Estoc to stunlock. You can prevent it from raising its shield if your position is good enough.
 - When the shield breaks, move away because the Armor will spin, then go back to stunlocking with ![icon][estoc] Estoc.
-- You are now **Lvl 9** _(847 => 1152 EXP)_.
+- You are now **Lvl 9** _(913 => 1218 EXP)_.
 
 Proceed in the ↗️ direction, then take the ↘️ path twice after the cutscene.
 
@@ -326,8 +329,8 @@ As soon as you enter the room, dash towards the nearest platform to take the ↘
 Push the iron block, then go back and take the other platform.  
 During this room you can set the sunlight to 0 to delay overheating a bit.
 
-Kill the 3 klorofoluns that hovers above the last moving platform with ![icon][hoop_frame] Hoop Frame _(1152 => 1165 EXP)_.  
-_This isn't about getting EXP, but rather an extra TRC block for later._
+Kill the 3 klorofoluns that hovers above the last moving platform with ![icon][hoop_frame] Hoop Frame _(1218 => 1231 EXP)_.  
+_This isn't about getting EXP, but rather getting more TRC for the Hresvelgr quick kill._
 
 After the last platform, take the ↘️ path, then ↙️.  
 Grow the plan near the end of the room, then leave through the ↙️ path.
@@ -337,10 +340,9 @@ Take the elevator to reach **4F** & proceed in the ↘️ direction.
 
 ### <span class="trap">Spiders & Golem Trap</span>
 
-- Open the menu and put all your points into STRG.
 - Use ![icon][estoc] Estoc.
-- Start with the golem, then the spiders. They should be more or less grouped together after killing the golem.
-- _(1165 => 1247 EXP)_
+- Start with the golem, then the spiders. If you're lucky they will be grouped together after killing the golem.
+- You are now **Lvl 10** _(1231 => 1313 EXP)_.
 
 Proceed in the ↙️ direction twice.
 
@@ -353,7 +355,9 @@ Grow the plants to take the ↖️ path, then proceed through the ↙️ and ↖
 
 - Use ![icon][fighter_frame] Fighter Frame & ![icon][flame_lens] Fire Lens.
 - Go on the platform near you and light the 2 torches to open the ↖️ gate (you can shoot the 1st torch by shooting straight UP while on the platform).
-- In the next room, light the 5 torches (only ![icon][fighter_frame] Fighter Frame allows you to light all 5 in one trip because of the delay between shots and the lack of recoil, you can also shoot the first torch by aiming to the left while on the platform).
+- In the next room, light the 5 torches
+  - Only ![icon][fighter_frame] Fighter Frame allows you to light all 5 in one trip because of the delay between shots and the lack of recoil
+  - You can shoot the first torch by aiming to the left while on the platform, although sometimes you will hit the mushroom first and have to fire 2 shots.
 - Continue in the ↘️ direction twice.
 - Open the hidden blue chest to get the ![icon][circle_key] Circle Key, then go back and open the door.  
 ![](./assets/images/ancient_tree_hidden_circle_key.webp)
@@ -363,6 +367,14 @@ After opening the door, proceed in the ↗️ direction.
 ### <span class="puzzle">Puzzle</span>
 
 - Use a ![icon][power_nut] Power Nut.
+- See the video below for the optimal solution:
+
+<iframe
+  style="aspect-ratio: 16/9"
+  src="https://youtu.be/F7lhABlDlMU?feature=shared&t=2914"
+  title="2:39:35 Boktai 3 - Any% Sensor-less Speedrun / 新・ボクらの太陽 RTA"
+  allowfullscreen
+></iframe>
 - Take the elevator to reach **5F**.
 
 Take the ↘️ path, then ↗️ twice.
@@ -374,11 +386,13 @@ Proceed through the ↗️ entry, and take the elevator to reach the boss.
 
 ### <span class="boss">Hresvelgr</span>
 
-- _You are expected to be missing 2 TRC blocks at the start of this fight._
-- Use ![icon][hoop_frame] Hoop Frame until the TRC gauge is full.
-- You can use ![icon][dark_trans] Dark Trans and spam B right away, however the boss will get invulnerable and begin his wind attack.
-- After the dialog, ignore Trinity and spam B with ![icon][dark_trans] Dark Trans until the fight is over.
-- You are now **Lvl 11** _(1247 => 1747 EXP)_.
+- _You are expected to be missing 1 TRC block at the start of this fight._
+- Use ![icon][fighter_frame] Frame Frame until the TRC gauge is full (3~4 shots).
+- Dash once to get closer to Hresvelgr.
+- Use ![icon][dark_trans] Dark Trans and spam B right away, if you're too slow the boss will begin his wind attack and be invulnerable until it ends.
+  - Trinity being pushed against the vines around the area will trigger a cutscene, however you can ignore him if that happens.
+- Spam B with ![icon][dark_trans] Dark Trans until the fight is over.
+- You are now **Lvl 11** _(1313 => 1813 EXP)_.
 
 During the dialog, just hold B and choose the first option.
 
@@ -387,8 +401,8 @@ During the dialog, just hold B and choose the first option.
 Open the menu and:
 
 - Turn off the sunlight.
-- Put all points into STRG.
 - Unequip ![icon][iron_clogs] Iron Clogs.
+- Put all points into STRG.
 - Use a ![icon][power_nut] Power Nut.
 
 Take the elevator and start going back to the entrance of the dungeon.  
@@ -400,14 +414,14 @@ Grab the coffin and go through the ↗️ gate, use another ![icon][power_nut] P
 Then take the elevator to go back to **4F**.
 
 Take the ↙️ path, walk on the weight switch to go through the ↘️ gate.  
-Then take the ↗️ path to reach the elevator and go back to **3F**.
-
-Go through the ↘️ gate.  
-Kill the green slime with ![icon][estoc] Estoc, use ![icon][dash] Dash and open the green chest for a ![icon][red_card] +4 Stat card _(1747 => 1765 EXP)_.  
+Kill the green slime with ![icon][estoc] Estoc, use ![icon][dash] Dash and open the green chest for a ![icon][red_card] +4 Stat card _(1813 => 1831 EXP)_.  
 _Do NOT use the Card yet._
 
+Then take the ↗️ path to reach the elevator and go back to **3F**.
+
+Go through the ↘️ gate.
 Then take the ↗️ path, walk on the grown plant & the iron block to continue in the ↖️ direction.  
-You can reach the moving platform without using another ![icon][power_nut] Power Nut, so wait until you've reached the other side before using another one.
+_You can reach the moving platform without using another ![icon][power_nut] Power Nut, so wait until you've reached the other side before using another one._
 
 Then proceed in the ↖️ direction twice (watch out for the centipede), then ↙️.  
 In the Earth Armor room open the green chest to get the **Einherjar** bike part, then take the ↙️ and ↖️ paths to go outside.
@@ -426,17 +440,17 @@ _The Power Nut effect should stop where the dialog begins._
 
 ### <span class="purification">Hresvelgr Purification</span>
 
-- Go at the bottom of the piledriver and use ![icon][wizard_frame] Wizard Frame to activate all of them in one shot. During the shot, walk and activate the piledriver as soon as all 4 of them have been hit to skip dialogs.
+- Go at the bottom of the piledriver and use ![icon][wizard_frame] Wizard Frame to activate all of them in one shot.
 - Start the purification and use ![icon][hoop_frame] Hoop Frame until the end.  
 ![](./assets/images/lifeless_town_purification_example.webp)
-- During the purification do NOT avoid attacks & take damage on purpose, ideally you want to be at least in orange (40% Life).
-- _(1765 => 1879 EXP)_
+- During the purification do NOT avoid attacks & take damage on purpose, this will make the next fight a bit faster.
+- _(1831 => 1945 EXP)_
 
 Dash in the ↙️ direction to trigger the next cutscene. Turn off the sunlight when it begins.
 
 ### <span class="boss">The Count</span>
 
-- The Count will do 2 bat attacks: get hit on purpose until you reach critical (red) Life.
+- The Count will do 2 bat attacks: get hit on purpose until you reach critical (red) Life (you can get 4 hits before going into critical state if you are at full Life).
 - The Count will now use Blood Rain and trigger the cutscene (by already being in critical state you won't have to wait as long).
 - After the cutscene use B and ![icon][sol_trans] Sol Trans until the fight is over.  
 _Note: unlike Dark Trans, the timing when pressing B matters. Sol Trans has the possibility to attack faster than Dark Trans, however timing is more strict and attacks does NOT stun enemies._
@@ -450,6 +464,7 @@ _Note: unlike Dark Trans, the timing when pressing B matters. Sol Trans has the 
 
 ### Item Shop
 
+- Sell ![icon][redshroom] Redshroom.
 - Buy 4 ![icon][power_nut] Power Nuts.
 
 ## White Forest
