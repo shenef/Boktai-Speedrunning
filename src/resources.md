@@ -1,23 +1,26 @@
 # Resources
 
-Game specific resources:
+{{#title General resources}}
 
-{{#include SUMMARY.md:20:23}}
+Our resource list is divided into multiple parts. On this page you can find our resources that apply to all games while resources that are specific to a single game can be found on these pages:
+
+{{#include SUMMARY.md:21:24}}
 
 ## Emulation
+
+For legal reasons we cannot provide you with a GBA BIOS or Boktai ROMs.
 
 ### BizHawk
 
 - <http://tasvideos.org/Bizhawk.html>
 - <https://github.com/TASEmulators/BizHawk>
 
-Settings required for speedruns:
+To establish parity between console and emulator, these settings are required for speedruns:
 
 - `GBA` > `Settings` > `Sync Settings`, set "Skip BIOS" to "False".
-- To simulate a dead battery: `GB` > `Settings` > `Sync Settings`, set "RTC" to False (BizHawk v2.6.3+)
-
-These settings establish parity between console and emulator.  
-For legal reasons we cannot provide you with a GBA BIOS or Boktai ROMs.
+- `Config` > `Customize` > `General`, uncheck "Pause when menu activated".
+- To simulate a dead battery: `GB` > `Settings` > `Sync Settings`, set "RTC" to False  
+  (Requires BizHawk v2.6.3+)
 
 ### mGBA
 
@@ -26,28 +29,12 @@ For legal reasons we cannot provide you with a GBA BIOS or Boktai ROMs.
 
 ## General
 
-### Passwords
-
-- Japanese: <https://cyberfater.web.fc2.com/pasu1.html>
-
 ### Boktai Hacking Wiki
 
 - <https://boktaihacking.net/wiki>
 
-Aims to collect all technical data about the Boktai video game series.  Also aims to be a database of Boktai romhacking resources, tools, and romhacks.
-
-### Boktai 1 Randomizer
-
-- <https://raphi.xyz/boktai-randomizer>
-
-Allows you to randomize various aspects of the game such as chest contents and dungeon locations.  
-It can also add faster text, adjust the lens exp gain and more.
-
-### Moon calendar
-
-- <https://timeanddate.com/calendar/?year=2005&country=26>
-
-Useful to find full moon days for routing.
+Aims to collect all technical data about the Boktai video game series.  
+Also aims to be a database of Boktai romhacking resources, tools, and romhacks.
 
 ### Sun Miguere
 
@@ -56,11 +43,17 @@ Useful to find full moon days for routing.
 Japanese fanmade website about Boktai in general.  
 Has a lot of info about all Boktai games. The information is mostly from the Guide Book and therefore also has some errors.
 
+### Moon calendar
+
+- <https://timeanddate.com/calendar/?year=2005&country=26>
+
+Useful to find full moon days for routing.
+
 ### Boss Fight Times
 
 - <https://docs.google.com/spreadsheets/d/1deyb5DFe7ALD-8-PNV14nNnPfWPeJAnva_vbZoatuAw/edit?usp=sharing>
 
-Lists recorded boss fight durations (outdated)
+Lists recorded boss fight durations for multiple Boktai games (currently outdated)
 
 ## Tools
 
@@ -74,12 +67,19 @@ Lists recorded boss fight durations (outdated)
 
 Cross-platform data viewer for the GBA Boktai games.
 
+### BokPass
+
+- Source code: <https://notabug.org/UvHCxXJp/bokpass>
+- Temporary host: <https://boktai.shenef.one/bokpass/>
+
+Tool to generate and decode passwords for all Boktai games. The creator is unknown.
+
 ### Boktai Decompiler
 
 - <https://github.com/Prof9/SolDec>
 
-Tested on Boktai 1.  
-Outputs functions and scripts used as close to C
+Tested on Boktai 1. Converts function and script bytecode to something similar to C.  
+Has been replaced by BokMagic.
 
 ## Communities
 

@@ -8,13 +8,13 @@ If you want to contribute, feel free to join our [Discord](https://discord.gg/0d
 
 ## Contribute
 
-If you just want to quickly and easily run mdbook, download the latest release from [here](https://github.com/rust-lang/mdBook/releases/latest).  
+If you just want to quickly and easily run mdbook, [download the latest release here](https://github.com/rust-lang/mdBook/releases/latest).  
 Put the executable in the same folder as this readme and run `./mdbook.exe serve --open` in the terminal to get a live preview in your browser.
 
 <br>
 If the mdbook.exe is not enough for your usage, you can install the full setup like this:
 
 - install Rust via [rustup](https://rustup.rs/)
-- run `cargo install mdbook mdbook-linkcheck`.
+- run `cargo install mdbook mdbook-linkcheck mdbook-admonish`.
 
 Now you can run `mdbook serve --open` to get the live preview.

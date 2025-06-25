@@ -28,3 +28,8 @@ img[alt*="icon"] {
   image-rendering: pixelated;
   vertical-align: middle;
 }
+
+/* Make ordered lists more visible */
+li::marker {
+  font-weight: bold;
+}
