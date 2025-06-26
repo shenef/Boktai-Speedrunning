@@ -500,7 +500,7 @@ If you struggle with the manip or have further questions, please contact us and 
 - Set the time to August 9nd 2006 10PM (2006/08/09 22:00) to get extra Solls via the Solar Bank interests.
   - _At this point you shouldn't need more Solls, but this is a free occasion to get more so you may as well do it._
 - Buffer the up + right input to start walking as soon as possible. Keep walking in the ↗️ direction until you are past the chest and very close to the wall.
-- With ![icon][bomber_frame] Bomber Frame & ![icon][sol_lens] Sol Lens, shoot at the Red Slime two times. _(1879 => 1905 EXP)_
+- With ![icon][bomber_frame] Bomber Frame & ![icon][sol_lens] Sol Lens, shoot at the Red Slime two times. _(1945 => 1971 EXP)_
   - **You must attack the Red Slime as soon as you arrive at the target location. Once it has split, both halves must die at the same time.**
 - If your timing was right, the Red Slime will have dropped a ![icon][burning_headband] Burning Headband.
 - Get the drop and open the green chest for a ![icon][red_card] +4 Stat card.
@@ -521,7 +521,7 @@ Then enter the cave via the ↖️ entrance, then the ↗️ & ↘️, ↗️ & 
 ### <span class="trap">Hotdog & Vamp Trap</span>
 
 - Use ![icon][rapier] Rapier.
-- You are now **Lvl 12** _(1905 => 2089 EXP)_
+- You are now **Lvl 12** _(1971 => 2155 EXP)_
 - Open the green chest for ![icon][frost_lens] Frost Lens.
 
 Go back to the entrance of the cave, where the Centipede is.
@@ -540,7 +540,7 @@ After the cutscene go back in the ↙️, ↘️ & ↗️ directions & keep goin
 
 - Move towards the center of the room.
 - Use ![icon][sol_trans] Sol Trans.
-- You are now **Lvl 13** _(2089 => 2616 EXP)_
+- You are now **Lvl 13** _(2155 => 2682 EXP)_
 
 After the cutscene with Carmilla, take the ↖️ exit, then ↗️ 3 times.
 You should now be in a room with a dog: proceed in the ↖️ & ↙️ directions.
