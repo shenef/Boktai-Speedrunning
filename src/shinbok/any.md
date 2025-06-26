@@ -450,7 +450,7 @@ Dash in the ↙️ direction to trigger the next cutscene. Turn off the sunlight
 
 ### <span class="boss">The Count</span>
 
-- The Count will do 2 bat attacks: get hit on purpose until you reach critical (red) Life (you can get 4 hits before going into critical state if you are at full Life).
+- The Count will do 2 bat attacks: get hit on purpose until you reach critical (red) Life (you can take 4 hits before going into critical state if you are at full Life).
 - The Count will now use Blood Rain and trigger the cutscene (by already being in critical state you won't have to wait as long).
 - After the cutscene use B and ![icon][sol_trans] Sol Trans until the fight is over.  
 _Note: unlike Dark Trans, the timing when pressing B matters. Sol Trans has the possibility to attack faster than Dark Trans, however timing is more strict and attacks does NOT stun enemies._
