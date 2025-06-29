@@ -133,7 +133,7 @@ The goal of these exploits is to get a big amount of Solls in order to be able t
   - 22 時 00 分
 <img class="right" style="padding: 10px 0px 10px 10px; width: 206px; height: 78px; object-fit: none; object-position: 50% 60%" src="./assets/images/clock_tower_igt_san_miguel_2.webp"></img>
 
-- _You should now have over 3900 Solls and be able to buy all the necessary items to finish the game._
+- _You should now have over 4100 Solls and be able to buy all the necessary items to finish the game._
 - Use a ![icon][speed_nut] Speed Nut, then talk to the guy in the back.
 
 **Lita - Item Shop 2**
@@ -153,7 +153,7 @@ The goal of these exploits is to get a big amount of Solls in order to be able t
 **Weapon Shop**
 
 - Talk to Cheyenne to get ![icon][dash] Dash magic.
-- Buy ![icon][estoc] Estoc & ![icon][rapier] Rapier.
+- Buy 1 ![icon][estoc] Estoc & 2 ![icon][rapier] Rapiers (2nd ![icon][rapier] Rapier will be used to skip an additional San Miguel trip just for forging ![icon][epee] Epee later).
 
 **Library**
 
