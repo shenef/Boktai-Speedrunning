@@ -457,15 +457,19 @@ _Note: unlike Dark Trans, the timing when pressing B matters. Sol Trans has the 
 
 ## San Miguel (2)
 
+### Solar Smith
+
+- Forge ![icon][epee] Epee (![icon][rapier] Rapier + ![icon][chain_mail] Chain Mail).
+
 ### Django's House
 
-- Equip the **Trial** Tire bike part to be able to drive on mud during bike races.
+- Equip the **Trial** Tire bike (able to drive on mud).
 - Equip **Einherjar** bike part (lower acceleration, higher speed).
 
 ### Item Shop
 
 - Sell ![icon][redshroom] Redshroom.
-- Buy 4 ![icon][power_nut] Power Nuts.
+- Buy 12 ![icon][power_nut] Power Nuts (4 for White Forest, 8 for Pirate Island).
 
 ## White Forest
 
@@ -474,7 +478,6 @@ Enter the cave and reach the end to get ![icon][bomber_frame] Bomber Frame.
 
 Open the menu and:
 
-- Put all points in STRG.
 - Equip ![icon][rapier] Rapier.
 - Unequip ![icon][estoc] Estoc.
 - Unequip ![icon][fighter_frame] Fighter Frame.
@@ -509,6 +512,7 @@ If you struggle with the manip or have further questions, please contact us and 
 - Mash <kbd>Start</kbd> to open the menu as soon as possible.
   - **You have about 0.5 seconds to open the menu!** Otherwise the RNG will change because the sunlight killed the enemies outside.
 - Now use the two remaining ![icon][red_card] +4 Stat cards to get +8 STRG.
+- Also equip the ![icon][burning_headband] Burning Headband.
 
 Now proceed in the ↖️ direction to trigger the cutscene with Trinity.
 
@@ -532,7 +536,7 @@ Take the ↖️ entrance.
 - Push the 1st block in the ↖️ direction.
 - Push the 2nd block ↗️ & ↖️.
 
-Go through the ↗️ entrance & use ![icon][frost_lens] Frost Lens on the flame to go on the weight switch.
+Go through the ↗️ entrance, equip ![icon][wizard_frame] Wizard Frame and ![icon][frost_lens] Frost Lens, then shoot and go on the weight switch.
 
 After the cutscene go back in the ↙️, ↘️ & ↗️ directions & keep going.
 
@@ -578,9 +582,12 @@ Go down the stairs & take the ↖️ exit.
 Proceed in the ↗️ direction & use ![icon][frost_lens] Frost Lens to extinguish the candle.
 Go back to the puzzle room, then take the ↘️ path once & ↗️ path twice.
 
-- Equip ![icon][rapier] Rapier.
+Open the menu and:
+
+- Use ![icon][red_card] +2 STRG card.
 - Put all stat points in STRG.
-- Replenish life.
+
+Then select ![icon][rapier] Rapier, replenish life if necessary and keep going.
 
 ### <span class="boss">Sabata</span>
 
@@ -602,11 +609,26 @@ Go back to the puzzle room, then take the ↘️ path once & ↗️ path twice.
 - At the start you can hit the dark spread to stun him.
 - Then use ![icon][dark_trans] Dark Trans to finish him.
 
-<!-- ## San Miguel 3 -->
+### Coffin
 
-<!-- **Pirate Island**
+- You are now **Lvl 15** _(2682 => 3430 EXP)_.
+- Set sunlight to 0.
+- Use a ![icon][power_nut] Power Nut.
 
-- Get the ![icon][red_card] +2 STRG card. -->
+Go back through the same areas.
+When you reach the room outside with ice, you can slide using these directions:  
+![](./assets/images/white_forest_coffin_ice_ref.webp)
+
+### <span class="purification">Sabata Purification</span>
+
+- Go at the bottom of the piledriver and use ![icon][wizard_frame] Wizard Frame to activate all of them in one shot.
+- Start the purification and use ![icon][hoop_frame] Hoop Frame until the end.  
+![](./assets/images/lifeless_town_purification_example.webp)
+- _(3430 => 3553 EXP)_
+
+## Pirate Island
+
+<!-- - Get the ![icon][red_card] +2 STRG card. -->
 
 ## REWRITING IN PROGRESS
 
