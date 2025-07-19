@@ -387,7 +387,7 @@ Proceed through the ↗️ entry, and take the elevator to reach the boss.
 ### <span class="boss">Hresvelgr</span>
 
 - _You are expected to be missing 1 TRC block at the start of this fight._
-- Use ![icon][fighter_frame] Frame Frame until the TRC gauge is full (3~4 shots).
+- Use ![icon][fighter_frame] Fighter Frame until the TRC gauge is full (3~4 shots).
 - Dash once to get closer to Hresvelgr.
 - Use ![icon][dark_trans] Dark Trans and spam B right away, if you're too slow the boss will begin his wind attack and be invulnerable until it ends.
   - Trinity being pushed against the vines around the area will trigger a cutscene, however you can ignore him if that happens.
