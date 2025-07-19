@@ -630,6 +630,80 @@ When you reach the room outside with ice, you can slide using these directions:
 
 <!-- - Get the ![icon][red_card] +2 STRG card. -->
 
+After the cutscene, circle around the room to keep going in the ↙️ direction.  
+Then go to the left & open the green chest to get ![icon][cloud_lens] Cloud Lens before going through the upper ↗️ exit.
+
+Avoid the golems and take the stairs to keep going until you reach a room with a centipede and a block blocking the ↖️ exit.
+
+Open the menu:
+
+- Put all points into STRG.
+- Unequip ![icon][rapier] Rapier.
+- Equip ![icon][epee] Epee.
+- Equip ![icon][cloud_lens] Cloud Lens.
+- Equip ![icon][wizard_frame] Wizard Frame.
+
+Then break the block and continue ↖️ to board the 1st ship.
+
+### 1st ship
+
+Go ↙️ and dash onto the moving platform (be quick or you'll barely miss it), then go ↙️ again and use the ship's wheel.  
+After the cutscene, go back and push the block onto the weight switch. Get on the moving platform and take the elevator.
+
+Go to the left and open the chest to get the ![icon][circle_key] Circle Key, then go back down and proceed through the upper ↗️ exit and lower ↙️ exits.  
+Keep going and go downstairs, then keep dashing in the ↗️ direction (you can dash on every spike trap safely).
+
+### <span class="mission">Mission: Open all chests!</span>
+
+TODO add vid or ideally map with traps and chests
+
+After the mission proceed through the ↙️ gate & the ↘️ door, go upstairs and walk past the slimes to go through the ↙️ exit and go downstairs again.  
+Go through the door and proceed in the ↙️ direction 3 times.
+
+Push the block then go back once and go downstairs, then though the ↘️ and upper ↖️ path.
+
+### <span class="trap">Wind cannons & Leys Trap</span>
+
+- Select ![icon][epee] Epee.
+- Dash to the left of the blue wind cannon, then destroy it.
+- Dash over the weight switch & skylight towards the red wind cannon, then destroy it.
+- The leys should have went over the skylight and died, if that's not the case stand on it and kill them.
+- Go through the ↗️ gate.
+- _(3553 => 3569 EXP)_
+
+### <span class="puzzle">Puzzle</span>
+
+- Use a ![icon][power_nut] Power Nut and follow this:
+
+TODO add vid
+
+Go through the gate & downstairs.
+When you reach the room with burrnuns (flame klorofoluns):
+
+- Equip ![icon][flame_lens] Flame Lens & ![icon][bomber_frame] Bomber Frame.
+- Lure the burrnuns so that they're grouped together.
+- Shoot at them until the TRC gauge is full.
+  - _Hitting enemies with Bomber Frame gives 50 TRC per hit which allows filling the TRC gauge extremely fast as long as there are multiple enemies._
+  - _Flame Lens prevents the burrnuns from dying directly & allows you to shoot again if the TRC gauge is not full._
+-_You are not meant to get any kills or EXP here._
+
+Once the TRC gauge is full, proceed in the ↗️ direction.
+
+### <span class="trap">Flame Armor Trap</span>
+
+- Use ![icon][dark_trans] Dark Trans and spam B.
+- You are now **Lvl 16** _(3569 => 4157 EXP)_.
+
+Continue in the ↗️ direction and get on the moving platform after the dialogs.
+After the Carmilla cutscene **take the magic circle twice**. _This is extremely important as it will be used later._
+
+Enter through the upper ↗️ entrance and keep going upstairs. Then proceed until you're outside.
+Once outside there will be a moving platform at the end of the path: go on it to board the **2nd ship**.
+
+### 2nd ship
+
+
+
 ## REWRITING IN PROGRESS
 
 <!-- markdownlint-disable MD053 -->
