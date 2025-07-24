@@ -375,6 +375,7 @@ After opening the door, proceed in the ↗️ direction.
   title="2:39:35 Boktai 3 - Any% Sensor-less Speedrun / 新・ボクらの太陽 RTA"
   allowfullscreen
 ></iframe>
+
 - Take the elevator to reach **5F**.
 
 Take the ↘️ path, then ↗️ twice.
