@@ -40,22 +40,15 @@ jobs:
           curl -sSL $url | tar -xz --directory=./mdbook
           echo `pwd`/mdbook >> $GITHUB_PATH
 
-      - name: Install mdbook-admonish
-        run: |
-          tag=$(curl 'https://api.github.com/repos/tommilligan/mdbook-admonish/releases/latest' | jq -r '.tag_name')
-          url="https://github.com/tommilligan/mdbook-admonish/releases/download/${tag}/mdbook-admonish-${tag}-x86_64-unknown-linux-gnu.tar.gz"
-          mkdir mdbook-admonish
-          curl -sSL $url | tar -xz --directory=./mdbook-admonish
-          echo `pwd`/mdbook-admonish >> $GITHUB_PATH
-
-      - name: Install mdbook-linkcheck
-        run: |
-          url="https://github.com/Michael-F-Bryan/mdbook-linkcheck/releases/download/v0.7.7/mdbook-linkcheck.x86_64-unknown-linux-gnu.zip"
-          mkdir mdbook-linkcheck
-          curl -sSL $url -o mdbook-linkcheck.zip
-          unzip mdbook-linkcheck.zip -d ./mdbook-linkcheck
-          chmod +x ./mdbook-linkcheck/mdbook-linkcheck
-          echo `pwd`/mdbook-linkcheck >> $GITHUB_PATH
+# currently incompatible
+#      - name: Install mdbook-linkcheck
+#        run: |
+#          url="https://github.com/Michael-F-Bryan/mdbook-linkcheck/releases/download/v0.7.7/mdbook-linkcheck.x86_64-unknown-linux-gnu.zip"
+#          mkdir mdbook-linkcheck
+#          curl -sSL $url -o mdbook-linkcheck.zip
+#          unzip mdbook-linkcheck.zip -d ./mdbook-linkcheck
+#          chmod +x ./mdbook-linkcheck/mdbook-linkcheck
+#          echo `pwd`/mdbook-linkcheck >> $GITHUB_PATH
 
       - name: Setup Pages
         id: pages

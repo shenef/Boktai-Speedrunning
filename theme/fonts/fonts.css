@@ -1,35 +1,3 @@
-/* fira-sans-200 - latin */
-@font-face {
-  font-family: "Fira Sans";
-  font-style: normal;
-  font-weight: 200;
-  src: url("fira-sans-v17-latin-200.woff2") format("woff2");
-}
-
-/* fira-sans-regular - latin */
-@font-face {
-  font-family: "Fira Sans";
-  font-style: normal;
-  font-weight: 400;
-  src: url("fira-sans-v17-latin-regular.woff2") format("woff2");
-}
-
-/* fira-sans-600 - latin */
-@font-face {
-  font-family: "Fira Sans";
-  font-style: normal;
-  font-weight: 600;
-  src: url("fira-sans-v17-latin-600.woff2") format("woff2");
-}
-
-/* fira-code-regular - latin */
-@font-face {
-  font-family: "Fira Code";
-  font-style: normal;
-  font-weight: 400;
-  src: url("fira-code-v22-latin-regular.woff2") format("woff2");
-}
-
 :root {
   font-family: Fira Sans;
 }

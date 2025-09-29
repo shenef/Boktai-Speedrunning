@@ -13,7 +13,7 @@ Directions for paths and exits will use ↖️, ↗️, ↙️ and ↘️.
 
 ## Before starting
 
-<img class="right" src="./assets/images/emu_settings.webp"></img>
+<img class="right" src="./assets/images/emu_settings.webp">
 
 When playing on BizHawk, load a ROM, go to GBA > Settings and make sure "Skip BIOS" and "RTC" are set to "False".  
 This requires at least BizHawk v2.6.3 and makes sure that Emulator runs are comparable to console and that you can properly set the time in-game.
@@ -113,7 +113,7 @@ On Map screens you can use the shoulder buttons to navigate quickly.
 **Clock Tower**
 
 - Talk to Ennio (old man with glasses).
-- Talk to Ennio again and change the time to July 21st 2005 10PM. Minutes aren't important so you can keep these.  
+- Talk to Ennio again and change the time to July 21st 2005 10PM. Minutes aren't important so you can keep these.
   - 2005 年 07 月 21 日
   - 22 時 XX 分  
 ![](./assets/images/clock_tower_igt.webp)
@@ -460,7 +460,7 @@ The goal of this RNG manip is to get a ![icon][burning_headband] Burning Headban
 **Many steps during this manip are time sensitive because of how RNG works!**  
 If you struggle with the manip or have further questions, please contact us and we'll help you!
 
-- Once inside the cave, save and do a soft-reset (Press <kbd>A</kbd>, <kbd>B</kbd>, <kbd>Start</kbd> and <kbd>Select</kbd> at the same time. You can buffer that input while it's still saving).<img class="right" style="padding: 10px 0px 10px 10px; width: 206px; height: 78px; object-fit: none; object-position: 50% 60%" src="./assets/images/clock_tower_igt.webp"></img>
+- Once inside the cave, save and do a soft-reset (Press <kbd>A</kbd>, <kbd>B</kbd>, <kbd>Start</kbd> and <kbd>Select</kbd> at the same time. You can buffer that input while it's still saving).<img class="right" style="padding: 10px 0px 10px 10px; width: 206px; height: 78px; object-fit: none; object-position: 50% 60%" src="./assets/images/clock_tower_igt.webp">
 - Set the time to July 21st 2005 10PM (2005/07/21 22:00):
 - Buffer the up + right input to start walking as soon as possible. Keep walking in the ↗️ direction until you are past the chest and very close to the wall.
 - With the ![icon][sol_lens] Sol Lens, shoot at the Red Slime two times. _(1879 => 1905 EXP)_
