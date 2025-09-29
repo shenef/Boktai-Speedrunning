@@ -14,7 +14,7 @@ The icons on the map indicate how you are expected to leave that dungeon.
 Some dungeons simply take longer to leave on foot.
 
 <a href="./assets/images/28D_map.webp"><img src="././assets/images/28D_map_small.webp">
-Click for full size <i class="fa fa-arrows-alt" aria-hidden="true"></i></a>
+Click for full size <i class="fas fa-maximize" aria-hidden="true"></i></a>
 
 ## Run video
 

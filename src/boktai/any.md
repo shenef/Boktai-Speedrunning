@@ -8,7 +8,7 @@ Feel free to contribute on Discord or on the GitHub repository.
 ```
 
 <a href="./assets/images/any_map.webp"><img src="././assets/images/any_map_small.webp">
-Click for full size <i class="fa fa-arrows-alt" aria-hidden="true"></i></a>
+Click for full size <i class="fas fa-maximize" aria-hidden="true"></i></a>
 
 ## About this Guide
 
@@ -29,8 +29,11 @@ For purifications always use the highest possible solar gauge level.
 
 ### Terminology
 
-- **Stun**: Shooting an enemy in the back with a sufficiently strong frame will cause it to be stunned for several seconds. Stunned enemies have no hitbox, and can't see you.
-- **Detection**: An enemy detects you if a **red** exclamation mark appears above the enemy. Being detected increases the "being found" counter on the dungeons result screen, which reduces your dungeon rank and therefore the reward(s) you receive after completing the dungeon. White or blue exclamation marks do not count as detections. Enemies in traps never detect you.
+Stun
+  : Shooting an enemy in the back with a sufficiently strong frame will cause it to be stunned for several seconds. Stunned enemies have no hitbox, and can't see you.
+
+Detection
+  : An enemy detects you if a **red** exclamation mark appears above the enemy. Being detected increases the "being found" counter on the dungeons result screen, which reduces your dungeon rank and therefore the reward(s) you receive after completing the dungeon. White or blue exclamation marks do not count as detections. Enemies in traps never detect you.
 
 ### General instructions
 
@@ -55,7 +58,7 @@ In the case of BizHawk, you should use _at least_ version 2.6.3 since that adds 
 - mGBA:
   - TODO: instructions on how to set up empty battery
 
-<img class="right" src="./assets/images/initial_time.webp"></img>
+<img class="right" src="./assets/images/initial_time.webp">
 
 Then in-game, set the Date and Time to
 
