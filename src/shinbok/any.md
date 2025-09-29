@@ -18,12 +18,26 @@ Directions for paths and exits will use ↖️, ↗️, ↙️ and ↘️.
 When playing on BizHawk, load a ROM, go to GBA > Settings and make sure "Skip BIOS" and "RTC" are set to "False".  
 This requires at least BizHawk v2.6.3 and makes sure that Emulator runs are comparable to console and that you can properly set the time in-game.
 
+### <span class="manip">Solar Bank interest rate manip</span>
+
+_The goal of this manip is to have the interest rate change to 18% during the prologue, which will carry over to San Miguel 1.  
+By then changing the time via the Clock Tower at that point, we'll go from ~1400 to ~7900 Solls._
+
+Add a -2mn47s delay to your timer (AKA LiveSplit).  
+_Note: depending on your setup, you might have to adjust this delay._
+<img class="right" style="padding: 10px 0px 10px 10px; width: 150px; height: 100px; object-fit: none; object-position: 95% 60%" src="./assets/images/livesplit_delay.webp"></img>
+
 Set the system time to July 28th 2002 at 23:55
 
 - 2002 年 07 月 28 日
 - 23 時 55 分
+<img class="right" style="padding: 10px 0px 10px 10px; width: 206px; height: 78px; object-fit: none; object-position: 50% 60%" src="./assets/images/starting_igt.webp"></img>
 
-![](./assets/images/starting_igt.webp)
+```admonish warning title="Start timer"
+Upon confirming settings, start the timer.  
+You now have 2mn47s to reach the name entry screen.
+Failing this will prevent the interest rate manip to work and most likely prevent you from having enough Solls to finish the game.
+```
 
 ## Setting up the Boktai 2 password
 
@@ -41,9 +55,14 @@ This password grants +2 VIT, +2 SPR, +2 STRG and the following items:
 
 Use a single character for the player name (saves a few frames each time the name is displayed).
 
+```admonish warning title="Starting delay"
+Wait for the timer to reach 0:00 before confirming and starting a new game.  
+This is extremely important as starting the game at precisely 23:57:47 IGT will allow the interest rate to change to 18% during the prologue after Sabata gets hit by Vanargandr.
+```
+
 ## Prologue
 
-The Sabata gameplay segment always lasts 30 seconds and no inputs are needed to survive.
+The Sabata gameplay segment always lasts 30 seconds. Simply hold B to make the text go faster.
 
 ## Sealed Dungeon
 
@@ -118,22 +137,17 @@ On Map screens you can use the shoulder buttons to navigate quickly.
 ### <span class="manip">IGT & Solar Bank interests exploits</span>
 
 The goal of these exploits is to get a big amount of Solls in order to be able to buy every item needed to finish the game.
+_This is affected by the interest rate manip done when starting a new game._
 
-- Talk to Ennio again and change the time to July 21st 2005. Hours and minutes aren't important so you can keep these _(for reference at this point IGT should be past midnight)_.
+- Talk to Ennio again and change the time to July 21st 2005 10PM. Minutes aren't important so you can keep these.
   - 2005 年 07 月 21 日
-  - XX 時 XX 分
-<img class="right" style="padding: 10px 0px 10px 10px; width: 206px; height: 78px; object-fit: none; object-position: 50% 60%" src="./assets/images/clock_tower_igt_san_miguel_1.webp"></img>
+  - 22 時 XX 分
+<img class="right" style="padding: 10px 0px 10px 10px; width: 206px; height: 78px; object-fit: none; object-position: 50% 60%" src="./assets/images/clock_tower_igt_san_miguel.webp"></img>
 - Leave the Clock Tower and go to the garage.
+- _You should now have over 7900 Solls and be able to buy all the necessary items to finish the game._
 
 **Garage**
 
-- Save and do a soft-reset (Press <kbd>A</kbd>, <kbd>B</kbd>, <kbd>Start</kbd> and <kbd>Select</kbd> at the same time. You can buffer that input while it's still saving).
-- Set the time to July 11st 2006 10PM.
-  - 2006 年 07 月 11 日
-  - 22 時 00 分
-<img class="right" style="padding: 10px 0px 10px 10px; width: 206px; height: 78px; object-fit: none; object-position: 50% 60%" src="./assets/images/clock_tower_igt_san_miguel_2.webp"></img>
-
-- _You should now have over 4100 Solls and be able to buy all the necessary items to finish the game._
 - Use a ![icon][speed_nut] Speed Nut, then talk to the guy in the back.
 
 **Lita - Item Shop 2**
@@ -501,7 +515,7 @@ The goal of this RNG manip is to get a ![icon][burning_headband] Burning Headban
 If you struggle with the manip or have further questions, please contact us and we'll help you!
 
 - Once inside the cave, save and do a soft-reset (Press <kbd>A</kbd>, <kbd>B</kbd>, <kbd>Start</kbd> and <kbd>Select</kbd> at the same time. You can buffer that input while it's still saving).<img class="right" style="padding: 10px 0px 10px 10px; width: 206px; height: 78px; object-fit: none; object-position: 50% 60%" src="./assets/images/white_forest_rng_manip_igt.webp"></img>
-- Set the time to August 9nd 2006 10PM (2006/08/09 22:00) to get extra Solls via the Solar Bank interests.
+- Set the time to July 11th 2006 10PM (2006/07/11 22:00) to get extra Solls via the Solar Bank interests.
   - _At this point you shouldn't need more Solls, but this is a free occasion to get more so you may as well do it._
 - Buffer the up + right input to start walking as soon as possible. Keep walking in the ↗️ direction until you are past the chest and very close to the wall.
 - With ![icon][bomber_frame] Bomber Frame & ![icon][sol_lens] Sol Lens, shoot at the Red Slime two times. _(1945 => 1971 EXP)_
