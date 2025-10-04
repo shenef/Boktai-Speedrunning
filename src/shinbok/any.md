@@ -23,9 +23,9 @@ This requires at least BizHawk v2.6.3 and makes sure that Emulator runs are comp
 _The goal of this manip is to have the interest rate change to 18% during the prologue, which will carry over to San Miguel 1.  
 By then changing the time via the Clock Tower at that point, we'll go from ~1400 to ~7900 Solls._
 
-Add a -2mn47s delay to your timer (AKA LiveSplit).  
+Add a -2mn47s100ms delay to your timer (AKA LiveSplit).  
 _Note: depending on your setup, you might have to adjust this delay._
-<img class="right" style="padding: 10px 0px 10px 10px; width: 150px; height: 100px; object-fit: none; object-position: 95% 60%" src="./assets/images/livesplit_delay.webp"></img>
+<img class="right" src="./assets/images/livesplit_delay.webp"></img>
 
 Set the system time to July 28th 2002 at 23:55
 
