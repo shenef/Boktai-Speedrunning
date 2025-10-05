@@ -62,7 +62,7 @@ This is extremely important as starting the game at precisely 23:57:47 IGT will 
 
 ## Prologue
 
-The Sabata gameplay segment always lasts 30 seconds. Simply hold B to make the text go faster.
+The Sabata gameplay segment always lasts 30 seconds. Hold B to make the text go faster and do not do anything else, as it could mess up the interest rate manip by changing RNG.
 
 ## Sealed Dungeon
 
