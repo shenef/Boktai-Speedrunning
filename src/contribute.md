@@ -189,34 +189,29 @@ An admonition is a special type of callout or notice block used to highlight imp
 > Information about potential issues that require caution.
 ```
 
-These will render as:
-
-> [!NOTE]
-> General information or additional context.
-
-> [!TIP]
-> A helpful suggestion or best practice.
-
-> [!IMPORTANT]
-> Key information that shouldn't be missed.
+These look like this:
 
 > [!WARNING]
 > Critical information that highlights a potential risk.
 
-> [!CAUTION]
-> Information about potential issues that require caution.
-
 This feature is enabled by default.
 To disable it, see the [`output.html.admonitions`] config option.
 
-### Table of Contents
+### Checklists
 
-The table of contents doesn't work correctly for level 5+ headers, so please avoid those.
+Helper to track progression on long or complicated routes.  
+Displayed as a floating box on the bottom right.
 
-#### ToC Level 4
+```html
+<div class="checklist">
+  <b>Checklist example</b><br>
+  <label><input type="checkbox" checked/> Got WR</label><br>
+  <label><input type="number" min=0 max=1200 value=234> Debt</label>
+</div>
+```
 
-Lorem ipsum dolor sit amet
-
-##### ToC Level 5
-
-The header is now smaller than the text and breaks the sidebar on the right.
+<div class="checklist">
+  <b>Checklist example</b><br>
+  <label><input type="checkbox" checked/> Got WR</label><br>
+  <label><input type="number" min=0 max=1200 value=234> Debt</label>
+</div>

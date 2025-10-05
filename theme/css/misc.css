@@ -33,3 +33,25 @@ img[alt*="icon"] {
 li::marker {
   font-weight: bold;
 }
+
+/* Checklist for progress tracking */
+.checklist {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 100;
+  max-width: 250px;
+  max-height: 250px;
+  padding: 0.8em;
+  box-sizing: border-box;
+  background-color: var(--sidebar-bg);
+  color: var(--sidebar-fg);
+  border: 1px solid var(--sidebar-fg);
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  overflow-y: auto;
+  & input[type="number"] {
+    max-width: 3em;
+    margin-bottom: 3px;
+  }
+}
