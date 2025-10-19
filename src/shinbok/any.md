@@ -385,7 +385,7 @@ After opening the door, proceed in the ↗️ direction.
 
 <iframe
   style="aspect-ratio: 16/9"
-  src="https://youtu.be/F7lhABlDlMU?feature=shared&t=2914"
+  src="https://www.youtube.com/embed/F7lhABlDlMU?start=2914"
   title="2:39:35 Boktai 3 - Any% Sensor-less Speedrun / 新・ボクらの太陽 RTA"
   allowfullscreen
 ></iframe>
