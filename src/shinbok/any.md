@@ -24,14 +24,13 @@ _The goal of this manip is to have the interest rate change to 18% during the pr
 By then changing the time via the Clock Tower at that point, we'll go from ~1400 to ~7900 Solls._
 
 Add a -2mn47s100ms delay to your timer (AKA LiveSplit).  
-_Note: depending on your setup, you might have to adjust this delay._
-<img class="right" src="./assets/images/livesplit_delay.webp"></img>
-
+_Note: depending on your setup, you might have to adjust this delay._  
+<img class="right" src="./assets/images/livesplit_delay.webp"></img>  
+<img class="right" style="padding: 60px 0px 10px 10px; width: 206px; height: 78px; object-fit: none; object-position: 50% 60%" src="./assets/images/starting_igt.webp"></img>  
 Set the system time to July 28th 2002 at 23:55
 
 - 2002 年 07 月 28 日
 - 23 時 55 分
-<img class="right" style="padding: 10px 0px 10px 10px; width: 206px; height: 78px; object-fit: none; object-position: 50% 60%" src="./assets/images/starting_igt.webp"></img>
 
 ```admonish warning title="Start timer"
 Upon confirming settings, start the timer.  
