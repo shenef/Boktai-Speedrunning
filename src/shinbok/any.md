@@ -670,8 +670,6 @@ Keep going and go downstairs, then keep dashing in the ↗️ direction (you can
 
 ### <span class="mission">Mission: Open all chests!</span>
 
-TODO add vid or ideally map with traps and chests
-
 After the mission proceed through the ↙️ gate & the ↘️ door, go upstairs and walk past the slimes to go through the ↙️ exit and go downstairs again.  
 Go through the door and proceed in the ↙️ direction 3 times.
 
@@ -689,8 +687,6 @@ Push the block then go back once and go downstairs, then though the ↘️ and u
 ### <span class="puzzle">Puzzle</span>
 
 - Use a ![icon][power_nut] Power Nut and follow this:
-
-TODO add vid
 
 Go through the gate & downstairs.
 When you reach the room with burrnuns (flame klorofoluns):
