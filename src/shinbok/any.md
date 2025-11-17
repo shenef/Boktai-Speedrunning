@@ -31,11 +31,10 @@ Set the system time to July 28th 2002 at 23:55
 - 2002 年 07 月 28 日
 - 23 時 55 分
 
-```admonish warning title="Start timer"
-Upon confirming settings, start the timer.  
-You now have 2mn47s to reach the name entry screen.
-Failing this will prevent the interest rate manip to work and most likely prevent you from having enough Solls to finish the game.
-```
+> [!WARNING]
+> Upon confirming settings, start the timer.  
+> You now have 2 minutes and 47 seconds to reach the name entry screen.  
+> Failing this will prevent the interest rate manip from working and likely cause you to not have enough Solls to finish the game.
 
 ## Setting up the Boktai 2 password
 
@@ -53,10 +52,9 @@ This password grants +2 VIT, +2 SPR, +2 STRG and the following items:
 
 Use a single character for the player name (saves a few frames each time the name is displayed).
 
-```admonish warning title="Starting delay"
-Wait for the timer to reach 0:00 before confirming and starting a new game.  
-This is extremely important as starting the game at precisely 23:57:47 IGT will allow the interest rate to change to 18% during the prologue after Sabata gets hit by Vanargandr.
-```
+> [!WARNING]
+> Wait for the timer to reach 0:00 before confirming and starting a new game.  
+> This is extremely important as starting the game at precisely 23:57:47 IGT will allow the interest rate to change to 18% during the prologue after Sabata gets hit by Vanargandr.
 
 ## Prologue
 
