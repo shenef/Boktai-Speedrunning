@@ -11,7 +11,6 @@ git-repository-icon = "fab-github"
 edit-url-template = "https://github.com/shenef/Boktai-Speedrunning/edit/main/{path}"
 
 # CSS and JS files are imported in the order they are listed here!
-# pagetoc.css, pagetoc.js and index.hbs by https://github.com/JorelAli/mdBook-pagetoc
 additional-css = [
     "./theme/css/colors.css",
     "./theme/css/tables.css",

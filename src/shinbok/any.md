@@ -2,10 +2,9 @@
 
 {{#title Boktai 3: Any% Route}}
 
-```admonish danger title="Work in Progress"
-This guide is currently being rewritten because of route improvements.  
-Feel free to contribute on Discord or on the GitHub repository.
-```
+> [!IMPORTANT]
+> This guide is currently being rewritten because of route improvements.  
+> Feel free to contribute on Discord or on the GitHub repository.
 
 ## About this guide
 
@@ -451,11 +450,11 @@ Then go back, and after exiting the cave, take the ↘️ direction twice, then 
 
 The goal of this RNG manip is to get a ![icon][burning_headband] Burning Headband and a total of +12 Strength from cards that would otherwise give points to a random stat.
 
-```admonish info title="Video" collapsible=true
-<video class="center" controls muted>
-  <source src="./assets/video/white_forest_manip.webm" type="video/webm" />
-</video>
-```
+> [!NOTE]
+> <details><summary>Click to open video</summary>
+> <video class="center" controls muted>
+>   <source src="./assets/video/white_forest_manip.webm" type="video/webm" />
+> </video></details>
 
 **Many steps during this manip are time sensitive because of how RNG works!**  
 If you struggle with the manip or have further questions, please contact us and we'll help you!

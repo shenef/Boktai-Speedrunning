@@ -138,10 +138,9 @@ It's likely that, even in 28 Dungeons, good item routing could reduce it from th
 - Two Speed Nuts in north trap
 - Carmilla: use 15+1 Grenades
 
-```admonish info
-You need at least 2 Empty Gourds at this point.  
-If you have 3, you can gourd out of Water Demon's Cage.
-```
+> [!NOTE]
+> You need at least 2 Empty Gourds at this point.  
+> If you have 3, you can gourd out of Water Demon's Cage.
 
 ### House of Darkness
 
