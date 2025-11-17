@@ -283,7 +283,6 @@ For the Count fight increase Sun to ![](./assets/images/8.webp) 8, then keep it 
 >   <source src="./assets/video/bloodrust_boss.webm" type="video/webm" />
 > </video></details>
 
-
 ![](./assets/images/any_bloodrust_16.webp)
 ![](./assets/images/any_bloodrust_17.webp)
 ![](./assets/images/any_bloodrust_18.webp)

@@ -24,8 +24,8 @@ By then changing the time via the Clock Tower at that point, we'll go from ~1400
 
 Add a -2mn47s100ms delay to your timer (AKA LiveSplit).  
 _Note: depending on your setup, you might have to adjust this delay._  
-<img class="right" src="./assets/images/livesplit_delay.webp"></img>  
-<img class="right" style="padding: 60px 0px 10px 10px; width: 206px; height: 78px; object-fit: none; object-position: 50% 60%" src="./assets/images/starting_igt.webp"></img>  
+<img class="right" src="./assets/images/livesplit_delay.webp">  
+<img class="right" style="padding: 60px 0px 10px 10px; width: 206px; height: 78px; object-fit: none; object-position: 50% 60%" src="./assets/images/starting_igt.webp">  
 Set the system time to July 28th 2002 at 23:55
 
 - 2002 年 07 月 28 日
@@ -138,7 +138,7 @@ _This is affected by the interest rate manip done when starting a new game._
 - Talk to Ennio again and change the time to July 21st 2005 10PM. Minutes aren't important so you can keep these.
   - 2005 年 07 月 21 日
   - 22 時 XX 分
-<img class="right" style="padding: 10px 0px 10px 10px; width: 206px; height: 78px; object-fit: none; object-position: 50% 60%" src="./assets/images/clock_tower_igt_san_miguel.webp"></img>
+<img class="right" style="padding: 10px 0px 10px 10px; width: 206px; height: 78px; object-fit: none; object-position: 50% 60%" src="./assets/images/clock_tower_igt_san_miguel.webp">
 - Leave the Clock Tower and go to the garage.
 - _You should now have over 7900 Solls and be able to buy all the necessary items to finish the game._
 
@@ -510,7 +510,7 @@ The goal of this RNG manip is to get a ![icon][burning_headband] Burning Headban
 **Many steps during this manip are time sensitive because of how RNG works!**  
 If you struggle with the manip or have further questions, please contact us and we'll help you!
 
-- Once inside the cave, save and do a soft-reset (Press <kbd>A</kbd>, <kbd>B</kbd>, <kbd>Start</kbd> and <kbd>Select</kbd> at the same time. You can buffer that input while it's still saving).<img class="right" style="padding: 10px 0px 10px 10px; width: 206px; height: 78px; object-fit: none; object-position: 50% 60%" src="./assets/images/white_forest_rng_manip_igt.webp"></img>
+- Once inside the cave, save and do a soft-reset (Press <kbd>A</kbd>, <kbd>B</kbd>, <kbd>Start</kbd> and <kbd>Select</kbd> at the same time. You can buffer that input while it's still saving).<img class="right" style="padding: 10px 0px 10px 10px; width: 206px; height: 78px; object-fit: none; object-position: 50% 60%" src="./assets/images/white_forest_rng_manip_igt.webp">
 - Set the time to July 11th 2006 10PM (2006/07/11 22:00) to get extra Solls via the Solar Bank interests.
   - _At this point you shouldn't need more Solls, but this is a free occasion to get more so you may as well do it._
 - Buffer the up + right input to start walking as soon as possible. Keep walking in the ↗️ direction until you are past the chest and very close to the wall.
@@ -708,8 +708,6 @@ Enter through the upper ↗️ entrance and keep going upstairs. Then proceed un
 Once outside there will be a moving platform at the end of the path: go on it to board the **2nd ship**.
 
 ### 2nd ship
-
-
 
 ## REWRITING IN PROGRESS
 
