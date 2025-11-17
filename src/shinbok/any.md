@@ -2,10 +2,9 @@
 
 {{#title Boktai 3: Any% Route}}
 
-```admonish danger title="Work in Progress"
-This guide is currently being rewritten because of route improvements.  
-Feel free to contribute on Discord or on the GitHub repository.
-```
+> [!IMPORTANT]
+> This guide is currently being rewritten because of route improvements.  
+> Feel free to contribute on Discord or on the GitHub repository.
 
 ## About this guide
 
@@ -13,7 +12,7 @@ Directions for paths and exits will use ↖️, ↗️, ↙️ and ↘️.
 
 ## Before starting
 
-<img class="right" src="./assets/images/emu_settings.webp"></img>
+<img class="right" src="./assets/images/emu_settings.webp">
 
 When playing on BizHawk, load a ROM, go to GBA > Settings and make sure "Skip BIOS" and "RTC" are set to "False".  
 This requires at least BizHawk v2.6.3 and makes sure that Emulator runs are comparable to console and that you can properly set the time in-game.
@@ -32,11 +31,10 @@ Set the system time to July 28th 2002 at 23:55
 - 2002 年 07 月 28 日
 - 23 時 55 分
 
-```admonish warning title="Start timer"
-Upon confirming settings, start the timer.  
-You now have 2mn47s to reach the name entry screen.
-Failing this will prevent the interest rate manip to work and most likely prevent you from having enough Solls to finish the game.
-```
+> [!WARNING]
+> Upon confirming settings, start the timer.  
+> You now have 2 minutes and 47 seconds to reach the name entry screen.  
+> Failing this will prevent the interest rate manip from working and likely cause you to not have enough Solls to finish the game.
 
 ## Setting up the Boktai 2 password
 
@@ -54,10 +52,9 @@ This password grants +2 VIT, +2 SPR, +2 STRG and the following items:
 
 Use a single character for the player name (saves a few frames each time the name is displayed).
 
-```admonish warning title="Starting delay"
-Wait for the timer to reach 0:00 before confirming and starting a new game.  
-This is extremely important as starting the game at precisely 23:57:47 IGT will allow the interest rate to change to 18% during the prologue after Sabata gets hit by Vanargandr.
-```
+> [!WARNING]
+> Wait for the timer to reach 0:00 before confirming and starting a new game.  
+> This is extremely important as starting the game at precisely 23:57:47 IGT will allow the interest rate to change to 18% during the prologue after Sabata gets hit by Vanargandr.
 
 ## Prologue
 
@@ -504,11 +501,11 @@ Then go back, and after exiting the cave, take the ↘️ direction twice, then 
 
 The goal of this RNG manip is to get a ![icon][burning_headband] Burning Headband and a total of +12 Strength from cards that would otherwise give points to a random stat.
 
-```admonish info title="Video" collapsible=true
-<video class="center" controls muted>
-  <source src="./assets/video/white_forest_manip.webm" type="video/webm" />
-</video>
-```
+> [!NOTE]
+> <details><summary>Click to open video</summary>
+> <video class="center" controls muted>
+>   <source src="./assets/video/white_forest_manip.webm" type="video/webm" />
+> </video></details>
 
 **Many steps during this manip are time sensitive because of how RNG works!**  
 If you struggle with the manip or have further questions, please contact us and we'll help you!

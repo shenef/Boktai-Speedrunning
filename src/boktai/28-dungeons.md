@@ -14,7 +14,7 @@ The icons on the map indicate how you are expected to leave that dungeon.
 Some dungeons simply take longer to leave on foot.
 
 <a href="./assets/images/28D_map.webp"><img src="././assets/images/28D_map_small.webp">
-Click for full size <i class="fa fa-arrows-alt" aria-hidden="true"></i></a>
+Click for full size <i class="fas fa-maximize" aria-hidden="true"></i></a>
 
 ## Run video
 
@@ -138,10 +138,9 @@ It's likely that, even in 28 Dungeons, good item routing could reduce it from th
 - Two Speed Nuts in north trap
 - Carmilla: use 15+1 Grenades
 
-```admonish info
-You need at least 2 Empty Gourds at this point.  
-If you have 3, you can gourd out of Water Demon's Cage.
-```
+> [!NOTE]
+> You need at least 2 Empty Gourds at this point.  
+> If you have 3, you can gourd out of Water Demon's Cage.
 
 ### House of Darkness
 
