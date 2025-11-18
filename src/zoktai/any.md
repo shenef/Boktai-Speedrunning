@@ -10,15 +10,19 @@ Directions for paths and exits will use ↖️, ↗️, ↙️ and ↘️.
 
 ### Terminology
 
-- RNG manip: Short for "Random Number Generator Manipulation". Used to influence the randomness within the game to make things happen that are normally reliant on chance.
-- Soft reset: Pressing A + B + Start & Select at the same time reboots the game. This is useful for RNG manip and can be used to skip dragging coffins back to town.
-- STRG and AGIL: Strength and Agility. The third and fourth status point options. They influence your physical damage, movement speed and defense.
+RNG manip
+  : Short for "Random Number Generator Manipulation". Used to influence the randomness within the game to make things happen that are normally reliant on chance.
+
+Soft reset
+  : Pressing A + B + Start & Select at the same time reboots the game. This is useful for RNG manip and can be used to skip dragging coffins back to town.
+
+STRG and AGIL
+  : Strength and Agility. The third and fourth status point options. They influence your physical damage, movement speed and defense.
 
 ## Exp table
 
-```admonish abstract collapsible=true title="Click to open"
-{{#include assets/tables/any_exp.html}}
-```
+> [!TIP]
+> <details><summary>Click to open</summary>{{#include assets/tables/any_exp.html}}</details>
 
 Imported from [this spreadsheet](https://docs.google.com/spreadsheets/d/18cLbO9WR_D8VkX3yPcxh9rGGoT2BN-L0g_95ECNCRuM/edit?usp=sharing).
 

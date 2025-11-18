@@ -2,13 +2,12 @@
 
 {{#title Boktai 1: Any% Route}}
 
-```admonish danger title="Work in Progress"
-This guide is currently being rewritten because of route improvements.  
-Feel free to contribute on Discord or on the GitHub repository.
-```
+> [!IMPORTANT]
+> This guide is currently being rewritten because of route improvements.  
+> Feel free to contribute on Discord or on the GitHub repository.
 
 <a href="./assets/images/any_map.webp"><img src="././assets/images/any_map_small.webp">
-Click for full size <i class="fa fa-arrows-alt" aria-hidden="true"></i></a>
+Click for full size <i class="fas fa-maximize" aria-hidden="true"></i></a>
 
 ## About this Guide
 
@@ -29,8 +28,11 @@ For purifications always use the highest possible solar gauge level.
 
 ### Terminology
 
-- **Stun**: Shooting an enemy in the back with a sufficiently strong frame will cause it to be stunned for several seconds. Stunned enemies have no hitbox, and can't see you.
-- **Detection**: An enemy detects you if a **red** exclamation mark appears above the enemy. Being detected increases the "being found" counter on the dungeons result screen, which reduces your dungeon rank and therefore the reward(s) you receive after completing the dungeon. White or blue exclamation marks do not count as detections. Enemies in traps never detect you.
+Stun
+  : Shooting an enemy in the back with a sufficiently strong frame will cause it to be stunned for several seconds. Stunned enemies have no hitbox, and can't see you.
+
+Detection
+  : An enemy detects you if a **red** exclamation mark appears above the enemy. Being detected increases the "being found" counter on the dungeons result screen, which reduces your dungeon rank and therefore the reward(s) you receive after completing the dungeon. White or blue exclamation marks do not count as detections. Enemies in traps never detect you.
 
 ### General instructions
 
@@ -55,7 +57,7 @@ In the case of BizHawk, you should use _at least_ version 2.6.3 since that adds 
 - mGBA:
   - TODO: instructions on how to set up empty battery
 
-<img class="right" src="./assets/images/initial_time.webp"></img>
+<img class="right" src="./assets/images/initial_time.webp">
 
 Then in-game, set the Date and Time to
 
@@ -247,11 +249,11 @@ Flip the lever and go back to enter the next puzzle where you must place two Bok
 4. Stand on the upper pressure plate and knock on the pillar to attract the upper Bok.
 5. Hide and wait for the door to open.
 
-```admonish info title="Video" collapsible=true
-<video controls muted>
-  <source src="./assets/video/bloodrust_puzzle.webm" type="video/webm" />
-</video>
-```
+> [!NOTE]
+> <details><summary>Click to open video</summary>
+> <video controls muted>
+>   <source src="./assets/video/bloodrust_puzzle.webm" type="video/webm" />
+> </video></details>
 
 This requires some practice, if you're not fast enough then the upper Bok will spot you. The strategy works without a Speed Nut active.  
 <span class="safety">Backup strat:</span> Use Knight Frame + <span class="sol">Sol</span> Lens to stun the Boks, and <span class="luna">Luna</span> Lens to knock them around.
@@ -275,11 +277,11 @@ For the Count fight increase Sun to ![](./assets/images/8.webp) 8, then keep it 
 5. Wait for the count to start moving again, and run to the south of the skylight.
 6. Wait for the count to start his dash attack, and run to the north of the skylight again. If done correctly, the count will dash into the skylight and die (+50 EXP).
 
-```admonish info title="Video" collapsible=true
-<video controls muted>
-  <source src="./assets/video/bloodrust_boss.webm" type="video/webm" />
-</video>
-```
+> [!NOTE]
+> <details><summary>Click to open video</summary>
+> <video controls muted>
+>   <source src="./assets/video/bloodrust_boss.webm" type="video/webm" />
+> </video></details>
 
 ![](./assets/images/any_bloodrust_16.webp)
 ![](./assets/images/any_bloodrust_17.webp)
@@ -306,9 +308,8 @@ Complete the purification (+50 EXP), which should give you an S-rank. Open the t
 
 Talk to Lita, then plant a single Green Apple (<kbd>A</kbd>, <kbd>start</kbd>, <kbd>A</kbd>).
 
-```admonish info
-If you have gotten a random Gold Apple drop, you can instead plant a Gold Apple + either a Green or a Red Apple. This skips a "The solar tree is calling..." text box after Firetop Mountain.
-```
+> [!NOTE]
+> If you have gotten a random Gold Apple drop, you can instead plant a Gold Apple + either a Green or a Red Apple. This skips a "The solar tree is calling..." text box after Firetop Mountain.
 
 ## Deserted Arsenal &nbsp; ![](./assets/images/0.webp)
 
@@ -353,11 +354,11 @@ Start by equipping the Double Battery and the Spear Frame, then kill the Mummies
 3. Use the Spear Frame to push them towards the north rock.
 4. Now you just shoot them until they all die. Stay close to the mummies because the damage output of the Spear Frame decreases with distance.
 
-```admonish info title="Video" collapsible=true
-<video controls muted>
-  <source src="./assets/video/crumbling_mine_trap.webm" type="video/webm" />
-</video>
-```
+> [!NOTE]
+> <details><summary>Click to open video</summary>
+> <video controls muted>
+>   <source src="./assets/video/crumbling_mine_trap.webm" type="video/webm" />
+> </video></details>
 
 ![](./assets/images/any_crumbling_mine_2.webp)
 ![](./assets/images/any_crumbling_mine_3.webp)

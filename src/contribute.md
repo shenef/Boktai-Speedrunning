@@ -126,7 +126,7 @@ Twitch:
 You can use javascript within a book, which allows for some interactivity.  
 Below is a simple example but theoretically that allows for
 
-- conditional Guides that show/hide strats based user input
+- conditional Guides that show/hide strats based on user input
 - inlined tools like calculators, RNG manip helpers, ...
 - etc.
 
@@ -140,48 +140,82 @@ Then press this
 </button>
 to show it as a popup.
 
-### Admonishments
+### Definition lists
 
-These are styled messages that can have an icon, a color, a title and can be collapsible.  
-Documentation: <https://tommilligan.github.io/mdbook-admonish/>  
-Some examples:
+Definition lists can be used for things like glossary entries. The term is listed on a line by itself, followed by one or more definitions. Each definition must begin with a `:` (after 0-2 spaces).
 
-```admonish info
-A beautifully styled message.
+Example:
+
+```md
+term A
+  : This is a definition of term A. Text
+    can span multiple lines.
+
+term B
+  : This is a definition of term B.
+  : This has more than one definition.
 ```
 
-```admonish warning title="Data loss"
-The following steps can lead to irrecoverable data corruption.
+This will render as:
+
+term A
+  : This is a definition of term A. Text
+    can span multiple lines.
+
+term B
+  : This is a definition of term B.
+  : This has more than one definition.
+
+Terms are clickable just like headers, which will set the browser's URL to point directly to that term.
+
+### Admonitions
+
+An admonition is a special type of callout or notice block used to highlight important information. It is written as a blockquote with a special tag on the first line.
+
+```md
+> [!NOTE]
+> General information or additional context.
+
+> [!TIP]
+> A helpful suggestion or best practice.
+
+> [!IMPORTANT]
+> Key information that shouldn't be missed.
+
+> [!WARNING]
+> Critical information that highlights a potential risk.
+
+> [!CAUTION]
+> Information about potential issues that require caution.
 ```
 
-```admonish success title=""
-Box without a title.
-```
+These will render as:
 
-```admonish tip title="_Markdown_ and <i>HTML</i>"
-Markdown *and* HTML `can` be used in the <span style="color: hotpink">inner content</span> and title.
-```
-<!-- markdownlint-disable-next-line code-fence-style -->
-~~~admonish tip
-Runnable rust code within an admonishment:
-```rust
-fn main() {
-  println!("Hello, World!");
-}
-```
-~~~
+> [!NOTE]
+> General information or additional context.
 
-Collapsible:
+---
 
-```admonish collapsible=true
-Collapsible.
-```
+> [!TIP]
+> A helpful suggestion or best practice.
 
-Collapsible with no title:
+---
 
-```admonish success title="" collapsible=true
-Collapsible and no title
-```
+> [!IMPORTANT]
+> Key information that shouldn't be missed.
+
+---
+
+> [!WARNING]
+> Critical information that highlights a potential risk.
+
+---
+
+> [!CAUTION]
+> Information about potential issues that require caution.
+
+This feature is enabled by default.
+To disable it, see the [`output.html.admonitions`] config option.
 
 ### Table of Contents
 

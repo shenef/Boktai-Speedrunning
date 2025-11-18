@@ -2,10 +2,9 @@
 
 {{#title Boktai 3: Any% Route}}
 
-```admonish danger title="Work in Progress"
-This guide is currently being rewritten because of route improvements.  
-Feel free to contribute on Discord or on the GitHub repository.
-```
+> [!IMPORTANT]
+> This guide is currently being rewritten because of route improvements.  
+> Feel free to contribute on Discord or on the GitHub repository.
 
 ## About this guide
 
@@ -13,7 +12,7 @@ Directions for paths and exits will use ↖️, ↗️, ↙️ and ↘️.
 
 ## Before starting
 
-<img class="right" src="./assets/images/emu_settings.webp"></img>
+<img class="right" src="./assets/images/emu_settings.webp">
 
 When playing on BizHawk, load a ROM, go to GBA > Settings and make sure "Skip BIOS" and "RTC" are set to "False".  
 This requires at least BizHawk v2.6.3 and makes sure that Emulator runs are comparable to console and that you can properly set the time in-game.
@@ -25,18 +24,17 @@ By then changing the time via the Clock Tower at that point, we'll go from ~1400
 
 Add a -2mn47s100ms delay to your timer (AKA LiveSplit).  
 _Note: depending on your setup, you might have to adjust this delay._  
-<img class="right" src="./assets/images/livesplit_delay.webp"></img>  
-<img class="right" style="padding: 60px 0px 10px 10px; width: 206px; height: 78px; object-fit: none; object-position: 50% 60%" src="./assets/images/starting_igt.webp"></img>  
+<img class="right" src="./assets/images/livesplit_delay.webp">  
+<img class="right" style="padding: 60px 0px 10px 10px; width: 206px; height: 78px; object-fit: none; object-position: 50% 60%" src="./assets/images/starting_igt.webp">  
 Set the system time to July 28th 2002 at 23:55
 
 - 2002 年 07 月 28 日
 - 23 時 55 分
 
-```admonish warning title="Start timer"
-Upon confirming settings, start the timer.  
-You now have 2mn47s to reach the name entry screen.
-Failing this will prevent the interest rate manip to work and most likely prevent you from having enough Solls to finish the game.
-```
+> [!WARNING]
+> Upon confirming settings, start the timer.  
+> You now have 2 minutes and 47 seconds to reach the name entry screen.  
+> Failing this will prevent the interest rate manip from working and likely cause you to not have enough Solls to finish the game.
 
 ## Setting up the Boktai 2 password
 
@@ -54,10 +52,9 @@ This password grants +2 VIT, +2 SPR, +2 STRG and the following items:
 
 Use a single character for the player name (saves a few frames each time the name is displayed).
 
-```admonish warning title="Starting delay"
-Wait for the timer to reach 0:00 before confirming and starting a new game.  
-This is extremely important as starting the game at precisely 23:57:47 IGT will allow the interest rate to change to 18% during the prologue after Sabata gets hit by Vanargandr.
-```
+> [!WARNING]
+> Wait for the timer to reach 0:00 before confirming and starting a new game.  
+> This is extremely important as starting the game at precisely 23:57:47 IGT will allow the interest rate to change to 18% during the prologue after Sabata gets hit by Vanargandr.
 
 ## Prologue
 
@@ -141,7 +138,7 @@ _This is affected by the interest rate manip done when starting a new game._
 - Talk to Ennio again and change the time to July 21st 2005 10PM. Minutes aren't important so you can keep these.
   - 2005 年 07 月 21 日
   - 22 時 XX 分
-<img class="right" style="padding: 10px 0px 10px 10px; width: 206px; height: 78px; object-fit: none; object-position: 50% 60%" src="./assets/images/clock_tower_igt_san_miguel.webp"></img>
+<img class="right" style="padding: 10px 0px 10px 10px; width: 206px; height: 78px; object-fit: none; object-position: 50% 60%" src="./assets/images/clock_tower_igt_san_miguel.webp">
 - Leave the Clock Tower and go to the garage.
 - _You should now have over 7900 Solls and be able to buy all the necessary items to finish the game._
 
@@ -504,16 +501,16 @@ Then go back, and after exiting the cave, take the ↘️ direction twice, then 
 
 The goal of this RNG manip is to get a ![icon][burning_headband] Burning Headband and a total of +12 Strength from cards that would otherwise give points to a random stat.
 
-```admonish info title="Video" collapsible=true
-<video class="center" controls muted>
-  <source src="./assets/video/white_forest_manip.webm" type="video/webm" />
-</video>
-```
+> [!NOTE]
+> <details><summary>Click to open video</summary>
+> <video class="center" controls muted>
+>   <source src="./assets/video/white_forest_manip.webm" type="video/webm" />
+> </video></details>
 
 **Many steps during this manip are time sensitive because of how RNG works!**  
 If you struggle with the manip or have further questions, please contact us and we'll help you!
 
-- Once inside the cave, save and do a soft-reset (Press <kbd>A</kbd>, <kbd>B</kbd>, <kbd>Start</kbd> and <kbd>Select</kbd> at the same time. You can buffer that input while it's still saving).<img class="right" style="padding: 10px 0px 10px 10px; width: 206px; height: 78px; object-fit: none; object-position: 50% 60%" src="./assets/images/white_forest_rng_manip_igt.webp"></img>
+- Once inside the cave, save and do a soft-reset (Press <kbd>A</kbd>, <kbd>B</kbd>, <kbd>Start</kbd> and <kbd>Select</kbd> at the same time. You can buffer that input while it's still saving).<img class="right" style="padding: 10px 0px 10px 10px; width: 206px; height: 78px; object-fit: none; object-position: 50% 60%" src="./assets/images/white_forest_rng_manip_igt.webp">
 - Set the time to July 11th 2006 10PM (2006/07/11 22:00) to get extra Solls via the Solar Bank interests.
   - _At this point you shouldn't need more Solls, but this is a free occasion to get more so you may as well do it._
 - Buffer the up + right input to start walking as soon as possible. Keep walking in the ↗️ direction until you are past the chest and very close to the wall.
@@ -711,8 +708,6 @@ Enter through the upper ↗️ entrance and keep going upstairs. Then proceed un
 Once outside there will be a moving platform at the end of the path: go on it to board the **2nd ship**.
 
 ### 2nd ship
-
-
 
 ## REWRITING IN PROGRESS
 

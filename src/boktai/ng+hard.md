@@ -1,11 +1,10 @@
-# NG+ Hard
+# Boktai 1: NG+ Hard
 
 {{#title Boktai 1: NG+ Hard Route}}
 
-```admonish danger title="Work in Progress"
-This guide is currently very much a Work in Progress and is therefore far from optimized.  
-Feel free to contribute on Discord or on the GitHub repository.
-```
+> [!IMPORTANT]
+> This guide is currently very much a Work in Progress and is therefore far from optimized.  
+> Feel free to contribute on Discord or on the GitHub repository.
 
 ## Setup
 
