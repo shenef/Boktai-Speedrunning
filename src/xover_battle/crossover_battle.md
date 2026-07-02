@@ -10,7 +10,8 @@
 - Mega Man Battle Network 5: Team Protoman
 - Mega Man Battle Network 5: Team Colonel
 
-_Note: Games must be of the same region (Japan, USA or Europe)._
+> [!NOTE]
+> Games must be of the same region (Japan, USA or Europe).
 
 ### Version 2
 
@@ -18,7 +19,8 @@ _Note: Games must be of the same region (Japan, USA or Europe)._
 - Rockman.EXE 6: Dennōjū Gureiga / Mega Man Battle Network 6: Cybeast Gregar
 - Rockman.EXE 6: Dennōjū Faruzā / Mega Man Battle Network 6: Cybeast Falzar
 
-_Note: Since Boktai 3 was only released in Japan, only the japanese version of MMBN 6 is supported._
+> [!NOTE]
+> Since Boktai 3 was only released in Japan, only the japanese version of MMBN 6 is supported.
 
 ## Requirements
 
@@ -27,7 +29,8 @@ _Note: Since Boktai 3 was only released in Japan, only the japanese version of M
 - 1 copy of Boktai 2 or 3 with a save file
 - 1 copy of MMBN 5 or Rockman.EXE 6
 
-_Note: A save file for MMBN 5 or Rockman.EXE 6 is not required, however data will be lost upon resetting the game if there is none._
+> [!NOTE]
+> A save file for MMBN 5 or Rockman.EXE 6 is not required, however data will be lost upon resetting the game if there is none.
 
 ### Console
 
@@ -42,7 +45,8 @@ _Note: A save file for MMBN 5 or Rockman.EXE 6 is not required, however data wil
 
 ### Connecting via Retroarch
 
-_Note: This step is not needed if you're playing on real hardware._
+> [!NOTE]
+> This step is not needed if you're playing on real hardware.
 
 #### 1. Enabling the gbSP core
 
@@ -59,7 +63,8 @@ Now go to _Main Menu -> Load Core_ and select the gbSP core.
 ![Retroarch Main Menu - Load Core](./assets/images/retroarch_main_menu_core_to_use.png)
 ![Retroarch Load Core menu](./assets/images/retroarch_load_core.png)
 
-**Make sure all players have the same version of the core!**
+> [!IMPORTANT]
+> Make sure all players have the same version of the core!
 
 ##### If the core isn't visible
 
@@ -92,7 +97,8 @@ _Sharing BIOS files is illegal and you will have to find one yourself._
 Put the BIOS file in the following folder:  
 _Your Retroarch repository -> system_
 
-**Make sure the file is named gba_bios.bin, Retroarch is very finnicky about this.**
+> [!IMPORTANT]
+> Make sure the file is named gba_bios.bin, Retroarch is very finnicky about this.
 
 If you've done everything correctly, the BIOS file should be detected and shown in _Main Menu -> Settings -> Core -> Manage Core -> Nintendo - Game Boy Advance (gbSP) -> Firmware section_.
 ![Retroarch BIOS setting](./assets/images/retroarch_bios_setting.png)
@@ -151,7 +157,8 @@ Look for the player you want to join and click on it. Input the password and loa
 The Boktai side has to create a session for Crossover Battle first.
 This can be done by accessing the Crossover Battle lobby (1st option at the top) and waiting.
 
-_Note: Profile for Crossover Battle will use the save file name ("Django" in this example)._
+> [!NOTE]
+> Profile for Crossover Battle will use the save file name ("Django" in this example).
 ![Bok 2 Empty lobby](./assets/images/bok2_awaiting_connection.png)
 
 #### 2. Joining a lobby
@@ -176,7 +183,8 @@ The Battle Network side can choose a Boktai lobby and start a match by pressing 
 The Boktai side gets notified of a Battle Network opponent joining the lobby.
 Upon pressing A to accept the match, Crossover Battle will begin.
 
-_Note: The Catchphrase of the Battle Network player will be shown ("Pizza" here)._
+> [!NOTE]
+> The Catchphrase of the Battle Network player will be shown ("Pizza" here).
 ![Bok 2 Accepting match](./assets/images/bok2_battle_ready.png)
 ![Bok 2 Match begins](./assets/images/bok2_battle_begins.png)
 
@@ -214,7 +222,8 @@ A:  If you can't connect, try switching who's Host and who's Client.
 
 A:  Try refreshing the list in-game, restarting the game or switching who's Host and who's Client.
 
-_Note that there can be a slight delay before you see a lobby depending on where each player lives._
+> [!NOTE]
+> There can be a slight delay before you see a lobby depending on where each player lives.
 
 ### Q: How many players can join as Client?
 
