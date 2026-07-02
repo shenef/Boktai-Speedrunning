@@ -22,6 +22,7 @@
   - [Boktai 2](./resources/zoktai.md)
   - [Boktai 3](./resources/shinbok.md)
   - [Lunar Knights](./resources/boktaiDS.md)
+  - [Crossover Battle](./xover_battle/crossover_battle.md)
 
 ---
 
