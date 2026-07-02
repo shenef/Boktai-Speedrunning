@@ -167,7 +167,7 @@ The Battle Network side will detect Boktai lobbies via its own Crossover Battle 
 
 **If a profile wasn't created yet, the Battle Network side will be forced to create one first.**
 
-Profiles must have a Name and a Catchphrase.
+Profiles must have a Name and a Comment.
 ![EXE 6 Profile creation menu](./assets/images/bn6_profile_creation.png)
 
 Once a profile has been created, accessing the Lobbies listing will be possible.
@@ -184,7 +184,7 @@ The Boktai side gets notified of a Battle Network opponent joining the lobby.
 Upon pressing A to accept the match, Crossover Battle will begin.
 
 > [!NOTE]
-> The Catchphrase of the Battle Network player will be shown ("Pizza" here).
+> The Comment of the Battle Network player will be shown ("Pizza" here).
 ![Bok 2 Accepting match](./assets/images/bok2_battle_ready.png)
 ![Bok 2 Match begins](./assets/images/bok2_battle_begins.png)
 
